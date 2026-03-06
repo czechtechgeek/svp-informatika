@@ -2,6 +2,52 @@
 
 **Cíl:** Přechod od uživatelského ovládání k pochopení principů dat a algoritmů.
 
+---
+
+## 📖 Jak číst přípravu hodiny
+
+Každý soubor `tyden-XX.md` má pevnou strukturu. Níže je vysvětlení, co v každé části hledat:
+
+### Záhlaví sekce metodického postupu
+
+Každý krok hodiny je označen vzorcem:
+
+```
+### [číslo]. [Název aktivity] ([čas] min) — [typ]
+```
+
+**Typy aktivit** — ikony za pomlčkou říkají, co žáci v daném kroku dělají:
+
+| Označení | Popis |
+|----------|-------|
+| `— bez počítače` | Fyzická nebo skupinová aktivita bez technologie — pohyb, diskuse, papír, kartičky |
+| `— PC` | Žáci pracují individuálně na počítači |
+| `— PC nebo papír` | Aktivitu lze realizovat na PC i offline (flexibilní) |
+| `— tabule` | Učitel demonstruje celé třídě, žáci sledují a diskutují |
+| `— Ozobot` | Aktivita s robotem Ozobot |
+| `— diskuse` | Řízená třídní diskuse bez konkrétního produktu |
+
+### Struktura každého souboru
+
+```
+🎯 Cíle hodiny       → Co by měl žák po hodině umět (měřitelné výstupy)
+💡 Metodický postup  → Krok za krokem s časováním (celkem ~45 min)
+📂 Podklady          → Odkazy na nástroje, videa, pracovní listy
+💡 Tip pro učitele   → Praktická rada z praxe (zelený rámeček)
+```
+
+### Doporučený postup přípravy
+
+1. **Přečtěte cíle** — ujistěte se, že tématu rozumíte
+2. **Projděte metodický postup** — odhadněte, kde třída bude potřebovat více času
+3. **Připravte podklady** — stáhněte/otevřete weby předem, vytiskněte pracovní listy
+4. **Přizpůsobte** — každá třída je jiná; označení časů jsou orientační, ne závazná
+
+!!! info "Spirálový model"
+    Témata z 6. ročníku se vrátí v 7.–9. ročníku na vyšší úrovni. Nemusíte probrat vše do hloubky — důležité je, aby žáci téma zažili a rozuměli principu.
+
+---
+
 ## 1. Pololetí: Data a základy logiky
 
 | Týden | Téma | Odkaz na přípravu |

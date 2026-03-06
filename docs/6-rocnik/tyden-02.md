@@ -1,4 +1,11 @@
-﻿# Informace vs. Data: Jak lidé předávají zprávy
+# Informace vs. Data: Jak lidé předávají zprávy
+
+## 🎯 Vazba na RVP ZV (Informatika)
+- **Oblast:** Data, informace a modelování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
+
+## 💡 Metodický tip pro pátky
+Pokud máte v pátek "línou" hodinu, zkuste aktivitu **"Emoji příběh"**. Žák napíše krátkou informaci (větu) pouze pomocí emoji (data). Ostatní se pokoušejí informaci interpretovat. Ukáže se, jak moc záleží na společném kontextu, aby z dat vznikla správná informace.
 
 ## 🎯 Cíle hodiny
 
@@ -9,7 +16,7 @@
 
 ## 💡 Metodický postup
 
-### 1. Hra „Telefon" (10 min) — unplugged
+### 1. Hra „Telefon" (10 min) — bez počítače
 
 Klasická hra s šeptanou zprávou — žáci si šeptají větu od prvního k poslednímu žákovi v řadě. Zpráva nesmí být příliš krátká ani příliš dlouhá (doporučení: „Červená kočka sedí na modrém stromě v parku u školy").
 
@@ -57,8 +64,8 @@ Učitel shrne: **Data = surová čísla a fakta. Informace = data v kontextu s v
 
 ## 📂 Podklady
 
-- **Interaktivní aktivita:** [CS Unplugged — Information](https://csunplugged.org/en/topics/kidbots/) — aktivity bez počítače o předávání informací
-- **Video (EN, titulky):** [What is the difference between data and information?](https://www.youtube.com/watch?v=tzBZxBJMRVY) — krátké vysvětlení (~3 min)
+- **Aktivity bez počítače (CZ):** [imysleni.cz](https://imysleni.cz) — český portál pro informatické myšlení (MŠMT); sekce „Data, informace a modely" — úlohy pro ZŠ
+- **Video (CZ):** [ČT edu — Informatika](https://edu.ceskatelevize.cz/predmet/informatika) — hledejte „data a informace" nebo „digitální gramotnost"
 - **Pracovní list:** Připravte tabulku 10 položek (data/informace třídění) — lze sdílet přes Google Classroom nebo vytisknout
 - **Rozšíření pro rychlé žáky:** Vymyslet vlastní příklad „zprávy, která se může při přenosu zkreslit" (ústní → písemná → obrázek)
 

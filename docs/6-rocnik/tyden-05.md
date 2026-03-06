@@ -7,6 +7,14 @@
 - Žák se aktivně zapojí do „živého binárního kódu" s celou třídou
 - Žák uvede příklady, kde v běžném životě funguje logika ano/ne (0/1)
 
+## 🎯 Vazba na RVP ZV (Informatika)
+- **Oblast:** Data, informace a modelování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
+
+## 💡 Metodický tip pro pátky
+Pro odlehčení na konci hodiny ukažte žákům **"Binární hodiny"** (stačí vyhledat online "Binary clock"). Nechte je společně dekódovat, kolik je právě hodin. Je to skvělý trénink rychlého převodu z hlavy a žáci vidí praktické (i když netradiční) využití binárního zápisu v reálném čase.
+
 ## 💡 Metodický postup
 
 ### 1. Úvod: Svět bez čísel 2–9 (5 min) — diskuse
@@ -15,7 +23,7 @@ Učitel se zeptá: „Co kdybychom mohli používat jen dvě čísla — 0 a 1?"
 
 Vysvětlení: počítač je elektrický — elektřina buď teče (1) nebo neteče (0). Z milionů takových „žárovek" se skládají všechna čísla, texty a obrázky.
 
-### 2. Aktivita: Živý binární kód (15 min) — unplugged
+### 2. Aktivita: Živý binární kód (15 min) — bez počítače
 
 Učitel rozdá 5 dobrovolníkům kartičky s hodnotami: **16 | 8 | 4 | 2 | 1** (mocniny 2). Stát = 1, Sedět = 0.
 
@@ -31,7 +39,7 @@ Třída kontroluje výsledek. Po 5–6 kolech se dobrovolníci vystřídají.
 
 ### 3. Aktivita: Binární převody na PC (15 min) — PC
 
-Žáci otevřou [CS Unplugged — Binary Numbers](https://csunplugged.org/en/topics/binary-numbers/) nebo kalkulačku v OS (Zobrazit → Programátorský režim → BIN).
+Žáci otevřou [umimeinformatiku.cz](https://www.umimeinformatiku.cz) (sekce „Binární čísla") nebo kalkulačku v OS (Zobrazit → Programátorský režim → BIN).
 
 Úkoly:
 - Zapište čísla 5, 10, 15, 21 v binárním formátu
@@ -46,11 +54,10 @@ Učitel ukáže Micro:bit — každý LED pixel je 1 bit (svítí/nesvítí). T�
 
 ## 📂 Podklady
 
-- **Interaktivní lekce:** [CS Unplugged — Binary Numbers](https://csunplugged.org/en/topics/binary-numbers/) — kompletní aktivita s pracovními listy (EN)
-- **Online binární kalkulačka:** [rapidtables.com/convert/number/decimal-to-binary](https://www.rapidtables.com/convert/number/decimal-to-binary.html)
-- **Windows kalkulačka:** Start → Kalkulačka → Zobrazit → Programátor → přepnout BIN/DEC
-- **Micro:bit rozšíření:** Naprogramujte v [MakeCode](https://makecode.microbit.org) zobrazení čísla v binárním formátu na 5 LED diodách
-- **Video:** [Binary explained in 01100110 seconds — Computerphile](https://www.youtube.com/watch?v=M41M9ATm49M) (~5 min, EN)
+- **Cvičení na binární čísla (CZ):** [umimeinformatiku.cz](https://www.umimeinformatiku.cz) — interaktivní cvičení na binární číselnou soustavu v češtině
+- **Windows kalkulačka:** Start → Kalkulačka → Zobrazit → Programátor → přepnout BIN/DEC (zabudovaná v každém Windows)
+- **Micro:bit rozšíření:** Naprogramujte v [MakeCode](https://makecode.microbit.org) zobrazení čísla v binárním formátu na 5 LED diodách — MakeCode má české UI
+- **Video (CZ):** [ČT edu — Jak funguje počítač](https://edu.ceskatelevize.cz/predmet/informatika) — hledejte „binární čísla" nebo „jak počítač počítá"
 - **Kartičky:** Připravte sadu 5 kartiček s hodnotami 16, 8, 4, 2, 1 pro aktivitu (laminovat pro opakované použití)
 
 !!! tip "Tip pro učitele"

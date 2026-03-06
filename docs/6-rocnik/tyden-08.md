@@ -7,6 +7,14 @@
 - Žák ovládá Ozobota pomocí barevných kódů nakreslených na papíře
 - Žák pochopí, že i malá nepřesnost v instrukci způsobí špatný výsledek
 
+## 🎯 Vazba na RVP ZV (Informatika)
+- **Oblast:** Algoritmizace a programování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák zapíše algoritmus v programovacím jazyce</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování technologií</span></div>
+
+## 💡 Metodický tip pro pátky
+Páteční hodiny s roboty bývají hlučné a nadšené. Využijte to pro **"Robotí závody"**. Vytvořte na zemi velký labyrint z lepicí pásky a nechte skupiny soutěžit, čí Ozobot projde trasu nejrychleji s využitím "turbo" kódů. Motivuje to žáky k preciznímu kreslení a rychlému ladění chyb.
+
 ## 💡 Metodický postup
 
 ### 1. Úvod: Roboti v praxi (5 min)
@@ -51,8 +59,8 @@ Diskuse:
 
 - **Ozobot barevné kódy:** [ozobot.com/app-and-color-codes](https://ozobot.com/stem-education/color-codes) — kompletní přehled kódů ke stažení (PDF)
 - **Ozobot online editor:** [ozoblockly.com](https://ozoblockly.com) — blokový programovací editor pro Ozobota
-- **Alternativní aktivita:** [Code.org — Maze puzzles](https://studio.code.org/s/course1) — online labyrint pro programování bez robota
-- **Video — Ozobot tutorial:** [youtube.com/watch?v=kHEAoY…](https://www.youtube.com/results?search_query=ozobot+tutorial+for+kids) — hledejte „Ozobot beginner tutorial"
+- **Alternativní aktivita:** [Code.org — Labyrint](https://studio.code.org/s/course1) — online labyrint pro programování bez robota (nastavte jazyk „Čeština" v menu vpravo nahoře)
+- **Video — Ozobot tutorial (CZ):** Na YouTube vyhledejte „Ozobot návod" nebo „Ozobot tutorial česky" — existují české i slovenské návody
 - **Pracovní listy:** Vytiskněte šablony drah pro Ozobota — jednoduchý labyrint a čtvercová dráha
 
 !!! tip "Tip pro učitele"

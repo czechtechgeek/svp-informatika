@@ -7,6 +7,14 @@
 - Žák pochopí, že počítač ukládá obrázek jako čísla, ne jako „kresbu"
 - Žák vytvoří vlastní pixel-art v online editoru a exportuje výsledek
 
+## 🎯 Vazba na RVP ZV (Informatika)
+- Oblast: Data, informace a modelování
+- Výstup: I-9-1-01Žák modeluje a simuluje procesy a systémy
+- Výstup: I-9-1-02Žák interpretuje data a vyvozuje z nich závěry
+
+## 💡 Metodický tip pro pátky
+Pokud máte ve třídě Micro:bity, nechte žáky v závěru hodiny "rozsvítit" jejich pixel-art na displeji Micro:bitu. Je to pro ně silný moment, kdy vidí, že kód (čísla v programu) se okamžitě mění ve fyzické světlo (pixely).
+
 ## 💡 Metodický postup
 
 ### 1. Úvod: Co je pixel? (5 min) — interaktivní tabule
@@ -17,7 +25,7 @@ Učitel přiblíží na interaktivní tabuli fotografii nebo obrázek z internet
 
 Učitel vysvětlí: počítač obrázek nevidí jako „kresbu" — vidí mřížku čísel. Každé číslo = jedna barva jednoho pixelu.
 
-### 2. Aktivita: Pixel-art na papíře (20 min) — unplugged
+### 2. Aktivita: Pixel-art na papíře (20 min) — bez počítače
 
 Každý žák dostane čtverečkovaný papír (minimálně 10×10 čtverečků). Úkol:
 
@@ -50,8 +58,8 @@ Učitel ukáže na tabuli příklad: černobílý obrázek 4×4 pixely → zapí
 
 - **Pixel-art editor:** [Piskel.com](https://www.piskelapp.com) — online, zdarma, bez registrace
 - **Alternativa:** [Make8BitArt.com](https://make8bitart.com) — jednodušší rozhraní pro začátečníky
-- **CS Unplugged — Image Representation:** [csunplugged.org](https://csunplugged.org/en/topics/image-representation/) — kompletní lekce s pracovními listy ke stažení (EN)
-- **Čtverečkovaný papír:** Vytiskněte mřížku 10×10 — generátor na [incompetech.com/graphpaper](https://incompetech.com/graphpaper/)
+- **Kódování obrazu (CZ):** [imysleni.cz](https://imysleni.cz) — sekce „Reprezentace dat", aktivity o kódování obrazu pro ZŠ v češtině
+- **Čtverečkovaný papír:** Vytvořte v MS Word (Vložit → Tabulka → 10 sloupců × 10 řádků, zmenšit buňky na čtverce) nebo stáhněte PDF s vyhledávačem „čtverečkovaný papír A4 PDF"
 - **Rozšíření — Micro:bit:** Žáci naprogramují vlastní ikonu na 5×5 LED matici v [MakeCode](https://makecode.microbit.org) — propojení pixel-artu s fyzickým světem
 
 !!! tip "Tip pro učitele"

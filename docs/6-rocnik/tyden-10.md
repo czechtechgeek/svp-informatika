@@ -7,6 +7,14 @@
 - Žák naprogramuje postavu, která reaguje na klik myší a stisk klávesy
 - Žák vytvoří animaci s více sprity reagujícími na různé události
 
+## 🎯 Vazba na RVP ZV (Informatika)
+- **Oblast:** Algoritmizace a programování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák zapíše algoritmus v programovacím jazyce</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy</span></div>
+
+## 💡 Metodický tip pro pátky
+Pátky v 6. třídě jsou ideální pro **"Chaos Challenge"**. Dejte žákům 3 minuty na to, aby do jednoho projektu přidali co nejvíce postav, a každé z nich dali událost `Po stisknutí libovolné klávesy` s jiným zvukem nebo pohybem. Po spuštění a náhodném mačkání klávesnice vznikne "digitální orchestr/chaos", který skvěle demonstruje paralelní běh skriptů a okamžitou reakci na událost.
+
 ## 💡 Metodický postup
 
 ### 1. Úvod: Co je událost? (5 min)
@@ -59,9 +67,9 @@ Výsledek: Duch se teleportuje při startu, změní kostým při kliknutí, sko�
 ## 📂 Podklady
 
 - **Scratch projekt k inspiraci:** [scratch.mit.edu/projects/explore](https://scratch.mit.edu/explore/projects/all?q=ghost+react) — hledejte „ghost interactive"
-- **Scratch wiki — Events:** [en.scratch-wiki.info/wiki/Events_Blocks](https://en.scratch-wiki.info/wiki/Events_Blocks) — dokumentace bloků Události
-- **Scratch karty — Activity Cards:** [scratch.mit.edu/ideas](https://scratch.mit.edu/ideas) → Activity Cards — sada 10 vytisknutelných karet s projekty
-- **Video tutorial:** „Scratch Events Tutorial" na YouTube — hledejte podle názvu
+- **Scratch wiki (CZ):** [cs.scratch-wiki.info](https://cs.scratch-wiki.info) — česká dokumentace Scratch bloků; hledejte „Bloky Události"
+- **Scratch karty — Activity Cards:** [scratch.mit.edu/ideas](https://scratch.mit.edu/ideas) → Activity Cards — sada 10 vytisknutelných karet s projekty (dostupné v češtině)
+- **Video tutorial (CZ):** Na YouTube vyhledejte „Scratch události tutoriál" nebo „Scratch programování pro děti česky"
 - **Rozšíření:** Přidejte více postav, každá reaguje na jinou klávesu — základ budoucí hry
 
 !!! tip "Tip pro učitele"
