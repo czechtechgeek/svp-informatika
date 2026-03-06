@@ -1,19 +1,19 @@
 ﻿# Scratch III: Jednoduché cykly
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Algoritmizace a programování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák používá proměnné, větvení a cykly</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy</span></div>
+
+## 💬 Tip pro pátek
+Pátky v 6. třídě jsou ideální pro **"Nekonečnou diskotéku"**. Nechte žáky do cyklu `opakuj dokola` přidat blok `změň efekt [barva] o [25]`. Celá třída pak má na monitorech barevně blikající sprity. Je to vizuálně atraktivní důkaz toho, že cyklus běží neustále a mění vlastnosti objektu v reálném čase.
+
 ## 🎯 Cíle hodiny
 
 - Žák vysvětlí, proč se v programování používají cykly (opakování)
 - Žák použije blok `opakuj dokola` (forever) pro vytvoření nepřetržité animace
 - Žák použije blok `opakuj X-krát` pro ohraničené opakování
 - Žák porovná kód bez cyklu vs. s cyklem a vysvětlí výhodu cyklu
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák používá proměnné, větvení a cykly</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy</span></div>
-
-## 💡 Metodický tip pro pátky
-Pátky v 6. třídě jsou ideální pro **"Nekonečnou diskotéku"**. Nechte žáky do cyklu `opakuj dokola` přidat blok `změň efekt [barva] o [25]`. Celá třída pak má na monitorech barevně blikající sprity. Je to vizuálně atraktivní důkaz toho, že cyklus běží neustále a mění vlastnosti objektu v reálném čase.
 
 ## 💡 Metodický postup
 
@@ -43,13 +43,15 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
 
 Žáci vytvoří animaci „Věčný tanec":
 
-**Základní verze:**
+#### Základní verze
+
 1. Vyberte sprite s více kostýmy (např. Ballerina, Dinosaur, Crab)
 2. Z palety **Ovládání** přidejte blok `opakuj dokola`
 3. Dovnitř: `změň kostým na [další kostým]` + `čekej [0.2] sekund`
 4. Spusťte — sprite tančí!
 
-**Rozšíření:**
+#### Rozšíření
+
 5. Přidejte druhý sprite na druhé straně jeviště tančící jinak
 6. Nechte oba sprity pohybovat se vlevo-vpravo pomocí cyklu:
    ```
@@ -58,7 +60,8 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
      pokud na kraji, odraz se
    ```
 
-**Ohraničený cyklus (bonus):**
+#### Ohraničený cyklus (bonus)
+
 7. Ukažte rozdíl: `opakuj [10]-krát: pohni se o [20] kroků` → sprite se zastaví po 10 krocích
 
 ### 4. Shrnutí (5 min)

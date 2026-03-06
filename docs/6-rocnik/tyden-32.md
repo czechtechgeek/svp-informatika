@@ -1,19 +1,19 @@
 # Závěr: Prezentace portfolia a slavnostní uzavření roku
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Průřezové téma (Reflexe a prezentace)
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák jedná eticky a respektuje pravidla netikety</span></div>
+
+## 💬 Tip pro pátek
+Poslední hodina roku si zaslouží rituál. Zkuste **„Dopis sobě do budoucna"** — žáci napíší krátký dopis, který si přečtou na začátku 7. ročníku: *„Milý budoucí já, v 6. třídě mě v informatice nejvíc překvapilo..."* Učitel dopisy uschová a na podzim je vrátí. Silný a nezapomenutelný závěr roku.
+
 ## 🎯 Cíle hodiny
 
 - Žák prezentuje výběr ze svého digitálního portfolia ostatním žákům
 - Žák poskytuje a přijímá konstruktivní zpětnou vazbu
 - Žák propojí práce z celého roku do uceleného příběhu vlastního učení
 - Žák odchází z hodiny s vědomím, co konkrétně zvládl — s pocitem kompetence a hrdosti
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a prezentace)
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák jedná eticky a respektuje pravidla netikety</span></div>
-
-## 💡 Metodický tip pro pátky
-Poslední hodina roku si zaslouží rituál. Zkuste **„Dopis sobě do budoucna"** — žáci napíší krátký dopis, který si přečtou na začátku 7. ročníku: *„Milý budoucí já, v 6. třídě mě v informatice nejvíc překvapilo..."* Učitel dopisy uschová a na podzim je vrátí. Silný a nezapomenutelný závěr roku.
 
 ## 💡 Metodický postup
 

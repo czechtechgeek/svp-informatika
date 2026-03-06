@@ -1,19 +1,19 @@
 ﻿# Pololetní reflexe: Co už vím o datech?
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Průřezové téma (Reflexe a modelování znalostí)
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
+
+## 💬 Tip pro pátek
+Pololetní pátky bývají emočně vypjaté (vysvědčení). Udělejte z Binga **"Týmové Bingo"** – dvojice žáků spolupracují. Snižuje to stres z toho, že někdo "něco neví", a podporuje to kolegiální diskusi o tom, co který pojem vlastně znamenal. Jako odměnu pro vítěze můžete slíbit "právo vybrat barvu pozadí" pro první lednový projekt v 2. pololetí.
+
 ## 🎯 Cíle hodiny
 
 - Žák pojmenuje klíčové koncepty z 1. pololetí (data, informace, kódování, algoritmus, Scratch)
 - Žák vytvoří myšlenkovou mapu toho, co se naučil
 - Žák reflektuje vlastní pokrok — co mu šlo, co bylo těžké, co ho překvapilo
 - Žák se těší na 2. pololetí a ví, na co se může těšit
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a modelování znalostí)
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-02</span><span style="color: #374151;">Žák interpretuje data a vyvozuje z nich závěry</span></div>
-
-## 💡 Metodický tip pro pátky
-Pololetní pátky bývají emočně vypjaté (vysvědčení). Udělejte z Binga **"Týmové Bingo"** – dvojice žáků spolupracují. Snižuje to stres z toho, že někdo "něco neví", a podporuje to kolegiální diskusi o tom, co který pojem vlastně znamenal. Jako odměnu pro vítěze můžete slíbit "právo vybrat barvu pozadí" pro první lednový projekt v 2. pololetí.
 
 ## 💡 Metodický postup
 

@@ -1,11 +1,11 @@
 ﻿# Úvod: Pravidla učebny, digitální identita
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Digitální technologie a společnost
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák jedná eticky a respektuje pravidla netikety</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Pokud máte v pátek "línou" hodinu, zkuste aktivitu **"Emoji příběh"**. Žák napíše krátkou informaci (větu) pouze pomocí emoji (data). Ostatní se pokoušejí informaci interpretovat. Ukáže se, jak moc záleží na společném kontextu, aby z dat vznikla správná informace.
 
 ## 🎯 Cíle hodiny

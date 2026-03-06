@@ -1,19 +1,19 @@
 # Tabulky I: První buňky v Excelu/Sheets
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Data, informace a modelování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-03</span><span style="color: #374151;">Žák organizuje data a vytváří vizualizace</span></div>
+
+## 💬 Tip pro pátek
+Pátky jsou skvělé pro hru **„Najdi buňku"** — učitel říká souřadnici (např. „D7") a žáci musí co nejrychleji kliknout na správnou buňku a napsat do ní své jméno. Kdo je nejrychlejší? Je to zdánlivě triviální hra, která ale upevní orientaci v mřížce lépe než jakékoliv vysvětlení.
+
 ## 🎯 Cíle hodiny
 
 - Žák se orientuje v prostředí tabulkového procesoru (pásy karet, buňky, listy)
 - Žák porozumí adresování buněk (A1, B3, C10) a naviguje tabulkou
 - Žák zadá text a čísla do buněk a přesune se mezi nimi pomocí klávesnice
 - Žák uloží soubor ve správném formátu a otevře ho znovu
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-03</span><span style="color: #374151;">Žák organizuje data a vytváří vizualizace</span></div>
-
-## 💡 Metodický tip pro pátky
-Pátky jsou skvělé pro hru **„Najdi buňku"** — učitel říká souřadnici (např. „D7") a žáci musí co nejrychleji kliknout na správnou buňku a napsat do ní své jméno. Kdo je nejrychlejší? Je to zdánlivě triviální hra, která ale upevní orientaci v mřížce lépe než jakékoliv vysvětlení.
 
 ## 💡 Metodický postup
 

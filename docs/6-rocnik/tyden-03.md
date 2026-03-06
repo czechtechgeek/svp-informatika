@@ -1,19 +1,19 @@
 ﻿# Kódování obrazu: Čtverečkovaný papír jako rastr
 
+## 📋 Vazba na RVP ZV (Informatika)
+- Oblast: Data, informace a modelování
+- Výstup: I-9-1-01Žák modeluje a simuluje procesy a systémy
+- Výstup: I-9-1-02Žák interpretuje data a vyvozuje z nich závěry
+
+## 💬 Tip pro pátek
+Pokud máte ve třídě Micro:bity, nechte žáky v závěru hodiny "rozsvítit" jejich pixel-art na displeji Micro:bitu. Je to pro ně silný moment, kdy vidí, že kód (čísla v programu) se okamžitě mění ve fyzické světlo (pixely).
+
 ## 🎯 Cíle hodiny
 
 - Žák vysvětlí, co je rastrový obrázek a jak se skládá z pixelů
 - Žák zakóduje jednoduchý obrázek jako souřadnice nebo čísla barev na čtverečkovaném papíře
 - Žák pochopí, že počítač ukládá obrázek jako čísla, ne jako „kresbu"
 - Žák vytvoří vlastní pixel-art v online editoru a exportuje výsledek
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- Oblast: Data, informace a modelování
-- Výstup: I-9-1-01Žák modeluje a simuluje procesy a systémy
-- Výstup: I-9-1-02Žák interpretuje data a vyvozuje z nich závěry
-
-## 💡 Metodický tip pro pátky
-Pokud máte ve třídě Micro:bity, nechte žáky v závěru hodiny "rozsvítit" jejich pixel-art na displeji Micro:bitu. Je to pro ně silný moment, kdy vidí, že kód (čísla v programu) se okamžitě mění ve fyzické světlo (pixely).
 
 ## 💡 Metodický postup
 

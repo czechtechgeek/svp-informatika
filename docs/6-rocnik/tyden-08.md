@@ -1,19 +1,19 @@
 ﻿# Příkazy pro robota: Přesnost instrukcí
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Algoritmizace a programování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák zapíše algoritmus v programovacím jazyce</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování technologií</span></div>
+
+## 💬 Tip pro pátek
+Páteční hodiny s roboty bývají hlučné a nadšené. Využijte to pro **"Robotí závody"**. Vytvořte na zemi velký labyrint z lepicí pásky a nechte skupiny soutěžit, čí Ozobot projde trasu nejrychleji s využitím "turbo" kódů. Motivuje to žáky k preciznímu kreslení a rychlému ladění chyb.
+
 ## 🎯 Cíle hodiny
 
 - Žák zapíše přesnou sekvenci příkazů pro navigaci robota přes překážkový terén
 - Žák odladí program, když robot neskončí tam, kde má (debugging)
 - Žák ovládá Ozobota pomocí barevných kódů nakreslených na papíře
 - Žák pochopí, že i malá nepřesnost v instrukci způsobí špatný výsledek
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák zapíše algoritmus v programovacím jazyce</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování technologií</span></div>
-
-## 💡 Metodický tip pro pátky
-Páteční hodiny s roboty bývají hlučné a nadšené. Využijte to pro **"Robotí závody"**. Vytvořte na zemi velký labyrint z lepicí pásky a nechte skupiny soutěžit, čí Ozobot projde trasu nejrychleji s využitím "turbo" kódů. Motivuje to žáky k preciznímu kreslení a rychlému ladění chyb.
 
 ## 💡 Metodický postup
 
@@ -38,7 +38,8 @@ Učitel rozdá bílé papíry a fixy. Žáci nakreslí dráhu pro Ozobota a pou�
 2. Přidejte příkaz „zrychli" uprostřed dráhy
 3. Nakreslete dráhu ve tvaru čtverce — Ozobot musí projít celý obvod
 
-**Pokud není k dispozici Ozobot:**
+#### Pokud není k dispozici Ozobot
+
 Alternativa — žák hraje robota. Jeden žák zavře oči, druhý mu dává příkazy slovně (krok vpřed, otočit vlevo 90°, krok vpřed...) pro průchod labyrintem z lavic.
 
 ### 3. Aktivita: Ozobot v digitálním prostředí (10 min) — PC

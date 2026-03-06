@@ -1,19 +1,19 @@
 ﻿# Algoritmus v kuchyni: Recept jako posloupnost kroků
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Algoritmizace a programování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák popíše algoritmus (grafické vyjádření)</span></div>
+
+## 💬 Tip pro pátek
+Pátky v 6. třídě snesou trochu humoru. Pokud děláte aktivitu s robotem-kuchařem, nechte žáky, aby vás "naprogramovali" i k tak jednoduché věci, jako je **otevření fixy nebo usednutí na židli**. Ukáže se, že i zdánlivě banální pohyby vyžadují desítky přesných instrukcí (uchop, stiskni, táhni směrem nahoru...).
+
 ## 🎯 Cíle hodiny
 
 - Žák definuje pojem algoritmus jako přesnou posloupnost kroků vedoucích k cíli
 - Žák zapíše algoritmus pro jednoduchou každodenní činnost (recept, ranní příprava)
 - Žák rozpozná chybu v algoritmu a opraví ji
 - Žák pochopí, proč musí být instrukce jednoznačné a v správném pořadí
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák popíše algoritmus (grafické vyjádření)</span></div>
-
-## 💡 Metodický tip pro pátky
-Pátky v 6. třídě snesou trochu humoru. Pokud děláte aktivitu s robotem-kuchařem, nechte žáky, aby vás "naprogramovali" i k tak jednoduché věci, jako je **otevření fixy nebo usednutí na židli**. Ukáže se, že i zdánlivě banální pohyby vyžadují desítky přesných instrukcí (uchop, stiskni, táhni směrem nahoru...).
 
 ## 💡 Metodický postup
 
@@ -27,7 +27,8 @@ Krátká diskuse — žáci zjistí, že robot potřebuje přesné, jednoznačn�
 
 ### 2. Aktivita: Recept pro robota (20 min) — bez počítače
 
-**Varianta A — PB&J sendvič** (klasická CS aktivita):
+#### Varianta A — PB&J sendvič (klasická CS aktivita)
+
 Učitel hraje roli robota. Jeden žák mu diktuje instrukce jak udělat sendvič — učitel instrukce doslovně plní (záměrně špatně, pokud nejsou přesné).
 
 Příklady nejednoznačných instrukcí a co robot udělá:
@@ -37,7 +38,8 @@ Příklady nejednoznačných instrukcí a co robot udělá:
 
 Třída diskutuje a opravuje instrukce.
 
-**Varianta B — Napiš algoritmus pro ranní rutinu:**
+#### Varianta B — Napiš algoritmus pro ranní rutinu
+
 Každý žák napíše minimálně 10 kroků svého rána (vstát, čistit zuby, snídat...) tak, aby tomu rozuměl robot. Sousedé si navzájem instrukce zkontrolují.
 
 ### 3. Aktivita: Flowchart — vývojový diagram (15 min) — PC nebo papír

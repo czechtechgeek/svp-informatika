@@ -1,19 +1,19 @@
 ﻿# Souborový systém: Struktura složek, přípony souborů
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Informační systémy / Data, informace a modelování
+- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák využívá služby informačních systémů</span></div>
+
+## 💬 Tip pro pátek
+Pátky jsou ideální pro "Digitální úklid". Zaveďte pravidlo posledních 5 minut hodiny: "Smažte vše z Plochy a ze složky Stažené soubory. Roztřiďte užitečné věci do svých vytvořených složek." Tento návyk je pro žáky cennější než samotná teorie o souborových systémech.
+
 ## 🎯 Cíle hodiny
 
 - Žák popíše stromovou strukturu souborového systému (složky, podsložky, soubory)
 - Žák rozlišuje přípony souborů a přiřadí je ke správné aplikaci (.docx, .jpg, .mp3, .exe)
 - Žák vytvoří logicky organizovanou strukturu složek pro školní práci
 - Žák pochopí, proč je dobré soubory pojmenovávat systematicky
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Informační systémy / Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák modeluje a simuluje procesy a systémy</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák využívá služby informačních systémů</span></div>
-
-## 💡 Metodický tip pro pátky
-Pátky jsou ideální pro "Digitální úklid". Zaveďte pravidlo posledních 5 minut hodiny: "Smažte vše z Plochy a ze složky Stažené soubory. Roztřiďte užitečné věci do svých vytvořených složek." Tento návyk je pro žáky cennější než samotná teorie o souborových systémech.
 
 ## 💡 Metodický postup
 

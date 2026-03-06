@@ -1,19 +1,19 @@
 # Software: Operační systém vs. Aplikace
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Digitální technologie a společnost
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák využívá služby informačních systémů</span></div>
+
+## 💬 Tip pro pátek
+Pátky jsou skvělé pro **„Softwarový detektiv"** — žáci dostanou screenshot neznámého OS nebo prostředí a hádají, co to je (Windows XP, macOS, Ubuntu, Android, iOS). Diskuse o tom, proč jsou různé systémy různé, otevírá téma konkurence a vývoje technologií bez nutnosti PC.
+
 ## 🎯 Cíle hodiny
 
 - Žák vysvětlí rozdíl mezi hardwarem a softwarem vlastními slovy
 - Žák uvede příklady operačních systémů (Windows, macOS, Linux, Android, iOS)
 - Žák rozliší operační systém od aplikace a uvede alespoň 5 příkladů aplikací
 - Žák popíše, co by se stalo bez operačního systému
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák využívá služby informačních systémů</span></div>
-
-## 💡 Metodický tip pro pátky
-Pátky jsou skvělé pro **„Softwarový detektiv"** — žáci dostanou screenshot neznámého OS nebo prostředí a hádají, co to je (Windows XP, macOS, Ubuntu, Android, iOS). Diskuse o tom, proč jsou různé systémy různé, otevírá téma konkurence a vývoje technologií bez nutnosti PC.
 
 ## 💡 Metodický postup
 

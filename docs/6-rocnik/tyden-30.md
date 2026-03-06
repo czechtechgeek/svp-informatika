@@ -1,19 +1,19 @@
 # Rezerva: Opakování hrou
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Průřezové téma (Reflexe a opakování)
+- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
+
+## 💬 Tip pro pátek
+Závěrečné opakování v pátek je příležitost pro **„Týmové Bingo"** — stejně jako v 1. pololetí, ale tentokrát s pojmy z 2. pololetí. Dvojice žáků spolupracují, sdílejí znalosti a snižuje to stres před koncem roku. Jako odměna pro vítěze: právo vybrat aktivitu na poslední hodinu.
+
 ## 🎯 Cíle hodiny
 
 - Žák zopakuje klíčové pojmy z celého 2. pololetí (hardware, software, internet, bezpečnost, tabulky, grafy)
 - Žák identifikuje oblasti, ve kterých potřebuje ještě procvičit
 - Žák spolupracuje v týmu a pomáhá spolužákům s pochopením látky
 - Žák si uvědomí vlastní pokrok za celý rok
-
-## 🎯 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a opakování)
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
-
-## 💡 Metodický tip pro pátky
-Závěrečné opakování v pátek je příležitost pro **„Týmové Bingo"** — stejně jako v 1. pololetí, ale tentokrát s pojmy z 2. pololetí. Dvojice žáků spolupracují, sdílejí znalosti a snižuje to stres před koncem roku. Jako odměna pro vítěze: právo vybrat aktivitu na poslední hodinu.
 
 ## 💡 Metodický postup
 
