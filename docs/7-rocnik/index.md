@@ -2,6 +2,54 @@
 
 **Cíl:** Modelování reality a interaktivní programování.
 
+---
+
+## 📖 Jak číst přípravu hodiny
+
+Každý soubor `tyden-XX.md` má pevnou strukturu. Níže je vysvětlení, co v každé části hledat:
+
+### Záhlaví sekce metodického postupu
+
+Každý krok hodiny je označen vzorcem:
+
+```
+### [číslo]. [Název aktivity] ([čas] min) — [typ]
+```
+
+**Typy aktivit** — ikony za pomlčkou říkají, co žáci v daném kroku dělají:
+
+| Označení | Popis |
+|----------|-------|
+| `— bez počítače` | Fyzická nebo skupinová aktivita bez technologie — pohyb, diskuse, papír, kartičky |
+| `— PC` | Žáci pracují individuálně na počítači |
+| `— PC nebo papír` | Aktivitu lze realizovat na PC i offline (flexibilní) |
+| `— tabule` | Učitel demonstruje celé třídě, žáci sledují a diskutují |
+| `— diskuse` | Řízená třídní diskuse bez konkrétního produktu |
+| `— kvíz` | Rychlá diagnostická nebo soutěžní aktivita |
+
+### Struktura každého souboru
+
+```
+🎯 Cíle hodiny       → Co by měl žák po hodině umět (měřitelné výstupy)
+🎯 Vazba na RVP      → Propojení s kurikulárními výstupy
+💡 Metodický tip     → Tip pro páteční nebo volnější hodiny
+💡 Metodický postup  → Krok za krokem s časováním (celkem ~45 min)
+📂 Podklady          → Odkazy na nástroje, videa, pracovní listy
+💡 Tip pro učitele   → Praktická rada z praxe (zelený rámeček)
+```
+
+### Doporučený postup přípravy
+
+1. **Přečtěte cíle** — ujistěte se, že tématu rozumíte
+2. **Projděte metodický postup** — odhadněte, kde třída bude potřebovat více času
+3. **Připravte podklady** — stáhněte/otevřete weby předem, vytiskněte pracovní listy
+4. **Přizpůsobte** — každá třída je jiná; označení časů jsou orientační, ne závazná
+
+!!! info "Spirálový model"
+    Témata z 6. ročníku (algoritmizace, Scratch, bezpečnost) se v 7. ročníku rozvíjejí do hloubky. Žáci přidávají podmínky, proměnné a vlastní herní projekty. Ve druhém pololetí přecházejí od programování ke spolupráci, sítím a mediální gramotnosti.
+
+---
+
 ## 1. Pololetí: Modelování a podmínky
 
 | Týden | Téma | Odkaz na přípravu |
@@ -42,4 +90,3 @@
 | 29 | Projekt: Dokončení | [Příprava](tyden-29.md) |
 | 30 | Rezerva: Robotika | [Příprava](tyden-30.md) |
 | 31 | Závěr: Hodnocení pokroku | [Příprava](tyden-31.md) |
-
