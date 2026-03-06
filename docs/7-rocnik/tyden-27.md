@@ -1,11 +1,11 @@
 # Video: Střih jednoduchého klipu
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Digitální technologie
 - **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák efektivně využívá digitální nástroje pro tvorbu obsahu</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a chování online</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Filmová analýza: pusťte 3minutový úsek libovolného YouTube videa (bez zvuku) a nechejte žáky spočítat střihy. Poté s zvukem. Diskuse: Proč je tam každý střih? Rozvíjí mediální gramotnost.
 
 ## 🎯 Cíle hodiny
@@ -53,11 +53,12 @@ Učitel živě sestříhá 2–3 připravené klipy (volně licencovaná videa z
 
 Žáci pracují individuálně nebo ve dvojicích. Zdroje videomateriálu:
 
-**Varianta A — připravené klipy:**
-- Učitel poskytne složku se 6–8 voně licencovanými klipy (Pexels, Pixabay)
+#### Varianta A — připravené klipy
+
+- Učitel poskytne složku se 6–8 volně licencovanými klipy (Pexels, Pixabay)
 - Žáci z nich sestaví 30–60s videopříběh
 
-**Varianta B — vlastní záznamy:**
+#### Varianta B — vlastní záznamy
 - Žáci mohou použít klipy ze svého mobilu (nevhodný obsah = nesmiřitelné ne)
 - Nebo screen recording PC aktivity
 

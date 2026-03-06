@@ -1,11 +1,11 @@
 # Proměnné I: Skóre ve hře
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Algoritmizace a programování
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák implementuje algoritmus v programovacím jazyce</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-03</span><span style="color: #374151;">Žák pracuje s proměnnými a datovými typy</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Živý model proměnné: vezmte krabičku a kartičku s názvem „skóre". Do krabičky vložte lístek s číslem 0. Při každém „bodu" vyměňte lístek za vyšší číslo. Žáci vidí proměnnou fyzicky — má jméno, má hodnotu, hodnota se mění.
 
 ## 🎯 Cíle hodiny
@@ -41,17 +41,18 @@ Ve Scratch: všechny proměnné jsou viditelné na scéně jako displej — to j
 
 Učitel vezme projekt z minulé hodiny (hráč sbírá hvězdy) a přidá skóre:
 
-**Krok 1 — Vytvoření proměnné:**
+#### Krok 1 — Vytvoření proměnné
+
 - Kategorie **Proměnné** → „Vytvořit proměnnou" → název: `skóre`
 - Automaticky se přidají bloky: `nastav [skóre] na 0`, `změň [skóre] o 1`
 
-**Krok 2 — Inicializace na startu:**
+#### Krok 2 — Inicializace na startu
 ```
 po kliknutí na vlajku:
   nastav [skóre] na 0
 ```
 
-**Krok 3 — Přidání bodu při kolizi:**
+#### Krok 3 — Přidání bodu při kolizi
 ```
 opakuj dokola:
   pokud dotýkám se [hvězda]? pak:
@@ -59,7 +60,7 @@ opakuj dokola:
     skryj hvězdu (nebo přesuň na nové místo)
 ```
 
-**Krok 4 — Podmínka pro výhru:**
+#### Krok 4 — Podmínka pro výhru
 ```
 pokud [skóre] = 10 pak:
   řekni "Výhra!" po dobu 2 sekund

@@ -1,11 +1,11 @@
 # Opakování: Co jsme zapomněli o algoritmech?
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Algoritmizace a programování
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-01</span><span style="color: #374151;">Žák rozloží problém na podproblémy a navrhne algoritmus</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák implementuje algoritmus v programovacím jazyce</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Začínáte nový školní rok? Zaveďte tradici **"Algoritmus týdne"** — každý pátek jeden žák popíše libovolnou každodenní činnost jako algoritmus (kroky, podmínky, cykly). Ostatní hádají, co popisuje. Rozhýbe to myšlení a zároveň buduje komunitu třídy.
 
 ## 🎯 Cíle hodiny
@@ -50,13 +50,16 @@ Každá skupina dostane jiný algoritmus (vaření vajíčka, mytí rukou, přih
 
 Žáci otevřou Scratch ([scratch.mit.edu](https://scratch.mit.edu)) a splní tři rychlé úlohy bez nápovědy:
 
-**Úloha 1 — Posloupnost:**
+#### Úloha 1 — Posloupnost
+
 Pohni kočkou doprava o 100 kroků, pak nahoru o 50, pak řekni „Jsem zpátky!".
 
-**Úloha 2 — Cyklus:**
+#### Úloha 2 — Cyklus
+
 Nech kočku 5× se otočit o 72 stupňů a při každém otočení přehrát zvuk.
 
-**Úloha 3 — Podmínka:**
+#### Úloha 3 — Podmínka
+
 Když kočka narazí na okraj, nech ji říct „Au!" a vrátit se na střed.
 
 Učitel projde třídou, identifikuje žáky, kteří potřebují podporu, a spáruje je se silnějšími.

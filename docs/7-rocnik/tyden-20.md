@@ -1,11 +1,11 @@
 # IP adresa: Adresa bydliště počítače
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Digitální technologie
 - **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií a sítí</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Aktualizace IP: ukažte žákům na projektoru web „co je moje IP adresa" (whatismyip.com nebo podobný) — okamžitě vidí svou veřejnou IP adresu. Je to „wow moment", který otvírá diskusi o soukromí.
 
 ## 🎯 Cíle hodiny
@@ -48,20 +48,24 @@ Všechna zařízení v domácnosti sdílí jednu veřejnou IP (od poskytovatele 
 
 ### 3. Praktická aktivita: Zjistěte svou IP (15 min) — PC
 
-**Úkol 1 — Privátní IP:**
+#### Úkol 1 — Privátní IP
+
 - Windows: Start → cmd → `ipconfig` → hledat „IPv4 adresa"
 - macOS/Linux: Terminál → `ifconfig` nebo `ip addr`
 - Žáci zapíší svou privátní IP. Mají všichni stejnou nebo různou?
 
-**Úkol 2 — Veřejná IP:**
+#### Úkol 2 — Veřejná IP
+
 - Otevřít browser → vyhledat „co je moje IP adresa" nebo navštívit veřejný checker
 - Zapsat veřejnou IP. Mají všichni ve třídě stejnou veřejnou IP? (Ano — sdílí školní router)
 
-**Úkol 3 — DNS lookup:**
+#### Úkol 3 — DNS lookup
+
 - Vyhledat „IP adresa google.com" nebo v cmd: `nslookup google.com`
 - Zjistit, jakou IP má google.com — vysvětlení DNS (jméno → IP)
 
-**Úkol 4 — Geolokace IP:**
+#### Úkol 4 — Geolokace IP
+
 - Vyhledat geolokaci veřejné IP školy — kde říká, že se škola nachází? Je to přesné?
 
 ### 4. Propojení s bezpečností (7 min) — diskuse

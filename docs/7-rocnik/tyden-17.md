@@ -1,11 +1,11 @@
 # Sdílení: Práva k dokumentům
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Digitální technologie / Digitální společnost
 - **Výstup:** <div class="curriculumTag" data-code="I-9-3-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-02</span><span style="color: #374151;">Žák efektivně využívá digitální nástroje a služby</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Scénářová hra: napište na tabuli situaci — „Omylem jste sdíleli soubor s celým internetem. Co uděláte?" Žáci diskutují v trojicích. Aktivuje kritické myšlení o právech k datům bez potřeby PC.
 
 ## 🎯 Cíle hodiny
@@ -52,21 +52,25 @@ Učitel záměrně nastaví špatná práva a nechá žáky říct, co opravit.
 
 Žáci pracují ve dvojicích:
 
-**Úkol 1:** Sdílení s konkrétní osobou
+#### Úkol 1 — Sdílení s konkrétní osobou
+
 - Žák A vytvoří Google Doc „Sdílecí cvičení"
 - Sdílí ho žákovi B jako Editor
 - Žák B dokument otevře a přidá řádek textu
 
-**Úkol 2:** Odvolání přístupu
+#### Úkol 2 — Odvolání přístupu
+
 - Žák A odvolá přístup žáku B
 - Žák B zkusí dokument otevřít — co se stane?
 
-**Úkol 3:** Sdílení odkazu
+#### Úkol 3 — Sdílení odkazu
+
 - Žák A nastaví odkaz na „Kdokoliv s odkazem může prohlížet"
 - Zkopíruje odkaz a pošle ho do třídního chatu / sdíleného dokumentu
 - Žák B otevře odkaz bez přihlášení (anonymní okno)
 
-**Úkol 4 — Reflexe:**
+#### Úkol 4 — Reflexe
+
 - Kde se sdílí „cokoliv s odkazem" vhodně? Kde ne?
 - Jak poznáte, že dokument je sdílen příliš volně?
 

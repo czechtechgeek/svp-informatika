@@ -1,11 +1,11 @@
 # Bezpečnost: Soukromí na sociálních sítích
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Digitální společnost
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a chování online</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání svá data i data ostatních</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Řízená prohlídka: projděte se třídou fiktivním profilem na sociální síti (připravený screenshot) a nechejte žáky identifikovat všechny osobní informace, které z profilu vyčtou. Je překvapivě hodně.
 
 ## 🎯 Cíle hodiny
@@ -39,7 +39,7 @@ Výsledky: přesná poloha bydliště + školy, čas kdy je sám doma, trasa poh
 
 Učitel ukáže (na projektoru nebo jako schéma) základní nastavení soukromí na typické sociální síti:
 
-**Co nastavit:**
+Klíčová nastavení k projití:
 - **Kdo vidí mé příspěvky:** Veřejnost / Přátelé / Jen já
 - **Kdo mě může kontaktovat:** Kdokoliv / Přátelé přátel / Jen přátelé
 - **Geolokace:** Vypnout v příspěvcích
@@ -49,7 +49,8 @@ Učitel ukáže (na projektoru nebo jako schéma) základní nastavení soukrom�
 
 ### 3. Aktivita: Audit digitálního profilu (18 min) — PC nebo papír
 
-**Varianta A (mají školní účty):**
+#### Varianta A — mají školní účty
+
 Žáci projdou nastavení soukromí svého školního profilu/e-mailu a vyplní audit:
 
 | Nastavení | Aktuální stav | Doporučení |
@@ -59,7 +60,8 @@ Učitel ukáže (na projektoru nebo jako schéma) základní nastavení soukrom�
 | Kdo může psát zprávy | | |
 | Synchronizace polohy | | |
 
-**Varianta B (bez školních sociálních sítí):**
+#### Varianta B — bez školních sítí
+
 Žáci na papíře navrhnou profil pro fiktivní postavu a zdůvodní, která nastavení by zvolili a proč.
 
 ### 4. Diskuse a závěr (7 min)

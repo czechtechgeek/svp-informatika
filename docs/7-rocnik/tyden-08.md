@@ -1,11 +1,11 @@
 # Interakce: Ovládání postavy šipkami
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Algoritmizace a programování
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák implementuje algoritmus v programovacím jazyce</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-04" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-04</span><span style="color: #374151;">Žák navrhne a realizuje komplexnější projekt</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Dejte žákům k dispozici gamepad nebo klávesnici a nechejte je „naučit" virtuálního žáka pohyb — kdo zvládne ovládat postavu čtyřmi šipkami bez kouknutí do kódu, má solidní intuici pro vstupní události.
 
 ## 🎯 Cíle hodiny
@@ -23,14 +23,14 @@ Učitel se zeptá: „Jak počítač ví, že stiskujete klávesu?" Žáci háda
 
 Vysvětlení dvou přístupů:
 
-**Přístup 1 — Pollování (testování v cyklu):**
+#### Přístup 1 — Pollování (testování v cyklu)
 ```
 opakuj dokola:
   pokud klávesa ↑ stisknuta? pak: pohni se nahoru
   pokud klávesa ↓ stisknuta? pak: pohni se dolů
 ```
 
-**Přístup 2 — Událost (event-driven):**
+#### Přístup 2 — Událost (event-driven)
 ```
 když stisknuta klávesa [↑]:
   pohni se nahoru
@@ -42,7 +42,7 @@ Diskuse: Který je přehlednější? Který lépe reaguje na rychlé stisky? (Po
 
 Učitel postupně staví hráčský sprite na projektoru:
 
-**Krok 1 — Základní pohyb:**
+#### Krok 1 — Základní pohyb
 ```
 když stisknuta klávesa [šipka vpravo]: změň x o 10
 když stisknuta klávesa [šipka vlevo]:  změň x o -10
@@ -50,13 +50,13 @@ když stisknuta klávesa [šipka nahoru]: změň y o 10
 když stisknuta klávesa [šipka dolů]:   změň y o -10
 ```
 
-**Krok 2 — Omezení obrazovkou:**
+#### Krok 2 — Omezení obrazovkou
 ```
 pokud x > 230 pak: nastav x na 230
 pokud x < -230 pak: nastav x na -230
 ```
 
-**Krok 3 — Animace směru:**
+#### Krok 3 — Animace směru
 ```
 když stisknuta klávesa [šipka vpravo]: nastav směr na 90; změn kostým na "chůze-vpravo"
 ```

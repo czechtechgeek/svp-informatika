@@ -1,11 +1,11 @@
 # Rezerva: Robotika
 
-## 🎯 Vazba na RVP ZV (Informatika)
+## 📋 Vazba na RVP ZV (Informatika)
 - **Oblast:** Algoritmizace a programování / Digitální technologie
 - **Výstup:** <div class="curriculumTag" data-code="I-9-2-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-2-02</span><span style="color: #374151;">Žák implementuje algoritmus v programovacím jazyce</span></div>
 - **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií</span></div>
 
-## 💡 Metodický tip pro pátky
+## 💬 Tip pro pátek
 Robotika na konci roku je přirozená motivace — žáci jsou uvolněnější a kreativnější. Nechejte skupiny soutěžit v jednoduchém závodu nebo splnění úkolu. Rivalita (zdravá) zvyšuje angažovanost.
 
 ## 🎯 Cíle hodiny
@@ -29,16 +29,18 @@ Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robo
 
 **Dle dostupnosti vyberte jednu z variant:**
 
-**Varianta A — Ozobot (pokud škola vlastní):**
+#### Varianta A — Ozobot (pokud škola vlastní)
+
 - Ozobot sleduje čáry, reaguje na barevné kódy
 - Žáci kreslí trasu + kódy na papír nebo programují v OzoBlockly
 
-**Varianta B — micro:bit (pokud škola vlastní):**
+#### Varianta B — micro:bit (pokud škola vlastní)
+
 - Žáci naprogramují micro:bit v MakeCode ([makecode.microbit.org](https://makecode.microbit.org))
 - Blokové programování podobné Scratch
 - Úkoly: zobrazení vzorce, reakce na tlačítko, compass
 
-**Varianta C — Online simulátor (bez fyzického robota):**
+#### Varianta C — Online simulátor (bez fyzického robota)
 - [code.org/learn](https://code.org/learn) — kurzy s robotickými postavami (online, CZ lokalizace)
 - [csedweek.org](https://csedweek.org) — Hour of Code aktivity
 - Scratch simulace robota v bludišti (vlastní projekt)
@@ -47,17 +49,17 @@ Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robo
 
 Žáci pracují ve skupinách 3–4 a řeší přidělený úkol:
 
-**Úkol A (Ozobot):**
+#### Úkol A — Ozobot
 - Nakreslite trasu z bodu A do bodu B s alespoň 3 zatáčkami
 - Přidejte kód „zrychlení" a „zatočení na místě"
 - Ozobot musí dokončit trasu bez vyjetí z čáry
 
-**Úkol B (micro:bit):**
+#### Úkol B — micro:bit
 - Program zobrazí šipku ve směru pohybu (akcelerometr)
 - Při zatřesení zobrazí náhodné číslo
 - Při stisku tlačítka A přehraje melodii
 
-**Úkol C (online simulátor):**
+#### Úkol C — online simulátor
 - Dokončete 5 levelů zvolené online aktivity (Code.org nebo Scratch bludiště)
 - Zapište: Kolik bloků jste použili? Kde jste se zasekli?
 
