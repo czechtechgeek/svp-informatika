@@ -1,11 +1,14 @@
-site_name: ŠVP Informatika
+site_name: Digitální kniha Informatiky - ŠVP
+site_description: Komplexní Školní vzdělávací program pro informatiku na 2. stupni (6. - 9. ročník)
 theme:
   name: material
   language: cs
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - content.code.copy
+    - toc.integrate
   palette:
     - scheme: default
       primary: teal
@@ -15,3 +18,144 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - tables
+
+nav:
+  - Domů: index.md
+  - 6. ročník - Objevitel:
+      - Přehled: 6-rocnik/index.md
+      - 1. Pololetí - Data a základy logiky:
+          - Týden 1: 6-rocnik/tyden-01.md
+          - Týden 2: 6-rocnik/tyden-02.md
+          - Týden 3: 6-rocnik/tyden-03.md
+          - Týden 4: 6-rocnik/tyden-04.md
+          - Týden 5: 6-rocnik/tyden-05.md
+          - Týden 6: 6-rocnik/tyden-06.md
+          - Týden 7: 6-rocnik/tyden-07.md
+          - Týden 8: 6-rocnik/tyden-08.md
+          - Týden 9: 6-rocnik/tyden-09.md
+          - Týden 10: 6-rocnik/tyden-10.md
+          - Týden 11: 6-rocnik/tyden-11.md
+          - Týden 12: 6-rocnik/tyden-12.md
+          - Týden 13: 6-rocnik/tyden-13.md
+          - Týden 14: 6-rocnik/tyden-14.md
+          - Týden 15: 6-rocnik/tyden-15.md
+      - 2. Pololetí - Technologie a tabulky:
+          - Týden 16: 6-rocnik/tyden-16.md
+          - Týden 17: 6-rocnik/tyden-17.md
+          - Týden 18: 6-rocnik/tyden-18.md
+          - Týden 19: 6-rocnik/tyden-19.md
+          - Týden 20: 6-rocnik/tyden-20.md
+          - Týden 21: 6-rocnik/tyden-21.md
+          - Týden 22: 6-rocnik/tyden-22.md
+          - Týden 23: 6-rocnik/tyden-23.md
+          - Týden 24: 6-rocnik/tyden-24.md
+          - Týden 25: 6-rocnik/tyden-25.md
+          - Týden 27: 6-rocnik/tyden-27.md
+          - Týden 28: 6-rocnik/tyden-28.md
+          - Týden 29: 6-rocnik/tyden-29.md
+          - Týden 30: 6-rocnik/tyden-30.md
+          - Týden 31: 6-rocnik/tyden-31.md
+          - Týden 32: 6-rocnik/tyden-32.md
+  - 7. ročník - Tvůrce:
+      - Přehled: 7-rocnik/index.md
+      - 1. Pololetí - Modelování a podmínky:
+          - Týden 1: 7-rocnik/tyden-01.md
+          - Týden 2: 7-rocnik/tyden-02.md
+          - Týden 3: 7-rocnik/tyden-03.md
+          - Týden 4: 7-rocnik/tyden-04.md
+          - Týden 5: 7-rocnik/tyden-05.md
+          - Týden 6: 7-rocnik/tyden-06.md
+          - Týden 7: 7-rocnik/tyden-07.md
+          - Týden 8: 7-rocnik/tyden-08.md
+          - Týden 9: 7-rocnik/tyden-09.md
+          - Týden 10: 7-rocnik/tyden-10.md
+          - Týden 11: 7-rocnik/tyden-11.md
+          - Týden 12: 7-rocnik/tyden-12.md
+          - Týden 13: 7-rocnik/tyden-13.md
+          - Týden 14: 7-rocnik/tyden-14.md
+          - Týden 15: 7-rocnik/tyden-15.md
+      - 2. Pololetí - Sítě a spolupráce:
+          - Týden 16: 7-rocnik/tyden-16.md
+          - Týden 17: 7-rocnik/tyden-17.md
+          - Týden 18: 7-rocnik/tyden-18.md
+          - Týden 19: 7-rocnik/tyden-19.md
+          - Týden 20: 7-rocnik/tyden-20.md
+          - Týden 21: 7-rocnik/tyden-21.md
+          - Týden 22: 7-rocnik/tyden-22.md
+          - Týden 23: 7-rocnik/tyden-23.md
+          - Týden 24: 7-rocnik/tyden-24.md
+          - Týden 25: 7-rocnik/tyden-25.md
+          - Týden 27: 7-rocnik/tyden-27.md
+          - Týden 28: 7-rocnik/tyden-28.md
+          - Týden 29: 7-rocnik/tyden-29.md
+          - Týden 30: 7-rocnik/tyden-30.md
+          - Týden 31: 7-rocnik/tyden-31.md
+  - 8. ročník - Analytik:
+      - Přehled: 8-rocnik/index.md
+      - 1. Pololetí - Data a robotika:
+          - Týden 1: 8-rocnik/tyden-01.md
+          - Týden 2: 8-rocnik/tyden-02.md
+          - Týden 3: 8-rocnik/tyden-03.md
+          - Týden 4: 8-rocnik/tyden-04.md
+          - Týden 5: 8-rocnik/tyden-05.md
+          - Týden 6: 8-rocnik/tyden-06.md
+          - Týden 7: 8-rocnik/tyden-07.md
+          - Týden 8: 8-rocnik/tyden-08.md
+          - Týden 9: 8-rocnik/tyden-09.md
+          - Týden 10: 8-rocnik/tyden-10.md
+          - Týden 11: 8-rocnik/tyden-11.md
+          - Týden 12: 8-rocnik/tyden-12.md
+          - Týden 13: 8-rocnik/tyden-13.md
+          - Týden 14: 8-rocnik/tyden-14.md
+          - Týden 15: 8-rocnik/tyden-15.md
+      - 2. Pololetí - Internet a bezpečnost:
+          - Týden 16: 8-rocnik/tyden-16.md
+          - Týden 17: 8-rocnik/tyden-17.md
+          - Týden 18: 8-rocnik/tyden-18.md
+          - Týden 19: 8-rocnik/tyden-19.md
+          - Týden 20: 8-rocnik/tyden-20.md
+          - Týden 21: 8-rocnik/tyden-21.md
+          - Týden 22: 8-rocnik/tyden-22.md
+          - Týden 23: 8-rocnik/tyden-23.md
+          - Týden 24: 8-rocnik/tyden-24.md
+          - Týden 25: 8-rocnik/tyden-25.md
+          - Týden 27: 8-rocnik/tyden-27.md
+          - Týden 28: 8-rocnik/tyden-28.md
+          - Týden 29: 8-rocnik/tyden-29.md
+          - Týden 30: 8-rocnik/tyden-30.md
+          - Týden 31: 8-rocnik/tyden-31.md
+  - 9. ročník - Expert:
+      - Přehled: 9-rocnik/index.md
+      - 1. Pololetí - Simulace a kód:
+          - Týden 1: 9-rocnik/tyden-01.md
+          - Týden 2: 9-rocnik/tyden-02.md
+          - Týden 3: 9-rocnik/tyden-03.md
+          - Týden 4: 9-rocnik/tyden-04.md
+          - Týden 5: 9-rocnik/tyden-05.md
+          - Týden 6: 9-rocnik/tyden-06.md
+          - Týden 7: 9-rocnik/tyden-07.md
+          - Týden 8: 9-rocnik/tyden-08.md
+          - Týden 9: 9-rocnik/tyden-09.md
+          - Týden 10: 9-rocnik/tyden-10.md
+          - Týden 11: 9-rocnik/tyden-11.md
+          - Týden 12: 9-rocnik/tyden-12.md
+          - Týden 13: 9-rocnik/tyden-13.md
+          - Týden 14: 9-rocnik/tyden-14.md
+          - Týden 15: 9-rocnik/tyden-15.md
+      - 2. Pololetí - AI a společnost:
+          - Týden 16: 9-rocnik/tyden-16.md
+          - Týden 17: 9-rocnik/tyden-17.md
+          - Týden 18: 9-rocnik/tyden-18.md
+          - Týden 19: 9-rocnik/tyden-19.md
+          - Týden 20: 9-rocnik/tyden-20.md
+          - Týden 21: 9-rocnik/tyden-21.md
+          - Týden 22: 9-rocnik/tyden-22.md
+          - Týden 23: 9-rocnik/tyden-23.md
+          - Týden 24: 9-rocnik/tyden-24.md
+          - Týden 25: 9-rocnik/tyden-25.md
+          - Týden 27: 9-rocnik/tyden-27.md
+          - Týden 28: 9-rocnik/tyden-28.md
+          - Týden 29: 9-rocnik/tyden-29.md
+          - Týden 30: 9-rocnik/tyden-30.md
+          - Týden 31: 9-rocnik/tyden-31.md
