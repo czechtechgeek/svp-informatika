@@ -1,0 +1,17 @@
+site_name: ŠVP Informatika
+theme:
+  name: material
+  language: cs
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: deep orange
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
