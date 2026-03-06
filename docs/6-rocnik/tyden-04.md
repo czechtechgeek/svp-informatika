@@ -63,7 +63,6 @@ Učitel otevře Poznámkový blok, napíše slovo, uloží a řekne: „Tento so
 - **ASCII tabulka online:** [ascii.cl](https://ascii.cl) — přehledná tabulka s dec/hex/char
 - **ASCII tabulka alternativa:** [asciitable.com](https://www.asciitable.com)
 - **Kódování a šifrování (CZ):** [umimeinformatiku.cz](https://www.umimeinformatiku.cz) — česká platforma s interaktivními cvičeními na kódování a šifrování, sekce „Informace a data"
-- **Video (CZ):** [ČT edu — Kódování textu](https://edu.ceskatelevize.cz/predmet/informatika) — hledejte „ASCII" nebo „kódování textu" na portálu ČT edu
 - **Pracovní list:** Připravte tabulku A=1…Z=26 pro každého žáka + 3 předpřipravené zprávy k dekódování jako tištěný list
 
 !!! tip "Tip pro učitele"
