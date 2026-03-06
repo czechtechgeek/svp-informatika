@@ -23,7 +23,7 @@ theme:
       accent: deep orange
 
 edit_uri: edit/main/docs/
-repo_url: https://github.com/czechtechgeek/svp-informatika.git
+repo_url: https://github.com/czechtechgeek/svp-informatika
 repo_name: czechtechgeek/svp-informatika
 
 markdown_extensions:
