@@ -7,12 +7,24 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.path
+    - navigation.top
     - content.code.copy
     - toc.integrate
+    - content.action.edit
+  icon:
+    repo: ontawesome/brands/github-alt 
+    edit: material/pencil 
+    view: material/eye
+    
   palette:
     - scheme: default
       primary: teal
       accent: deep orange
+
+edit_uri: edit/main/docs/
+repo_url: https://github.com/czechtechgeek/svp-informatika.git
+repo_name: czechtechgeek/svp-informatika
 
 markdown_extensions:
   - admonition
@@ -144,8 +156,8 @@ nav:
           - Týden 11: 9-rocnik/tyden-11.md
           - Týden 12: 9-rocnik/tyden-12.md
           - Týden 13: 9-rocnik/tyden-13.md
-          - Týden 14: 9-rocnik/tyden-14.md
-          - Týden 15: 9-rocnik/tyden-15.md
+          - Týden 14: 9-rocnik/tyden-14.mdprivate-chat-app
+          - Týden 15: 9-r- navigation.topocnik/tyden-15.md
       - 2. Pololetí - AI a společnost:
           - Týden 16: 9-rocnik/tyden-16.md
           - Týden 17: 9-rocnik/tyden-17.md
