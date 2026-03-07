@@ -2,6 +2,55 @@
 
 **Cíl:** Syntéza znalostí, AI a příprava na realitu.
 
+---
+
+## 📖 Jak číst přípravu hodiny
+
+Každý soubor `tyden-XX.md` má pevnou strukturu. Níže je vysvětlení, co v každé části hledat:
+
+### Záhlaví sekce metodického postupu
+
+Každý krok hodiny je označen vzorcem:
+
+```
+### [číslo]. [Název aktivity] ([čas] min) — [typ]
+```
+
+**Typy aktivit** — ikony za pomlčkou říkají, co žáci v daném kroku dělají:
+
+| Označení | Popis |
+|----------|-------|
+| `— bez počítače` | Fyzická nebo skupinová aktivita bez technologie — pohyb, diskuse, papír, kartičky |
+| `— PC` | Žáci pracují individuálně na počítači |
+| `— PC nebo papír` | Aktivitu lze realizovat na PC i offline (flexibilní) |
+| `— tabule` | Učitel demonstruje celé třídě, žáci sledují a diskutují |
+| `— diskuse` | Řízená třídní diskuse bez konkrétního produktu |
+| `— Python` | Aktivita s programovacím jazykem Python |
+| `— kvíz` | Rychlá diagnostická nebo soutěžní aktivita |
+
+### Struktura každého souboru
+
+```
+📋 Vazba na RVP      → Propojení s kurikulárními výstupy
+💬 Tip pro pátek     → Tip pro páteční nebo volnější hodiny
+🎯 Cíle hodiny       → Co by měl žák po hodině umět (měřitelné výstupy)
+💡 Metodický postup  → Krok za krokem s časováním (celkem ~45 min)
+📂 Podklady          → Odkazy na nástroje, videa, pracovní listy
+💡 Tip pro učitele   → Praktická rada z praxe (zelený rámeček)
+```
+
+### Doporučený postup přípravy
+
+1. **Přečtěte cíle** — ujistěte se, že tématu rozumíte
+2. **Projděte metodický postup** — odhadněte, kde třída bude potřebovat více času
+3. **Připravte podklady** — stáhněte/otevřete weby předem, vytiskněte pracovní listy
+4. **Přizpůsobte** — každá třída je jiná; označení časů jsou orientační, ne závazná
+
+!!! info "Spirálový model"
+    9. ročník je syntézou všeho, co žáci prošli. Python navazuje na algoritmické myšlení ze Scratche (6.–7. ročník) a Micro:bitu (8. ročník). Téma AI a společnosti propojuje bezpečnost (7.–8. ročník), datovou gramotnost (8. ročník) a mediální gramotnost (7. ročník). Cílem je, aby žáci odcházeli jako informovaní digitální občané s praktickými dovednostmi.
+
+---
+
 ## 1. Pololetí: Simulace a kód
 
 | Týden | Téma | Odkaz na přípravu |
