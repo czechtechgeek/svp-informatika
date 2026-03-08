@@ -1,7 +1,88 @@
 # Závěr: Rozloučení s informatikou
 
+## 📋 Vazba na RVP ZV (Informatika)
+- **Oblast:** Průřezové / Reflexe a závěr
+- **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky reflektuje vlastní digitální vzdělávání a formuluje výhled do budoucnosti</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák prezentuje vlastní digitální práci a komunikuje o ní před publikem</span></div>
+
+## 💬 Tip pro pátek
+Tato hodina je emocionálně jiná než ostatní — je to loučení. Nespěchejte, nechte prostor pro autentické reakce žáků. Připravte si krátkou osobní řeč o tom, co vás na výuce bavilo a co si přejete žákům do budoucnosti — žáci si ji pamatují mnohem déle než jakoukoli látku.
+
 ## 🎯 Cíle hodiny
+
+- Žák prezentuje své digitální portfolio spolužákům a stručně ho komentuje
+- Žák reflektuje, co se za čtyři roky naučil a jak to využívá v každodenním životě
+- Žák formuluje, jakou roli chtějí technologie hrát v jeho budoucím životě nebo kariéře
+- Žák se rozloučí s informatickým vzděláváním na ZŠ s vědomím toho, co umí
 
 ## 💡 Metodický postup
 
+### 1. Prezentace portfolií (20 min) — PC
+
+Každý žák má 2–3 minuty na představení svého digitálního portfolia. Formát prezentace:
+
+1. **Ukáž** — otevři portfolio na projektoru nebo sdílej obrazovku
+2. **Řekni** — jedna věc, na kterou jsi hrdý/á
+3. **Odkaž** — jedna práce nebo projekt, který tě baví nejvíce
+4. **Plán** — jednou větou: co s informatikou dále?
+
+Učitel (a třída) mohou po každé prezentaci položit jednu otázku.
+
+**Poznámka pro učitele:** Pokud je třída větší, rozdělte prezentace do skupinek (3–4 žáci si navzájem presentují) nebo vyberte dobrovolníky pro prezentaci před celou třídou a ostatní portfolia projde učitel individuálně.
+
+### 2. Čtyři roky v datech — co jsme dělali? (8 min) — tabule
+
+Učitel promítne nebo napíše přehled toho, co třída za 4 roky prošla:
+
+**6. třída:** Základy počítačů, internet a bezpečnost, úvod do Scratche, kódování a šifrování
+
+**7. třída:** Algoritmické myšlení, úvod do Pythonu, databáze základy, digitální etika
+
+**8. třída:** Python — funkce a podmínky, data a vizualizace, web a HTML, umělá inteligence základy
+
+**9. třída:** Pokročilý Python, kybernetická bezpečnost, digitální právo, dezinformace, blockchain, kariéry v IT, digitální portfolio
+
+Otázka pro třídu: „Co si z toho všeho budete pamatovat za 10 let?"
+
+### 3. Reflexe — dopis sobě samému (10 min) — bez počítače
+
+Žáci napíší krátký dopis (10–15 vět) sobě samému, který zapečetí do obálky. Otevřou ho třeba za rok nebo po přijetí na střední školu.
+
+**Náměty k psaní:**
+- Co tě na informatice překvapilo nebo zaujalo?
+- Jaká dovednost ti přijde nejužitečnější?
+- Čeho se bojíš nebo těšíš ohledně technologií ve své budoucnosti?
+- Jedno přání pro sebe v oblasti IT (za rok, za 5 let)
+- Co bys poradil/a žákovi, který teď začíná 6. třídu?
+
+Učitel vybere obálky a archivuje je — nebo je pošle žákům na jejich školní e-mail s odloženým doručením (funkce Gmail „Schedule send" na konkrétní datum).
+
+### 4. Rozloučení a výhled (7 min) — diskuse
+
+Učitel vede závěrečnou diskusi:
+
+**Informatika v budoucnosti — co vás čeká:**
+- Každá práce dnes vyžaduje digitální dovednosti — nejen IT obory
+- AI mění pracovní trh — lidé, kteří umí s AI pracovat, mají výhodu
+- Kritické myšlení + technická gramotnost = nejcennější kombinace dovedností
+- Celoživotní učení — technologie se mění rychle, schopnost učit se je důležitější než konkrétní znalost
+
+**Kam dál (zdroje pro sebevzdělávání):**
+- [cs.khanacademy.org](https://cs.khanacademy.org) — kurzy zdarma
+- [code.org](https://code.org) — projekty a výzvy
+- [codecademy.com](https://www.codecademy.com) — kurzy programování
+- [coursera.org](https://www.coursera.org) — univerzitní kurzy online
+- [youtube.com](https://www.youtube.com) — „Python tutorial", „web development", „machine learning"
+
+Učitel zakončí hodinu osobním poděkováním a motivací.
+
 ## 📂 Podklady
+
+- **Portfolia žáků:** Sdílený dokument s odkazy z týdne 28 — použít pro prezentace
+- **Dopis sobě (šablona):** Přichystat obálky a papír předem
+- **Gmail — naplánované odeslání:** Pokud chcete dopisy doručit digitálně v budoucnu
+- **Přehledová prezentace 4 let:** Připravit 1–2 snímky se shrnutím témat (volitelné)
+- **Certifikát absolventa:** Volitelně — vytisknout symbolický certifikát za 4 roky informatiky
+
+!!! tip "Tip pro učitele"
+    Tato hodina je symbolicky nejdůležitější v celém čtyřletém cyklu. Žáci si nepamatují konkrétní látku — pamatují si pocity, atmosféru a to, jak se cítili. Věnujte čas autentickému rozloučení, oceňte každého žáka za něco konkrétního. Dopis sobě samému je velmi oblíbená aktivita — žáci ji berou vážně a vrací se k ní. Pokud máte možnost, vyfotografujte třídu s jejich portfolii jako vzpomínku.
