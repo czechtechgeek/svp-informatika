@@ -1,22 +1,24 @@
-# Závěr: Prezentace vizí budoucnosti
+# 🎓 Závěr: Prezentace vizí budoucnosti
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost a průřezové kompetence
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a technologie</span></div> <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák komunikuje a spolupracuje digitálně</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Závěrečná hodina je příležitostí pro oslavu toho, co žáci zvládli — ne pro nové učivo. Přineste symbolické ocenění (certifikát vytištěný ze šablony, nálepka, pochvala před třídou). Žáci si to pamatují mnohem déle než jakoukoliv látku.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální společnost a průřezové kompetence
+> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a technologie.*
+> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Prezentuje** skupinový projekt „chytrého města" před třídou strukturovaně a srozumitelně.
+* **Formuluje** konstruktivní zpětnou vazbu na práci spolužáků.
+* **Reflektuje** vlastní pokrok v informatice za celý školní rok a pojmenuje, co se naučil.
+* **Orientuje se** v tématech, která ho čekají v 9. ročníku, a formuluje vlastní otázky nebo zájem.
 
-- Žák prezentuje skupinový projekt „chytrého města" před třídou strukturovaně a srozumitelně
-- Žák formuluje konstruktivní zpětnou vazbu na práci spolužáků
-- Žák reflektuje vlastní pokrok v informatice za celý školní rok a pojmenuje, co se naučil
-- Žák se orientuje v tématech, která ho čekají v 9. ročníku, a formuluje vlastní otázky nebo zájem
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Úvod a pravidla prezentace (3 min) — bez počítače
+#### 1. Úvod a pravidla prezentace (3 min)
+*Aktivita bez počítače.*
 
 Učitel připomene kontext: „Dnes zakončíme náš projekt chytrého města a zároveň celý školní rok v informatice." Vysvětlí pravidla:
 
@@ -26,7 +28,10 @@ Učitel připomene kontext: „Dnes zakončíme náš projekt chytrého města a
 
 Učitel připraví časomíru (např. online stopky na projektoru).
 
-### 2. Prezentace skupin — Smart City projekty (25 min) — PC
+---
+
+#### 2. Prezentace skupin — Smart City projekty (25 min)
+*Práce na PC — prezentace skupin.*
 
 Skupiny postupně presentují své návrhy z předchozí hodiny (týden 29). Pokud projekty nestihly dokončit, mají 3 minuty navíc na úpravu před svým vystoupením.
 
@@ -40,7 +45,10 @@ Skupiny postupně presentují své návrhy z předchozí hodiny (týden 29). Pok
 - Spolužáci po každé prezentaci řeknou 2 věci, které se jim líbily, a 1 věc, kterou by vylepšili
 - Učitel moderuje, dbá na konstruktivní tón
 
-### 3. Reflexe školního roku (10 min) — bez počítače
+---
+
+#### 3. Reflexe školního roku (10 min)
+*Aktivita bez počítače.*
 
 Žáci dostanou papír nebo kartu s otázkami (5 minut individuálně, pak sdílení):
 
@@ -54,7 +62,10 @@ Skupiny postupně presentují své návrhy z předchozí hodiny (týden 29). Pok
 
 Dobrovolní žáci sdílí odpovědi. Učitel zaznamenává náměty pro 9. ročník na tabuli.
 
-### 4. Výhled na 9. ročník a závěr (7 min) — diskuse
+---
+
+#### 4. Výhled na 9. ročník a závěr (7 min)
+*Diskuze.*
 
 Učitel krátce představí témata 9. ročníku (přizpůsobte podle skutečného plánu):
 
@@ -68,13 +79,19 @@ Učitel zdůrazní: „V 9. třídě na vše, co jste se naučili letos, naváž
 
 Závěrečné slovo: „Děkuji vám za celý rok. Bylo to fajn." — krátké, upřímné.
 
-## 📂 Podklady
+---
 
-- **Prezentace skupin:** projekty z týdne 29 (Google Slides nebo plakáty)
-- **Reflexní karta:** „Rok v informatice" — 5 otázek (tisk A5 nebo digitální formulář)
-- **Certifikát:** volitelně — šablona „Absolvoval/a jsem informatiku v 8. třídě" (Canva nebo Word)
-- **Šablona zpětné vazby:** „2 hvězdy a přání" (flip chart nebo Mentimeter)
-- **Odkaz pro žáky:** cs.k12.cz, code.org, scratch.mit.edu — kam jít dál, pokud chcete pokračovat
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Reflexní aktivita na konci roku je cenná nejen pro žáky, ale i pro vás — jejich odpovědi vám ukážou, co skutečně zůstalo a co příště zdůraznit jinak. Pokud máte čas, přečtěte si karty přes prázdniny a poznámky si schovejte pro přípravu 9. ročníku. Závěrečná hodina nemusí být slavnostní, ale měla by být laskavá — žáci odcházejí s pocitem, že to mělo smysl.
+* **Prezentace skupin:** projekty z týdne 29 (Google Slides nebo plakáty)
+* **Reflexní karta:** „Rok v informatice" — 5 otázek (tisk A5 nebo digitální formulář)
+* **Certifikát:** volitelně — šablona „Absolvoval/a jsem informatiku v 8. třídě" (Canva nebo Word)
+* **Šablona zpětné vazby:** „2 hvězdy a přání" (flip chart nebo Mentimeter)
+* **Odkaz pro žáky:** cs.k12.cz, code.org, scratch.mit.edu — kam jít dál, pokud chcete pokračovat
+
+---
+
+> 💡 **Tip pro učitele:**
+> Reflexní aktivita na konci roku je cenná nejen pro žáky, ale i pro vás — jejich odpovědi vám ukážou, co skutečně zůstalo a co příště zdůraznit jinak. Pokud máte čas, přečtěte si karty přes prázdniny a poznámky si schovejte pro přípravu 9. ročníku. Závěrečná hodina nemusí být slavnostní, ale měla by být laskavá — žáci odcházejí s pocitem, že to mělo smysl.
+
+> 💬 **Tip pro pátek:** Závěrečná hodina je příležitostí pro oslavu toho, co žáci zvládli — ne pro nové učivo. Přineste symbolické ocenění (certifikát vytištěný ze šablony, nálepka, pochvala před třídou). Žáci si to pamatují mnohem déle než jakoukoliv látku.

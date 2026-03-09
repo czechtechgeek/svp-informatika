@@ -1,22 +1,23 @@
-# Jak funguje internet: Cesta paketu
+# 🌐 Jak funguje internet: Cesta paketu
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vysvětlí princip fungování digitálních technologií a sítí</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Pusťte žákům vizualizaci „Submarine Cable Map" — fyzické kabely pod oceánem, které propojují kontinenty. Fyzická realita internetu je překvapivá a fascinující.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální technologie
+> **Kód:** `I-9-3-01` – *Žák vysvětlí princip fungování digitálních technologií a sítí.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Vysvětlí**, co je datový paket a proč se data dělí na pakety.
+* **Popíše** cestu paketu od odesílatele k příjemci přes uzly sítě.
+* **Vysvětlí** funkci IP adresy a roli routeru při směrování paketů.
+* **Rozlišuje** TCP a UDP a uvede příklady použití obou protokolů.
 
-- Žák vysvětlí, co je datový paket a proč se data dělí na pakety
-- Žák popíše cestu paketu od odesílatele k příjemci přes uzly sítě
-- Žák vysvětlí funkci IP adresy a roli routeru při směrování paketů
-- Žák rozlišuje TCP a UDP a uvede příklady použití obou protokolů
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Analogie: Dopis rozdělený na pohlednice (8 min) — tabule
+#### 1. Analogie: Dopis rozdělený na pohlednice (8 min)
+*Tabule — výklad s analogií.*
 
 Učitel přinese velký list papíru a rozstříhá ho na 5 kousků:
 - Každý kousek = paket
@@ -26,7 +27,10 @@ Učitel přinese velký list papíru a rozstříhá ho na 5 kousků:
 
 Proč pakety a ne jeden velký soubor? → Efektivita (více cest), odolnost (ztracený paket = jen malé zpomalení, ne ztráta celého souboru).
 
-### 2. Cesta paketu — vrstvový model (12 min) — tabule
+---
+
+#### 2. Cesta paketu — vrstvový model (12 min)
+*Tabule — výklad.*
 
 Zjednodušený model TCP/IP:
 
@@ -43,7 +47,10 @@ Zjednodušený model TCP/IP:
 
 **Router** = „poštovní úřad" — přijme paket, rozhodne kudy dál.
 
-### 3. Aktivita: Rolová hra „Jsem paket" (15 min) — bez počítače
+---
+
+#### 3. Aktivita: Rolová hra „Jsem paket" (15 min)
+*Aktivita bez počítače — pohybová hra.*
 
 Třída je síť:
 - 4–5 „routerů" stojí uprostřed (mají tabulku směrování — papír)
@@ -53,7 +60,10 @@ Třída je síť:
 
 Diskuse: Co se stane, když jeden router „havaruje"? (Pakety hledají jinou cestu — robustnost internetu.)
 
-### 4. TCP vs. UDP (10 min) — tabule
+---
+
+#### 4. TCP vs. UDP (10 min)
+*Tabule — přehled.*
 
 | Vlastnost | TCP | UDP |
 |-----------|-----|-----|
@@ -64,13 +74,19 @@ Diskuse: Co se stane, když jeden router „havaruje"? (Pakety hledají jinou ce
 
 Příklad: YouTube — pokud ztratíme paket ve streamu, raději přeskočíme než čekáme na opakované zaslání.
 
-## 📂 Podklady
+---
 
-- **Video — jak funguje internet (CZ):** YouTube „jak funguje internet animace" nebo „internet paket routing"
-- **Vizualizace — Submarine Cable Map (EN):** [submarinecablemap.com](https://www.submarinecablemap.com) — fyzické kabely pod mořem
-- **Interaktivní — howdnsworks (EN):** [howdns.works](https://howdns.works) — animované vysvětlení DNS
-- **Simulátor sítě:** Cisco Packet Tracer (zdarma po registraci) — pro pokročilejší simulaci
-- **Propojení s 7. ročníkem:** Router a LAN/WAN ze 7. ročníku — nyní jdeme hlouběji
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Rolová hra „jsem paket" je fyzická a žáci si ji pamatují. Připravte předem tabulky směrování pro routery (jednoduché: „pakety pro 192.168.1.X pošli doleva, ostatní doprava"). Pokud nemáte prostor pro pohyb, lze hru zjednodušit na sezení — žáci si předávají lístky v řadách. Propojení s fyzickým kabelem pod oceánem otevírá diskusi o geopolitice internetu (kdo vlastní kabely, co se stane při přerušení).
+* **Video — jak funguje internet (CZ):** YouTube „jak funguje internet animace" nebo „internet paket routing"
+* **Vizualizace — Submarine Cable Map (EN):** [submarinecablemap.com](https://www.submarinecablemap.com) — fyzické kabely pod mořem
+* **Interaktivní — howdnsworks (EN):** [howdns.works](https://howdns.works) — animované vysvětlení DNS
+* **Simulátor sítě:** Cisco Packet Tracer (zdarma po registraci) — pro pokročilejší simulaci
+* **Propojení s 7. ročníkem:** Router a LAN/WAN ze 7. ročníku — nyní jdeme hlouběji
+
+---
+
+> 💡 **Tip pro učitele:**
+> Rolová hra „jsem paket" je fyzická a žáci si ji pamatují. Připravte předem tabulky směrování pro routery (jednoduché: „pakety pro 192.168.1.X pošli doleva, ostatní doprava"). Pokud nemáte prostor pro pohyb, lze hru zjednodušit na sezení — žáci si předávají lístky v řadách. Propojení s fyzickým kabelem pod oceánem otevírá diskusi o geopolitice internetu (kdo vlastní kabely, co se stane při přerušení).
+
+> 💬 **Tip pro pátek:** Pusťte žákům vizualizaci „Submarine Cable Map" — fyzické kabely pod oceánem, které propojují kontinenty. Fyzická realita internetu je překvapivá a fascinující.

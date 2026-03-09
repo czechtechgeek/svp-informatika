@@ -1,23 +1,24 @@
-# E-commerce: E-shop a bezpečné platby
+# 🛒 E-commerce: E-shop a bezpečné platby
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální gramotnost / E-commerce
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání sebe i ostatní při práci v digitálním prostředí</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák komunikuje a spolupracuje digitálně s ohledem na etiku</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Ptejte se žáků, zda sami nebo rodiče nakupují online — většina ano. Reálné zkušenosti s reklamací nebo podezřelým e-shopem bývají v každé třídě. Tyto příběhy jsou nejlepší motivací pro hodinu o bezpečném nakupování.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální gramotnost / E-commerce
+> **Kód:** `I-9-4-02` – *Žák chrání sebe i ostatní při práci v digitálním prostředí.*
+> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně s ohledem na etiku.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Popíše**, jak funguje e-shop od objednávky po doručení, a identifikuje klíčové bezpečnostní prvky.
+* **Posoudí** důvěryhodnost e-shopu podle konkrétních kritérií.
+* **Rozliší** bezpečné a rizikové způsoby platby online.
+* **Zná** svá práva jako spotřebitel při nákupu v e-shopu (reklamace, odstoupení od smlouvy).
 
-- Žák popíše, jak funguje e-shop od objednávky po doručení, a identifikuje klíčové bezpečnostní prvky
-- Žák posoudí důvěryhodnost e-shopu podle konkrétních kritérií
-- Žák rozliší bezpečné a rizikové způsoby platby online
-- Žák zná svá práva jako spotřebitel při nákupu v e-shopu (reklamace, odstoupení od smlouvy)
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Úvod: Jak funguje e-shop? (8 min) — tabule
+#### 1. Úvod: Jak funguje e-shop? (8 min)
+*Tabule — výklad.*
 
 Učitel nakreslí na tabuli cestu objednávky:
 
@@ -31,7 +32,10 @@ Stručné vysvětlení každého kroku:
 
 Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard korun**. Česká republika má jeden z nejvyšších podílů online nakupujících v Evropě.
 
-### 2. Jak poznat důvěryhodný e-shop? (12 min) — PC
+---
+
+#### 2. Jak poznat důvěryhodný e-shop? (12 min)
+*Práce na PC — průzkum e-shopů.*
 
 Žáci pracují u počítačů. Učitel zadá 2 e-shopy k porovnání — jeden důvěryhodný (alza.cz), jeden fiktivní podvodný (popsaný níže). Žáci vyplní checklist pro každý.
 
@@ -49,7 +53,10 @@ Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard ko
 
 Červené vlajky: cena nereálně nízká, platba jen převodem (nelze reklamovat), chybí kontakty a podmínky, podezřelá doména (.shop).
 
-### 3. Způsoby platby: Bezpečnostní srovnání (13 min) — tabule
+---
+
+#### 3. Způsoby platby: Bezpečnostní srovnání (13 min)
+*Tabule — přehled.*
 
 Učitel projde srovnání platebních metod:
 
@@ -63,7 +70,10 @@ Učitel projde srovnání platebních metod:
 
 Klíčové právo: **Zákon o ochraně spotřebitele** zaručuje právo vrátit zboží zakoupené online do **14 dnů** bez udání důvodu (platí pro e-shopy v ČR a EU). Toto právo neplatí u fyzického nákupu v kamenném obchodě.
 
-### 4. Reklamace a práva spotřebitele: Scénáře (12 min) — diskuse
+---
+
+#### 4. Reklamace a práva spotřebitele: Scénáře (12 min)
+*Diskuze.*
 
 Žáci dostanou 3 scénáře a diskutují, co by udělali:
 
@@ -81,12 +91,18 @@ Závěrečné shrnutí: 3 zlatá pravidla online nákupu:
 2. Plaťte kartou nebo přes PayPal — máte větší ochranu
 3. Uchovávejte všechny potvrzení a e-maily z objednávky
 
-## 📂 Podklady
+---
 
-- **Web — Heureka.cz:** [heureka.cz](https://www.heureka.cz) — ověřené recenze e-shopů; žáci mohou vyhledat libovolný e-shop
-- **Web — Česká obchodní inspekce:** [coi.cz](https://www.coi.cz) — podání stížnosti, rádce spotřebitele, seznam problematických e-shopů
-- **Web — dTest.cz:** [dtest.cz](https://www.dtest.cz) — testy e-shopů, rady pro spotřebitele, vzory reklamačních dopisů
-- **Web — ARES:** [ares.gov.cz](https://ares.gov.cz) — ověření IČO a registrace firmy v ČR
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Hodina má přesah do výchovy k občanství — spotřebitelská práva jsou klíčová a žáci je ve svém životě brzy využijí. Propojte téma s reálnou zkušeností: zeptejte se, zda někdo z žáků nebo jejich rodičů měl problém s online nákupem. Praktický tip: ukažte žákům, jak ověřit IČO e-shopu přes ares.gov.cz — to zvládnou za 30 sekund a je to nejrychlejší kontrola legitimity obchodníka.
+* **Web — Heureka.cz:** [heureka.cz](https://www.heureka.cz) — ověřené recenze e-shopů; žáci mohou vyhledat libovolný e-shop
+* **Web — Česká obchodní inspekce:** [coi.cz](https://www.coi.cz) — podání stížnosti, rádce spotřebitele, seznam problematických e-shopů
+* **Web — dTest.cz:** [dtest.cz](https://www.dtest.cz) — testy e-shopů, rady pro spotřebitele, vzory reklamačních dopisů
+* **Web — ARES:** [ares.gov.cz](https://ares.gov.cz) — ověření IČO a registrace firmy v ČR
+
+---
+
+> 💡 **Tip pro učitele:**
+> Hodina má přesah do výchovy k občanství — spotřebitelská práva jsou klíčová a žáci je ve svém životě brzy využijí. Propojte téma s reálnou zkušeností: zeptejte se, zda někdo z žáků nebo jejich rodičů měl problém s online nákupem. Praktický tip: ukažte žákům, jak ověřit IČO e-shopu přes ares.gov.cz — to zvládnou za 30 sekund a je to nejrychlejší kontrola legitimity obchodníka.
+
+> 💬 **Tip pro pátek:** Ptejte se žáků, zda sami nebo rodiče nakupují online — většina ano. Reálné zkušenosti s reklamací nebo podezřelým e-shopem bývají v každé třídě. Tyto příběhy jsou nejlepší motivací pro hodinu o bezpečném nakupování.

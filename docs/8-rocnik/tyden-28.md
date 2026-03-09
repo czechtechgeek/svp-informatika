@@ -1,26 +1,31 @@
-﻿# 3D modelování II: Tvorba vlastního objektu
+# 🎨 3D modelování II: Tvorba vlastního objektu
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální tvorba a programování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-3-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-3-01</span><span style="color: #374151;">Žák vytvoří jednoduchý program / digitální artefakt</span></div> <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák komunikuje a spolupracuje digitálně</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Na začátku hodiny nechte žáky 2 minuty ukázat spolužákovi, co vytvořili minule. Vzájemné sdílení zvyšuje motivaci a pomáhá těm, kteří minulou hodinu zameškali, rychle se zorientovat.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální tvorba a programování
+> **Kód:** `I-9-3-01` – *Žák vytvoří jednoduchý program / digitální artefakt.*
+> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Použije** funkci „Hole" (díra) k odečtení tvaru a vytvoří otvor nebo vybrání v objektu.
+* **Kombinuje** více tvarů pomocí funkce „Group" do jednoho celku.
+* **Navrhne** a vytvoří vlastní objekt (přívěsek, klíčenku nebo miniaturu) dle vlastního výběru.
+* **Exportuje** nebo sdílí svůj model a popíše, co vytvořil a jak postupoval.
 
-- Žák použije funkci „Hole" (díra) k odečtení tvaru a vytvoří otvor nebo vybrání v objektu
-- Žák kombinuje více tvarů pomocí funkce „Group" do jednoho celku
-- Žák navrhne a vytvoří vlastní objekt (přívěsek, klíčenku nebo miniaturu) dle vlastního výběru
-- Žák exportuje nebo sdílí svůj model a popíše, co vytvořil a jak postupoval
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Opakování a motivace (5 min) — diskuse
+#### 1. Opakování a motivace (5 min)
+*Diskuze.*
 
 Krátké opakování minulé hodiny: Co jsou základní tvary v Tinkercad? Jak se mění jejich velikost? Učitel ukáže na projektoru finální objekt z dnešní hodiny (např. přívěsek se jménem nebo jednoduchá klíčenka) a položí otázku: „Jak myslíte, že tohle vzniklo? Z kolika tvarů?" Žáci tipují — tím se přirozeně dostaneme k tématu kombinování a odečítání tvarů.
 
-### 2. Výklad: Hole a Group (10 min) — PC
+---
+
+#### 2. Výklad: Hole a Group (10 min)
+*Práce na PC — demonstrace.*
 
 Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší na svém počítači:
 
@@ -39,7 +44,10 @@ Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší n
 - Písmena zapuštěná do tabulky (text jako hole)
 - Zásobník nebo miska (cylinder s dírou uvnitř)
 
-### 3. Samostatná tvorba vlastního objektu (22 min) — PC
+---
+
+#### 3. Samostatná tvorba vlastního objektu (22 min)
+*Práce na PC — tvůrčí tvorba.*
 
 Žáci si vyberou jeden z nabízených projektů (nebo vlastní nápad po dohodě s učitelem):
 
@@ -58,17 +66,26 @@ Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší n
 
 Učitel obchází třídu, pomáhá s problémy, upozorňuje na časté chyby (díra musí přesahovat základní tvar, jinak nevyřízne celou tloušťku).
 
-### 4. Prezentace a hodnocení (8 min) — diskuse
+---
+
+#### 4. Prezentace a hodnocení (8 min)
+*Diskuze — prezentace žáků.*
 
 Každý žák pojmenuje svůj projekt a stručně (1–2 věty) popíše, co vytvořil a jaký byl nejtěžší krok. Učitel nebo žáci dají „palec nahoru" za nejoriginálnější nápad, nejpřesnější provedení a nejlepší použití funkce Hole. Modely zůstávají uloženy v Tinkercad účtu pro případný budoucí 3D tisk.
 
-## 📂 Podklady
+---
 
-- **Web:** tinkercad.com — žáci pokračují v účtu z minulé hodiny
-- **Referenční karta:** „Tinkercad – tahák klávesových zkratek" (Ctrl+G, Ctrl+Z, F, T, pohled)
-- **Šablona přívěsku:** odkaz na sdílený startovací design v Tinkercad galerii (učitel vytvoří předem)
-- **Inspirace:** Pinterest „tinkercad keychain" — ukázky žákovských prací z celého světa
-- **Volitelně:** Připravený STL soubor k prohlédnutí v online prohlížeči (viewstl.com)
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Funkce „Hole" bývá pro žáky zpočátku matoucí — musí si zapamatovat, že díra musí fyzicky překrývat základní tvar a teprve poté seskupení provede odečtení. Nejčastější chyba: žáci dají Hole vedle objektu místo do něj. Pomáhá přirovnání „jako razítko — musíš přiložit razítko na papír, jinak neotiskneš". Rychlejší žáci mohou zkoušet funkci „Align" pro přesné zarovnání objektů nebo funkci „Mirror" pro symetrii.
+* **Web:** tinkercad.com — žáci pokračují v účtu z minulé hodiny
+* **Referenční karta:** „Tinkercad – tahák klávesových zkratek" (Ctrl+G, Ctrl+Z, F, T, pohled)
+* **Šablona přívěsku:** odkaz na sdílený startovací design v Tinkercad galerii (učitel vytvoří předem)
+* **Inspirace:** Pinterest „tinkercad keychain" — ukázky žákovských prací z celého světa
+* **Volitelně:** Připravený STL soubor k prohlédnutí v online prohlížeči (viewstl.com)
+
+---
+
+> 💡 **Tip pro učitele:**
+> Funkce „Hole" bývá pro žáky zpočátku matoucí — musí si zapamatovat, že díra musí fyzicky překrývat základní tvar a teprve poté seskupení provede odečtení. Nejčastější chyba: žáci dají Hole vedle objektu místo do něj. Pomáhá přirovnání „jako razítko — musíš přiložit razítko na papír, jinak neotiskneš". Rychlejší žáci mohou zkoušet funkci „Align" pro přesné zarovnání objektů nebo funkci „Mirror" pro symetrii.
+
+> 💬 **Tip pro pátek:** Na začátku hodiny nechte žáky 2 minuty ukázat spolužákovi, co vytvořili minule. Vzájemné sdílení zvyšuje motivaci a pomáhá těm, kteří minulou hodinu zameškali, rychle se zorientovat.

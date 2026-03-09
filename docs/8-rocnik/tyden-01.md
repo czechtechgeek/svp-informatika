@@ -1,23 +1,24 @@
-# Data v 21. století: Data jako nová ropa
+# 🛢️ Data v 21. století: Data jako nová ropa
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="I-9-1-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-1-01</span><span style="color: #374151;">Žák porozumí pojmu data, jejich typům a způsobům reprezentace</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a chování online</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Přineste výroční zprávu nebo tiskovinu velké firmy (Meta, Google, AVAST) a nechejte žáky najít zmínky o datech. Kolik dat zpracovávají? Co s nimi dělají? Reálný dokument silně zabírá.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Data, informace a modelování
+> **Kód:** `I-9-1-01` – *Žák porozumí pojmu data, jejich typům a způsobům reprezentace.*
+> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a chování online.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Vysvětlí**, proč se říká „data jsou nová ropa" a co tato metafora znamená.
+* **Uvede** konkrétní příklady dat, která o sobě generuje každý den.
+* **Rozlišuje**, kdo sbírá jeho data a k jakému účelu.
+* **Zaujme** vlastní postoj k hodnotě osobních dat.
 
-- Žák vysvětlí, proč se říká „data jsou nová ropa" a co tato metafora znamená
-- Žák uvede konkrétní příklady dat, která o sobě generuje každý den
-- Žák rozlišuje, kdo sbírá jeho data a k jakému účelu
-- Žák zaujme vlastní postoj k hodnotě osobních dat
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Úvod: Co jsou data? (8 min) — diskuse
+#### 1. Úvod: Co jsou data? (8 min)
+*Diskuze u tabule.*
 
 Učitel se ptá: „Co jste dnes udělali, než jste přišli do školy?" Žáci vyjmenovávají aktivity — probuzení, mobil, snídaně, autobus...
 
@@ -28,7 +29,10 @@ Učitel doplňuje: Každá z těchto aktivit generuje data:
 
 **Klíčová definice:** Data jsou zaznamenané, zpracovatelné informace. Sama o sobě jsou „surovina" — hodnotu dostávají až analýzou.
 
-### 2. Proč „data jako ropa"? (10 min) — tabule
+---
+
+#### 2. Proč „data jako ropa"? (10 min)
+*Tabule — výklad a diskuze.*
 
 Učitel napíše na tabuli paralelu:
 
@@ -42,7 +46,10 @@ Učitel napíše na tabuli paralelu:
 
 Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kopírovat nekonečněkrát, ropa se spotřebuje.)
 
-### 3. Aktivita: Kolik dat generuji? (15 min) — PC nebo papír
+---
+
+#### 3. Aktivita: Kolik dat generuji? (15 min)
+*PC nebo papír — práce ve dvojicích.*
 
 Žáci ve dvojicích vyplní tabulku — odhadnou, kolik datových stop zanechají za jeden typický den:
 
@@ -56,7 +63,10 @@ Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kop�
 
 Skupiny porovnají výsledky — učitel ukáže, jak velký „datový profil" vzniká za jeden den.
 
-### 4. Reflexe a přehled roku (7 min) — tabule
+---
+
+#### 4. Reflexe a přehled roku (7 min)
+*Tabule.*
 
 Učitel stručně ukáže, co 8. ročník přinese:
 - Práce s tabulkami na analýzu dat (týdny 2–5)
@@ -66,13 +76,19 @@ Učitel stručně ukáže, co 8. ročník přinese:
 
 Žáci napíší na lísteček: „Jedno téma, které mě letos nejvíce zajímá" — anonymně, lepí na tabuli.
 
-## 📂 Podklady
+---
 
-- **Video (CZ):** ČT edu — hledejte „data digitální ekonomika"; nebo YouTube „data jsou nová ropa vysvětlení"
-- **Interaktivní — Datacenter Map:** [datacentermap.com](https://www.datacentermap.com) — kde fyzicky leží data světa
-- **Čtení — Mozilla Data Detox (CZ/EN):** [datadetoxkit.org](https://datadetoxkit.org/cs) — praktický průvodce pro kontrolu dat
-- **Rozšíření:** Dokumentární film „The Great Hack" (Netflix) — Cambridge Analytica a volby; vhodné jako domácí úkol pro zájemce
-- **Přehled osnovy roku:** Vytiskněte nebo sdílejte jako dokument — žáci si jej vlepí do sešitu
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Žáci 8. ročníku jsou ve věku, kdy data o nich sbírají sociální sítě nejintenzivněji. Téma je proto velmi osobní. Nepůsobte jako strašák — cílem není vyvolat paranoju, ale informovanost. Zdůrazněte, že znalost problému je první krok k informovanému rozhodnutí. Diskuse o tom, „co já za to dostávám" (zdarma služby, personalizace) je klíčová pro kritické myšlení.
+* **Video (CZ):** ČT edu — hledejte „data digitální ekonomika"; nebo YouTube „data jsou nová ropa vysvětlení"
+* **Interaktivní — Datacenter Map:** [datacentermap.com](https://www.datacentermap.com) — kde fyzicky leží data světa
+* **Čtení — Mozilla Data Detox (CZ/EN):** [datadetoxkit.org](https://datadetoxkit.org/cs) — praktický průvodce pro kontrolu dat
+* **Rozšíření:** Dokumentární film „The Great Hack" (Netflix) — Cambridge Analytica a volby; vhodné jako domácí úkol pro zájemce
+* **Přehled osnovy roku:** Vytiskněte nebo sdílejte jako dokument — žáci si jej vlepí do sešitu
+
+---
+
+> 💡 **Tip pro učitele:**
+> Žáci 8. ročníku jsou ve věku, kdy data o nich sbírají sociální sítě nejintenzivněji. Téma je proto velmi osobní. Nepůsobte jako strašák — cílem není vyvolat paranoju, ale informovanost. Zdůrazněte, že znalost problému je první krok k informovanému rozhodnutí. Diskuse o tom, „co já za to dostávám" (zdarma služby, personalizace) je klíčová pro kritické myšlení.
+
+> 💬 **Tip pro pátek:** Přineste výroční zprávu nebo tiskovinu velké firmy (Meta, Google, AVAST) a nechejte žáky najít zmínky o datech. Kolik dat zpracovávají? Co s nimi dělají? Reálný dokument silně zabírá.

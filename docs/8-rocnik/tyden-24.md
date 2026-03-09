@@ -1,23 +1,24 @@
-# IoT: Internet věcí – rizika
+# 📱 IoT: Internet věcí – rizika
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální bezpečnost / Technologie
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-02" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-02</span><span style="color: #374151;">Žák chrání sebe i ostatní při práci v digitálním prostředí</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a chování online</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Zeptejte se žáků, kolik chytrých zařízení mají doma — spočítají telefony, tablety, chytrou TV, router, případně chytré reproduktory nebo žárovky. Výsledná čísla je vždy překvapí a okamžitě propojí téma s jejich vlastní realitou.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální bezpečnost / Technologie
+> **Kód:** `I-9-4-02` – *Žák chrání sebe i ostatní při práci v digitálním prostředí.*
+> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a chování online.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Definuje** pojem IoT a uvede konkrétní příklady IoT zařízení ze svého okolí.
+* **Pojmenuje** hlavní bezpečnostní a soukromostní rizika spojená s IoT.
+* **Analyzuje** reálný případ IoT útoku a navrhne opatření, jak mu předejít.
+* **Posoudí**, jaká data o něm sbírají chytrá zařízení a jak to omezit.
 
-- Žák definuje pojem IoT a uvede konkrétní příklady IoT zařízení ze svého okolí
-- Žák pojmenuje hlavní bezpečnostní a soukromostní rizika spojená s IoT
-- Žák analyzuje reálný případ IoT útoku a navrhne opatření, jak mu předejít
-- Žák posoudí, jaká data o něm sbírají chytrá zařízení a jak to omezit
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Úvod: Kolik zařízení je online? (8 min) — diskuse
+#### 1. Úvod: Kolik zařízení je online? (8 min)
+*Diskuze.*
 
 Učitel požádá žáky, aby odhadli, kolik zařízení připojených k internetu je v jejich domácnosti. Zapíše čísla na tabuli. Celkový odhad pro celou třídu bude pravděpodobně stovky zařízení.
 
@@ -36,7 +37,10 @@ Přehled kategorií IoT zařízení:
 
 Zajímavé číslo: V roce 2024 bylo na světě připojeno přes **17 miliard IoT zařízení**. Do roku 2030 se odhaduje přes 30 miliard.
 
-### 2. Rizika IoT: Co může jít špatně? (12 min) — tabule
+---
+
+#### 2. Rizika IoT: Co může jít špatně? (12 min)
+*Tabule — přehled rizik.*
 
 Učitel projde tři hlavní kategorie rizik s reálnými příklady:
 
@@ -55,7 +59,10 @@ Učitel projde tři hlavní kategorie rizik s reálnými příklady:
 - Hacknuté chytré auto = útočník může ovlivnit brzdění nebo navigaci.
 - Hacknutý nemocniční přístroj = přímé ohrožení života pacienta.
 
-### 3. Analýza případu: Útok na nemocnici přes termostat (15 min) — PC nebo papír
+---
+
+#### 3. Analýza případu: Útok na nemocnici přes termostat (15 min)
+*PC nebo papír — skupinová práce.*
 
 Žáci pracují ve skupinách po 3–4. Dostanou popis případu a odpoví na otázky.
 
@@ -69,7 +76,10 @@ Učitel projde tři hlavní kategorie rizik s reálnými příklady:
 
 Skupiny sdílejí závěry — učitel zapisuje doporučení na tabuli.
 
-### 4. Jak se chránit: Pravidla pro bezpečné IoT (10 min) — diskuse
+---
+
+#### 4. Jak se chránit: Pravidla pro bezpečné IoT (10 min)
+*Diskuze.*
 
 Žáci navrhnou pravidla, učitel doplní:
 
@@ -80,12 +90,18 @@ Skupiny sdílejí závěry — učitel zapisuje doporučení na tabuli.
 5. **Zkontrolujte oprávnění** — proč potřebuje fitness náramek přístup k vašim kontaktům?
 6. **Starý router = riziko** — přes 5 let starý router pravděpodobně nedostává bezpečnostní aktualizace
 
-## 📂 Podklady
+---
 
-- **Web — Shodan:** [shodan.io](https://www.shodan.io) — vyhledávač nezabezpečených IoT zařízení na internetu (ukázkové použití pouze pro demonstraci, nepoužívat pro přístup k cizím zařízením)
-- **Video (EN/CZ):** YouTube — „Mirai botnet explained" nebo „IoT security risks" — dobré vizuální vysvětlení; ČT dokument o chytrých domácnostech
-- **Web — NÚKIB:** [nukib.cz](https://www.nukib.cz) — doporučení pro zabezpečení domácí sítě
-- **Propojení s praxí:** Raspberry Pi a BBC Micro:bit jsou také IoT zařízení — propojte s praktickými hodinami programování
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Téma IoT je ideální pro propojení s domácím prostředím žáků — většina z nich má doma alespoň chytrou TV nebo chytrý reproduktor. Nechte žáky přemýšlet, jaká data o nich tato zařízení sbírají. Shodan.io je fascinující nástroj — učitel může promítnout vyhledání „default password camera" a ukázat, kolik nezabezpečených kamer je viditelných z internetu. Zdůrazněte ale, že k cizím zařízením se přistupovat nesmí — je to trestný čin.
+* **Web — Shodan:** [shodan.io](https://www.shodan.io) — vyhledávač nezabezpečených IoT zařízení na internetu (ukázkové použití pouze pro demonstraci, nepoužívat pro přístup k cizím zařízením)
+* **Video (EN/CZ):** YouTube — „Mirai botnet explained" nebo „IoT security risks" — dobré vizuální vysvětlení; ČT dokument o chytrých domácnostech
+* **Web — NÚKIB:** [nukib.cz](https://www.nukib.cz) — doporučení pro zabezpečení domácí sítě
+* **Propojení s praxí:** Raspberry Pi a BBC Micro:bit jsou také IoT zařízení — propojte s praktickými hodinami programování
+
+---
+
+> 💡 **Tip pro učitele:**
+> Téma IoT je ideální pro propojení s domácím prostředím žáků — většina z nich má doma alespoň chytrou TV nebo chytrý reproduktor. Nechte žáky přemýšlet, jaká data o nich tato zařízení sbírají. Shodan.io je fascinující nástroj — učitel může promítnout vyhledání „default password camera" a ukázat, kolik nezabezpečených kamer je viditelných z internetu. Zdůrazněte ale, že k cizím zařízením se přistupovat nesmí — je to trestný čin.
+
+> 💬 **Tip pro pátek:** Zeptejte se žáků, kolik chytrých zařízení mají doma — spočítají telefony, tablety, chytrou TV, router, případně chytré reproduktory nebo žárovky. Výsledná čísla je vždy překvapí a okamžitě propojí téma s jejich vlastní realitou.

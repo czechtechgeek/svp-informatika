@@ -1,22 +1,24 @@
-﻿# Projekt: Návrh "chytrého města"
+# 🏙️ Projekt: Návrh "chytrého města"
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost a bezpečnost
-- **Výstup:** <div class="curriculumTag" data-code="I-9-4-01" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-01</span><span style="color: #374151;">Žák kriticky hodnotí digitální obsah a technologie</span></div> <div class="curriculumTag" data-code="I-9-4-03" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">I-9-4-03</span><span style="color: #374151;">Žák komunikuje a spolupracuje digitálně</span></div>
+> **Stav:** `⬜ Nekontrolováno`
 
-## 💬 Tip pro pátek
-Skupinová práce funguje nejlépe, když každý člen skupiny má jasnou roli. Na začátku 2 minuty věnujte rozdělení rolí: designér, zapisovatel, mluvčí, průzkumník. Zabrání to situaci, kdy jeden žák dělá vše a ostatní přihlíží.
+### 📋 Kontext a cíle
+> **RVP ZV (Informatika):** Digitální společnost a bezpečnost
+> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a technologie.*
+> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně.*
 
-## 🎯 Cíle hodiny
+**Po hodině žák:**
+* **Vysvětlí**, co je „chytré město" (smart city) a uvede alespoň tři konkrétní příklady technologií.
+* **Ve skupině identifikuje** problém ve městě a navrhne digitální řešení s využitím IoT nebo dat.
+* **Vytvoří** společný výstup (plakát nebo prezentaci) prezentující návrh chytrého prvku města.
+* **Zhodnotí** výhody a možná rizika navrhované technologie (soukromí, bezpečnost, dostupnost).
 
-- Žák vysvětlí, co je „chytré město" (smart city) a uvede alespoň tři konkrétní příklady technologií
-- Žák ve skupině identifikuje problém ve městě a navrhne digitální řešení s využitím IoT nebo dat
-- Žák vytvoří společný výstup (plakát nebo prezentaci) prezentující návrh chytrého prvku města
-- Žák zhodnotí výhody a možná rizika navrhované technologie (soukromí, bezpečnost, dostupnost)
+---
 
-## 💡 Metodický postup
+### 💡 Metodický postup (45 min)
 
-### 1. Úvod: Co je chytré město? (8 min) — tabule
+#### 1. Úvod: Co je chytré město? (8 min)
+*Tabule — výklad.*
 
 Učitel napíše na tabuli: „Praha 2035 — jak bude vypadat?" Žáci 2 minuty hádají / zapisují nápady na papír. Poté učitel rychle představí 4–5 reálných příkladů smart city technologií:
 
@@ -28,7 +30,10 @@ Učitel napíše na tabuli: „Praha 2035 — jak bude vypadat?" Žáci 2 minuty
 
 Klíčová otázka k diskusi: „Co mají všechny tyto věci společného?" (senzory + data + internet + automatizace = IoT)
 
-### 2. Zadání skupinového projektu (5 min) — bez počítače
+---
+
+#### 2. Zadání skupinového projektu (5 min)
+*Aktivita bez počítače.*
 
 Učitel rozdělí žáky do skupin po 3–4. Každá skupina si losuje nebo vybírá **oblast chytrého města**:
 
@@ -46,7 +51,10 @@ Skupina dostane pracovní list s otázkami:
 - Jaká jsou rizika (soukromí, výpadek, kyberútok)?
 - Jak by technologie vypadala v naší obci/městě?
 
-### 3. Skupinová práce — tvorba výstupu (22 min) — PC nebo papír
+---
+
+#### 3. Skupinová práce — tvorba výstupu (22 min)
+*PC nebo papír — skupinová tvorba.*
 
 Skupiny pracují na svém výstupu. Na výběr mají:
 
@@ -62,17 +70,26 @@ Skupiny pracují na svém výstupu. Na výběr mají:
 
 Učitel obchází skupiny, klade doplňující otázky: „Kdo bude mít přístup k datům? Co se stane, když systém selže?"
 
-### 4. Krátké představení skupin a reflexe (10 min) — diskuse
+---
+
+#### 4. Krátké představení skupin a reflexe (10 min)
+*Diskuze.*
 
 Každá skupina má 1,5 minuty na stručné představení svého návrhu (co, proč, jak). Třída může klást jednu otázku. Učitel na závěr shrne společné téma: digitální technologie mění města, ale vždy nesou otázky soukromí a bezpečnosti. Připomene, že příští hodinu bude prostor pro dokončení a prezentaci.
 
-## 📂 Podklady
+---
 
-- **Pracovní list:** „Chytré město — náš návrh" (otázky pro skupinovou práci, šablona výstupu)
-- **Odkaz:** smartcityvpraxi.cz — česky psané příklady reálných projektů
-- **Odkaz:** ovzdusi.cz — živá mapa kvality ovzduší (ukázka IoT dat v praxi)
-- **Šablona prezentace:** Google Slides šablona „Smart City Projekt" (sdílený odkaz v třídním Drive)
-- **Video:** „What is a Smart City?" — TED-Ed, 5 min (EN s titulky) — vhodné pustit úvodem nebo jako DÚ
+### 🛠️ Zdroje a nástroje
 
-!!! tip "Tip pro učitele"
-    Skupiny mají tendenci zůstávat u povrchních popisů („budou tam senzory a bude to chytré"). Pokládejte konkrétní otázky: „Kolik senzorů? Kdo platí provoz? Kde jsou data uložena?" Tím donutíte žáky přemýšlet jako systémoví návrháři, ne jen jako vizionáři. Pokud máte chytrou tabuli nebo projektory na každém stole, nechte skupiny pracovat přímo v Google Slides — sdílení dokumentu ušetří čas při prezentaci.
+* **Pracovní list:** „Chytré město — náš návrh" (otázky pro skupinovou práci, šablona výstupu)
+* **Odkaz:** smartcityvpraxi.cz — česky psané příklady reálných projektů
+* **Odkaz:** ovzdusi.cz — živá mapa kvality ovzduší (ukázka IoT dat v praxi)
+* **Šablona prezentace:** Google Slides šablona „Smart City Projekt" (sdílený odkaz v třídním Drive)
+* **Video:** „What is a Smart City?" — TED-Ed, 5 min (EN s titulky) — vhodné pustit úvodem nebo jako DÚ
+
+---
+
+> 💡 **Tip pro učitele:**
+> Skupiny mají tendenci zůstávat u povrchních popisů („budou tam senzory a bude to chytré"). Pokládejte konkrétní otázky: „Kolik senzorů? Kdo platí provoz? Kde jsou data uložena?" Tím donutíte žáky přemýšlet jako systémoví návrháři, ne jen jako vizionáři. Pokud máte chytrou tabuli nebo projektory na každém stole, nechte skupiny pracovat přímo v Google Slides — sdílení dokumentu ušetří čas při prezentaci.
+
+> 💬 **Tip pro pátek:** Skupinová práce funguje nejlépe, když každý člen skupiny má jasnou roli. Na začátku 2 minuty věnujte rozdělení rolí: designér, zapisovatel, mluvčí, průzkumník. Zabrání to situaci, kdy jeden žák dělá vše a ostatní přihlíží.

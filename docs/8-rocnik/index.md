@@ -8,36 +8,39 @@
 
 Každý soubor `tyden-XX.md` má pevnou strukturu. Níže je vysvětlení, co v každé části hledat:
 
-### Záhlaví sekce metodického postupu
-
-Každý krok hodiny je označen vzorcem:
-
-```
-### [číslo]. [Název aktivity] ([čas] min) — [typ]
-```
-
-**Typy aktivit** — ikony za pomlčkou říkají, co žáci v daném kroku dělají:
-
-| Označení | Popis |
-|----------|-------|
-| `— bez počítače` | Fyzická nebo skupinová aktivita bez technologie — pohyb, diskuse, papír, kartičky |
-| `— PC` | Žáci pracují individuálně na počítači |
-| `— PC nebo papír` | Aktivitu lze realizovat na PC i offline (flexibilní) |
-| `— tabule` | Učitel demonstruje celé třídě, žáci sledují a diskutují |
-| `— diskuse` | Řízená třídní diskuse bez konkrétního produktu |
-| `— Micro:bit` | Aktivita s fyzickým vývojovým kitem BBC Micro:bit |
-| `— kvíz` | Rychlá diagnostická nebo soutěžní aktivita |
-
 ### Struktura každého souboru
 
 ```
-📋 Vazba na RVP      → Propojení s kurikulárními výstupy
-💬 Tip pro pátek     → Tip pro páteční nebo volnější hodiny
-🎯 Cíle hodiny       → Co by měl žák po hodině umět (měřitelné výstupy)
-💡 Metodický postup  → Krok za krokem s časováním (celkem ~45 min)
-📂 Podklady          → Odkazy na nástroje, videa, pracovní listy
-💡 Tip pro učitele   → Praktická rada z praxe (zelený rámeček)
+> Stav          → Zda byl soubor zkontrolován učitelem (⬜ / ✅)
+📋 Kontext a cíle → RVP kód, oblast, měřitelné výstupy žáka
+💡 Metodický postup → Krok za krokem s časováním (celkem ~45 min)
+🛠️ Zdroje a nástroje → Odkazy na nástroje, videa, pracovní listy
+💡 Tip pro učitele   → Praktická rada z praxe
+💬 Tip pro pátek     → Nápad pro volnější nebo páteční hodinu
 ```
+
+### Aktivity v metodickém postupu
+
+Každý krok hodiny má nadpis `#### N. Název (X min)` a kurzivní popis typu pod ním:
+
+| Typ aktivity | Popis |
+|----------|-------|
+| *Bez počítače* | Fyzická nebo skupinová aktivita — pohyb, diskuse, papír, kartičky |
+| *PC* | Žáci pracují individuálně na počítači |
+| *PC nebo papír* | Aktivitu lze realizovat na PC i offline (flexibilní) |
+| *Tabule* | Učitel demonstruje celé třídě, žáci sledují a diskutují |
+| *Diskuze* | Řízená třídní diskuse bez konkrétního produktu |
+| *Micro:bit* | Aktivita s fyzickým vývojovým kitem BBC Micro:bit |
+| *Kvíz* | Rychlá diagnostická nebo soutěžní aktivita |
+
+### Stav kontroly hodiny
+
+Každá příprava obsahuje na začátku stavový řádek:
+
+- `⬜ Nekontrolováno` — příprava zatím nebyla ověřena v praxi
+- `✅ Zkontrolováno` — příprava byla učitelem zkontrolována a odučena
+
+Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `✅ Zkontrolováno` ``.
 
 ### Doporučený postup přípravy
 
@@ -92,3 +95,130 @@ Každý krok hodiny je označen vzorcem:
 | 30 | Rezerva: Exkurze nebo host z praxe | [Příprava](tyden-30.md) |
 | 31 | Závěr: Prezentace vizí budoucnosti | [Příprava](tyden-31.md) |
 
+---
+
+## 🛠️ Nástroje a technologie
+
+| Nástroj | Typ | Použití v hodinách |
+|---------|-----|--------------------|
+| Google Sheets / Excel | Tabulkový procesor | Týdny 2–5 (data, funkce, grafy) |
+| Datawrapper | Online vizualizace | Týden 4 |
+| Flourish | Online vizualizace | Týden 4 |
+| MakeCode (makecode.microbit.org) | Blokový editor | Týdny 6–14 |
+| BBC Micro:bit | Fyzický kit | Týdny 6–14 |
+| Tinkercad (tinkercad.com) | 3D modelování | Týdny 27–28 |
+
+---
+
+## 📚 Soupis zdrojů podle RVP výstupů
+
+### I-9-1-01 — Žák porozumí pojmu data, jejich typům a způsobům reprezentace
+*(Oblast: Data, informace a modelování)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| ČT edu — „data digitální ekonomika" | Video (CZ) | Týden 1 |
+| [datacentermap.com](https://www.datacentermap.com) | Interaktivní mapa | Týden 1 |
+| [datadetoxkit.org/cs](https://datadetoxkit.org/cs) | Web (CZ/EN) | Týden 1 |
+| MakeCode — `teplota (°C)`, `úroveň světla` | Výukový nástroj | Týden 9 |
+
+### I-9-1-02 — Žák zpracuje a interpretuje data pomocí vhodných nástrojů
+*(Oblast: Data, informace a modelování)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [support.google.com — IF](https://support.google.com/docs/answer/3093364) | Dokumentace | Týden 2 |
+| YouTube — „funkce IF Excel česky" | Video (CZ) | Týden 2 |
+| [chmi.cz](https://www.chmi.cz) | Data ke stažení | Týden 3 |
+| YouTube — „funkce MIN MAX Excel průměr česky" | Video (CZ) | Týden 3 |
+| [Datawrapper](https://www.datawrapper.de) | Online vizualizace | Týden 4 |
+| [Flourish](https://flourish.studio) | Online vizualizace | Týden 4 |
+| [callingbullshit.org](https://www.callingbullshit.org) | Web (EN) | Týden 5 |
+| „Jak lhát se statistikou" — Darrell Huff | Kniha (CZ) | Týden 5 |
+
+### I-9-1-03 — Žák vytvoří model pro řešení problému nebo organizaci informací
+*(Oblast: Data, informace a modelování)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [app.diagrams.net](https://app.diagrams.net) | Vývojové diagramy | Týden 12 |
+| [microbit.org/projects](https://microbit.org/projects) | Projektové návody | Týden 12 |
+
+### I-9-2-01 — Žák rozloží problém na podproblémy a navrhne algoritmus
+*(Oblast: Algoritmizace a programování)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [makecode.microbit.org](https://makecode.microbit.org) | Blokový editor | Týdny 6–14 |
+| [microbit.org/cs](https://microbit.org/cs) | Průvodce (CZ) | Týden 6 |
+| microbit.org/projects — „Magic 8 Ball" | Projektový návod | Týden 7 |
+| [microbit.org/projects](https://microbit.org/projects) | Projektové návody | Týden 12 |
+| [microbit.org/do-your-bit](https://microbit.org/do-your-bit) | Showcase | Týden 12 |
+| [cryptii.com](https://cryptii.com) | Online šifrovací nástroj | Týden 19 |
+
+### I-9-2-02 — Žák implementuje algoritmus v programovacím jazyce
+*(Oblast: Algoritmizace a programování)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| MakeCode — Vstup → `při stisknutí tlačítka` | Výukový nástroj | Týden 7 |
+| MakeCode — Vstup → Gesta | Výukový nástroj | Týden 8 |
+| microbit.org/projects — „Dice" | Projektový návod | Týden 8 |
+| MakeCode — `teplota (°C)`, `úroveň světla` | Výukový nástroj | Týden 9 |
+| MakeCode — Proměnné | Výukový nástroj | Týden 10 |
+| MakeCode — Rádio | Výukový nástroj | Týden 11 |
+| microbit.org/projects — „Walkie Talkie" | Projektový návod | Týden 11 |
+| MakeCode — LED → `vykreslit x y jas` | Výukový nástroj | Týden 14 |
+
+### I-9-3-01 — Žák vysvětlí princip fungování digitálních technologií a sítí
+*(Oblast: Digitální technologie)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [submarinecablemap.com](https://www.submarinecablemap.com) | Vizualizace (EN) | Týden 16 |
+| YouTube — „jak funguje internet animace" | Video (CZ) | Týden 16 |
+| [howdns.works](https://howdns.works) | Animace (EN) | Týden 17 |
+| [mxtoolbox.com/DNSLookup.aspx](https://mxtoolbox.com/DNSLookup.aspx) | Online DNS lookup | Týden 17 |
+| YouTube — „Jak funguje HTTPS" | Video (CZ) | Týden 18 |
+| [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/) | SSL test | Týden 18 |
+| [tinkercad.com](https://www.tinkercad.com) | 3D modelování | Týdny 27–28 |
+
+### I-9-4-01 — Žák kriticky hodnotí digitální obsah a chování online
+*(Oblast: Digitální bezpečnost a etika)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| Dokumentární film „The Great Hack" (Netflix) | Film | Týden 1 |
+| [virustotal.com](https://www.virustotal.com) | Online nástroj | Týden 20 |
+| [nukib.cz](https://www.nukib.cz) | Web (CZ) | Týdny 20–24 |
+| [phishingquiz.withgoogle.com](https://phishingquiz.withgoogle.com) | Online kvíz | Týden 21 |
+| [hoax.cz](https://www.hoax.cz) | Web (CZ) | Týden 21 |
+| Kevin Mitnick „The Art of Deception" | Kniha (EN) | Týden 22 |
+| [shodan.io](https://www.shodan.io) | Vyhledávač IoT | Týden 24 |
+| [heureka.cz](https://www.heureka.cz) | Web (CZ) | Týden 25 |
+| [coi.cz](https://www.coi.cz) | Web (CZ) | Týden 25 |
+
+### I-9-4-02 — Žák chrání sebe i ostatní při práci v digitálním prostředí
+*(Oblast: Digitální bezpečnost a etika)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [observatory.mozilla.org](https://observatory.mozilla.org) | Web (EN) | Týden 18 |
+| [cryptii.com](https://cryptii.com) | Online šifrovací nástroj | Týden 19 |
+| Khan Academy — Cryptography | Kurz (EN) | Týden 19 |
+| YouTube — „WannaCry útok vysvětlení" | Video (CZ) | Týden 20 |
+| [haveibeenpwned.com](https://haveibeenpwned.com) | Web (EN) | Týden 23 |
+| [2fa.directory](https://2fa.directory) | Web (EN) | Týden 23 |
+| [dtest.cz](https://www.dtest.cz) | Web (CZ) | Týden 25 |
+
+### I-9-4-03 — Žák komunikuje a spolupracuje digitálně s ohledem na etiku
+*(Oblast: Digitální bezpečnost a etika)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [2fa.directory](https://2fa.directory) | Web (EN) | Týden 23 |
+| [ares.gov.cz](https://ares.gov.cz) | Ověření IČO | Týden 25 |
+| Tinkercad galerie (tinkercad.com/things) | Inspirace | Týdny 27–28 |
+| [smartcityvpraxi.cz](https://www.smartcityvpraxi.cz) | Web (CZ) | Týden 29 |
+| IT Fitness Test (itfitness.eu) | Online test | Týden 30 |
+| [Czechitas](https://www.czechitas.cz), [Digiskills.cz](https://www.digiskills.cz) | Vzdělávací portály | Týden 30 |
