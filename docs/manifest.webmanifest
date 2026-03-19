@@ -1,0 +1,25 @@
+{
+  "name": "Digitální kniha Informatiky - ŠVP",
+  "short_name": "ŠVP Informatika",
+  "description": "Komplexní Školní vzdělávací program pro informatiku na 2. stupni (6. - 9. ročník)",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#009688",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

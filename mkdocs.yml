@@ -3,6 +3,7 @@ site_description: Komplexní Školní vzdělávací program pro informatiku na 2
 theme:
   name: material
   language: cs
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -156,8 +157,8 @@ nav:
           - Týden 11: 9-rocnik/tyden-11.md
           - Týden 12: 9-rocnik/tyden-12.md
           - Týden 13: 9-rocnik/tyden-13.md
-          - Týden 14: 9-rocnik/tyden-14.mdprivate-chat-app
-          - Týden 15: 9-r- navigation.topocnik/tyden-15.md
+          - Týden 14: 9-rocnik/tyden-14.md
+          - Týden 15: 9-rocnik/tyden-15.md
       - 2. Pololetí - AI a společnost:
           - Týden 16: 9-rocnik/tyden-16.md
           - Týden 17: 9-rocnik/tyden-17.md
