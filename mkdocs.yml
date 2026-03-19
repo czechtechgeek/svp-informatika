@@ -27,11 +27,17 @@ edit_uri: edit/main/docs/
 repo_url: https://github.com/czechtechgeek/svp-informatika
 repo_name: czechtechgeek/svp-informatika
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - tables
+  - attr_list
 
 nav:
   - Domů: index.md
