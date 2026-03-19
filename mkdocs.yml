@@ -144,35 +144,35 @@ nav:
   - 9. ročník - Expert:
       - Přehled: 9-rocnik/index.md
       - 1. Pololetí - Simulace a kód:
-          - Týden 1: 9-rocnik/tyden-01.md
-          - Týden 2: 9-rocnik/tyden-02.md
-          - Týden 3: 9-rocnik/tyden-03.md
-          - Týden 4: 9-rocnik/tyden-04.md
-          - Týden 5: 9-rocnik/tyden-05.md
-          - Týden 6: 9-rocnik/tyden-06.md
-          - Týden 7: 9-rocnik/tyden-07.md
-          - Týden 8: 9-rocnik/tyden-08.md
-          - Týden 9: 9-rocnik/tyden-09.md
-          - Týden 10: 9-rocnik/tyden-10.md
-          - Týden 11: 9-rocnik/tyden-11.md
-          - Týden 12: 9-rocnik/tyden-12.md
-          - Týden 13: 9-rocnik/tyden-13.md
-          - Týden 14: 9-rocnik/tyden-14.md
-          - Týden 15: 9-rocnik/tyden-15.md
+          - Týden 1 - Opakování: 9-rocnik/tyden-01.md
+          - Týden 2 - Simulace I: 9-rocnik/tyden-02.md
+          - Týden 3 - Simulace II: 9-rocnik/tyden-03.md
+          - Týden 4 - Algoritmy III: 9-rocnik/tyden-04.md
+          - Týden 5 - Python I: 9-rocnik/tyden-05.md
+          - Týden 6 - Python II: 9-rocnik/tyden-06.md
+          - Týden 7 - Python III: 9-rocnik/tyden-07.md
+          - Týden 8 - Debugging: 9-rocnik/tyden-08.md
+          - Týden 9 - Seznamy: 9-rocnik/tyden-09.md
+          - Týden 10 - Funkce: 9-rocnik/tyden-10.md
+          - Týden 11 - Projekt I: Zadání: 9-rocnik/tyden-11.md
+          - Týden 12 - Projekt II: Vývoj: 9-rocnik/tyden-12.md
+          - Týden 13 - Projekt III: Prezentace: 9-rocnik/tyden-13.md
+          - Týden 14 - Generativní umění: 9-rocnik/tyden-14.md
+          - Týden 15 - Pololetní uzavření: 9-rocnik/tyden-15.md
       - 2. Pololetí - AI a společnost:
-          - Týden 16: 9-rocnik/tyden-16.md
-          - Týden 17: 9-rocnik/tyden-17.md
-          - Týden 18: 9-rocnik/tyden-18.md
-          - Týden 19: 9-rocnik/tyden-19.md
-          - Týden 20: 9-rocnik/tyden-20.md
-          - Týden 21: 9-rocnik/tyden-21.md
-          - Týden 22: 9-rocnik/tyden-22.md
-          - Týden 23: 9-rocnik/tyden-23.md
-          - Týden 24: 9-rocnik/tyden-24.md
-          - Týden 25: 9-rocnik/tyden-25.md
-          - Týden 26: 9-rocnik/tyden-26.md
-          - Týden 27: 9-rocnik/tyden-27.md
-          - Týden 28: 9-rocnik/tyden-28.md
-          - Týden 29: 9-rocnik/tyden-29.md
-          - Týden 30: 9-rocnik/tyden-30.md
-          - Týden 31: 9-rocnik/tyden-31.md
+          - Týden 16 - AI: Strojové učení: 9-rocnik/tyden-16.md
+          - Týden 17 - AI: Jak fungují LLM: 9-rocnik/tyden-17.md
+          - Týden 18 - Prompt Engineering: 9-rocnik/tyden-18.md
+          - Týden 19 - AI a etika: 9-rocnik/tyden-19.md
+          - Týden 20 - Budoucnost práce: 9-rocnik/tyden-20.md
+          - Týden 21 - Digitální právo: 9-rocnik/tyden-21.md
+          - Týden 22 - Blockchain: 9-rocnik/tyden-22.md
+          - Týden 23 - Dezinformace: 9-rocnik/tyden-23.md
+          - Týden 24 - Kyber obrana: 9-rocnik/tyden-24.md
+          - Týden 25 - Digitální wellbeing: 9-rocnik/tyden-25.md
+          - Týden 26 - Velikonoce: 9-rocnik/tyden-26.md
+          - Týden 27 - Portfolio I: 9-rocnik/tyden-27.md
+          - Týden 28 - Portfolio II: 9-rocnik/tyden-28.md
+          - Týden 29 - Přijímací zkoušky: 9-rocnik/tyden-29.md
+          - Týden 30 - IT kvíz: 9-rocnik/tyden-30.md
+          - Týden 31 - Závěr: 9-rocnik/tyden-31.md
