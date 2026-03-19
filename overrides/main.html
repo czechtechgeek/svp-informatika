@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <link rel="manifest" href="{{ 'manifest.webmanifest' | url }}">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="ŠVP Informatika">
+  <link rel="apple-touch-icon" href="{{ 'assets/images/icon-192.png' | url }}">
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('{{ 'sw.js' | url }}');
+      });
+    }
+  </script>
+{% endblock %}
