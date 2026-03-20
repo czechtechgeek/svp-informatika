@@ -95,25 +95,25 @@ def generate_lesson_html(meta: dict) -> str:
         parts.append('---')
 
     # ── Tip pro pátek (nepovinné) ───────────────────────────────────────────
+    # markdown="1" zajistí zpracování **bold** a dalšího markdownu uvnitř divu
     friday_tip = meta.get('friday_tip', '')
     if friday_tip:
         parts.append(
-            f'<div class="friday-tip">\n'
-            f'  <span class="friday-tip-label">💬 Tip pro pátek</span>\n'
-            f'  {friday_tip}\n'
+            f'<div class="friday-tip" markdown="1">\n'
+            f'<span class="friday-tip-label">💬 Tip pro pátek</span>\n\n'
+            f'{friday_tip}\n\n'
             f'</div>'
         )
 
     # ── Cíle hodiny ─────────────────────────────────────────────────────────
+    # markdown="1" zajistí zpracování **bold** a odrážkového seznamu
     goals = meta.get('goals', [])
     if goals:
-        items = '\n'.join(f'  <li>{_md_bold(g)}</li>' for g in goals)
+        goal_items = '\n'.join(f'- {g}' for g in goals)
         parts.append(
-            f'<div class="goals">\n'
-            f'  <div class="goals-title">🎯 Cíle hodiny</div>\n'
-            f'  <ul>\n'
-            f'{items}\n'
-            f'  </ul>\n'
+            f'<div class="goals" markdown="1">\n'
+            f'<div class="goals-title">🎯 Cíle hodiny</div>\n\n'
+            f'{goal_items}\n\n'
             f'</div>'
         )
 
