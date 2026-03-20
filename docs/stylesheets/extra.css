@@ -212,9 +212,28 @@
 
 /* ----------------------------------------------------------
    CURRICULUM TAGS  (RVP výstupy)
-   Zkrácený a sdílený styl — nahrazuje inline styly v MD.
-   Použití: <span class="rvp-tag" data-code="I-9-4-02">I-9-4-02 Popis</span>
+   ──────────────────────────────
+   Styl je definován zde — mění se na jednom místě.
+   URL odkazu je v docs/javascripts/rvp.js (proměnná RVP_URL).
+
+   HTML šablona v MD souborech:
+     <span class="rvp-tag">
+       <span class="rvp-code">INF-INF-XXX-ZV9-XXX</span>
+       <span class="rvp-desc">Text výstupu.</span>
+     </span>
+
+   JS (rvp.js) automaticky obalí každý tag odkazem na RVP ZV.
    ---------------------------------------------------------- */
+
+/* Wrapper odkaz přidávaný JS — reset link stylů */
+a.rvp-tag-link {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 2px 4px 2px 0;
+}
+
 .rvp-tag {
   display: inline-flex;
   align-items: center;
@@ -224,10 +243,14 @@
   border: 1px solid #1975FE;
   border-radius: 6px;
   font-size: 0.8rem;
-  margin: 2px 4px 2px 0;
-  cursor: default;
-  user-select: none;
   vertical-align: middle;
+  transition: background-color 0.15s, border-color 0.15s;
+}
+
+/* Hover efekt — zobrazí se jen pokud je tag v odkazu */
+a.rvp-tag-link:hover .rvp-tag {
+  background-color: #dbeafe;
+  border-color: #1558d6;
 }
 
 .rvp-tag .rvp-code {
