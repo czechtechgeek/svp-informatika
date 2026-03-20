@@ -1,24 +1,37 @@
-# 🦠 Malware: Viry, trojské koně, ransomware
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Kybernetická bezpečnost
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Rozliší** základní typy malware (virus, červ, trojský kůň, ransomware, spyware) a popíše jejich chování.
-* **Vysvětlí**, jak se malware šíří a jak mu lze předcházet.
-* **Analyzuje** konkrétní scénář a identifikuje typ útoku a správnou reakci.
-* **Vytvoří** osobní plán ochrany zařízení před malwarem.
-
+---
+grade: 8
+week: 20
+time: 45
+area: Kybernetická bezpečnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Rozliší** základní typy malware (virus, červ, trojský kůň, ransomware, spyware) a popíše jejich chování."
+  - "**Vysvětlí**, jak se malware šíří a jak mu lze předcházet."
+  - "**Analyzuje** konkrétní scénář a identifikuje typ útoku a správnou reakci."
+  - "**Vytvoří** osobní plán ochrany zařízení před malwarem."
+time_budget:
+  - type: board
+    minutes: 7
+  - type: board
+    minutes: 13
+  - type: pc
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Zeptejte se žáků na začátku, zda někdo z nich nebo z rodiny zažil napadení malwarem — většina tříd má zkušenosti z první nebo druhé ruky. Reálné příběhy jsou nejlepší motivace pro bezpečnostní témata."
 ---
 
-### 💡 Metodický postup (45 min)
+# Malware: Viry, trojské koně, ransomware
 
-#### 1. Úvod: Co je malware a proč existuje? (7 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Co je malware a proč existuje?
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel napíše na tabuli slovo „MALWARE" a žáci hádají, co znamená (malicious software = škodlivý software). Krátká diskuse: Kdo za malwarem stojí? (kyberzločinci, státní aktéři, hacktivisté) a proč? (peníze, špionáž, sabotáž, sláva).
 
@@ -29,8 +42,9 @@ Zajímavá čísla na tabuli:
 
 ---
 
-#### 2. Katalog malwaru: Přehled typů (13 min)
-*Tabule — přehled typů.*
+### 2. Katalog malwaru: Přehled typů
+
+<span class="act board">🖊️ Tabule — 13 min</span>
 
 Učitel projde tabulku typů malwaru. Žáci si mohou dělat poznámky:
 
@@ -47,8 +61,9 @@ Učitel projde tabulku typů malwaru. Žáci si mohou dělat poznámky:
 
 ---
 
-#### 3. Analýza scénářů (18 min)
-*PC nebo papír — práce ve dvojicích.*
+### 3. Analýza scénářů
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Žáci pracují ve dvojicích. Každá dvojice dostane 3 scénáře a musí odpovědět na 3 otázky:
 1. Jaký typ malwaru je popsán?
@@ -66,8 +81,9 @@ Učitel projde tabulku typů malwaru. Žáci si mohou dělat poznámky:
 
 ---
 
-#### 4. Obrana: Osobní bezpečnostní plán (7 min)
-*Diskuze.*
+### 4. Obrana: Osobní bezpečnostní plán
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Žáci navrhnou vlastní „top 5 pravidel" pro ochranu svého zařízení. Učitel je zapíše na tabuli a třída společně vybere nejlepší:
 
@@ -80,7 +96,7 @@ Správná pravidla (která by měla zaznít):
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Web — Virustotal:** [virustotal.com](https://www.virustotal.com) — bezplatný nástroj pro kontrolu souborů a URL na malware (žáci mohou zkusit v hodině)
 * **Web — NÚKIB:** [nukib.cz](https://www.nukib.cz) — Národní úřad pro kybernetickou a informační bezpečnost, materiály pro školy
@@ -89,7 +105,5 @@ Správná pravidla (která by měla zaznít):
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Zdůrazněte, že cílem hodiny není strašit žáky, ale vybavit je znalostmi. Žáci (ani dospělí) by NIKDY neměli platit výkupné za ransomware — platba nezaručuje obnovení dat a motivuje útočníky k dalším útokům. Zálohy jsou jediná spolehlivá obrana. Praktický tip: ukažte žákům, jak zkontrolovat, zda je Windows Defender aktivní — to zvládnou i sami doma.
-
-> 💬 **Tip pro pátek:** Zeptejte se žáků na začátku, zda někdo z nich nebo z rodiny zažil napadení malwarem — většina tříd má zkušenosti z první nebo druhé ruky. Reálné příběhy jsou nejlepší motivace pro bezpečnostní témata.
+!!! tip "Tip pro učitele"
+    Zdůrazněte, že cílem hodiny není strašit žáky, ale vybavit je znalostmi. Žáci (ani dospělí) by NIKDY neměli platit výkupné za ransomware — platba nezaručuje obnovení dat a motivuje útočníky k dalším útokům. Zálohy jsou jediná spolehlivá obrana. Praktický tip: ukažte žákům, jak zkontrolovat, zda je Windows Defender aktivní — to zvládnou i sami doma.

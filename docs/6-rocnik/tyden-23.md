@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 23
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - "Žák naformátuje buňky (tučné písmo, barva pozadí, ohraničení, zarovnání)"
+  - Žák změní šířku sloupců a výšku řádků podle obsahu
+  - Žák sloučí buňky pro vytvoření nadpisu tabulky
+  - "Žák uplatní formátování smysluplně — tabulka musí být čitelná, ne přeplněná barvami"
+time_budget:
+  - type: board
+    minutes: 5
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 18
+friday_tip: "Výborná páteční aktivita: **„Nejhezčí tabulka třídy\"** — žáci mají 10 minut na to, aby co nejlépe vizuálně upravili předem připravenou tabulku. Pak hlasování — čí tabulka je nejčitelnější? Diskuse o tom, co dělá tabulku hezkou vs. přeplněnou."
+---
+
 # Tabulky II: Formátování
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-
-## 💬 Tip pro pátek
-Výborná páteční aktivita: **„Nejhezčí tabulka třídy"** — žáci mají 10 minut na to, aby co nejlépe vizuálně upravili předem připravenou tabulku. Pak hlasování — čí tabulka je nejčitelnější? Diskuse o tom, co dělá tabulku hezkou vs. přeplněnou.
-
-## 🎯 Cíle hodiny
-
-- Žák naformátuje buňky (tučné písmo, barva pozadí, ohraničení, zarovnání)
-- Žák změní šířku sloupců a výšku řádků podle obsahu
-- Žák sloučí buňky pro vytvoření nadpisu tabulky
-- Žák uplatní formátování smysluplně — tabulka musí být čitelná, ne přeplněná barvami
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Proč formátovat? (5 min) — tabule
+### 1. Úvod: Proč formátovat?
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Učitel promítne dvě tabulky se stejnými daty:
 - Verze 1: bez formátování — šedá mřížka, stejné písmo všude
@@ -27,7 +39,9 @@ Otázka: „Která tabulka se čte lépe? Proč?" Žáci diskutují.
 
 Zásada: formátování slouží **čitelnosti**, ne dekoraci.
 
-### 2. Výukový průchod: Základní formátování (15 min) — PC, učitel na tabuli
+### 2. Výukový průchod: Základní formátování
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Učitel krok za krokem ukáže, žáci opakují na svém PC:
 
@@ -40,7 +54,9 @@ Učitel krok za krokem ukáže, žáci opakují na svém PC:
 | Šířka sloupce | Poklepat na hranici záhlaví (auto) nebo přetáhnout |
 | Sloučit buňky | Označit rozsah → Domů → Sloučit a zarovnat na střed |
 
-### 3. Aktivita: Vylepši svůj jídelní lístek (18 min) — PC
+### 3. Aktivita: Vylepši svůj jídelní lístek
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Žáci otevřou tabulku z minulého týdne a naformátují ji podle pokynů:
 

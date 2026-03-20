@@ -1,23 +1,35 @@
-﻿# Souborový systém: Struktura složek, přípony souborů
+---
+grade: 6
+week: 6
+time: 45
+area: "Informační systémy / Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - "Žák popíše stromovou strukturu souborového systému (složky, podsložky, soubory)"
+  - "Žák rozlišuje přípony souborů a přiřadí je ke správné aplikaci (.docx, .jpg, .mp3, .exe)"
+  - Žák vytvoří logicky organizovanou strukturu složek pro školní práci
+  - "Žák pochopí, proč je dobré soubory pojmenovávat systematicky"
+time_budget:
+  - type: discussion
+    minutes: 5
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Pátky jsou ideální pro \"Digitální úklid\". Zaveďte pravidlo posledních 5 minut hodiny: \"Smažte vše z Plochy a ze složky Stažené soubory. Roztřiďte užitečné věci do svých vytvořených složek.\" Tento návyk je pro žáky cennější než samotná teorie o souborových systémech."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Informační systémy / Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou ideální pro "Digitální úklid". Zaveďte pravidlo posledních 5 minut hodiny: "Smažte vše z Plochy a ze složky Stažené soubory. Roztřiďte užitečné věci do svých vytvořených složek." Tento návyk je pro žáky cennější než samotná teorie o souborových systémech.
-
-## 🎯 Cíle hodiny
-
-- Žák popíše stromovou strukturu souborového systému (složky, podsložky, soubory)
-- Žák rozlišuje přípony souborů a přiřadí je ke správné aplikaci (.docx, .jpg, .mp3, .exe)
-- Žák vytvoří logicky organizovanou strukturu složek pro školní práci
-- Žák pochopí, proč je dobré soubory pojmenovávat systematicky
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Chaos vs. pořádek (5 min) — diskuse
+### 1. Úvod: Chaos vs. pořádek
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Učitel ukáže na interaktivní tabuli dvě obrazovky plochy:
 - **A:** Plocha s 50 soubory pojmenovanými „dokument1", „fotka", „aaaaa", vše v jedné složce
@@ -25,7 +37,9 @@ Učitel ukáže na interaktivní tabuli dvě obrazovky plochy:
 
 Otázka: „Ve které situaci najdete soubor za 5 sekund? A za rok?"
 
-### 2. Aktivita: Detektiv přípon (10 min) — PC nebo kartičky
+### 2. Aktivita: Detektiv přípon
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Žáci dostanou seznam 15 přípon souborů a jejich úkolem je přiřadit je ke kategorii:
 
@@ -43,7 +57,9 @@ Otázka: „Ve které situaci najdete soubor za 5 sekund? A za rok?"
 
 Po vyplnění společná kontrola — učitel otevře každý typ souboru v příslušné aplikaci.
 
-### 3. Aktivita: Navrhuji svůj digitální pokoj (20 min) — PC
+### 3. Aktivita: Navrhuji svůj digitální pokoj
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák navrhne a vytvoří svou osobní strukturu složek pro školní rok. Vzorová hierarchie:
 
@@ -79,4 +95,3 @@ Každý žák navrhne a vytvoří svou osobní strukturu složek pro školní ro
 
 !!! tip "Tip pro učitele"
     Struktura složek vytvořená dnes bude základem pro celý rok — žáci sem budou ukládat všechny projekty. Doporučujeme ji uložit na školní Google Drive, ne jen na lokální disk, aby nebyla ztracena při výměně PC.
-

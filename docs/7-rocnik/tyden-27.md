@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 27
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí základní pojmy střihu: klip, sestřih, přechod, titulek"
+  - Žák sestříhá krátký videoklip (30–60 sekund) z připravených nebo vlastních záběrů
+  - Žák přidá k videu jednoduchý titulek a základní přechod mezi záběry
+  - Žák exportuje hotové video v běžném formátu (MP4)
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 22
+friday_tip: "Filmová analýza: pusťte 3minutový úsek libovolného YouTube videa (bez zvuku) a nechejte žáky spočítat střihy. Poté s zvukem. Diskuse: Proč je tam každý střih? Rozvíjí mediální gramotnost."
+---
+
 # Video: Střih jednoduchého klipu
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Filmová analýza: pusťte 3minutový úsek libovolného YouTube videa (bez zvuku) a nechejte žáky spočítat střihy. Poté s zvukem. Diskuse: Proč je tam každý střih? Rozvíjí mediální gramotnost.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí základní pojmy střihu: klip, sestřih, přechod, titulek
-- Žák sestříhá krátký videoklip (30–60 sekund) z připravených nebo vlastních záběrů
-- Žák přidá k videu jednoduchý titulek a základní přechod mezi záběry
-- Žák exportuje hotové video v běžném formátu (MP4)
 
 ## 💡 Metodický postup
 
-### 1. Základy střihu: Teorie (8 min) — tabule
+### 1. Základy střihu: Teorie
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Klíčové pojmy:
 
@@ -34,7 +46,9 @@ Učitel ukáže na projektoru jednoduchou timeline ve střihovém programu a poj
 
 Klíčové pravidlo: „Dobrý střih není vidět. Špatný střih vypadá jako chyba."
 
-### 2. Demo: Vytvoření krátkého videa (12 min) — tabule
+### 2. Demo: Vytvoření krátkého videa
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel živě sestříhá 2–3 připravené klipy (volně licencovaná videa z Pexels.com):
 
@@ -49,7 +63,9 @@ Učitel živě sestříhá 2–3 připravené klipy (volně licencovaná videa z
 
 Žáci říkají, co přidat nebo změnit.
 
-### 3. Střih vlastního klipu (22 min) — PC
+### 3. Střih vlastního klipu
+
+<span class="act pc">💻 PC — 22 min</span>
 
 Žáci pracují individuálně nebo ve dvojicích. Zdroje videomateriálu:
 

@@ -1,23 +1,37 @@
+---
+grade: 7
+week: 15
+time: 45
+area: "Algoritmizace a programování / Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - "Žák rekapituluje klíčové pojmy 1. pololetí: modelování, podmínky, proměnné, interakce"
+  - Žák sebehodnotí svůj pokrok a identifikuje oblasti ke zlepšení
+  - Žák dokončí nebo aktualizuje své digitální portfolio
+  - "Žák se seznámí s tématy 2. pololetí (sítě, cloud, web, bezpečnost)"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 10
+friday_tip: "Reflexní kruh: žáci sedí v kruhu bez PC, každý řekne jednu věc, které se naučil, a jednu věc, která ho překvapila. Krátké, upřímné, bez hodnocení. Buduje komunitu třídy a učitel dostane cennou zpětnou vazbu."
+---
+
 # Pololetní uzavření
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-
-## 💬 Tip pro pátek
-Reflexní kruh: žáci sedí v kruhu bez PC, každý řekne jednu věc, které se naučil, a jednu věc, která ho překvapila. Krátké, upřímné, bez hodnocení. Buduje komunitu třídy a učitel dostane cennou zpětnou vazbu.
-
-## 🎯 Cíle hodiny
-
-- Žák rekapituluje klíčové pojmy 1. pololetí: modelování, podmínky, proměnné, interakce
-- Žák sebehodnotí svůj pokrok a identifikuje oblasti ke zlepšení
-- Žák dokončí nebo aktualizuje své digitální portfolio
-- Žák se seznámí s tématy 2. pololetí (sítě, cloud, web, bezpečnost)
 
 ## 💡 Metodický postup
 
-### 1. Pojmová mapa pololetí (10 min) — tabule
+### 1. Pojmová mapa pololetí
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel nakreslí na tabuli centrální uzel „7. ročník — 1. pololetí" a žáci postupně přidávají pojmy (každý žák jeden uzel na tabuli nebo na lísteček):
 
@@ -25,7 +39,9 @@ Očekávané pojmy: modelování, myšlenková mapa, procesní diagram, podmínk
 
 Po sestavení mapy učitel ukáže, jak pojmy navazují: Modelování → Diagramy → Algoritmus → Podmínky → Proměnné → Projekt.
 
-### 2. Sebehodnocení (10 min) — PC nebo papír
+### 2. Sebehodnocení
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Žáci vyplní jednoduchou sebehodnotící tabulku:
 
@@ -40,7 +56,9 @@ Po sestavení mapy učitel ukáže, jak pojmy navazují: Modelování → Diagra
 
 Sebehodnocení je soukromé — žáci si ho uloží do portfolia.
 
-### 3. Portfolio: Přehled projektů (15 min) — PC
+### 3. Portfolio: Přehled projektů
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci otevřou svůj Scratch účet a zdokumentují projekty z 1. pololetí do portfoliového dokumentu:
 
@@ -56,7 +74,9 @@ Jméno: ___________
 | Pixel-art | ... | Rastr, barvy | ⭐⭐⭐ |
 ```
 
-### 4. Preview 2. pololetí (10 min) — tabule
+### 4. Preview 2. pololetí
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel stručně ukáže, co žáky čeká:
 

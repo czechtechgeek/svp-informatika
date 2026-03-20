@@ -1,23 +1,35 @@
-# 🔄 Pololetní reflexe
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Průřezová (všechny oblasti)
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-
-**Po hodině žák:**
-* **Shrne** klíčové pojmy a dovednosti z 1. pololetí (data, tabulky, Micro:bit).
-* **Zhodnotí** svůj vlastní pokrok a identifikuje oblasti ke zlepšení.
-* **Prezentuje** nebo demonstruje projekt z týdnů 12–13.
-* **Propojí** témata 1. pololetí s tím, co ho čeká ve 2. pololetí.
-
+---
+grade: 8
+week: 15
+time: 45
+area: Průřezová (všechny oblasti)
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "**Shrne** klíčové pojmy a dovednosti z 1. pololetí (data, tabulky, Micro:bit)."
+  - "**Zhodnotí** svůj vlastní pokrok a identifikuje oblasti ke zlepšení."
+  - "**Prezentuje** nebo demonstruje projekt z týdnů 12–13."
+  - "**Propojí** témata 1. pololetí s tím, co ho čeká ve 2. pololetí."
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: board
+    minutes: 15
+  - type: unplugged
+    minutes: 10
+  - type: board
+    minutes: 10
+friday_tip: "Reflexe před pololetními prázdninami — ideální čas pro uklidněnou zpětnou vazbu. Dejte žákům prostor, aby sami hodnotili svůj pokrok."
 ---
 
-### 💡 Metodický postup (45 min)
+# Pololetní reflexe
 
-#### 1. Myšlenková mapa pololetí (10 min)
-*Aktivita bez počítače.*
+## 💡 Metodický postup
+
+### 1. Myšlenková mapa pololetí
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Žáci individuálně nebo ve dvojicích vytvoří myšlenkovou mapu na téma „Co jsem se naučil/a v 1. pololetí":
 
@@ -33,8 +45,9 @@ Uzly pro inspiraci:
 
 ---
 
-#### 2. Prezentace projektů (15 min)
-*Práce s Micro:bitem — prezentace skupin.*
+### 2. Prezentace projektů
+
+<span class="act board">🖊️ Tabule — 15 min</span>
 
 Skupiny z týdnů 12–13 prezentují svůj projekt:
 - Co jste navrhli a proč?
@@ -45,8 +58,9 @@ Každá skupina má 2–3 minuty. Ostatní kladou otázky nebo dávají pozitivn
 
 ---
 
-#### 3. Sebehodnocení (10 min)
-*Aktivita bez počítače.*
+### 3. Sebehodnocení
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Žáci vyplní sebehodnotící dotazník:
 
@@ -71,8 +85,9 @@ Kritické myšlení:
 
 ---
 
-#### 4. Přehled 2. pololetí (10 min)
-*Tabule — výhled.*
+### 4. Přehled 2. pololetí
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel ukáže přehled témat:
 - Jak funguje internet a jeho protokoly
@@ -85,7 +100,7 @@ Učitel ukáže přehled témat:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Sebehodnotící dotazník:** Připravte tisknutelný nebo digitální formulář (Google Form)
 * **Portfolia žáků:** Uložte fotky projektů, snímky kódu, výstupy tabulek — budou sloužit pro závěrečné hodnocení
@@ -94,7 +109,5 @@ Učitel ukáže přehled témat:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Pololetní reflexe je diagnostickým nástrojem, ne jen formálním uzavřením. Sebehodnocení žáků vám ukáže, kde jsou mezery — srovnejte se svým pozorováním. Pokud vidíte velký rozdíl (žák hodnotí sebe příliš přísně nebo mírně), je to impuls pro individuální rozhovor. Data ze sebehodnocení využijte pro přizpůsobení tempa ve 2. pololetí.
-
-> 💬 **Tip pro pátek:** Reflexe před pololetními prázdninami — ideální čas pro uklidněnou zpětnou vazbu. Dejte žákům prostor, aby sami hodnotili svůj pokrok.
+!!! tip "Tip pro učitele"
+    Pololetní reflexe je diagnostickým nástrojem, ne jen formálním uzavřením. Sebehodnocení žáků vám ukáže, kde jsou mezery — srovnejte se svým pozorováním. Pokud vidíte velký rozdíl (žák hodnotí sebe příliš přísně nebo mírně), je to impuls pro individuální rozhovor. Data ze sebehodnocení využijte pro přizpůsobení tempa ve 2. pololetí.

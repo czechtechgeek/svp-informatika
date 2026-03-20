@@ -1,23 +1,37 @@
+---
+grade: 7
+week: 4
+time: 45
+area: "Data, informace a modelování / Algoritmizace a programování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák zná základní symboly vývojového diagramu (obdélník, kosočtverec, ovál, šipka)"
+  - Žák přečte a interpretuje jednoduchý procesní diagram
+  - Žák vytvoří vlastní vývojový diagram procesu se alespoň jednou podmínkovou větví
+  - Žák vidí souvislost mezi diagramem a podmínkami v programování (příprava na týden 6)
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+  - type: discussion
+    minutes: 7
+friday_tip: "Rychlá aktivita: každý žák nakreslí procesní diagram „jak probíhá můj víkend\" (10 min, papír). Sdílení ve dvojicích. Nenásilně ukazuje rozdíly v životě žáků a propojuje diagramy s reálnou zkušeností."
+---
+
 # Modelování III: Procesní diagramy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování / Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Rychlá aktivita: každý žák nakreslí procesní diagram „jak probíhá můj víkend" (10 min, papír). Sdílení ve dvojicích. Nenásilně ukazuje rozdíly v životě žáků a propojuje diagramy s reálnou zkušeností.
-
-## 🎯 Cíle hodiny
-
-- Žák zná základní symboly vývojového diagramu (obdélník, kosočtverec, ovál, šipka)
-- Žák přečte a interpretuje jednoduchý procesní diagram
-- Žák vytvoří vlastní vývojový diagram procesu se alespoň jednou podmínkovou větví
-- Žák vidí souvislost mezi diagramem a podmínkami v programování (příprava na týden 6)
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Symboly vývojového diagramu (8 min) — tabule
+### 1. Úvod: Symboly vývojového diagramu
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel nakreslí na tabuli legendu základních tvarů:
 
@@ -30,7 +44,9 @@ Učitel nakreslí na tabuli legendu základních tvarů:
 
 Učitel projde třídou s kartičkami — žáci hádají, co tvar znamená, než učitel potvrdí.
 
-### 2. Čtení diagramu: Přihlášení do školního systému (10 min) — tabule
+### 2. Čtení diagramu: Přihlášení do školního systému
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel promítne nebo nakreslí kompletní diagram:
 
@@ -50,7 +66,9 @@ Učitel promítne nebo nakreslí kompletní diagram:
 
 Žáci „čtou" diagram nahlas — učitel ukazuje šipkou, žáci říkají, co se děje. Diskuse: Co by se stalo bez podmínky? Co kdybychom neměli smyčku „zadej znovu"?
 
-### 3. Tvorba: Vlastní procesní diagram (20 min) — PC nebo papír
+### 3. Tvorba: Vlastní procesní diagram
+
+<span class="act pc">💻 PC — 20 min</span>
 
 **Zadání — vyberte jeden proces:**
 - Možnost A: „Jak se rozhodnu, co si dám k snídani" (obsahuje podmínky: Je doma mléko? Mám čas vařit?)
@@ -67,7 +85,9 @@ Požadavky:
 - Alespoň jedna podmínka (kosočtverec) s větvemi ANO/NE
 - Šipky ukazují směr
 
-### 4. Propojení s programováním (7 min) — diskuse
+### 4. Propojení s programováním
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel ukáže hotový žákovský diagram a vedle něj otevře Scratch. Ukáže, že:
 - Obdélník = jeden blok příkazu

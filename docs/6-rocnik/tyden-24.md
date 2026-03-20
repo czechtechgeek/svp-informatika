@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 24
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "Žák zapíše jednoduchý vzorec začínající znakem `=` (např. `=A1+B1`)"
+  - "Žák použije funkci `SUMA` nebo tlačítko AutoSum pro součet rozsahu buněk"
+  - "Žák pochopí, že vzorec se automaticky přepočítá při změně vstupních dat"
+  - Žák rozliší vzorec (výpočet) od hodnoty (číslo zadané ručně)
+time_budget:
+  - type: board
+    minutes: 7
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 13
+friday_tip: "V pátek si zahrajte **„Magický součet\"** — učitel změní jedno číslo v tabulce a třída sleduje, jak se výsledek vzorce okamžitě změní. Žáci hádají, jaké číslo učitel zadal. Demystifikuje to „kouzlo\" vzorců — žáci vidí, že tabulkový procesor opravdu počítá v reálném čase."
+---
+
 # Tabulky III: Součet a AutoSum
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-V pátek si zahrajte **„Magický součet"** — učitel změní jedno číslo v tabulce a třída sleduje, jak se výsledek vzorce okamžitě změní. Žáci hádají, jaké číslo učitel zadal. Demystifikuje to „kouzlo" vzorců — žáci vidí, že tabulkový procesor opravdu počítá v reálném čase.
-
-## 🎯 Cíle hodiny
-
-- Žák zapíše jednoduchý vzorec začínající znakem `=` (např. `=A1+B1`)
-- Žák použije funkci `SUMA` nebo tlačítko AutoSum pro součet rozsahu buněk
-- Žák pochopí, že vzorec se automaticky přepočítá při změně vstupních dat
-- Žák rozliší vzorec (výpočet) od hodnoty (číslo zadané ručně)
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Vzorec vs. číslo (7 min) — tabule
+### 1. Úvod: Vzorec vs. číslo
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel ukáže na tabuli:
 
@@ -32,7 +44,9 @@ Zlaté pravidlo: **vzorce vždy začínají znakem `=`**
 
 Základní operátory: `+` `-` `*` `/` (násobení, dělení)
 
-### 2. Výukový průchod: Moje první vzorce (15 min) — PC, učitel na tabuli
+### 2. Výukový průchod: Moje první vzorce
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci vytvoří nový list a zadají:
 
@@ -52,7 +66,9 @@ Pak naformátují jako tabulku výdajů třídy:
 | ...  | ...         | ...       | ...    |
 | **Součet** | **=SUMA(B2:B6)** | **=SUMA(C2:C6)** | **=SUMA(D2:D6)** |
 
-### 3. Aktivita: AutoSum (13 min) — PC
+### 3. Aktivita: AutoSum
+
+<span class="act pc">💻 PC — 13 min</span>
 
 Žáci se naučí rychlý způsob:
 1. Klikněte na buňku pod sloupcem čísel

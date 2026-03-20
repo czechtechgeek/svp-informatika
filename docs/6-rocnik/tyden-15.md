@@ -1,23 +1,33 @@
-﻿# Pololetní reflexe: Co už vím o datech?
+---
+grade: 6
+week: 15
+time: 45
+area: Průřezové téma (Reflexe a modelování znalostí)
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "Žák pojmenuje klíčové koncepty z 1. pololetí (data, informace, kódování, algoritmus, Scratch)"
+  - "Žák vytvoří myšlenkovou mapu toho, co se naučil"
+  - "Žák reflektuje vlastní pokrok — co mu šlo, co bylo těžké, co ho překvapilo"
+  - "Žák se těší na 2. pololetí a ví, na co se může těšit"
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Pololetní pátky bývají emočně vypjaté (vysvědčení). Udělejte z Binga **\"Týmové Bingo\"** – dvojice žáků spolupracují. Snižuje to stres z toho, že někdo \"něco neví\", a podporuje to kolegiální diskusi o tom, co který pojem vlastně znamenal. Jako odměnu pro vítěze můžete slíbit \"právo vybrat barvu pozadí\" pro první lednový projekt v 2. pololetí."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a modelování znalostí)
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-Pololetní pátky bývají emočně vypjaté (vysvědčení). Udělejte z Binga **"Týmové Bingo"** – dvojice žáků spolupracují. Snižuje to stres z toho, že někdo "něco neví", a podporuje to kolegiální diskusi o tom, co který pojem vlastně znamenal. Jako odměnu pro vítěze můžete slíbit "právo vybrat barvu pozadí" pro první lednový projekt v 2. pololetí.
-
-## 🎯 Cíle hodiny
-
-- Žák pojmenuje klíčové koncepty z 1. pololetí (data, informace, kódování, algoritmus, Scratch)
-- Žák vytvoří myšlenkovou mapu toho, co se naučil
-- Žák reflektuje vlastní pokrok — co mu šlo, co bylo těžké, co ho překvapilo
-- Žák se těší na 2. pololetí a ví, na co se může těšit
+# 
 
 ## 💡 Metodický postup
 
-### 1. Kvíz: Bingo pojmů (10 min) — bez počítače
+### 1. Kvíz: Bingo pojmů
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák dostane kartičku 4×4 s náhodně rozmístěnými pojmy z 1. pololetí:
 
@@ -30,7 +40,9 @@ KÓDOVÁNÍ | OZOBOT  | ANIMACE | PORTFOLIO
 
 Učitel říká definice a žáci škrtají pojmy — kdo má celý řádek, řekne „BINGO!"
 
-### 2. Aktivita: Datová mapa (20 min) — PC nebo papír
+### 2. Aktivita: Datová mapa
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák vytvoří myšlenkovou mapu s centrálním tématem **„Co vím o informatice po 1. pololetí"**
 
@@ -75,4 +87,3 @@ Učitel krátce představí, co přijde v 2. pololetí:
 
 !!! tip "Tip pro učitele"
     Reflexní hodina je stejně důležitá jako výuková. Data z formuláře vám pomohou upravit 2. pololetí podle skutečných potřeb třídy. Myšlenkové mapy jsou skvělá evidence učení — uložte je (screenshot nebo export PDF) pro pololetní hodnocení nebo rozhovor s rodiči.
-

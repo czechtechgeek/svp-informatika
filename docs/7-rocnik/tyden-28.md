@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 28
+time: 45
+area: Digitální technologie / Digitální společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+goals:
+  - Žák se podílí na plánování a realizaci skupinového mediálního projektu
+  - "Žák použije digitální nástroje pro tvorbu textu, grafiky a/nebo videa ve stanoveném formátu"
+  - "Žák dodržuje dohodnutá pravidla spolupráce (termíny, odpovědnosti, formát)"
+  - Žák aplikuje znalosti o soukromí a autorských právech při tvorbě obsahu
+time_budget:
+  - type: board
+    minutes: 8
+  - type: unplugged
+    minutes: 10
+  - type: pc
+    minutes: 22
+friday_tip: "Redakční porady v pátek jsou pro projekty perfektní — kratší pozornost žáků → rychlé rozhodování o obsahu. Nechejte třídní „redakci\" schválit obsah za 5 minut hlasováním."
+---
+
 # Projekt: Třídní digitální časopis
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie / Digitální společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-
-## 💬 Tip pro pátek
-Redakční porady v pátek jsou pro projekty perfektní — kratší pozornost žáků → rychlé rozhodování o obsahu. Nechejte třídní „redakci" schválit obsah za 5 minut hlasováním.
-
-## 🎯 Cíle hodiny
-
-- Žák se podílí na plánování a realizaci skupinového mediálního projektu
-- Žák použije digitální nástroje pro tvorbu textu, grafiky a/nebo videa ve stanoveném formátu
-- Žák dodržuje dohodnutá pravidla spolupráce (termíny, odpovědnosti, formát)
-- Žák aplikuje znalosti o soukromí a autorských právech při tvorbě obsahu
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je digitální časopis? (8 min) — tabule
+### 1. Úvod: Co je digitální časopis?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel ukáže příklady digitálních žákovských časopisů (pokud existují od starších ročníků nebo z internetu).
 
@@ -35,7 +47,9 @@ Učitel ukáže příklady digitálních žákovských časopisů (pokud existuj
 - Komentář nebo quiz
 - Tiráž (kdo co vytvořil)
 
-### 2. Organizace třídy do redakce (10 min) — bez počítače
+### 2. Organizace třídy do redakce
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Třída si rozdělí **role a sekce**:
 
@@ -56,7 +70,9 @@ Třída si rozdělí **role a sekce**:
 
 Každý žák dostane přidělené téma a termín: „Do příštího týdne mám hotový draft."
 
-### 3. Zahájení tvorby (22 min) — PC
+### 3. Zahájení tvorby
+
+<span class="act pc">💻 PC — 22 min</span>
 
 Učitel sdílí šablonu časopisu (Google Slides nebo Canva template).
 

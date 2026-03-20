@@ -1,23 +1,37 @@
-﻿# Rezerva: IT kvíz
+---
+grade: 9
+week: 30
+time: 45
+area: Průřezové / Opakování a motivace
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - Žák opakuje a propojuje klíčová témata z celých čtyř let výuky informatiky
+  - Žák spolupracuje ve skupině při řešení soutěžních otázek
+  - Žák komunikuje znalosti srozumitelně a přesně při obhajobě odpovědi
+  - "Žák reflektuje, která témata mu přišla nejtěžší a co se chce dále učit"
+time_budget:
+  - type: unplugged
+    minutes: 5
+  - type: review
+    minutes: 15
+  - type: review
+    minutes: 12
+  - type: review
+    minutes: 13
+friday_tip: "Kahoot kvízy s hudební znělkou a odpočítáváním fungují skvěle — ale pokud chcete větší zapojení, nechte žáky samotné vymyslet otázky. Soutěž ve skupinách místo individuálního klání snižuje stres a zvyšuje spolupráci. Zvítěz skupiny může dostat symbolickou odměnu (bonusový bod, volba aktivity na chvíli volna...)."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové / Opakování a motivace
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Kahoot kvízy s hudební znělkou a odpočítáváním fungují skvěle — ale pokud chcete větší zapojení, nechte žáky samotné vymyslet otázky. Soutěž ve skupinách místo individuálního klání snižuje stres a zvyšuje spolupráci. Zvítěz skupiny může dostat symbolickou odměnu (bonusový bod, volba aktivity na chvíli volna...).
-
-## 🎯 Cíle hodiny
-
-- Žák opakuje a propojuje klíčová témata z celých čtyř let výuky informatiky
-- Žák spolupracuje ve skupině při řešení soutěžních otázek
-- Žák komunikuje znalosti srozumitelně a přesně při obhajobě odpovědi
-- Žák reflektuje, která témata mu přišla nejtěžší a co se chce dále učit
+# 
 
 ## 💡 Metodický postup
 
-### 1. Příprava skupin a pravidla kvízu (5 min) — bez počítače
+### 1. Příprava skupin a pravidla kvízu
+
+<span class="act unplugged">✋ Bez počítače — 5 min</span>
 
 Žáci se rozdělí do skupin (ideálně 3–4 žáci). Každá skupina si zvolí název (IT-tematický — například „404 Not Found", „Segmentation Fault", „Hello World").
 
@@ -27,7 +41,9 @@ Kahoot kvízy s hudební znělkou a odpočítáváním fungují skvěle — ale 
 - Otázky jsou rozděleny do kategorií s různou obtížností
 - Žádné telefony při hledání odpovědí — kvíz testuje to, co žáci skutečně ví
 
-### 2. Kvíz — kolo 1: Základy (15 min) — kvíz
+### 2. Kvíz — kolo 1: Základy
+
+<span class="act review">🔍 Reflexe — 15 min</span>
 
 **Kategorie: Hardware a software (6. třída)**
 1. Co je CPU a k čemu slouží? → Procesor — vykonává instrukce programu
@@ -44,7 +60,9 @@ Kahoot kvízy s hudební znělkou a odpočítáváním fungují skvěle — ale 
 8. Jak se zakóduje písmeno „A" v ASCII? → 65 (desetinně)
 9. Co je binární soustava? → Číselná soustava se základem 2 (jen 0 a 1)
 
-### 3. Kvíz — kolo 2: Programování a algoritmy (12 min) — kvíz
+### 3. Kvíz — kolo 2: Programování a algoritmy
+
+<span class="act review">🔍 Reflexe — 12 min</span>
 
 **Kategorie: Python**
 1. Co vypíše tento kód? `print(len("hello"))` → 5
@@ -61,7 +79,9 @@ Kahoot kvízy s hudební znělkou a odpočítáváním fungují skvěle — ale 
 8. Co zkratka GDPR znamená? → General Data Protection Regulation
 9. Co dělá NÚKIB? → Chrání ČR v kybernetickém prostoru, reaguje na incidenty
 
-### 4. Finální kolo: Otázky žáků a vyhodnocení (13 min) — kvíz
+### 4. Finální kolo: Otázky žáků a vyhodnocení
+
+<span class="act review">🔍 Reflexe — 13 min</span>
 
 **Otázky připravené žáky (5 min):**
 Každá skupina připraví 1 otázku pro ostatní skupiny (z jakéhokoliv tématu IT). Skupiny se střídají v pokládání otázek.

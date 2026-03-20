@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 28
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - Žák navrhne smysluplné otázky pro datový průzkum o zvoleném zvířeti
+  - "Žák shromáždí data z ověřených zdrojů (encyklopedie, wikipedie)"
+  - Žák zadá nasbíraná data do tabulky ve správném formátu
+  - "Žák naplánuje, jak data vizualizuje příští hodinu"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: unplugged
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Projektové pátky jsou přirozeně motivující — žáci pracují na něčem vlastním. Skvělý způsob jak zapojit všechny: dejte „konzultace na objednávku\" — každý žák dostane 2 minuty s učitelem pro zpětnou vazbu k tematice a plánu. Ostatní mezitím pracují samostatně."
+---
+
 # Projekt: Moje oblíbené zvíře (sběr dat)
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-Projektové pátky jsou přirozeně motivující — žáci pracují na něčem vlastním. Skvělý způsob jak zapojit všechny: dejte „konzultace na objednávku" — každý žák dostane 2 minuty s učitelem pro zpětnou vazbu k tematice a plánu. Ostatní mezitím pracují samostatně.
-
-## 🎯 Cíle hodiny
-
-- Žák navrhne smysluplné otázky pro datový průzkum o zvoleném zvířeti
-- Žák shromáždí data z ověřených zdrojů (encyklopedie, wikipedie)
-- Žák zadá nasbíraná data do tabulky ve správném formátu
-- Žák naplánuje, jak data vizualizuje příští hodinu
 
 ## 💡 Metodický postup
 
-### 1. Úvod a zadání projektu (10 min) — tabule
+### 1. Úvod a zadání projektu
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel představí dvoutýdenní projekt:
 
@@ -32,7 +44,9 @@ Učitel představí dvoutýdenní projekt:
 - 5 druhů delfínů (rozšíření, délka, hloubka potápění)
 - Oblíbená zvířata třídy — průzkum mezi spolužáky
 
-### 2. Příprava: Výběr tématu a kategorií (10 min) — bez počítače
+### 2. Příprava: Výběr tématu a kategorií
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák na papír napíše:
 - Jaké zvíře nebo skupinu zvířat jsem si vybral/a?
@@ -47,7 +61,9 @@ Každý žák na papír napíše:
 | Délka života (roky) | Lev: 14, Gepard: 10 |
 | Kontinent výskytu | Lev: Afrika, Gepard: Afrika |
 
-### 3. Sběr dat a vytvoření tabulky (20 min) — PC
+### 3. Sběr dat a vytvoření tabulky
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci vyhledávají data z ověřených zdrojů:
 - [cs.wikipedia.org](https://cs.wikipedia.org) — výchozí bod, ověřte z jiného zdroje

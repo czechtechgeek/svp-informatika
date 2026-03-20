@@ -1,24 +1,37 @@
-# 🔧 Projekt Robot I: Návrh zařízení
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování / Data, informace a modelování
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-> **Kód:** `INF-INF-001-ZV9-003` – *Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.*
-
-**Po hodině žák:**
-* **Navrhne** vlastní projekt s Micro:bitem (definuje problém, vstupy, výstupy a algoritmus).
-* **Vytvoří** vývojový diagram nebo pseudokód pro svůj projekt.
-* **Zdůvodní**, proč zvolil konkrétní senzory a akce.
-* **Připraví** realizovatelný plán pro implementaci v dalším týdnu.
-
+---
+grade: 8
+week: 12
+time: 45
+area: "Algoritmizace a programování / Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - "**Navrhne** vlastní projekt s Micro:bitem (definuje problém, vstupy, výstupy a algoritmus)."
+  - "**Vytvoří** vývojový diagram nebo pseudokód pro svůj projekt."
+  - "**Zdůvodní**, proč zvolil konkrétní senzory a akce."
+  - "**Připraví** realizovatelný plán pro implementaci v dalším týdnu."
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: unplugged
+    minutes: 15
+  - type: pc
+    minutes: 13
+  - type: unplugged
+    minutes: 7
+friday_tip: "Inspirativní přehled: ukažte žákům příklady žákovských projektů z minulých let nebo z microbit.org/showcase. Reálné výsledky vrstevníků motivují víc než jakýkoli učitelův výklad."
 ---
 
-### 💡 Metodický postup (45 min)
+# Projekt Robot I: Návrh zařízení
 
-#### 1. Brainstorming témat (10 min)
-*Aktivita bez počítače.*
+## 💡 Metodický postup
+
+### 1. Brainstorming témat
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Učitel rozdá každé skupině (2–3 žáci) sadu karet s tématy pro inspiraci:
 
@@ -42,8 +55,9 @@ Skupiny si vyberou nebo navrhnou vlastní téma.
 
 ---
 
-#### 2. Specifikace projektu (15 min)
-*Aktivita bez počítače.*
+### 2. Specifikace projektu
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 Každá skupina vyplní projektový list:
 
@@ -66,8 +80,9 @@ Algoritmus (pseudokód nebo diagram):
 
 ---
 
-#### 3. Skica algoritmu a kontrola proveditelnosti (13 min)
-*PC nebo papír.*
+### 3. Skica algoritmu a kontrola proveditelnosti
+
+<span class="act pc">💻 PC — 13 min</span>
 
 Skupiny skicují algoritmus (flowchart nebo pseudokód) a diskutují s učitelem:
 - „Mají na to správné senzory?"
@@ -78,14 +93,15 @@ Učitel obchází a pomáhá zpřesnit zadání — příliš ambiciózní proje
 
 ---
 
-#### 4. Sdílení plánů (7 min)
-*Aktivita bez počítače — prezentace skupin.*
+### 4. Sdílení plánů
+
+<span class="act unplugged">✋ Bez počítače — 7 min</span>
 
 Každá skupina za 1 minutu představí svůj projekt třídě. Ostatní mohou klást otázky nebo navrhovat vylepšení.
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Projekty pro inspiraci:** [microbit.org/projects](https://microbit.org/projects) — filtrujte podle obtížnosti
 * **Showcase žákovských projektů:** [microbit.org/do-your-bit](https://microbit.org/do-your-bit) — soutěžní projekty z celého světa
@@ -95,7 +111,5 @@ Každá skupina za 1 minutu představí svůj projekt třídě. Ostatní mohou k
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Fáze návrhu je stejně důležitá jako programování — v praxi se odhaduje, že příprava zabírá 30–50 % celkového času projektu. Nedovolte žákům přeskočit specifikaci a rovnou „klikat v MakeCode". Skupiny se 2–3 žáky fungují lépe než jednotlivci nebo větší skupiny. Zužte ambiciózní projekty — lepší malý funkční produkt než velký nefunkční.
-
-> 💬 **Tip pro pátek:** Inspirativní přehled: ukažte žákům příklady žákovských projektů z minulých let nebo z microbit.org/showcase. Reálné výsledky vrstevníků motivují víc než jakýkoli učitelův výklad.
+!!! tip "Tip pro učitele"
+    Fáze návrhu je stejně důležitá jako programování — v praxi se odhaduje, že příprava zabírá 30–50 % celkového času projektu. Nedovolte žákům přeskočit specifikaci a rovnou „klikat v MakeCode". Skupiny se 2–3 žáky fungují lépe než jednotlivci nebo větší skupiny. Zužte ambiciózní projekty — lepší malý funkční produkt než velký nefunkční.

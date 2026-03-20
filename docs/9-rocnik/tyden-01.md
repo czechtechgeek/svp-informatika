@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 1
+time: 45
+area: Průřezové / Algoritmické myšlení a digitální gramotnost
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák si vybaví klíčová témata z informatiky za 6.–8. ročník
+  - "Žák zhodnotí, ve které oblasti se cítí silný a kde má mezery"
+  - Žák porozumí struktuře a cílům 9. ročníku
+  - "Žák se motivuje pro další studium prostřednictvím přehledu zajímavých témat (AI, Python, budoucnost práce)"
+time_budget:
+  - type: review
+    minutes: 10
+  - type: unplugged
+    minutes: 12
+  - type: board
+    minutes: 10
+  - type: discussion
+    minutes: 13
+friday_tip: "Začněte hodinu neformálně – nechejte žáky říct jednu věc, co si z informatiky pamatují. Sbírejte odpovědi na tabuli bez hodnocení. Atmosféra „vše platí\" rozvolní zábrany a odhalí skutečné znalosti i mezery."
+---
+
 # Opakování: Přehled dovedností z 6.–8. třídy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové / Algoritmické myšlení a digitální gramotnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Začněte hodinu neformálně – nechejte žáky říct jednu věc, co si z informatiky pamatují. Sbírejte odpovědi na tabuli bez hodnocení. Atmosféra „vše platí" rozvolní zábrany a odhalí skutečné znalosti i mezery.
-
-## 🎯 Cíle hodiny
-
-- Žák si vybaví klíčová témata z informatiky za 6.–8. ročník
-- Žák zhodnotí, ve které oblasti se cítí silný a kde má mezery
-- Žák porozumí struktuře a cílům 9. ročníku
-- Žák se motivuje pro další studium prostřednictvím přehledu zajímavých témat (AI, Python, budoucnost práce)
 
 ## 💡 Metodický postup
 
-### 1. Zahřívací kvíz: Co si pamatuješ? (10 min) — kvíz
+### 1. Zahřívací kvíz: Co si pamatuješ?
+
+<span class="act review">🔍 Reflexe — 10 min</span>
 
 Rychlý ústní nebo papírový kvíz – 10 otázek pokrývajících 6.–8. ročník:
 
@@ -36,7 +50,9 @@ Rychlý ústní nebo papírový kvíz – 10 otázek pokrývajících 6.–8. ro
 
 Žáci odpovídají ústně nebo píší na lístek – není to klasifikováno, jde o mapování.
 
-### 2. Mapa dovedností (12 min) — bez počítače
+### 2. Mapa dovedností
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Každý žák dostane arch papíru se čtyřmi čtvercemi (nebo vyplní digitální formulář):
 
@@ -53,7 +69,9 @@ Každý žák dostane arch papíru se čtyřmi čtvercemi (nebo vyplní digitál
 
 Žáci si každou oblast ohodnotí 1–5 a napíší jednu věc, co si pamatují. Učitel sbírá výsledky – získá rychlý přehled o třídě.
 
-### 3. Co nás čeká v 9. třídě (10 min) — tabule
+### 3. Co nás čeká v 9. třídě
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel na tabuli nebo ve sdíleném dokumentu ukáže roadmapu ročníku:
 
@@ -69,7 +87,9 @@ Učitel na tabuli nebo ve sdíleném dokumentu ukáže roadmapu ročníku:
 
 Učitel se ptá: „Co z toho vás nejvíce zajímá?" – rychlé hlasování rukou nebo Mentimeter.
 
-### 4. Skupinové připomenutí + dohoda na pravidlech (13 min) — diskuse
+### 4. Skupinové připomenutí + dohoda na pravidlech
+
+<span class="act discussion">💬 Diskuse — 13 min</span>
 
 Ve skupinách 3–4 žáci 5 minut diskutují: „Jaké téma z informatiky bylo nejužitečnější pro váš život?"
 

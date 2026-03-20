@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 4
+time: 45
+area: Algoritmické myšlení a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák zapíše podmínku a cyklus nejprve v pseudokódu, pak v syntaxi Pythonu"
+  - Žák přeloží blokový kód ze Scratche do textového kódu
+  - "Žák rozlišuje `for` cyklus (opakování pevněkrát) a `while` cyklus (opakování dokud platí podmínka)"
+  - Žák odladí drobnou chybu v připraveném kódu
+time_budget:
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 12
+  - type: discussion
+    minutes: 8
+friday_tip: "Propojte Scratch ze 6. třídy s Pythonem – ukažte vedle sebe blokový kód a jeho textový ekvivalent. Žáci, kteří Scratch ovládali, okamžitě vidí analogii a překoná se psychologická bariéra „textový kód je těžký\"."
+---
+
 # Algoritmy III: Cykly a podmínky v kódu
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmické myšlení a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Propojte Scratch ze 6. třídy s Pythonem – ukažte vedle sebe blokový kód a jeho textový ekvivalent. Žáci, kteří Scratch ovládali, okamžitě vidí analogii a překoná se psychologická bariéra „textový kód je těžký".
-
-## 🎯 Cíle hodiny
-
-- Žák zapíše podmínku a cyklus nejprve v pseudokódu, pak v syntaxi Pythonu
-- Žák přeloží blokový kód ze Scratche do textového kódu
-- Žák rozlišuje `for` cyklus (opakování pevněkrát) a `while` cyklus (opakování dokud platí podmínka)
-- Žák odladí drobnou chybu v připraveném kódu
 
 ## 💡 Metodický postup
 
-### 1. Ze Scratche do Pythonu (10 min) — tabule
+### 1. Ze Scratche do Pythonu
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel promítne vedle sebe dvě verze toho samého algoritmu:
 
@@ -36,7 +50,9 @@ Společně projdou analogie:
 
 Důraz na **odsazení** – Python nevyužívá závorky, ale mezery (4 mezery nebo Tab).
 
-### 2. Pseudokód → Python (15 min) — PC nebo papír
+### 2. Pseudokód → Python
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci dostají 3 pseudokódy a přepíší je do Pythonu:
 
@@ -63,7 +79,9 @@ Dokud číslo <= 100:
     číslo = číslo * 2
 ```
 
-### 3. Debugging: Najdi chybu (12 min) — PC
+### 3. Debugging: Najdi chybu
+
+<span class="act pc">💻 PC — 12 min</span>
 
 Žáci dostanou kód s úmyslnými chybami a opraví je:
 
@@ -78,7 +96,9 @@ else:
 
 Chyby: 1) `input()` vrací string – chybí `int()`, 2) chybí `:` za `if`, 3) chybí uzavírací `"` v posledním print.
 
-### 4. Reflexe: Jaký cyklus kdy? (8 min) — diskuse
+### 4. Reflexe: Jaký cyklus kdy?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 | Situace | Cyklus |
 |---------|--------|

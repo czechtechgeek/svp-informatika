@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 5
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák bez nápovědy sestaví program využívající pohyb, události, cykly a zvuky"
+  - "Žák identifikuje kategorii bloků v paletě a ví, k čemu každá kategorie slouží"
+  - "Žák opraví chybný program (debugging) pomocí logické analýzy, ne náhodného klikání"
+  - "Žák připraví scénu pro nadcházející témata (podmínky, proměnné)"
+time_budget:
+  - type: unplugged
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Scratch nejlépe funguje jako volná tvorba — dejte žákům 10 min na konci hodiny bez zadání: „Udělejte v Scratch cokoliv, na co máte chuť.\" Výsledky jsou vždy překvapivé a odhalí, co žáky skutečně zajímá."
+---
+
 # Scratch V: Opakování bloků
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Scratch nejlépe funguje jako volná tvorba — dejte žákům 10 min na konci hodiny bez zadání: „Udělejte v Scratch cokoliv, na co máte chuť." Výsledky jsou vždy překvapivé a odhalí, co žáky skutečně zajímá.
-
-## 🎯 Cíle hodiny
-
-- Žák bez nápovědy sestaví program využívající pohyb, události, cykly a zvuky
-- Žák identifikuje kategorii bloků v paletě a ví, k čemu každá kategorie slouží
-- Žák opraví chybný program (debugging) pomocí logické analýzy, ne náhodného klikání
-- Žák připraví scénu pro nadcházející témata (podmínky, proměnné)
 
 ## 💡 Metodický postup
 
-### 1. Rozcvička: Bingo kategorií (8 min) — bez počítače
+### 1. Rozcvička: Bingo kategorií
+
+<span class="act unplugged">✋ Bez počítače — 8 min</span>
 
 Každý žák dostane kartičku bingo (3×3 nebo 4×4) s názvy bloků (např. `pohni se`, `přehraj zvuk`, `opakuj`, `když stisknuta klávesa`, `nastav x`, `čekej`, `řekni`, `změň kostým`).
 
@@ -25,7 +37,9 @@ Učitel popisuje, co blok dělá — žáci škrtají na kartičce. Kdo má celo
 
 Cíl: rychlá diagnostika paměti z minulého roku, zábavnou formou.
 
-### 2. Opakování bloků: Rychlé demo (10 min) — tabule
+### 2. Opakování bloků: Rychlé demo
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel otevře Scratch na projektoru a projde skupiny bloků:
 
@@ -40,7 +54,9 @@ Učitel otevře Scratch na projektoru a projde skupiny bloků:
 
 U každé skupiny žáci navrhnou, k čemu ji použijí v herním projektu.
 
-### 3. Kódovací výzvy (20 min) — PC
+### 3. Kódovací výzvy
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci pracují individuálně. Tři stupně obtížnosti — splňte alespoň dvě:
 

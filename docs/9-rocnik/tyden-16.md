@@ -1,23 +1,37 @@
-﻿# Umělá inteligence I: Strojové učení
+---
+grade: 9
+week: 16
+time: 45
+area: Umělá inteligence / Data a informace
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí, co je strojové učení a jak se liší od tradičního programování"
+  - "Žák popíše princip supervised learningu na konkrétním příkladu (spam filtr, doporučovací systém)"
+  - Žák vlastníma rukama natrénuje jednoduchý model v Teachable Machine
+  - "Žák pojmenuje alespoň dvě omezení strojového učení (bias, potřeba dat, chybovost)"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: discussion
+    minutes: 8
+  - type: pc
+    minutes: 20
+  - type: discussion
+    minutes: 7
+friday_tip: "Začněte hodinu otázkou „Jak se počítač naučil rozpoznat kočku?\" — nechte žáky hádat 2 minuty. Jejich odpovědi odhalí, jaké předpoklady mají, a poslouží jako výborný odrazový můstek."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Umělá inteligence / Data a informace
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Začněte hodinu otázkou „Jak se počítač naučil rozpoznat kočku?" — nechte žáky hádat 2 minuty. Jejich odpovědi odhalí, jaké předpoklady mají, a poslouží jako výborný odrazový můstek.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je strojové učení a jak se liší od tradičního programování
-- Žák popíše princip supervised learningu na konkrétním příkladu (spam filtr, doporučovací systém)
-- Žák vlastníma rukama natrénuje jednoduchý model v Teachable Machine
-- Žák pojmenuje alespoň dvě omezení strojového učení (bias, potřeba dat, chybovost)
+# 
 
 ## 💡 Metodický postup
 
-### 1. Tradiční programování vs. strojové učení (10 min) — tabule
+### 1. Tradiční programování vs. strojové učení
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel nakreslí na tabuli srovnání:
 
@@ -45,7 +59,9 @@ Klíčový princip: Počítač se učí z příkladů, ne z pravidel.
 | **Unsupervised learning** | Hledání vzorů bez označení | segmentace zákazníků |
 | **Reinforcement learning** | Odměna za správnou akci | hraní her (AlphaGo) |
 
-### 2. Příklady z reálného světa (8 min) — diskuse
+### 2. Příklady z reálného světa
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel prochází příklady, žáci hádají, jaká data model potřeboval:
 
@@ -56,7 +72,9 @@ Učitel prochází příklady, žáci hádají, jaká data model potřeboval:
 
 Otázka pro diskusi: „Jaká data musel Google použít, aby Translate fungoval v češtině?"
 
-### 3. Praktická ukázka: Teachable Machine (20 min) — PC
+### 3. Praktická ukázka: Teachable Machine
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci otevřou [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com) → Image Project.
 
@@ -78,7 +96,9 @@ Postup:
 
 Žáci zapisují pozorování: „Model fungoval správně při ___, ale selhal při ___."
 
-### 4. Reflexe: Omezení strojového učení (7 min) — diskuse
+### 4. Reflexe: Omezení strojového učení
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel vede diskusi nad otázkami:
 - „Co se stane, když trénovací data jsou neúplná nebo zaujaté?" → Bias (model diskriminuje)

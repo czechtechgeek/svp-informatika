@@ -1,24 +1,37 @@
-# 🤖 Úvod do Micro:bitu: První program
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování / Digitální technologie
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
-
-**Po hodině žák:**
-* **Popíše** fyzické součásti BBC Micro:bitu (LED matice, tlačítka, piny, konektor USB).
-* **Napíše** a nahraje svůj první program v MakeCode (zobrazení textu nebo obrázku).
-* **Propojí** znalosti z blokového programování (Scratch) s prostředím MakeCode.
-* **Pochopí** cyklus vývoje: napsat kód → přeložit → nahrát → otestovat.
-
+---
+grade: 8
+week: 6
+time: 45
+area: Algoritmizace a programování / Digitální technologie
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "**Popíše** fyzické součásti BBC Micro:bitu (LED matice, tlačítka, piny, konektor USB)."
+  - "**Napíše** a nahraje svůj první program v MakeCode (zobrazení textu nebo obrázku)."
+  - "**Propojí** znalosti z blokového programování (Scratch) s prostředím MakeCode."
+  - "**Pochopí** cyklus vývoje: napsat kód → přeložit → nahrát → otestovat."
+time_budget:
+  - type: unplugged
+    minutes: 8
+  - type: pc
+    minutes: 8
+  - type: board
+    minutes: 18
+  - type: discussion
+    minutes: 6
+friday_tip: "Nechejte žáky Micro:bit prohlédnout dříve, než začnete programovat. Kolik pinů vidí? Co je ta LED matice? Fyzický průzkum zařízení zvyšuje zájem a snižuje ostych."
 ---
 
-### 💡 Metodický postup (45 min)
+# Úvod do Micro:bitu: První program
 
-#### 1. Fyzická prohlídka Micro:bitu (8 min)
-*Aktivita bez počítače.*
+## 💡 Metodický postup
+
+### 1. Fyzická prohlídka Micro:bitu
+
+<span class="act unplugged">✋ Bez počítače — 8 min</span>
 
 Učitel rozdá Micro:bity (nebo projde s jedním) a žáci identifikují:
 - **LED matice 5×5** — 25 individuálně řiditelných LED
@@ -32,8 +45,9 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 
 ---
 
-#### 2. Prostředí MakeCode — orientace (8 min)
-*Práce na PC.*
+### 2. Prostředí MakeCode — orientace
+
+<span class="act pc">💻 PC — 8 min</span>
 
 Žáci otevřou [makecode.microbit.org](https://makecode.microbit.org) a prozkoumají prostředí:
 - Levý panel: kategorie bloků (Základní, Vstup, Logika, Smyčky, Proměnné...)
@@ -43,8 +57,9 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 
 ---
 
-#### 3. První program: Animovaný pozdrav (18 min)
-*Práce s Micro:bitem.*
+### 3. První program: Animovaný pozdrav
+
+<span class="act board">🖊️ Tabule — 18 min</span>
 
 <div class="zadani-pc">
 
@@ -64,8 +79,9 @@ Krok za krokem sestavte program v MakeCode:
 
 ---
 
-#### 4. Diskuse: Kde se Micro:bit používá? (6 min)
-*Diskuze.*
+### 4. Diskuse: Kde se Micro:bit používá?
+
+<span class="act discussion">💬 Diskuse — 6 min</span>
 
 Reálné aplikace:
 - Školní projekty: meteorologické stanice, alarmy, krokometry
@@ -76,7 +92,7 @@ Závěr: Micro:bit je zjednodušený model toho, jak funguje každý chytrý př
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode editor:** [makecode.microbit.org](https://makecode.microbit.org) — funguje bez instalace, má simulátor
 * **Oficiální průvodce (CZ):** [microbit.org/cs](https://microbit.org/cs) — lekce a projekty v češtině
@@ -86,7 +102,5 @@ Závěr: Micro:bit je zjednodušený model toho, jak funguje každý chytrý př
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Nahrávání programu na Micro:bit je pro žáky magický okamžik — poprvé vidí, že jejich kód ovládá fyzický svět. Ujistěte se, že máte funkční USB kabely (ne jen nabíjecí!). Pokud máte Micro:bit v2, využijte vestavěný reproduktor pro zvukové efekty. Nechejte žáky experimentovat — „co se stane, když..." je nejlepší způsob učení.
-
-> 💬 **Tip pro pátek:** Nechejte žáky Micro:bit prohlédnout dříve, než začnete programovat. Kolik pinů vidí? Co je ta LED matice? Fyzický průzkum zařízení zvyšuje zájem a snižuje ostych.
+!!! tip "Tip pro učitele"
+    Nahrávání programu na Micro:bit je pro žáky magický okamžik — poprvé vidí, že jejich kód ovládá fyzický svět. Ujistěte se, že máte funkční USB kabely (ne jen nabíjecí!). Pokud máte Micro:bit v2, využijte vestavěný reproduktor pro zvukové efekty. Nechejte žáky experimentovat — „co se stane, když..." je nejlepší způsob učení.

@@ -1,24 +1,37 @@
-# ⚙️ Projekt Robot II: Programování a ladění
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-
-**Po hodině žák:**
-* **Implementuje** svůj projekt z týdne 12 v MakeCode.
-* **Systematicky ladí** program — identifikuje a opravuje chyby metodou testování.
-* **Upraví** projekt na základě zpětné vazby od spolužáků (peer testing).
-* **Dokáže** verbálně popsat, co jeho program dělá a proč.
-
+---
+grade: 8
+week: 13
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "**Implementuje** svůj projekt z týdne 12 v MakeCode."
+  - "**Systematicky ladí** program — identifikuje a opravuje chyby metodou testování."
+  - "**Upraví** projekt na základě zpětné vazby od spolužáků (peer testing)."
+  - "**Dokáže** verbálně popsat, co jeho program dělá a proč."
+time_budget:
+  - type: pc
+    minutes: 5
+  - type: board
+    minutes: 25
+  - type: review
+    minutes: 10
+  - type: pc
+    minutes: 5
+friday_tip: "Nechejte skupiny otestovat projekt kamarádem, ne autorem — „uživatel\" najde jiné chyby než tvůrce. Peer testing je technika z profesionálního vývoje softwaru."
 ---
 
-### 💡 Metodický postup (45 min)
+# ️ Projekt Robot II: Programování a ladění
 
-#### 1. Krátká rekapitulace a start práce (5 min)
-*Práce na PC — úvod.*
+## 💡 Metodický postup
+
+### 1. Krátká rekapitulace a start práce
+
+<span class="act pc">💻 PC — 5 min</span>
 
 Skupiny otevřou MakeCode a začínají podle návrhu z minulého týdne. Učitel připomene:
 - Začněte s **minimální funkční verzí** (MVP) — základní funkce fungují
@@ -27,8 +40,9 @@ Skupiny otevřou MakeCode a začínají podle návrhu z minulého týdne. Učite
 
 ---
 
-#### 2. Implementace projektu (25 min)
-*Práce s Micro:bitem.*
+### 2. Implementace projektu
+
+<span class="act board">🖊️ Tabule — 25 min</span>
 
 Žáci pracují ve skupinách na implementaci. Učitel aktivně obchází a pomáhá:
 
@@ -45,8 +59,9 @@ Skupiny otevřou MakeCode a začínají podle návrhu z minulého týdne. Učite
 
 ---
 
-#### 3. Peer testing (10 min)
-*Práce s Micro:bitem — vzájemné testování.*
+### 3. Peer testing
+
+<span class="act review">🔍 Reflexe — 10 min</span>
 
 Skupiny si navzájem vymění Micro:bity (nebo demonstrují na místě):
 - „Tester" zkouší projekt bez instrukcí — co funguje, co ne?
@@ -60,8 +75,9 @@ Formulář zpětné vazby:
 
 ---
 
-#### 4. Závěrečná úprava a uložení (5 min)
-*Práce na PC.*
+### 4. Závěrečná úprava a uložení
+
+<span class="act pc">💻 PC — 5 min</span>
 
 Skupiny zapracují nejdůležitější feedback a uloží finální verzi:
 - Screenshot kódu do Google Drive / USB
@@ -69,7 +85,7 @@ Skupiny zapracují nejdůležitější feedback a uloží finální verzi:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode — debugování:** simulátor umožňuje krokování programu bloky
 * **Peer testing formulář:** Připravte tisknutelný lístek (3 otázky výše)
@@ -79,7 +95,5 @@ Skupiny zapracují nejdůležitější feedback a uloží finální verzi:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Tato hodina je o procesu, ne o produktu. Každá skupina bude jinde — některé mají hotovo a ladí, jiné teprve začínají implementaci. To je v pořádku. Nejdůležitější je, aby žáci zažili cyklus: návrh → kód → test → oprava → znovu. Hodnocení zohledněte podle procesu a prezentace záměru, ne jen podle výsledného produktu.
-
-> 💬 **Tip pro pátek:** Nechejte skupiny otestovat projekt kamarádem, ne autorem — „uživatel" najde jiné chyby než tvůrce. Peer testing je technika z profesionálního vývoje softwaru.
+!!! tip "Tip pro učitele"
+    Tato hodina je o procesu, ne o produktu. Každá skupina bude jinde — některé mají hotovo a ladí, jiné teprve začínají implementaci. To je v pořádku. Nejdůležitější je, aby žáci zažili cyklus: návrh → kód → test → oprava → znovu. Hodnocení zohledněte podle procesu a prezentace záměru, ne jen podle výsledného produktu.

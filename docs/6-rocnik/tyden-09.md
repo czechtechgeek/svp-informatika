@@ -1,19 +1,27 @@
-﻿# Scratch I: Seznámení s prostředím
+---
+grade: 6
+week: 9
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - "Žák se orientuje v prostředí Scratch — zná jeviště, postavičku (sprite), paletu bloků a skriptovací plochu"
+  - "Žák spustí svůj první program a přesune postavičku pomocí bloku „pohyb\""
+  - Žák změní pozadí jeviště a přidá vlastní sprite
+  - Žák pochopí logiku blokového programování (skládání bloků = skládání instrukcí)
+time_budget:
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Páteční první hodina ve Scratchi může být pro některé žáky zahlcující množstvím bloků. Skvělý trik je **\"Scratch Sprints\"** – dejte jim 2 minuty na to, aby našli blok, který postavičku \"zvětší\", pak 2 minuty na blok, který ji \"otočí hlavou dolů\". Tato herní forma objevování prostředí je v pátek odpoledne velmi efektivní."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Páteční první hodina ve Scratchi může být pro některé žáky zahlcující množstvím bloků. Skvělý trik je **"Scratch Sprints"** – dejte jim 2 minuty na to, aby našli blok, který postavičku "zvětší", pak 2 minuty na blok, který ji "otočí hlavou dolů". Tato herní forma objevování prostředí je v pátek odpoledne velmi efektivní.
-
-## 🎯 Cíle hodiny
-
-- Žák se orientuje v prostředí Scratch — zná jeviště, postavičku (sprite), paletu bloků a skriptovací plochu
-- Žák spustí svůj první program a přesune postavičku pomocí bloku „pohyb"
-- Žák změní pozadí jeviště a přidá vlastní sprite
-- Žák pochopí logiku blokového programování (skládání bloků = skládání instrukcí)
+# 
 
 ## 💡 Metodický postup
 
@@ -25,7 +33,9 @@ Otázka: „Myslíte si, že tohle může udělat žák 6. třídy?" (Spoiler: a
 
 Stručné představení: Scratch = vizuální programovací jazyk pro začátečníky od MIT. Bloky = příkazy.
 
-### 2. Prohlídka prostředí (10 min) — PC, učitel na tabuli
+### 2. Prohlídka prostředí
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel sdílí obrazovku nebo žáci sledují tabuli. Společně prozkoumají:
 
@@ -37,7 +47,9 @@ Učitel sdílí obrazovku nebo žáci sledují tabuli. Společně prozkoumají:
 | **Skriptovací plocha** (uprostřed) | Sem skládáme bloky |
 | **Zelená vlajka / Červené stop** | Start a stop programu |
 
-### 3. Aktivita: Moje první pohybující se postavička (20 min) — PC
+### 3. Aktivita: Moje první pohybující se postavička
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák samostatně:
 
@@ -69,4 +81,3 @@ Každý žák samostatně:
 
 !!! tip "Tip pro učitele"
     Doporučujeme žákům vytvořit účet na Scratch.mit.edu — projekty se ukládají a jsou dostupné z domova i ze školy. Pokud škola používá Google Workspace, lze přihlášení propojit s Google účtem. Sdílejte odkaz na třídu přes Google Classroom.
-

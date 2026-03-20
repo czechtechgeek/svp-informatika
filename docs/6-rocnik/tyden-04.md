@@ -1,30 +1,44 @@
-﻿# Kódování textu: Každé písmeno má své číslo
+---
+grade: 6
+week: 4
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák vysvětlí, proč počítač ukládá text jako čísla"
+  - "Žák použije jednoduchou substituční šifru (A=1, B=2 … Z=26) k zakódování slova"
+  - Žák přečte zprávu zašifrovanou spolužákem pomocí stejné tabulky
+  - Žák pochopí princip ASCII jako standardu pro kódování textu
+  - Žák zapíše své jméno v číselném kódu
+time_budget:
+  - type: discussion
+    minutes: 5
+  - type: unplugged
+    minutes: 15
+  - type: pc
+    minutes: 15
+friday_tip: "Pro \"páteční efekt\" ukažte žákům **ASCII Art**. Stačí do vyhledávače zadat \"Star Wars ASCII Art\" nebo použít generátor obrázků z textu. Ukazuje to kreativní využití standardu, který se žáci právě naučili, a je to vizuálně velmi vděčné."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Pro "páteční efekt" ukažte žákům **ASCII Art**. Stačí do vyhledávače zadat "Star Wars ASCII Art" nebo použít generátor obrázků z textu. Ukazuje to kreativní využití standardu, který se žáci právě naučili, a je to vizuálně velmi vděčné.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, proč počítač ukládá text jako čísla
-- Žák použije jednoduchou substituční šifru (A=1, B=2 … Z=26) k zakódování slova
-- Žák přečte zprávu zašifrovanou spolužákem pomocí stejné tabulky
-- Žák pochopí princip ASCII jako standardu pro kódování textu
-- Žák zapíše své jméno v číselném kódu
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Jak počítač čte text? (5 min) — diskuse
+### 1. Úvod: Jak počítač čte text?
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Učitel se zeptá: „Pokud počítač pracuje jen s čísly, jak může zobrazit písmeno A?"
 
 Krátká diskuse → žáci hádat. Učitel vysvětlí: každé písmeno má přiřazené číslo — to je princip kódování. Ukáže na tabuli jednoduchou tabulku A=1, B=2 ... Z=26.
 
-### 2. Aktivita: Zašifruj své jméno (15 min) — bez počítače
+### 2. Aktivita: Zašifruj své jméno
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 Každý žák dostane nebo si opíše tabulku:
 
@@ -42,7 +56,9 @@ V=22  W=23  X=24  Y=25  Z=26
 
 Příklad: `ADAM = 1-4-1-13`
 
-### 3. Aktivita: ASCII detektiv (15 min) — PC
+### 3. Aktivita: ASCII detektiv
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci otevřou [ascii.cl](https://ascii.cl) a prozkoumají skutečnou ASCII tabulku.
 
@@ -67,4 +83,3 @@ Učitel otevře Poznámkový blok, napíše slovo, uloží a řekne: „Tento so
 
 !!! tip "Tip pro učitele"
     Pro rozšíření ukažte rozdíl mezi ASCII (128 znaků) a Unicode (miliony znaků) — jak se zapíše emoji 😀? Odpověď je číslo 128512. Žáci jsou nadšeni, když zjistí, že i emoji je „jen číslo".
-

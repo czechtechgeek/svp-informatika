@@ -1,23 +1,37 @@
+---
+grade: 6
+week: 21
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+goals:
+  - "Žák napíše formální e-mail se správnou strukturou (předmět, oslovení, tělo, podpis)"
+  - Žák vysvětlí pojem netiketa a uvede alespoň 5 jejích pravidel
+  - Žák rozpozná příklady nevhodné online komunikace a navrhne lepší alternativu
+  - "Žák ví, co jsou spam a phishing a jak je poznat"
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 6
+friday_tip: "Pátky jsou výborné pro **„E-mailové divadlo\"** — přečtěte dva e-maily: jeden hrubý/nevhodný a jeden správný formální, oba se stejnou žádostí. Žáci rozhodují, který by raději dostali a proč. Krátká hra na role (učitel čte jako přísný ředitel, žáci jako žadatelé) přidá humor a zapamatovatelnost."
+---
+
 # Netiketa: Psaní e-mailů a zpráv
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou výborné pro **„E-mailové divadlo"** — přečtěte dva e-maily: jeden hrubý/nevhodný a jeden správný formální, oba se stejnou žádostí. Žáci rozhodují, který by raději dostali a proč. Krátká hra na role (učitel čte jako přísný ředitel, žáci jako žadatelé) přidá humor a zapamatovatelnost.
-
-## 🎯 Cíle hodiny
-
-- Žák napíše formální e-mail se správnou strukturou (předmět, oslovení, tělo, podpis)
-- Žák vysvětlí pojem netiketa a uvede alespoň 5 jejích pravidel
-- Žák rozpozná příklady nevhodné online komunikace a navrhne lepší alternativu
-- Žák ví, co jsou spam a phishing a jak je poznat
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je netiketa? (7 min) — diskuse
+### 1. Úvod: Co je netiketa?
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Otázka: „Chovali byste se ve škole jinak než doma? A online jinak než offline?" Diskuse o tom, že pravidla slušného chování platí i na internetu.
 
@@ -29,7 +43,9 @@ Příklady porušení netikety:
 - Ignorování zpráv bez omluvy
 - Sdílení soukromých fotek bez souhlasu
 
-### 2. Aktivita: Dobrý vs. špatný e-mail (12 min) — tabule
+### 2. Aktivita: Dobrý vs. špatný e-mail
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel promítne dva e-maily se stejnou žádostí (omluvenka učiteli). Žáci porovnají:
 
@@ -62,7 +78,9 @@ Pepa Novák, 6.B
 
 Žáci identifikují: co chybí, co je nevhodné, jak by to opravili.
 
-### 3. Aktivita: Napište vlastní e-mail (15 min) — PC
+### 3. Aktivita: Napište vlastní e-mail
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Každý žák napíše e-mail s jednou ze zadaných situací:
 - Žádost o prodloužení termínu odevzdání úkolu
@@ -71,7 +89,9 @@ Každý žák napíše e-mail s jednou ze zadaných situací:
 
 Sdílení: 2–3 dobrovolníci přečtou svůj e-mail, třída hodnotí podle struktury.
 
-### 4. Shrnutí: Spam a phishing (6 min) — tabule
+### 4. Shrnutí: Spam a phishing
+
+<span class="act board">🖊️ Tabule — 6 min</span>
 
 Krátké vysvětlení:
 - **Spam** = nevyžádaná reklamní pošta (mazat, neotvírat přílohy)

@@ -1,23 +1,35 @@
-# 🎄 Vánoce: Světelná show
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
-
-**Po hodině žák:**
-* **Naprogramuje** animovanou světelnou sekvenci na LED matici Micro:bitu.
-* **Využije** cykly a pauzy pro kontrolu rytmu animace.
-* **Volitelně synchronizuje** více Micro:bitů přes rádio.
-* **Tvůrčím způsobem aplikuje** znalosti z 1. pololetí.
-
+---
+grade: 8
+week: 14
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - "**Naprogramuje** animovanou světelnou sekvenci na LED matici Micro:bitu."
+  - "**Využije** cykly a pauzy pro kontrolu rytmu animace."
+  - "**Volitelně synchronizuje** více Micro:bitů přes rádio."
+  - "**Tvůrčím způsobem aplikuje** znalosti z 1. pololetí."
+time_budget:
+  - type: board
+    minutes: 5
+  - type: pc
+    minutes: 10
+  - type: board
+    minutes: 25
+  - type: board
+    minutes: 5
+friday_tip: Skvělá hodina pro sdílení s rodiči nebo jinou třídou — pozvěte publikum a nechejte žáky předvést světelné show. Motivace exploduje.
 ---
 
-### 💡 Metodický postup (45 min)
+# Vánoce: Světelná show
 
-#### 1. Inspirace: Co je světelná show? (5 min)
-*Tabule — motivace.*
+## 💡 Metodický postup
+
+### 1. Inspirace: Co je světelná show?
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Učitel ukáže příklady:
 - Světelné rampouchy na domech (animace LED)
@@ -28,8 +40,9 @@ Propojení: Všechny tyto efekty jsou programy — posloupnosti příkazů se sp
 
 ---
 
-#### 2. Základní techniky světelné show (10 min)
-*Práce na PC — demonstrace.*
+### 2. Základní techniky světelné show
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel ukáže 3 základní techniky v MakeCode:
 
@@ -50,8 +63,9 @@ Kategorie LED → `vykreslit x [0] y [0] jas [9]` (hodnota 0–9)
 
 ---
 
-#### 3. Vlastní světelná show (25 min)
-*Práce s Micro:bitem — tvůrčí tvorba.*
+### 3. Vlastní světelná show
+
+<span class="act board">🖊️ Tabule — 25 min</span>
 
 <div class="zadani-pc">
 
@@ -69,13 +83,15 @@ Vytvořte vlastní vánoční animaci v MakeCode. Doporučené motivy (nebo vymy
 
 ---
 
-#### 4. Prezentace a sdílení (5 min)
+### 4. Prezentace a sdílení
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Každý žák nebo dvojice ukáže svou animaci třídě. Hlasování o nejoriginálnější animaci.
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode — LED:** [makecode.microbit.org](https://makecode.microbit.org) → kategorie LED → `vykreslit x y jas`
 * **Inspirace — pixel art:** Připravte rastrové papíry 5×5 pro ruční návrh vzorů před programováním
@@ -85,7 +101,5 @@ Každý žák nebo dvojice ukáže svou animaci třídě. Hlasování o nejorigi
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Tato hodina je záměrně volnější — po intenzivních projektových týdnech 12–13 potřebují žáci i učitel prostor pro tvůrčí hru. Nehodnoťte obsah, ale přítomnost a zapojení. Pokud zbývá čas, propojte animace více Micro:bitů přes rádio — synchronizovaná světelná show celé třídy je nezapomenutelný zážitek.
-
-> 💬 **Tip pro pátek:** Skvělá hodina pro sdílení s rodiči nebo jinou třídou — pozvěte publikum a nechejte žáky předvést světelné show. Motivace exploduje.
+!!! tip "Tip pro učitele"
+    Tato hodina je záměrně volnější — po intenzivních projektových týdnech 12–13 potřebují žáci i učitel prostor pro tvůrčí hru. Nehodnoťte obsah, ale přítomnost a zapojení. Pokud zbývá čas, propojte animace více Micro:bitů přes rádio — synchronizovaná světelná show celé třídy je nezapomenutelný zážitek.

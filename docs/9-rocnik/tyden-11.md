@@ -1,23 +1,37 @@
-﻿# Závěrečný kódovací projekt I: Zadání
+---
+grade: 9
+week: 11
+time: 45
+area: Algoritmizace a programování / Projektová výuka
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - Žák vybere téma závěrečného projektu z nabídky a zdůvodní svůj výběr
+  - "Žák sepíše specifikaci projektu: co program bude dělat, co bude vstup a výstup"
+  - Žák vytvoří pseudokód nebo vývojový diagram hlavní logiky programu
+  - Žák odhadne složitost projektu a rozplánuje práci na příští hodinu
+time_budget:
+  - type: board
+    minutes: 10
+  - type: unplugged
+    minutes: 10
+  - type: unplugged
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Nechte žáky vybrat si téma projektu sami — vlastní volba výrazně zvyšuje motivaci. Pokud někdo neví, dejte mu 5 minut na rozmyšlení a pak mu pomozte výběrem — nepřikazujte. Kdo má jasno od začátku, může rovnou začít s pseudokódem."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Projektová výuka
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Nechte žáky vybrat si téma projektu sami — vlastní volba výrazně zvyšuje motivaci. Pokud někdo neví, dejte mu 5 minut na rozmyšlení a pak mu pomozte výběrem — nepřikazujte. Kdo má jasno od začátku, může rovnou začít s pseudokódem.
-
-## 🎯 Cíle hodiny
-
-- Žák vybere téma závěrečného projektu z nabídky a zdůvodní svůj výběr
-- Žák sepíše specifikaci projektu: co program bude dělat, co bude vstup a výstup
-- Žák vytvoří pseudokód nebo vývojový diagram hlavní logiky programu
-- Žák odhadne složitost projektu a rozplánuje práci na příští hodinu
+# Kostra: Kvíz
 
 ## 💡 Metodický postup
 
-### 1. Představení projektu a zadání (10 min) — tabule
+### 1. Představení projektu a zadání
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel vysvětlí smysl závěrečného projektu: nejde o dokonalý program, ale o vlastní kompletní dílo, které žák umí vysvětlit.
 
@@ -35,7 +49,9 @@ Pravidla projektu:
 - Musí mít alespoň 30 řádků kódu
 - Žák ho musí umět vysvětlit spolužákovi
 
-### 2. Výběr tématu a specifikace (10 min) — bez počítače
+### 2. Výběr tématu a specifikace
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák dostane kartičku / list papíru a vyplní specifikaci:
 
@@ -57,7 +73,9 @@ Výstup: Správně/Špatně + finální skóre X/10
 Nejsložitější: Uložit všechny otázky a odpovědi přehledně
 ```
 
-### 3. Pseudokód — naplánování logiky (18 min) — bez počítače / tabule
+### 3. Pseudokód — naplánování logiky
+
+<span class="act unplugged">✋ Bez počítače — 18 min</span>
 
 Žáci napíší pseudokód svého projektu. Učitel ukáže příklad na tabuli:
 
@@ -89,7 +107,9 @@ JINAK:
 
 Učitel obchází třídu a kontroluje pseudokódy — 5 minut individuální konzultace.
 
-### 4. Sdílení plánu a zpětná vazba (7 min) — diskuse
+### 4. Sdílení plánu a zpětná vazba
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Dobrovolníci (2–3 žáci) krátce představí svůj plán: „Dělám ___, program bude umět ___." Třída může pokládat otázky. Učitel upozorní na typická úskalí (dělení nulou v kalkulačce, nevalidní vstup, nekonečná smyčka).
 

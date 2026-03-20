@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 31
+time: 45
+area: Průřezové téma (Reflexe a sebehodnocení)
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák uspořádá svůj digitální prostor — smaže nepotřebné soubory, přejmenuje a zatřídí hotové projekty"
+  - Žák vybere 3 nejlepší práce z roku a napíše k nim krátký komentář (proč je považuje za nejlepší)
+  - Žák reflektuje vlastní pokrok od začátku roku a nastaví si jeden cíl pro 7. ročník
+  - Žák rozloučí se s informatiku 6. ročníku a obdrží zpětnou vazbu od učitele
+time_budget:
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 10
+  - type: unplugged
+    minutes: 10
+friday_tip: "Závěrečná páteční hodina je ideální příležitost pro **„Dopis sobě do budoucna\"** — žáci napíší krátký dopis, který si přečtou na začátku 7. ročníku: „Milý budoucí já, v 6. třídě mě v informatice nejvíc překvapilo...\" Učitel dopisy uschová a na podzim je vrátí. Silný a nezapomenutelný rituál."
+---
+
 # Závěr: Úklid digitálního portfolia
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a sebehodnocení)
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Závěrečná páteční hodina je ideální příležitost pro **„Dopis sobě do budoucna"** — žáci napíší krátký dopis, který si přečtou na začátku 7. ročníku: „Milý budoucí já, v 6. třídě mě v informatice nejvíc překvapilo..." Učitel dopisy uschová a na podzim je vrátí. Silný a nezapomenutelný rituál.
-
-## 🎯 Cíle hodiny
-
-- Žák uspořádá svůj digitální prostor — smaže nepotřebné soubory, přejmenuje a zatřídí hotové projekty
-- Žák vybere 3 nejlepší práce z roku a napíše k nim krátký komentář (proč je považuje za nejlepší)
-- Žák reflektuje vlastní pokrok od začátku roku a nastaví si jeden cíl pro 7. ročník
-- Žák rozloučí se s informatiku 6. ročníku a obdrží zpětnou vazbu od učitele
 
 ## 💡 Metodický postup
 
-### 1. Úklid digitálního prostoru (15 min) — PC
+### 1. Úklid digitálního prostoru
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci projdou svou školní složku (Google Drive / OneDrive / lokální disk) a:
 
@@ -40,7 +52,9 @@ Závěrečná páteční hodina je ideální příležitost pro **„Dopis sobě
 - Přesunou soubory do správných složek
 - Smažou zbytečné koncepty a duplikáty
 
-### 2. Výběr nejlepších prací (10 min) — PC
+### 2. Výběr nejlepších prací
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Každý žák vybere **3 práce**, na které je nejvíce hrdý, a napíše ke každé 1–2 věty:
 
@@ -53,7 +67,9 @@ Proč: Poprvé se mi podařilo naprogramovat pohyb postavy
 
 Výběr lze sdílet s učitelem jako součást závěrečného hodnocení.
 
-### 3. Reflexe roku (10 min) — bez počítače nebo PC
+### 3. Reflexe roku
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák vyplní závěrečný formulář (Google Formulář nebo papír):
 

@@ -1,24 +1,37 @@
-# 🛢️ Data v 21. století: Data jako nová ropa
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `INF-INF-001-ZV9-001` – *Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Vysvětlí**, proč se říká „data jsou nová ropa" a co tato metafora znamená.
-* **Uvede** konkrétní příklady dat, která o sobě generuje každý den.
-* **Rozlišuje**, kdo sbírá jeho data a k jakému účelu.
-* **Zaujme** vlastní postoj k hodnotě osobních dat.
-
+---
+grade: 8
+week: 1
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Vysvětlí**, proč se říká „data jsou nová ropa\" a co tato metafora znamená."
+  - "**Uvede** konkrétní příklady dat, která o sobě generuje každý den."
+  - "**Rozlišuje**, kdo sbírá jeho data a k jakému účelu."
+  - "**Zaujme** vlastní postoj k hodnotě osobních dat."
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: discussion
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 7
+friday_tip: "Přineste výroční zprávu nebo tiskovinu velké firmy (Meta, Google, AVAST) a nechejte žáky najít zmínky o datech. Kolik dat zpracovávají? Co s nimi dělají? Reálný dokument silně zabírá."
 ---
 
-### 💡 Metodický postup (45 min)
+# ️ Data v 21. století: Data jako nová ropa
 
-#### 1. Úvod: Co jsou data? (8 min)
-*Diskuze u tabule.*
+## 💡 Metodický postup
+
+### 1. Úvod: Co jsou data?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel se ptá: „Co jste dnes udělali, než jste přišli do školy?" Žáci vyjmenovávají aktivity — probuzení, mobil, snídaně, autobus...
 
@@ -31,8 +44,9 @@ Učitel doplňuje: Každá z těchto aktivit generuje data:
 
 ---
 
-#### 2. Proč „data jako ropa"? (10 min)
-*Tabule — výklad a diskuze.*
+### 2. Proč „data jako ropa"?
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Učitel napíše na tabuli paralelu:
 
@@ -48,8 +62,9 @@ Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kop�
 
 ---
 
-#### 3. Aktivita: Kolik dat generuji? (15 min)
-*PC nebo papír — práce ve dvojicích.*
+### 3. Aktivita: Kolik dat generuji?
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci ve dvojicích vyplní tabulku — odhadnou, kolik datových stop zanechají za jeden typický den:
 
@@ -65,8 +80,9 @@ Skupiny porovnají výsledky — učitel ukáže, jak velký „datový profil" 
 
 ---
 
-#### 4. Reflexe a přehled roku (7 min)
-*Tabule.*
+### 4. Reflexe a přehled roku
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel stručně ukáže, co 8. ročník přinese:
 - Práce s tabulkami na analýzu dat (týdny 2–5)
@@ -78,7 +94,7 @@ Učitel stručně ukáže, co 8. ročník přinese:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Video (CZ):** ČT edu — hledejte „data digitální ekonomika"; nebo YouTube „data jsou nová ropa vysvětlení"
 * **Interaktivní — Datacenter Map:** [datacentermap.com](https://www.datacentermap.com) — kde fyzicky leží data světa
@@ -88,7 +104,5 @@ Učitel stručně ukáže, co 8. ročník přinese:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Žáci 8. ročníku jsou ve věku, kdy data o nich sbírají sociální sítě nejintenzivněji. Téma je proto velmi osobní. Nepůsobte jako strašák — cílem není vyvolat paranoju, ale informovanost. Zdůrazněte, že znalost problému je první krok k informovanému rozhodnutí. Diskuse o tom, „co já za to dostávám" (zdarma služby, personalizace) je klíčová pro kritické myšlení.
-
-> 💬 **Tip pro pátek:** Přineste výroční zprávu nebo tiskovinu velké firmy (Meta, Google, AVAST) a nechejte žáky najít zmínky o datech. Kolik dat zpracovávají? Co s nimi dělají? Reálný dokument silně zabírá.
+!!! tip "Tip pro učitele"
+    Žáci 8. ročníku jsou ve věku, kdy data o nich sbírají sociální sítě nejintenzivněji. Téma je proto velmi osobní. Nepůsobte jako strašák — cílem není vyvolat paranoju, ale informovanost. Zdůrazněte, že znalost problému je první krok k informovanému rozhodnutí. Diskuse o tom, „co já za to dostávám" (zdarma služby, personalizace) je klíčová pro kritické myšlení.

@@ -1,23 +1,33 @@
+---
+grade: 7
+week: 29
+time: 45
+area: Digitální technologie / Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák dokončí svou sekci třídního digitálního časopisu
+  - "Žák zkontroluje obsah z hlediska pravopisu, faktické správnosti a autorských práv"
+  - Třída celkový časopis sestaví a připraví k publikaci nebo prezentaci
+  - Žák získá a poskytne zpětnou vazbu ke konečné verzi
+time_budget:
+  - type: pc
+    minutes: 20
+  - type: pc
+    minutes: 12
+friday_tip: "Časový tlak zvyšuje soustředění: nastavte odpočítávač na 30 minut na tabuli a nechejte žáky pracovat v tichosti. Pak 10 minut prezentace. Jasná struktura pomáhá dotáhnout věci do konce."
+---
+
 # Projekt: Dokončení
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie / Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Časový tlak zvyšuje soustředění: nastavte odpočítávač na 30 minut na tabuli a nechejte žáky pracovat v tichosti. Pak 10 minut prezentace. Jasná struktura pomáhá dotáhnout věci do konce.
-
-## 🎯 Cíle hodiny
-
-- Žák dokončí svou sekci třídního digitálního časopisu
-- Žák zkontroluje obsah z hlediska pravopisu, faktické správnosti a autorských práv
-- Třída celkový časopis sestaví a připraví k publikaci nebo prezentaci
-- Žák získá a poskytne zpětnou vazbu ke konečné verzi
 
 ## 💡 Metodický postup
 
-### 1. Dokončovací sprint (20 min) — PC
+### 1. Dokončovací sprint
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák dokončí svou sekci. Na tabuli jsou viditelné statusy všech sekcí.
 
@@ -32,7 +42,9 @@ Každý žák dokončí svou sekci. Na tabuli jsou viditelné statusy všech sek
 
 Žáci, kteří jsou hotovi dříve: pomohou spolužákovi, nebo přidají doplňkový obsah (rozhovor, infografika).
 
-### 2. Redakční uzávěrka: Finální sestavení (12 min) — PC
+### 2. Redakční uzávěrka: Finální sestavení
+
+<span class="act pc">💻 PC — 12 min</span>
 
 Šéfredaktor/ka nebo učitel projde kompletní časopis a zkontroluje:
 - Chybějící sekce

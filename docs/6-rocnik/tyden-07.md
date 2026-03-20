@@ -1,23 +1,35 @@
-﻿# Algoritmus v kuchyni: Recept jako posloupnost kroků
+---
+grade: 6
+week: 7
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - Žák definuje pojem algoritmus jako přesnou posloupnost kroků vedoucích k cíli
+  - "Žák zapíše algoritmus pro jednoduchou každodenní činnost (recept, ranní příprava)"
+  - Žák rozpozná chybu v algoritmu a opraví ji
+  - "Žák pochopí, proč musí být instrukce jednoznačné a v správném pořadí"
+time_budget:
+  - type: unplugged
+    minutes: 5
+  - type: unplugged
+    minutes: 20
+  - type: pc
+    minutes: 15
+friday_tip: "Pátky v 6. třídě snesou trochu humoru. Pokud děláte aktivitu s robotem-kuchařem, nechte žáky, aby vás \"naprogramovali\" i k tak jednoduché věci, jako je **otevření fixy nebo usednutí na židli**. Ukáže se, že i zdánlivě banální pohyby vyžadují desítky přesných instrukcí (uchop, stiskni, táhni směrem nahoru...)."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Pátky v 6. třídě snesou trochu humoru. Pokud děláte aktivitu s robotem-kuchařem, nechte žáky, aby vás "naprogramovali" i k tak jednoduché věci, jako je **otevření fixy nebo usednutí na židli**. Ukáže se, že i zdánlivě banální pohyby vyžadují desítky přesných instrukcí (uchop, stiskni, táhni směrem nahoru...).
-
-## 🎯 Cíle hodiny
-
-- Žák definuje pojem algoritmus jako přesnou posloupnost kroků vedoucích k cíli
-- Žák zapíše algoritmus pro jednoduchou každodenní činnost (recept, ranní příprava)
-- Žák rozpozná chybu v algoritmu a opraví ji
-- Žák pochopí, proč musí být instrukce jednoznačné a v správném pořadí
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Robot v kuchyni (5 min) — bez počítače
+### 1. Úvod: Robot v kuchyni
+
+<span class="act unplugged">✋ Bez počítače — 5 min</span>
 
 Učitel přinese (nebo nakreslí) obrázek robota kuchaře a řekne:
 
@@ -25,7 +37,9 @@ Učitel přinese (nebo nakreslí) obrázek robota kuchaře a řekne:
 
 Krátká diskuse — žáci zjistí, že robot potřebuje přesné, jednoznačné instrukce.
 
-### 2. Aktivita: Recept pro robota (20 min) — bez počítače
+### 2. Aktivita: Recept pro robota
+
+<span class="act unplugged">✋ Bez počítače — 20 min</span>
 
 #### Varianta A — PB&J sendvič (klasická CS aktivita)
 
@@ -42,7 +56,9 @@ Třída diskutuje a opravuje instrukce.
 
 Každý žák napíše minimálně 10 kroků svého rána (vstát, čistit zuby, snídat...) tak, aby tomu rozuměl robot. Sousedé si navzájem instrukce zkontrolují.
 
-### 3. Aktivita: Flowchart — vývojový diagram (15 min) — PC nebo papír
+### 3. Aktivita: Flowchart — vývojový diagram
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci nakreslí jednoduchý vývojový diagram pro algoritmus „Jak připravit čaj?":
 
@@ -82,4 +98,3 @@ Nástroj: [draw.io](https://app.diagrams.net) nebo tužka a papír.
 
 !!! tip "Tip pro učitele"
     Aktivita s robotem-kuchařem je velmi zábavná a zapamatovatelná — žáci ji citují ještě v 9. třídě při debuggingu. Čím doslovněji hrajete robota, tím lépe pochopí potřebu přesnosti. Pokud máte reálný sendvič k dispozici, je to ještě efektnější.
-

@@ -1,23 +1,37 @@
-﻿# Kryptoměny a Blockchain
+---
+grade: 9
+week: 22
+time: 45
+area: "Data, informace a modelování / Digitální společnost"
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+goals:
+  - Žák vysvětlí princip distribuovaného záznamu (blockchain) vlastními slovy
+  - "Žák popíše, jak probíhá transakce s kryptoměnou od odeslání po potvrzení"
+  - Žák uvede alespoň dvě výhody a dvě rizika kryptoměn oproti tradičním penězům
+  - Žák posoudí ekologický dopad těžby (miningu) kryptoměn
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: board
+    minutes: 10
+  - type: discussion
+    minutes: 15
+  - type: review
+    minutes: 10
+friday_tip: "Přineste na hodinu vytištěný QR kód „peněženky\" s nulovou hodnotou a ukažte žákům, jak vypadá adresa v blockchainu. Abstraktní technologie okamžitě dostane vizuální podobu. Téma kryptoměn žáky silně motivuje — využijte to, ale dbejte na to, aby odcházeli s kritickým pohledem, ne s touhou investovat."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování / Digitální společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-
-## 💬 Tip pro pátek
-Přineste na hodinu vytištěný QR kód „peněženky" s nulovou hodnotou a ukažte žákům, jak vypadá adresa v blockchainu. Abstraktní technologie okamžitě dostane vizuální podobu. Téma kryptoměn žáky silně motivuje — využijte to, ale dbejte na to, aby odcházeli s kritickým pohledem, ne s touhou investovat.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí princip distribuovaného záznamu (blockchain) vlastními slovy
-- Žák popíše, jak probíhá transakce s kryptoměnou od odeslání po potvrzení
-- Žák uvede alespoň dvě výhody a dvě rizika kryptoměn oproti tradičním penězům
-- Žák posoudí ekologický dopad těžby (miningu) kryptoměn
+# 
 
 ## 💡 Metodický postup
 
-### 1. Co je blockchain? Analogie s třídní knihou (10 min) — bez počítače
+### 1. Co je blockchain? Analogie s třídní knihou
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Učitel vysvětlí blockchain pomocí analogie:
 
@@ -31,7 +45,9 @@ Učitel vysvětlí blockchain pomocí analogie:
 
 Učitel nakreslí na tabuli schéma: blok → blok → blok s šipkami a hash hodnotami.
 
-### 2. Jak funguje transakce? (10 min) — tabule
+### 2. Jak funguje transakce?
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel provede žáky příkladem transakce Bitcoin:
 
@@ -43,7 +59,9 @@ Učitel provede žáky příkladem transakce Bitcoin:
 
 **Pojmy k zápisu:** peněženka (wallet), veřejný a soukromý klíč, mining, hash, node
 
-### 3. Výhody, rizika a kritické myšlení (15 min) — diskuse
+### 3. Výhody, rizika a kritické myšlení
+
+<span class="act discussion">💬 Diskuse — 15 min</span>
 
 Žáci ve dvojicích vyplní tabulku (5 min), pak se diskutuje společně (10 min):
 
@@ -64,7 +82,9 @@ Otázky pro diskusi:
 - „Myslíte, že kryptoměny nahradí běžné peníze?"
 - „Byl/a byste ochotný/á investovat úspory do Bitcoinu? Proč ano/ne?"
 
-### 4. Kvíz — pravda nebo mýtus? (10 min) — kvíz
+### 4. Kvíz — pravda nebo mýtus?
+
+<span class="act review">🔍 Reflexe — 10 min</span>
 
 Učitel čte tvrzení, žáci hlasují:
 

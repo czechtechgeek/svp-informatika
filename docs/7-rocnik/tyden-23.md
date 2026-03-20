@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 23
+time: 45
+area: Digitální společnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák definuje kyberšikanu a rozliší ji od jednorázové neshody online
+  - "Žák zná konkrétní kroky, jak postupovat jako oběť i jako svědek"
+  - "Žák ví, na koho se obrátit (učitel, rodič, linka bezpečí, policie)"
+  - "Žák pochopí roli „diváka\" — pasivní sledování = tichá podpora agresora"
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: unplugged
+    minutes: 12
+  - type: board
+    minutes: 12
+friday_tip: "Anonymní karty: před hodinou rozdejte žákům kartičky a nechejte je napsat anonymně „zažil/a jsem online situaci, kdy se mi bylo nepříjemně\" (bez jmen, bez detailů). Vyberte kartičky a přečtěte — třída zjistí, že není sama. Nenásilné otevření tématu."
+---
+
 # Kyberšikana: Obrana a pomoc
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Anonymní karty: před hodinou rozdejte žákům kartičky a nechejte je napsat anonymně „zažil/a jsem online situaci, kdy se mi bylo nepříjemně" (bez jmen, bez detailů). Vyberte kartičky a přečtěte — třída zjistí, že není sama. Nenásilné otevření tématu.
-
-## 🎯 Cíle hodiny
-
-- Žák definuje kyberšikanu a rozliší ji od jednorázové neshody online
-- Žák zná konkrétní kroky, jak postupovat jako oběť i jako svědek
-- Žák ví, na koho se obrátit (učitel, rodič, linka bezpečí, policie)
-- Žák pochopí roli „diváka" — pasivní sledování = tichá podpora agresora
 
 ## 💡 Metodický postup
 
-### 1. Co je kyberšikana? (8 min) — diskuse
+### 1. Co je kyberšikana?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel zapíše definici na tabuli a žáci ji rozebírají:
 
@@ -34,7 +46,9 @@ Klíčová slova: **opakované** (ne jednorázová hádka), **záměrné** (ne n
 
 Diskuse: „Čím se kyberšikana liší od běžné šikany?" (dostupnost 24/7, anonymita, širší publikum, obtížnější únik)
 
-### 2. Scénáře — co bys dělal? (12 min) — bez počítače
+### 2. Scénáře — co bys dělal?
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Skupiny (4 žáci) dostanou kartičku se scénářem a diskutují:
 
@@ -51,7 +65,9 @@ Skupiny (4 žáci) dostanou kartičku se scénářem a diskutují:
 
 Skupiny prezentují závěry (2 min každá).
 
-### 3. Konkrétní kroky pomoci (12 min) — tabule
+### 3. Konkrétní kroky pomoci
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel zapíše na tabuli „Co dělat, pokud jsi oběť/svědek":
 

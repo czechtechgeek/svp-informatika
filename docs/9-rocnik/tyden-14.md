@@ -1,23 +1,37 @@
-﻿# Vánoce: Generativní umění
+---
+grade: 9
+week: 14
+time: 45
+area: Algoritmizace a programování / Digitální tvorba
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák vytvoří vánoční grafiku pomocí Python turtle nebo online nástroje
+  - Žák pochopí princip generativního umění — kód jako tvůrčí nástroj
+  - Žák modifikuje existující kód a prozkoumá efekt změny parametrů
+  - "Žák sdílí svůj výtvor se třídou a popíše, jak ho vytvořil"
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 25
+  - type: discussion
+    minutes: 5
+friday_tip: Předvánoční hodina je skvělá příležitost pro kreativitu bez hodnocení — dejte žákům volnost experimentovat a sdílet výsledky. Pusťte vánoční hudbu na pozadí a nechte hodinu plynout v uvolněné atmosféře.
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Digitální tvorba
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Předvánoční hodina je skvělá příležitost pro kreativitu bez hodnocení — dejte žákům volnost experimentovat a sdílet výsledky. Pusťte vánoční hudbu na pozadí a nechte hodinu plynout v uvolněné atmosféře.
-
-## 🎯 Cíle hodiny
-
-- Žák vytvoří vánoční grafiku pomocí Python turtle nebo online nástroje
-- Žák pochopí princip generativního umění — kód jako tvůrčí nástroj
-- Žák modifikuje existující kód a prozkoumá efekt změny parametrů
-- Žák sdílí svůj výtvor se třídou a popíše, jak ho vytvořil
+# Nakreslí strom
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je generativní umění (7 min) — tabule / diskuse
+### 1. Úvod: Co je generativní umění
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel ukáže příklady generativního umění na projektoru:
 - Sněhové vločky generované kódem
@@ -28,7 +42,9 @@ Klíčová myšlenka: „Umění vytvořené algoritmem — počítač kreslí p
 
 Propojení: Stejný přístup používají architekti, designéři log, tvůrci her.
 
-### 2. Demo: Vánoční strom v Python Turtle (8 min) — Python
+### 2. Demo: Vánoční strom v Python Turtle
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel živě naprogramuje základní vánoční strom:
 
@@ -76,7 +92,9 @@ turtle.done()
 
 Učitel ukáže, co se stane, když změní číslo `0.7` na `0.8` nebo úhel `30` na `45`.
 
-### 3. Kreativní práce (25 min) — Python
+### 3. Kreativní práce
+
+<span class="act board">🖊️ Tabule — 25 min</span>
 
 Žáci si vyberou jeden ze tří přístupů dle úrovně:
 
@@ -158,7 +176,9 @@ function draw() {
 }
 ```
 
-### 4. Sdílení a závěr (5 min) — diskuse
+### 4. Sdílení a závěr
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Žáci ukáží svou tvorbu na projektoru nebo pošlou screenshot do skupiny. Učitel ukončí pololetní blok: „Za chvíli jsou vánoce — příští rok pokračujeme tématem AI."
 

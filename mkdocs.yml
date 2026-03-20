@@ -23,6 +23,9 @@ theme:
       primary: teal
       accent: deep orange
 
+hooks:
+  - hooks/lesson_meta.py
+
 edit_uri: edit/main/docs/
 repo_url: https://github.com/czechtechgeek/svp-informatika
 repo_name: czechtechgeek/svp-informatika
@@ -42,6 +45,7 @@ markdown_extensions:
       alternate_style: true
   - tables
   - attr_list
+  - md_in_html
 
 nav:
   - Domů: index.md

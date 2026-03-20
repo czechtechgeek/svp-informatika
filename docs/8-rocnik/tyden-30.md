@@ -1,28 +1,41 @@
-# 🏢 Rezerva: Exkurze nebo host z praxe
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Digitální společnost a kariérní orientace
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Propojí** školní znalosti z informatiky s reálnými profesemi a odvětvími IT.
-* **Aktivně naslouchá** odborníkovi z praxe a formuluje smysluplné otázky.
-* **Rozlišuje** různé IT profese (programátor, IT bezpečák, datový analytik, síťař, UX designer).
-* **Reflektuje**, které IT dovednosti ho zajímají a jaké vzdělávací cesty vedou k IT kariéře.
-
+---
+grade: 8
+week: 30
+time: 45
+area: Digitální společnost a kariérní orientace
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Propojí** školní znalosti z informatiky s reálnými profesemi a odvětvími IT."
+  - "**Aktivně naslouchá** odborníkovi z praxe a formuluje smysluplné otázky."
+  - "**Rozlišuje** různé IT profese (programátor, IT bezpečák, datový analytik, síťař, UX designer)."
+  - "**Reflektuje**, které IT dovednosti ho zajímají a jaké vzdělávací cesty vedou k IT kariéře."
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: discussion
+    minutes: 5
+  - type: discussion
+    minutes: 20
+  - type: unplugged
+    minutes: 10
+friday_tip: "Pokud přichází host z praxe, dejte mu předem vědět, že publikum tvoří 13–14letí žáci. Nejlepší hosté mluví o konkrétních příbězích ze své praxe, ne o technologiích obecně. Požádejte ho o jednu anekdotu nebo zajímavý případ z reálné práce."
 ---
 
-### 💡 Metodický postup (45 min)
+# Rezerva: Exkurze nebo host z praxe
+
+## 💡 Metodický postup
 
 ---
 
 ## Varianta A: Host z praxe (celá hodina ve třídě)
 
-#### 1. Příprava otázek před příchodem hosta (10 min)
-*Aktivita bez počítače.*
+### 1. Příprava otázek před příchodem hosta
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Před příchodem hosta (nebo v předchozí hodině) žáci ve dvojicích připraví 2–3 otázky. Učitel nabídne inspirační kategorie:
 
@@ -36,15 +49,17 @@ Před příchodem hosta (nebo v předchozí hodině) žáci ve dvojicích připr
 
 ---
 
-#### 2. Úvod a představení hosta (5 min)
-*Diskuze.*
+### 2. Úvod a představení hosta
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Učitel krátce představí hosta (jméno, firma, role). Host má 3–5 minut na stručné představení sebe a své práce. Učitel ho požádá, aby začal konkrétním příběhem nebo projektem — ne životopisem.
 
 ---
 
-#### 3. Řízená diskuse s hostem (20 min)
-*Diskuze.*
+### 3. Řízená diskuse s hostem
+
+<span class="act discussion">💬 Diskuse — 20 min</span>
 
 Žáci kladou připravené otázky, učitel moderuje. Pravidla:
 - Každá otázka od jiného žáka
@@ -58,8 +73,9 @@ Doporučená struktura:
 
 ---
 
-#### 4. Závěr a reflexe (10 min)
-*Aktivita bez počítače.*
+### 4. Závěr a reflexe
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák napíše na papír (nebo do sešitu):
 1. Jedna věc, která mě překvapila
@@ -101,7 +117,7 @@ Po návratu do třídy (nebo v nejbližší hodině) žáci sdílí postřehy. V
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Šablona otázek pro hosta:** „5 kategorií otázek pro IT odborníka" (tisk nebo sdílený dokument)
 * **Reflexní list:** „Co jsem se dozvěděl/a" (3 otázky po exkurzi nebo setkání s hostem)
@@ -111,7 +127,5 @@ Po návratu do třídy (nebo v nejbližší hodině) žáci sdílí postřehy. V
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Hosta z praxe nejlépe oslovíte přes rodiče žáků — v každé třídě bývá alespoň jeden rodič pracující v IT. Alternativně zkuste oslovit lokální IT firmy nebo absolventský spolek vaší školy. Host nemusí být senior developer z velké korporace — zajímavý může být i junior programátor, který studuje při práci, nebo správce sítě z místní firmy. Autentický příběh běžného člověka bývá pro žáky cennější než prezentace velké značky.
-
-> 💬 **Tip pro pátek:** Pokud přichází host z praxe, dejte mu předem vědět, že publikum tvoří 13–14letí žáci. Nejlepší hosté mluví o konkrétních příbězích ze své praxe, ne o technologiích obecně. Požádejte ho o jednu anekdotu nebo zajímavý případ z reálné práce.
+!!! tip "Tip pro učitele"
+    Hosta z praxe nejlépe oslovíte přes rodiče žáků — v každé třídě bývá alespoň jeden rodič pracující v IT. Alternativně zkuste oslovit lokální IT firmy nebo absolventský spolek vaší školy. Host nemusí být senior developer z velké korporace — zajímavý může být i junior programátor, který studuje při práci, nebo správce sítě z místní firmy. Autentický příběh běžného člověka bývá pro žáky cennější než prezentace velké značky.

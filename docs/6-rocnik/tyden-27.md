@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 27
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák vysvětlí pojem autorské právo a proč existuje
+  - Žák vyhledá obrázky s licencí Creative Commons pomocí filtrů v Googlu
+  - "Žák správně uvede zdroj obrázku (autor, název, licence, URL)"
+  - "Žák rozliší, co může a nemůže udělat s obrázkem nalezeným online"
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 10
+friday_tip: "V pátek vyzkoušejte **„Najdi legální obrázek\"** — učitel zadá téma (např. „lev v Africe\") a žáci mají 3 minuty najít obrázek s licencí CC, který by mohli použít ve školní prezentaci. Pak sdílejí odkaz a popisují, jak ho správně ocitují."
+---
+
 # Autorská práva: Obrázky z Googlu
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-V pátek vyzkoušejte **„Najdi legální obrázek"** — učitel zadá téma (např. „lev v Africe") a žáci mají 3 minuty najít obrázek s licencí CC, který by mohli použít ve školní prezentaci. Pak sdílejí odkaz a popisují, jak ho správně ocitují.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí pojem autorské právo a proč existuje
-- Žák vyhledá obrázky s licencí Creative Commons pomocí filtrů v Googlu
-- Žák správně uvede zdroj obrázku (autor, název, licence, URL)
-- Žák rozliší, co může a nemůže udělat s obrázkem nalezeným online
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Příběh fotografa (8 min) — diskuse
+### 1. Úvod: Příběh fotografa
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel vypráví příběh: „Fotograf strávil měsíc v Africe a pořídil skvělé fotky lvů. Jeden žák tyto fotky stáhl z Googlu a použil je v prezentaci bez uvedení autora. Je to v pořádku?"
 
@@ -33,7 +45,9 @@ Přehled licencí na tabuli:
 | CC BY-NC | Použít, uvést autora, nesmím komerčně |
 | Public domain / CC0 | Volně použít bez omezení |
 
-### 2. Aktivita: Hledáme legální obrázky (15 min) — PC
+### 2. Aktivita: Hledáme legální obrázky
+
+<span class="act pc">💻 PC — 15 min</span>
 
 **Google Images s filtrem:**
 1. Vyhledejte téma (např. „kočka")
@@ -54,7 +68,9 @@ Licence: [CC BY / CC0 / ...]
 Zdroj: [URL]
 ```
 
-### 3. Diskuse: Co hrozí za porušení? (10 min) — tabule
+### 3. Diskuse: Co hrozí za porušení?
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Krátké vysvětlení bez strašení:
 - Škola nebo žák musí zaplatit náhradu škody

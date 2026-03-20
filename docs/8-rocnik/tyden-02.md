@@ -1,23 +1,35 @@
-# 🔀 Pokročilé tabulky: Funkce IF
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
-
-**Po hodině žák:**
-* **Vysvětlí** logiku podmínkové funkce IF (když platí podmínka, pak X, jinak Y).
-* **Napíše** jednoduchou funkci IF pro hodnocení dat (splnil/nesplnil, sleva/bez slevy).
-* **Rozlišuje** různé podmínkové operátory: `>`, `<`, `=`, `>=`, `<=`, `<>`.
-* **Propojí** funkci IF s vědomostmi o podmínkách z programování (Scratch, 7. ročník).
-
+---
+grade: 8
+week: 2
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "**Vysvětlí** logiku podmínkové funkce IF (když platí podmínka, pak X, jinak Y)."
+  - "**Napíše** jednoduchou funkci IF pro hodnocení dat (splnil/nesplnil, sleva/bez slevy)."
+  - "**Rozlišuje** různé podmínkové operátory: `>`, `<`, `=`, `>=`, `<=`, `<>`."
+  - "**Propojí** funkci IF s vědomostmi o podmínkách z programování (Scratch, 7. ročník)."
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+  - type: board
+    minutes: 8
+friday_tip: "Ukaž žákům reálné použití: mzdový systém, vysvědčení nebo slevový kalkulator — všechny používají IF. „To, co se učíte dnes, opravdu někdo napsal a platí mu za to.\""
 ---
 
-### 💡 Metodický postup (45 min)
+# Pokročilé tabulky: Funkce IF
 
-#### 1. Propojení se Scratchem (7 min)
-*Diskuze u tabule.*
+## 💡 Metodický postup
+
+### 1. Propojení se Scratchem
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel napíše na tabuli pseudokód:
 
@@ -37,8 +49,9 @@ Pak ukáže, jak to samé funguje v tabulkovém procesoru:
 
 ---
 
-#### 2. Syntaxe IF — krok za krokem (10 min)
-*Tabule — výklad.*
+### 2. Syntaxe IF — krok za krokem
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel zapíše obecný vzorec:
 
@@ -56,8 +69,9 @@ Příklady podmínek:
 
 ---
 
-#### 3. Praktická úloha: Hodnocení žáků (20 min)
-*Práce na PC.*
+### 3. Praktická úloha: Hodnocení žáků
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Učitel sdílí nebo žáci vytvoří tabulku s výsledky testu:
 
@@ -83,8 +97,9 @@ Učitel sdílí nebo žáci vytvoří tabulku s výsledky testu:
 
 ---
 
-#### 4. Kontrola a diskuse (8 min)
-*Tabule — sdílení výsledků.*
+### 4. Kontrola a diskuse
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Jeden žák sdílí výsledek na projektoru, třída kontroluje. Diskuse:
 - „Co se stane, když buňka B2 bude prázdná?"
@@ -93,7 +108,7 @@ Jeden žák sdílí výsledek na projektoru, třída kontroluje. Diskuse:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Google Sheets — nápověda k IF:** [support.google.com](https://support.google.com/docs/answer/3093364) — kompletní dokumentace s příklady
 * **Vzorová tabulka:** Připravte sdílený Google Sheet nebo Excel soubor s daty pro cvičení — ušetří čas
@@ -103,7 +118,5 @@ Jeden žák sdílí výsledek na projektoru, třída kontroluje. Diskuse:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Nejčastější chyby žáků: záměna středníku a čárky (závisí na nastavení jazyka), chybějící uvozovky u textu, záměna `=` (rovná se) s přiřazením. Nechejte žáky záměrně udělat chybu a přečíst chybovou hlášku — tím se naučí debugovat. Vnořené IF (úloha 2) je kognitivně náročné — nedotahujte pokud třída nestíhá, to přijde přirozeně v dalších hodinách.
-
-> 💬 **Tip pro pátek:** Ukaž žákům reálné použití: mzdový systém, vysvědčení nebo slevový kalkulator — všechny používají IF. „To, co se učíte dnes, opravdu někdo napsal a platí mu za to."
+!!! tip "Tip pro učitele"
+    Nejčastější chyby žáků: záměna středníku a čárky (závisí na nastavení jazyka), chybějící uvozovky u textu, záměna `=` (rovná se) s přiřazením. Nechejte žáky záměrně udělat chybu a přečíst chybovou hlášku — tím se naučí debugovat. Vnořené IF (úloha 2) je kognitivně náročné — nedotahujte pokud třída nestíhá, to přijde přirozeně v dalších hodinách.

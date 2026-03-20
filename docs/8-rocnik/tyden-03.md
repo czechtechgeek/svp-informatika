@@ -1,23 +1,35 @@
-# 📉 Analýza: Hledání extrémů (MIN/MAX)
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
-
-**Po hodině žák:**
-* **Použije** funkce MIN, MAX a PRŮMĚR (AVERAGE) pro základní datovou analýzu.
-* **Kombinuje** MIN/MAX s funkcí IF k nalezení extrémů v podmíněném výběru.
-* **Interpretuje** výsledky analýzy a formuluje závěry slovy.
-* **Rozlišuje**, kdy použít MIN/MAX vs. seřazení dat.
-
+---
+grade: 8
+week: 3
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "**Použije** funkce MIN, MAX a PRŮMĚR (AVERAGE) pro základní datovou analýzu."
+  - "**Kombinuje** MIN/MAX s funkcí IF k nalezení extrémů v podmíněném výběru."
+  - "**Interpretuje** výsledky analýzy a formuluje závěry slovy."
+  - "**Rozlišuje**, kdy použít MIN/MAX vs. seřazení dat."
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+  - type: discussion
+    minutes: 7
+friday_tip: "Připravte data z reálného světa — třeba teploty v ČR za poslední rok, výsledky sportovního turnaje nebo ceny potravin. Žáci jsou mnohem více motivovaní, pokud data „existují doopravdy\"."
 ---
 
-### 💡 Metodický postup (45 min)
+# Analýza: Hledání extrémů (MIN/MAX)
 
-#### 1. Úvod: Proč hledáme extrémy? (8 min)
-*Diskuze u tabule.*
+## 💡 Metodický postup
+
+### 1. Úvod: Proč hledáme extrémy?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel se ptá: „Kdy vás zajímá nejlepší nebo nejhorší výsledek?"
 - Nejlevnější produkt v e-shopu
@@ -29,8 +41,9 @@ Diskuse: Co by nám dala prostá vizuální prohlídka 1000 řádků tabulky? �
 
 ---
 
-#### 2. Funkce MIN, MAX, AVERAGE — přehled (10 min)
-*Tabule — výklad.*
+### 2. Funkce MIN, MAX, AVERAGE — přehled
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel ukáže na příkladu tabulky výsledků třídy:
 
@@ -46,8 +59,9 @@ Učitel ukáže na příkladu tabulky výsledků třídy:
 
 ---
 
-#### 3. Praktická analýza (20 min)
-*Práce na PC.*
+### 3. Praktická analýza
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci pracují s připravenou tabulkou — výsledky 30 žáků v pěti testech:
 
@@ -67,8 +81,9 @@ Učitel ukáže na příkladu tabulky výsledků třídy:
 
 ---
 
-#### 4. Interpretace výsledků (7 min)
-*Diskuze.*
+### 4. Interpretace výsledků
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Žáci verbálně formulují závěry:
 - „Nejlepší výsledek měl/a... s průměrem..."
@@ -79,7 +94,7 @@ Učitel upozorní: Průměr může být zavádějící — jeden extrém ho siln
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Vzorová data — teploty ČR:** Český hydrometeorologický ústav [chmi.cz](https://www.chmi.cz) — historická data ke stažení
 * **Vzorová data — sport:** Výsledky ligových tabulek jsou dostupné na webech sportovních svazů
@@ -89,7 +104,5 @@ Učitel upozorní: Průměr může být zavádějící — jeden extrém ho siln
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Rozdíl mezi průměrem a mediánem je skvělá příležitost pro mezipředmětové propojení s matematikou. Příklad: průměrná mzda v ČR (ovlivněná vysokými platy managementu) vs. mediánová mzda (polovina lidí vydělává méně). Žáci, kteří mají starší sourozence nebo pracující rodiče, toto snadno pochopí a aktivně přispějí do diskuse.
-
-> 💬 **Tip pro pátek:** Připravte data z reálného světa — třeba teploty v ČR za poslední rok, výsledky sportovního turnaje nebo ceny potravin. Žáci jsou mnohem více motivovaní, pokud data „existují doopravdy".
+!!! tip "Tip pro učitele"
+    Rozdíl mezi průměrem a mediánem je skvělá příležitost pro mezipředmětové propojení s matematikou. Příklad: průměrná mzda v ČR (ovlivněná vysokými platy managementu) vs. mediánová mzda (polovina lidí vydělává méně). Žáci, kteří mají starší sourozence nebo pracující rodiče, toto snadno pochopí a aktivně přispějí do diskuse.

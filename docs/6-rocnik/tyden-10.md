@@ -1,19 +1,27 @@
-﻿# Scratch II: Události - Po kliknutí na vlajku
+---
+grade: 6
+week: 10
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák vysvětlí, co je událost v programování (event-driven programming)"
+  - "Žák použije blok „Po kliknutí na zelenou vlajku\" jako spouštěč programu"
+  - "Žák naprogramuje postavu, která reaguje na klik myší a stisk klávesy"
+  - Žák vytvoří animaci s více sprity reagujícími na různé události
+time_budget:
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 25
+friday_tip: "Pátky v 6. třídě jsou ideální pro **\"Chaos Challenge\"**. Dejte žákům 3 minuty na to, aby do jednoho projektu přidali co nejvíce postav, a každé z nich dali událost `Po stisknutí libovolné klávesy` s jiným zvukem nebo pohybem. Po spuštění a náhodném mačkání klávesnice vznikne \"digitální orchestr/chaos\", který skvěle demonstruje paralelní běh skriptů a okamžitou reakci na událost."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Pátky v 6. třídě jsou ideální pro **"Chaos Challenge"**. Dejte žákům 3 minuty na to, aby do jednoho projektu přidali co nejvíce postav, a každé z nich dali událost `Po stisknutí libovolné klávesy` s jiným zvukem nebo pohybem. Po spuštění a náhodném mačkání klávesnice vznikne "digitální orchestr/chaos", který skvěle demonstruje paralelní běh skriptů a okamžitou reakci na událost.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je událost v programování (event-driven programming)
-- Žák použije blok „Po kliknutí na zelenou vlajku" jako spouštěč programu
-- Žák naprogramuje postavu, která reaguje na klik myší a stisk klávesy
-- Žák vytvoří animaci s více sprity reagujícími na různé události
+# 
 
 ## 💡 Metodický postup
 
@@ -23,7 +31,9 @@ Učitel se zeptá: „Co se stane, když zmáčknete vypínač světla? Co se st
 
 Klíčová myšlenka: **Událost = něco, co se stane → spustí reakci**. V počítači je to stejné — klik myší, stisk klávesy, spuštění programu jsou události.
 
-### 2. Ukázka: Reagující duch (10 min) — tabule + PC
+### 2. Ukázka: Reagující duch
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel na tabuli (sdílená obrazovka) postaví jednoduché schéma:
 
@@ -37,7 +47,9 @@ AKCE: "pohni se o 50 kroků"
 
 Žáci sledují, jak se bloky skládají a spouštějí.
 
-### 3. Aktivita: Reagující duch (25 min) — PC
+### 3. Aktivita: Reagující duch
+
+<span class="act pc">💻 PC — 25 min</span>
 
 Žáci vytvoří projekt „Reagující duch":
 
@@ -74,4 +86,3 @@ Výsledek: Duch se teleportuje při startu, změní kostým při kliknutí, sko�
 
 !!! tip "Tip pro učitele"
     Kostýmy (Costumes) jsou silný nástroj — ukažte žákům záložku Kostýmy a možnost nakreslení vlastního kostýmu v editoru. Kreativita s kostýmy udrží žáky motivované po celou sérii Scratch hodin.
-

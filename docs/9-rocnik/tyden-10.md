@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 10
+time: 45
+area: Programování / Algoritmické myšlení
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák definuje vlastní funkci pomocí `def` a zavolá ji"
+  - "Žák rozlišuje funkce bez parametrů, s parametry a s návratovou hodnotou (`return`)"
+  - "Žák aplikuje princip DRY (Don't Repeat Yourself) – vyčlení opakující se kód do funkce"
+  - Žák napíše program složený z více funkcí
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 12
+  - type: board
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Funkce jsou jako recepty v kuchařce – jednou je napíšeš, pak je opakuješ bez přepisování. Přirovnání ze života žáků: playlist v Spotify je funkce – jednou ho sestavíš, pak ho spouštíš jedno tlačítko."
+---
+
 # Funkce: Vlastní bloky kódu
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Programování / Algoritmické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Funkce jsou jako recepty v kuchařce – jednou je napíšeš, pak je opakuješ bez přepisování. Přirovnání ze života žáků: playlist v Spotify je funkce – jednou ho sestavíš, pak ho spouštíš jedno tlačítko.
-
-## 🎯 Cíle hodiny
-
-- Žák definuje vlastní funkci pomocí `def` a zavolá ji
-- Žák rozlišuje funkce bez parametrů, s parametry a s návratovou hodnotou (`return`)
-- Žák aplikuje princip DRY (Don't Repeat Yourself) – vyčlení opakující se kód do funkce
-- Žák napíše program složený z více funkcí
 
 ## 💡 Metodický postup
 
-### 1. Proč funkce? (8 min) — tabule
+### 1. Proč funkce?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Problém bez funkce – opakující se kód:
 ```python
@@ -44,7 +58,9 @@ ramecek("Jak se máš?")
 
 Princip **DRY**: Don't Repeat Yourself. Změna rámu stačí na jednom místě.
 
-### 2. Anatomie funkce (12 min) — tabule + PC
+### 2. Anatomie funkce
+
+<span class="act pc">💻 PC — 12 min</span>
 
 ```python
 def pozdrav(jmeno, hodina):      # def + název + parametry
@@ -65,7 +81,9 @@ Klíčové pojmy:
 - `return` – výstup funkce (vrácená hodnota)
 - **volání** – spuštění funkce s konkrétními argumenty
 
-### 3. Vlastní funkce (18 min) — Python
+### 3. Vlastní funkce
+
+<span class="act board">🖊️ Tabule — 18 min</span>
 
 Žáci napíší program s alespoň 3 vlastními funkcemi:
 
@@ -99,7 +117,9 @@ vysledek(body, 3)
 
 Žáci napíší vlastní verzi kvízu nebo jiný projekt s funkcemi.
 
-### 4. Reflexe a přehled (7 min) — diskuse
+### 4. Reflexe a přehled
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Shrnutí: Co funkce umí?
 - Rozdělit velký problém na menší části

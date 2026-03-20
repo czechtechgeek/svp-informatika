@@ -1,24 +1,37 @@
-# 🎣 Phishing: Analýza podvodných e-mailů
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Kybernetická bezpečnost
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Definuje** pojem phishing a popíše jeho cíle.
-* **Identifikuje** nejméně 5 varovných znaků (red flags) v podvodném e-mailu.
-* **Analyzuje** vzorový e-mail a zdůvodní, proč je nebo není podvodný.
-* **Navrhne** správný postup, když obdrží podezřelý e-mail.
-
+---
+grade: 8
+week: 21
+time: 45
+area: Kybernetická bezpečnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Definuje** pojem phishing a popíše jeho cíle."
+  - "**Identifikuje** nejméně 5 varovných znaků (red flags) v podvodném e-mailu."
+  - "**Analyzuje** vzorový e-mail a zdůvodní, proč je nebo není podvodný."
+  - "**Navrhne** správný postup, když obdrží podezřelý e-mail."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 20
+  - type: discussion
+    minutes: 10
+  - type: review
+    minutes: 7
+friday_tip: "Přineste do hodiny vytištěný nebo promítnutý reálný phishingový e-mail (z vlastní schránky, se zakrytými osobními údaji) — žáci okamžitě vidí, jak přesvědčivě mohou podvody vypadat. Tato aktivita je nejsilnější, když je příklad co nejreálnější."
 ---
 
-### 💡 Metodický postup (45 min)
+# Phishing: Analýza podvodných e-mailů
 
-#### 1. Úvod: Co je phishing a proč funguje? (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Co je phishing a proč funguje?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel vysvětlí původ slova: „phishing" = fishing (rybaření) — útočník „hodí návnadu" a čeká, kdo se chytí. Phishing je nejčastější způsob kybernetického útoku — přes 90 % úspěšných útoků začíná phishingovým e-mailem nebo SMS.
 
@@ -33,8 +46,9 @@ Varianty phishingu: e-mail, SMS (smishing), telefon (vishing), sociální sítě
 
 ---
 
-#### 2. Detektiv podvodů: Rozbor vzorových e-mailů (20 min)
-*PC nebo papír — práce samostatně nebo ve dvojicích.*
+### 2. Detektiv podvodů: Rozbor vzorových e-mailů
+
+<span class="act pc">💻 PC — 20 min</span>
 
 <div class="zadani-pc">
 
@@ -72,8 +86,9 @@ Pro každý z níže uvedených e-mailů zkontrolujte checklist a rozhodněte: *
 
 ---
 
-#### 3. Správná reakce: Co dělat s podezřelým e-mailem (10 min)
-*Diskuze.*
+### 3. Správná reakce: Co dělat s podezřelým e-mailem
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Třída společně projde správný postup:
 
@@ -88,8 +103,9 @@ Třída společně projde správný postup:
 
 ---
 
-#### 4. Reflexe a shrnutí (7 min)
-*Kvíz.*
+### 4. Reflexe a shrnutí
+
+<span class="act review">🔍 Reflexe — 7 min</span>
 
 Rychlý kvíz — „Pravda nebo lež?":
 1. E-mail s logem banky je vždy od banky. *(Lež)*
@@ -100,7 +116,7 @@ Rychlý kvíz — „Pravda nebo lež?":
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Online kvíz:** [phishingquiz.withgoogle.com](https://phishingquiz.withgoogle.com) — Google test „jste schopni rozeznat phishing?" (8 e-mailů, CZ/EN)
 * **Web — NÚKIB materiály:** [nukib.cz/cs/kyberneticka-bezpecnost/pro-verejnost](https://www.nukib.cz) — tipy a příklady phishingu v češtině
@@ -109,7 +125,5 @@ Rychlý kvíz — „Pravda nebo lež?":
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Google phishing quiz je skvělý doplněk — žáci ho mohou vyplnit online a okamžitě vidí výsledek. Upozorněte žáky, že i zkušení dospělí občas phishing nepoznají — to není ostuda, proto existují technické filtry a antispam. Hlavní je znát postup, co dělat PO kliknutí (rychlá změna hesla, oznámení). Spear phishing (cílený phishing se jménem oběti) je pokročilé téma pro rychlejší žáky.
-
-> 💬 **Tip pro pátek:** Přineste do hodiny vytištěný nebo promítnutý reálný phishingový e-mail (z vlastní schránky, se zakrytými osobními údaji) — žáci okamžitě vidí, jak přesvědčivě mohou podvody vypadat. Tato aktivita je nejsilnější, když je příklad co nejreálnější.
+!!! tip "Tip pro učitele"
+    Google phishing quiz je skvělý doplněk — žáci ho mohou vyplnit online a okamžitě vidí výsledek. Upozorněte žáky, že i zkušení dospělí občas phishing nepoznají — to není ostuda, proto existují technické filtry a antispam. Hlavní je znát postup, co dělat PO kliknutí (rychlá změna hesla, oznámení). Spear phishing (cílený phishing se jménem oběti) je pokročilé téma pro rychlejší žáky.

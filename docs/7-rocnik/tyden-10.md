@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 10
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+goals:
+  - Žák vytvoří odpočítávač (countdown timer) pomocí proměnné a cyklu s čekáním
+  - "Žák použije blok `čekej 1 sekund` k simulaci reálného času"
+  - Žák kombinuje časomíru s podmínkami — čas = 0 → konec hry
+  - "Žák pochopí, že „čas\" v programu je jen proměnná, ne skutečný čas"
+time_budget:
+  - type: board
+    minutes: 7
+  - type: board
+    minutes: 13
+  - type: pc
+    minutes: 20
+friday_tip: "Odlehčení na konci hodiny: „Stopky challenge\" — kdo zastaví stopky na přesně 10 sekund bez dívání? Žáci soutěží. Pak diskuse: jak počítač ví, kdy uplynula sekunda? (přerušení, oscilátor, čítač)"
+---
+
 # Proměnné II: Časomíra
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-
-## 💬 Tip pro pátek
-Odlehčení na konci hodiny: „Stopky challenge" — kdo zastaví stopky na přesně 10 sekund bez dívání? Žáci soutěží. Pak diskuse: jak počítač ví, kdy uplynula sekunda? (přerušení, oscilátor, čítač)
-
-## 🎯 Cíle hodiny
-
-- Žák vytvoří odpočítávač (countdown timer) pomocí proměnné a cyklu s čekáním
-- Žák použije blok `čekej 1 sekund` k simulaci reálného času
-- Žák kombinuje časomíru s podmínkami — čas = 0 → konec hry
-- Žák pochopí, že „čas" v programu je jen proměnná, ne skutečný čas
 
 ## 💡 Metodický postup
 
-### 1. Čas jako proměnná (7 min) — tabule
+### 1. Čas jako proměnná
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Diskuse: „Jak poznáte, kolik zbývá času ve hře?" → odpovědi: číslo na obrazovce, ubývající pruh, tikání.
 
@@ -27,7 +39,9 @@ Dva typy:
 - **Odpočet (countdown):** `čas = 30`, každou sekundu `čas = čas - 1`
 - **Stopky (countup):** `čas = 0`, každou sekundu `čas = čas + 1`
 
-### 2. Demo: Odpočítávač krok za krokem (13 min) — tabule
+### 2. Demo: Odpočítávač krok za krokem
+
+<span class="act board">🖊️ Tabule — 13 min</span>
 
 Učitel postaví odpočítávač na projektoru:
 
@@ -48,7 +62,9 @@ po kliknutí na vlajku:
 
 Demo rozšíření: `změň [čas] o 5` při kolizi s bonusem.
 
-### 3. Kodování: Hra s časovým limitem (20 min) — PC
+### 3. Kodování: Hra s časovým limitem
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci přidají časomíru do svého herního projektu nebo vytvoří nový:
 

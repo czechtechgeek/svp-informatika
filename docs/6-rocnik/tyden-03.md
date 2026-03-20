@@ -1,23 +1,34 @@
-﻿# Kódování obrazu: Čtverečkovaný papír jako rastr
+---
+grade: 6
+week: 3
+time: 45
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "Žák vysvětlí, co je rastrový obrázek a jak se skládá z pixelů"
+  - Žák zakóduje jednoduchý obrázek jako souřadnice nebo čísla barev na čtverečkovaném papíře
+  - "Žák pochopí, že počítač ukládá obrázek jako čísla, ne jako „kresbu\""
+  - Žák vytvoří vlastní pixel-art v online editoru a exportuje výsledek
+time_budget:
+  - type: board
+    minutes: 5
+  - type: unplugged
+    minutes: 20
+  - type: pc
+    minutes: 15
+friday_tip: "Pokud máte ve třídě Micro:bity, nechte žáky v závěru hodiny \"rozsvítit\" jejich pixel-art na displeji Micro:bitu. Je to pro ně silný moment, kdy vidí, že kód (čísla v programu) se okamžitě mění ve fyzické světlo (pixely)."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- Oblast: Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-Pokud máte ve třídě Micro:bity, nechte žáky v závěru hodiny "rozsvítit" jejich pixel-art na displeji Micro:bitu. Je to pro ně silný moment, kdy vidí, že kód (čísla v programu) se okamžitě mění ve fyzické světlo (pixely).
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je rastrový obrázek a jak se skládá z pixelů
-- Žák zakóduje jednoduchý obrázek jako souřadnice nebo čísla barev na čtverečkovaném papíře
-- Žák pochopí, že počítač ukládá obrázek jako čísla, ne jako „kresbu"
-- Žák vytvoří vlastní pixel-art v online editoru a exportuje výsledek
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je pixel? (5 min) — interaktivní tabule
+### 1. Úvod: Co je pixel?
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Učitel přiblíží na interaktivní tabuli fotografii nebo obrázek z internetu tak, aby byly vidět jednotlivé čtverce (pixely). Vhodné je použít extrémní zoom v prohlížeči (Ctrl + kolečko myši).
 
@@ -25,7 +36,9 @@ Učitel přiblíží na interaktivní tabuli fotografii nebo obrázek z internet
 
 Učitel vysvětlí: počítač obrázek nevidí jako „kresbu" — vidí mřížku čísel. Každé číslo = jedna barva jednoho pixelu.
 
-### 2. Aktivita: Pixel-art na papíře (20 min) — bez počítače
+### 2. Aktivita: Pixel-art na papíře
+
+<span class="act unplugged">✋ Bez počítače — 20 min</span>
 
 Každý žák dostane čtverečkovaný papír (minimálně 10×10 čtverečků). Úkol:
 
@@ -39,7 +52,9 @@ Příklad kódu pro jeden řádek:
 
 3. Vyměňte kód se sousedem — spolužák zkusí z kódu obrázek **rekonstruovat** na svém papíře
 
-### 3. Aktivita: Pixel-art na PC (15 min) — PC
+### 3. Aktivita: Pixel-art na PC
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci otevřou [Piskel.com](https://www.piskelapp.com) — bezplatný online pixel-art editor.
 
@@ -64,4 +79,3 @@ Učitel ukáže na tabuli příklad: černobílý obrázek 4×4 pixely → zapí
 
 !!! tip "Tip pro učitele"
     Aktivita výměny kódů mezi spolužáky je klíčová — žáci zažijí na vlastní kůži, jak počítač „čte" obrázek ze souboru. Pokud má třída čas navíc, vyzkoušejte kódování s více barvami (0=bílá, 1=šedá, 2=černá) a diskutujte, jak to zvyšuje velikost souboru.
-

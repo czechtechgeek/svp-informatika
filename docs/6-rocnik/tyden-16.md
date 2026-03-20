@@ -1,23 +1,37 @@
+---
+grade: 6
+week: 16
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák pojmenuje základní součásti počítače (monitor, procesor, RAM, pevný disk, klávesnice, myš)"
+  - Žák vysvětlí rozdíl mezi vstupními a výstupními zařízeními
+  - Žák popíše funkci procesoru a RAM vlastními slovy
+  - Žák přiřadí správný název k fotografii hardwarové součástky
+time_budget:
+  - type: board
+    minutes: 8
+  - type: unplugged
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 7
+friday_tip: "V pátek je ideální čas na **„Hardwarový kvíz\"** — připravte 10 fotek součástek (CPU, RAM, HDD, GPU...) a promítejte je jednu po druhé. Žáci píší odpovědi na papírek a po každé otázce sdílejte. Soutěžní atmosféra funguje jako přirozená motivace a žáci si zapamatují názvy mnohem lépe než ze čtení textu."
+---
+
 # Hardware: Monitor, myš, procesor
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-V pátek je ideální čas na **„Hardwarový kvíz"** — připravte 10 fotek součástek (CPU, RAM, HDD, GPU...) a promítejte je jednu po druhé. Žáci píší odpovědi na papírek a po každé otázce sdílejte. Soutěžní atmosféra funguje jako přirozená motivace a žáci si zapamatují názvy mnohem lépe než ze čtení textu.
-
-## 🎯 Cíle hodiny
-
-- Žák pojmenuje základní součásti počítače (monitor, procesor, RAM, pevný disk, klávesnice, myš)
-- Žák vysvětlí rozdíl mezi vstupními a výstupními zařízeními
-- Žák popíše funkci procesoru a RAM vlastními slovy
-- Žák přiřadí správný název k fotografii hardwarové součástky
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je uvnitř počítače? (8 min) — tabule
+### 1. Úvod: Co je uvnitř počítače?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel položí otázku: „Když zapnete počítač, co se vlastně stane?" Žáci hádají. Učitel kreslí nebo promítá schéma počítače:
 
@@ -31,7 +45,9 @@ Vstup (klávesnice, myš) → Procesor (CPU) ↔ Paměť (RAM)
 
 Analogie pro žáky: „CPU = mozek, RAM = pracovní stůl, HDD = šuplík."
 
-### 2. Aktivita: Přiřaď součástku (10 min) — bez počítače
+### 2. Aktivita: Přiřaď součástku
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Učitel rozdá sady kartiček — na jedné kartičce je foto hardwaru, na druhé název a funkce. Žáci ve dvojicích párují kartičky.
 
@@ -44,7 +60,9 @@ Učitel rozdá sady kartiček — na jedné kartičce je foto hardwaru, na druh�
 | Klávesnice | Vstupní zařízení pro zadávání textu |
 | GPU (grafická karta) | Zpracovává obraz a video |
 
-### 3. Aktivita: Prohlídka učebního počítače (15 min) — tabule + PC
+### 3. Aktivita: Prohlídka učebního počítače
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Pokud má škola k dispozici starý rozmontovaný počítač, učitel ukáže fyzické součástky. Alternativa: video nebo interaktivní schéma na tabuli.
 
@@ -53,7 +71,9 @@ Pokud má škola k dispozici starý rozmontovaný počítač, učitel ukáže fy
 - „Proč má CPU chladič?" → Teplo = vedlejší produkt výpočtů
 - „Co se stane, když RAM nestačí?" → Počítač je pomalý
 
-### 4. Shrnutí (7 min) — PC nebo papír
+### 4. Shrnutí
+
+<span class="act pc">💻 PC — 7 min</span>
 
 Každý žák vyplní minitest (Google Formulář nebo papír — 5 otázek s výběrem):
 

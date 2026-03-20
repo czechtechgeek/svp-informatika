@@ -1,23 +1,35 @@
-# 🗂️ DNS: Telefonní seznam internetu
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Digitální technologie
-> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
-
-**Po hodině žák:**
-* **Vysvětlí**, co je DNS a proč existuje (mapování doménových jmen na IP adresy).
-* **Popíše** postup DNS dotazu (rekurzivní resolver → root → TLD → autoritativní server).
-* **Vysvětlí** pojem DNS cache a TTL.
-* **Uvede** příklady, jak může být DNS zneužit (DNS spoofing, DNS poisoning).
-
+---
+grade: 8
+week: 17
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "**Vysvětlí**, co je DNS a proč existuje (mapování doménových jmen na IP adresy)."
+  - "**Popíše** postup DNS dotazu (rekurzivní resolver → root → TLD → autoritativní server)."
+  - "**Vysvětlí** pojem DNS cache a TTL."
+  - "**Uvede** příklady, jak může být DNS zneužit (DNS spoofing, DNS poisoning)."
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: board
+    minutes: 15
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 8
+friday_tip: "Demo: změňte DNS server v nastavení počítače na 8.8.8.8 (Google) nebo 1.1.1.1 (Cloudflare) a otestujte rychlost načítání. Žáci vidí, že abstraktní nastavení má reálný dopad."
 ---
 
-### 💡 Metodický postup (45 min)
+# ️ DNS: Telefonní seznam internetu
 
-#### 1. Problém: Pamatujeme si adresy? (7 min)
-*Diskuze.*
+## 💡 Metodický postup
+
+### 1. Problém: Pamatujeme si adresy?
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel se ptá: „Jaká je IP adresa Googlu?" (Nikdo neví.) „Ale víte, jak se jmenuje?" (google.com)
 
@@ -27,8 +39,9 @@ Bez DNS by každý musel pamatovat číselné IP adresy. DNS umožňuje lidsky �
 
 ---
 
-#### 2. Jak DNS dotaz funguje (15 min)
-*Tabule — výklad krok za krokem.*
+### 2. Jak DNS dotaz funguje
+
+<span class="act board">🖊️ Tabule — 15 min</span>
 
 Krok za krokem:
 
@@ -50,8 +63,9 @@ Uživatel zadá: www.google.com
 
 ---
 
-#### 3. Aktivita: DNS v příkazové řádce (15 min)
-*Práce na PC.*
+### 3. Aktivita: DNS v příkazové řádce
+
+<span class="act pc">💻 PC — 15 min</span>
 
 <div class="zadani-pc">
 
@@ -73,8 +87,9 @@ Zapište si IP adresy zjištěných webů a porovnejte. Proč má Google více I
 
 ---
 
-#### 4. DNS a bezpečnost (8 min)
-*Tabule — výklad bezpečnostních aspektů.*
+### 4. DNS a bezpečnost
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 **DNS spoofing / poisoning:**
 - Útočník podstrčí falešnou IP adresu pro legitimní doménu
@@ -87,7 +102,7 @@ Zapište si IP adresy zjištěných webů a porovnejte. Proč má Google více I
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Animace DNS (EN):** [howdns.works](https://howdns.works) — krásná komiksová animace celého DNS procesu
 * **Online DNS lookup:** [mxtoolbox.com](https://mxtoolbox.com/DNSLookup.aspx) nebo [dnschecker.org](https://dnschecker.org)
@@ -97,7 +112,5 @@ Zapište si IP adresy zjištěných webů a porovnejte. Proč má Google více I
 
 ---
 
-> 💡 **Tip pro učitele:**
-> nslookup je mocný nástroj a žáci jsou překvapeni, že „vidí" za kulis webu. Pokud škola blokuje příkazovou řádku, použijte webový DNS lookup — funguje stejně. Zmínka o Cloudflare 1.1.1.1 jako o soukromějším DNS otevírá diskusi o soukromí online — kdo vidí vaše DNS dotazy? Váš ISP? Alternativně Google? Otázka bez jednoznačné odpovědi — ale cenná pro kritické myšlení.
-
-> 💬 **Tip pro pátek:** Demo: změňte DNS server v nastavení počítače na 8.8.8.8 (Google) nebo 1.1.1.1 (Cloudflare) a otestujte rychlost načítání. Žáci vidí, že abstraktní nastavení má reálný dopad.
+!!! tip "Tip pro učitele"
+    nslookup je mocný nástroj a žáci jsou překvapeni, že „vidí" za kulis webu. Pokud škola blokuje příkazovou řádku, použijte webový DNS lookup — funguje stejně. Zmínka o Cloudflare 1.1.1.1 jako o soukromějším DNS otevírá diskusi o soukromí online — kdo vidí vaše DNS dotazy? Váš ISP? Alternativně Google? Otázka bez jednoznačné odpovědi — ale cenná pro kritické myšlení.

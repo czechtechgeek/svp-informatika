@@ -1,54 +1,32 @@
+---
+grade: 6
+week: 1
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák **zná a dodržuje** pravidla práce v počítačové učebně"
+  - "Žák **rozumí** pojmu digitální identita a odliší ji od reálné identity"
+  - "Žák **uvede příklady** informací, které je bezpečné / nebezpečné sdílet online"
+  - "Žák **vytvoří** vlastní „digitální průkaz\" (avatar + přezdívka + co o sobě sdílím)"
+  - "Žák **zvládne** základní přihlášení do školního systému"
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: discussion
+    minutes: 10
+  - type: pc
+    minutes: 20
+  - type: review
+    minutes: 5
+friday_tip: "Zkuste aktivitu „Emoji příběh\": žák napíše větu pouze pomocí emoji, ostatní hádají. Ukáže se, jak záleží na společném kontextu — z dat vznikne správná informace jen tehdy, kdy obě strany sdílejí stejný kontext."
+---
+
 # Úvod: Pravidla učebny, digitální identita
-
-<div class="lesson-meta">
-  <span class="lm-badge lm-grade">📚 6. ročník</span>
-  <span class="lm-badge lm-week">📅 Týden 1</span>
-  <span class="lm-badge lm-time">⏱️ 1 hod = 45 min</span>
-  <span class="lm-badge lm-area">🗂️ Digitální technologie a společnost</span>
-</div>
-
-## 📋 Vazba na RVP ZV
-
-<span class="rvp-tag"><span class="rvp-code">INF-INF-004-ZV9-013</span><span class="rvp-desc">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></span>
-<span class="rvp-tag"><span class="rvp-code">INF-INF-004-ZV9-014</span><span class="rvp-desc">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></span>
-
----
-
-<div class="friday-tip">
-  <span class="friday-tip-label">💬 Tip pro pátek</span>
-  Zkuste aktivitu <strong>„Emoji příběh"</strong>: žák napíše větu pouze pomocí emoji, ostatní hádají. Ukáže se, jak záleží na společném kontextu — z dat vznikne správná informace jen tehdy, kdy obě strany sdílejí stejný kontext.
-</div>
-
-<div class="goals">
-  <div class="goals-title">🎯 Cíle hodiny</div>
-
-  - Žák **zná a dodržuje** pravidla práce v počítačové učebně
-  - Žák **rozumí** pojmu digitální identita a odliší ji od reálné identity
-  - Žák **uvede příklady** informací, které je bezpečné / nebezpečné sdílet online
-  - Žák **vytvoří** vlastní „digitální průkaz" (avatar + přezdívka + co o sobě sdílím)
-  - Žák **zvládne** základní přihlášení do školního systému
-
-</div>
-
----
-
-<div class="time-budget">
-  <div class="time-budget-title">⏱️ Rozložení 45 minut</div>
-  <div class="time-budget-bar">
-    <div class="time-segment seg-unplugged" style="width: 22%">10 min</div>
-    <div class="time-segment seg-discussion" style="width: 22%">10 min</div>
-    <div class="time-segment seg-pc"         style="width: 45%">20 min</div>
-    <div class="time-segment seg-review"     style="width: 11%">5 min</div>
-  </div>
-  <div class="time-legend">
-    <span class="time-legend-item"><span class="time-legend-dot" style="background:#388e3c"></span> Bez počítače</span>
-    <span class="time-legend-item"><span class="time-legend-dot" style="background:#7b1fa2"></span> Diskuse</span>
-    <span class="time-legend-item"><span class="time-legend-dot" style="background:#1976d2"></span> PC</span>
-    <span class="time-legend-item"><span class="time-legend-dot" style="background:#880e4f"></span> Reflexe</span>
-  </div>
-</div>
-
----
 
 ## 💡 Metodický postup
 

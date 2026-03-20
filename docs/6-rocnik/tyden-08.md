@@ -1,19 +1,27 @@
-﻿# Příkazy pro robota: Přesnost instrukcí
+---
+grade: 6
+week: 8
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - Žák zapíše přesnou sekvenci příkazů pro navigaci robota přes překážkový terén
+  - "Žák odladí program, když robot neskončí tam, kde má (debugging)"
+  - Žák ovládá Ozobota pomocí barevných kódů nakreslených na papíře
+  - "Žák pochopí, že i malá nepřesnost v instrukci způsobí špatný výsledek"
+time_budget:
+  - type: board
+    minutes: 25
+  - type: pc
+    minutes: 10
+friday_tip: "Páteční hodiny s roboty bývají hlučné a nadšené. Využijte to pro **\"Robotí závody\"**. Vytvořte na zemi velký labyrint z lepicí pásky a nechte skupiny soutěžit, čí Ozobot projde trasu nejrychleji s využitím \"turbo\" kódů. Motivuje to žáky k preciznímu kreslení a rychlému ladění chyb."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Páteční hodiny s roboty bývají hlučné a nadšené. Využijte to pro **"Robotí závody"**. Vytvořte na zemi velký labyrint z lepicí pásky a nechte skupiny soutěžit, čí Ozobot projde trasu nejrychleji s využitím "turbo" kódů. Motivuje to žáky k preciznímu kreslení a rychlému ladění chyb.
-
-## 🎯 Cíle hodiny
-
-- Žák zapíše přesnou sekvenci příkazů pro navigaci robota přes překážkový terén
-- Žák odladí program, když robot neskončí tam, kde má (debugging)
-- Žák ovládá Ozobota pomocí barevných kódů nakreslených na papíře
-- Žák pochopí, že i malá nepřesnost v instrukci způsobí špatný výsledek
+# 
 
 ## 💡 Metodický postup
 
@@ -23,7 +31,9 @@ Učitel ukáže krátký klip nebo obrázky reálných robotů (Amazon warehouse
 
 Odpověď: Všichni dostávají přesné instrukce — nemohou improvizovat.
 
-### 2. Aktivita: Ozobot — barevné kódy (25 min) — Ozobot + papír
+### 2. Aktivita: Ozobot — barevné kódy
+
+<span class="act board">🖊️ Tabule — 25 min</span>
 
 Učitel rozdá bílé papíry a fixy. Žáci nakreslí dráhu pro Ozobota a používají barevné kódy pro příkazy.
 
@@ -42,7 +52,9 @@ Učitel rozdá bílé papíry a fixy. Žáci nakreslí dráhu pro Ozobota a pou�
 
 Alternativa — žák hraje robota. Jeden žák zavře oči, druhý mu dává příkazy slovně (krok vpřed, otočit vlevo 90°, krok vpřed...) pro průchod labyrintem z lavic.
 
-### 3. Aktivita: Ozobot v digitálním prostředí (10 min) — PC
+### 3. Aktivita: Ozobot v digitálním prostředí
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Žáci otevřou [OzoBlockly editor](https://ozoblockly.com) a naprogramují sekvenci pohybů v blokovém prostředí.
 
@@ -66,4 +78,3 @@ Diskuse:
 
 !!! tip "Tip pro učitele"
     Ozobot funguje nejlépe na hladkém bílém papíře s tlustšími fixy. Tenké čáry nebo šedý papír robot nečte spolehlivě. Každá skupina by měla mít vlastního robota — sdílení zpomaluje hodinu. Pokud máte jen 2–3 Ozoboty, pracujte ve skupinách po 3–4.
-

@@ -1,24 +1,37 @@
-# 🔑 Dvoufázové ověření (2FA)
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Kybernetická bezpečnost / Digitální gramotnost
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Vysvětlí** princip dvoufázového ověření a proč heslo samotné nestačí.
-* **Rozliší** různé metody 2FA (SMS, aplikace, hardwarový klíč) a zhodnotí jejich bezpečnost.
-* **Samostatně projde** procesem nastavení 2FA na reálné službě.
-* **Argumentuje**, proč by měli 2FA používat i ostatní členové rodiny.
-
+---
+grade: 8
+week: 23
+time: 45
+area: Kybernetická bezpečnost / Digitální gramotnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Vysvětlí** princip dvoufázového ověření a proč heslo samotné nestačí."
+  - "**Rozliší** různé metody 2FA (SMS, aplikace, hardwarový klíč) a zhodnotí jejich bezpečnost."
+  - "**Samostatně projde** procesem nastavení 2FA na reálné službě."
+  - "**Argumentuje**, proč by měli 2FA používat i ostatní členové rodiny."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+  - type: discussion
+    minutes: 7
+friday_tip: "Nechte žáky na konci hodiny zkontrolovat, zda mají 2FA zapnuté na Googlu nebo Discordu — mnoho z nich to udělá poprvé v životě a ocení praktický výstup hodiny. Je to dovednost, kterou si odnesou domů."
 ---
 
-### 💡 Metodický postup (45 min)
+# Dvoufázové ověření (2FA)
 
-#### 1. Úvod: Co kdyby někdo znal vaše heslo? (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Co kdyby někdo znal vaše heslo?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel položí otázku: „Kolik hesel používáte? Jsou všechna unikátní?" Statistika pro žáky: průměrný uživatel má přes 100 online účtů. Každý rok uniknou miliardy hesel z napadených databází. Žáci mohou zkontrolovat na [haveibeenpwned.com](https://haveibeenpwned.com), zda jejich e-mail figuruje v uniklých datech.
 
@@ -33,8 +46,9 @@ Tři kategorie faktorů ověření:
 
 ---
 
-#### 2. Přehled metod 2FA (10 min)
-*Tabule — přehled.*
+### 2. Přehled metod 2FA
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 | Metoda | Jak funguje | Bezpečnost | Příklad |
 |--------|-------------|------------|---------|
@@ -48,8 +62,9 @@ Doporučení: Authenticator aplikace je nejlepší poměr bezpečnosti a pohodl�
 
 ---
 
-#### 3. Praktická aktivita: Nastavení 2FA (20 min)
-*Práce na PC — praktické nastavení.*
+### 3. Praktická aktivita: Nastavení 2FA
+
+<span class="act pc">💻 PC — 20 min</span>
 
 <div class="zadani-pc">
 
@@ -79,8 +94,9 @@ Po aktivitě: ruka nahoru — kdo 2FA úspěšně nastavil?
 
 ---
 
-#### 4. Diskuse: Kdy 2FA nestačí a jak dál (7 min)
-*Diskuze.*
+### 4. Diskuse: Kdy 2FA nestačí a jak dál
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Diskuse: „Může útočník obejít 2FA?" Ano — v případech:
 - **SIM swapping** — útočník přesvědčí operátora, aby přenesl vaše číslo na jeho SIM
@@ -96,7 +112,7 @@ Závěrečné shrnutí — 3 věci pro domov:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Web — Have I Been Pwned:** [haveibeenpwned.com](https://haveibeenpwned.com) — žáci zkontrolují, zda jejich e-mail figuruje v uniklých datech
 * **Aplikace — Google Authenticator:** zdarma na Android i iOS — nejrozšířenější authenticator
@@ -105,7 +121,5 @@ Závěrečné shrnutí — 3 věci pro domov:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Praktické nastavení 2FA je nejhodnotnější část hodiny — snažte se, aby co nejvíce žáků skutečně 2FA zapnulo ještě v hodině. Upozorněte, že záložní kódy jsou kritické — bez nich se uživatel může ze svého účtu navždy vyloučit (například při ztrátě telefonu). Téma propojte s rodinnou bezpečností: žáci mohou pomoci rodičům nebo prarodičům nastavit 2FA na bankovním účtu nebo e-mailu.
-
-> 💬 **Tip pro pátek:** Nechte žáky na konci hodiny zkontrolovat, zda mají 2FA zapnuté na Googlu nebo Discordu — mnoho z nich to udělá poprvé v životě a ocení praktický výstup hodiny. Je to dovednost, kterou si odnesou domů.
+!!! tip "Tip pro učitele"
+    Praktické nastavení 2FA je nejhodnotnější část hodiny — snažte se, aby co nejvíce žáků skutečně 2FA zapnulo ještě v hodině. Upozorněte, že záložní kódy jsou kritické — bez nich se uživatel může ze svého účtu navždy vyloučit (například při ztrátě telefonu). Téma propojte s rodinnou bezpečností: žáci mohou pomoci rodičům nebo prarodičům nastavit 2FA na bankovním účtu nebo e-mailu.

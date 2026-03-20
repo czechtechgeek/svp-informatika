@@ -1,23 +1,35 @@
-# 🌐 Jak funguje internet: Cesta paketu
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Digitální technologie
-> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
-
-**Po hodině žák:**
-* **Vysvětlí**, co je datový paket a proč se data dělí na pakety.
-* **Popíše** cestu paketu od odesílatele k příjemci přes uzly sítě.
-* **Vysvětlí** funkci IP adresy a roli routeru při směrování paketů.
-* **Rozlišuje** TCP a UDP a uvede příklady použití obou protokolů.
-
+---
+grade: 8
+week: 16
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "**Vysvětlí**, co je datový paket a proč se data dělí na pakety."
+  - "**Popíše** cestu paketu od odesílatele k příjemci přes uzly sítě."
+  - "**Vysvětlí** funkci IP adresy a roli routeru při směrování paketů."
+  - "**Rozlišuje** TCP a UDP a uvede příklady použití obou protokolů."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: unplugged
+    minutes: 15
+  - type: board
+    minutes: 10
+friday_tip: "Pusťte žákům vizualizaci „Submarine Cable Map\" — fyzické kabely pod oceánem, které propojují kontinenty. Fyzická realita internetu je překvapivá a fascinující."
 ---
 
-### 💡 Metodický postup (45 min)
+# Jak funguje internet: Cesta paketu
 
-#### 1. Analogie: Dopis rozdělený na pohlednice (8 min)
-*Tabule — výklad s analogií.*
+## 💡 Metodický postup
+
+### 1. Analogie: Dopis rozdělený na pohlednice
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel přinese velký list papíru a rozstříhá ho na 5 kousků:
 - Každý kousek = paket
@@ -29,8 +41,9 @@ Proč pakety a ne jeden velký soubor? → Efektivita (více cest), odolnost (zt
 
 ---
 
-#### 2. Cesta paketu — vrstvový model (12 min)
-*Tabule — výklad.*
+### 2. Cesta paketu — vrstvový model
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Zjednodušený model TCP/IP:
 
@@ -49,8 +62,9 @@ Zjednodušený model TCP/IP:
 
 ---
 
-#### 3. Aktivita: Rolová hra „Jsem paket" (15 min)
-*Aktivita bez počítače — pohybová hra.*
+### 3. Aktivita: Rolová hra „Jsem paket"
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 Třída je síť:
 - 4–5 „routerů" stojí uprostřed (mají tabulku směrování — papír)
@@ -62,8 +76,9 @@ Diskuse: Co se stane, když jeden router „havaruje"? (Pakety hledají jinou ce
 
 ---
 
-#### 4. TCP vs. UDP (10 min)
-*Tabule — přehled.*
+### 4. TCP vs. UDP
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 | Vlastnost | TCP | UDP |
 |-----------|-----|-----|
@@ -76,7 +91,7 @@ Příklad: YouTube — pokud ztratíme paket ve streamu, raději přeskočíme n
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Video — jak funguje internet (CZ):** YouTube „jak funguje internet animace" nebo „internet paket routing"
 * **Vizualizace — Submarine Cable Map (EN):** [submarinecablemap.com](https://www.submarinecablemap.com) — fyzické kabely pod mořem
@@ -86,7 +101,5 @@ Příklad: YouTube — pokud ztratíme paket ve streamu, raději přeskočíme n
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Rolová hra „jsem paket" je fyzická a žáci si ji pamatují. Připravte předem tabulky směrování pro routery (jednoduché: „pakety pro 192.168.1.X pošli doleva, ostatní doprava"). Pokud nemáte prostor pro pohyb, lze hru zjednodušit na sezení — žáci si předávají lístky v řadách. Propojení s fyzickým kabelem pod oceánem otevírá diskusi o geopolitice internetu (kdo vlastní kabely, co se stane při přerušení).
-
-> 💬 **Tip pro pátek:** Pusťte žákům vizualizaci „Submarine Cable Map" — fyzické kabely pod oceánem, které propojují kontinenty. Fyzická realita internetu je překvapivá a fascinující.
+!!! tip "Tip pro učitele"
+    Rolová hra „jsem paket" je fyzická a žáci si ji pamatují. Připravte předem tabulky směrování pro routery (jednoduché: „pakety pro 192.168.1.X pošli doleva, ostatní doprava"). Pokud nemáte prostor pro pohyb, lze hru zjednodušit na sezení — žáci si předávají lístky v řadách. Propojení s fyzickým kabelem pod oceánem otevírá diskusi o geopolitice internetu (kdo vlastní kabely, co se stane při přerušení).

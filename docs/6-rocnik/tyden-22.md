@@ -1,29 +1,43 @@
+---
+grade: 6
+week: 22
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - "Žák se orientuje v prostředí tabulkového procesoru (pásy karet, buňky, listy)"
+  - "Žák porozumí adresování buněk (A1, B3, C10) a naviguje tabulkou"
+  - Žák zadá text a čísla do buněk a přesune se mezi nimi pomocí klávesnice
+  - Žák uloží soubor ve správném formátu a otevře ho znovu
+time_budget:
+  - type: discussion
+    minutes: 5
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Pátky jsou skvělé pro hru **„Najdi buňku\"** — učitel říká souřadnici (např. „D7\") a žáci musí co nejrychleji kliknout na správnou buňku a napsat do ní své jméno. Kdo je nejrychlejší? Je to zdánlivě triviální hra, která ale upevní orientaci v mřížce lépe než jakékoliv vysvětlení."
+---
+
 # Tabulky I: První buňky v Excelu/Sheets
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou skvělé pro hru **„Najdi buňku"** — učitel říká souřadnici (např. „D7") a žáci musí co nejrychleji kliknout na správnou buňku a napsat do ní své jméno. Kdo je nejrychlejší? Je to zdánlivě triviální hra, která ale upevní orientaci v mřížce lépe než jakékoliv vysvětlení.
-
-## 🎯 Cíle hodiny
-
-- Žák se orientuje v prostředí tabulkového procesoru (pásy karet, buňky, listy)
-- Žák porozumí adresování buněk (A1, B3, C10) a naviguje tabulkou
-- Žák zadá text a čísla do buněk a přesune se mezi nimi pomocí klávesnice
-- Žák uloží soubor ve správném formátu a otevře ho znovu
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Proč tabulky? (5 min) — diskuse
+### 1. Úvod: Proč tabulky?
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Otázka: „Kde jste v životě viděli tabulku?" → Rozvrh, jídelní lístek, seznam zápasů, výsledky soutěže...
 
 Tabulkový procesor = nástroj pro organizaci, výpočty a vizualizaci dat. Základ pro práci s daty v dalším životě.
 
-### 2. Prohlídka prostředí (10 min) — PC, učitel na tabuli
+### 2. Prohlídka prostředí
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel sdílí obrazovku nebo promítá a společně prozkoumají:
 
@@ -35,7 +49,9 @@ Učitel sdílí obrazovku nebo promítá a společně prozkoumají:
 | **Listy** | Záložky dole — jeden soubor může mít více listů |
 | **Pásy karet** | Domů, Vložení, Data... — podobné jako Word |
 
-### 3. Aktivita: Moje první tabulka (20 min) — PC
+### 3. Aktivita: Moje první tabulka
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák vytvoří jednoduchý **týdenní jídelní lístek**:
 

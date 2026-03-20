@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 18
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák vysvětlí rozdíl mezi hardwarem a softwarem vlastními slovy
+  - "Žák uvede příklady operačních systémů (Windows, macOS, Linux, Android, iOS)"
+  - Žák rozliší operační systém od aplikace a uvede alespoň 5 příkladů aplikací
+  - "Žák popíše, co by se stalo bez operačního systému"
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: pc
+    minutes: 15
+  - type: board
+    minutes: 10
+friday_tip: "Pátky jsou skvělé pro **„Softwarový detektiv\"** — žáci dostanou screenshot neznámého OS nebo prostředí a hádají, co to je (Windows XP, macOS, Ubuntu, Android, iOS). Diskuse o tom, proč jsou různé systémy různé, otevírá téma konkurence a vývoje technologií bez nutnosti PC."
+---
+
 # Software: Operační systém vs. Aplikace
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou skvělé pro **„Softwarový detektiv"** — žáci dostanou screenshot neznámého OS nebo prostředí a hádají, co to je (Windows XP, macOS, Ubuntu, Android, iOS). Diskuse o tom, proč jsou různé systémy různé, otevírá téma konkurence a vývoje technologií bez nutnosti PC.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí rozdíl mezi hardwarem a softwarem vlastními slovy
-- Žák uvede příklady operačních systémů (Windows, macOS, Linux, Android, iOS)
-- Žák rozliší operační systém od aplikace a uvede alespoň 5 příkladů aplikací
-- Žák popíše, co by se stalo bez operačního systému
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Hardware bez softwaru (8 min) — diskuse
+### 1. Úvod: Hardware bez softwaru
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Otázka: „Co by se stalo, kdybyste zapnuli počítač bez operačního systému?" Žáci hádají.
 
@@ -33,7 +45,9 @@ Krátký přehled OS na tabuli:
 | iPhone | iOS |
 | Server | Linux |
 
-### 2. Aktivita: Inventura softwaru (15 min) — PC
+### 2. Aktivita: Inventura softwaru
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Každý žák otevře svůj počítač a vyplní tabulku:
 
@@ -48,7 +62,9 @@ Každý žák otevře svůj počítač a vyplní tabulku:
 
 Žáci zjistí verzi OS: Start → Nastavení → Systém → O aplikaci. Pak prozkoumají nainstalované aplikace.
 
-### 3. Diskuse: Placený vs. zdarma vs. open source (10 min) — tabule
+### 3. Diskuse: Placený vs. zdarma vs. open source
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel vysvětlí tři kategorie softwaru:
 
