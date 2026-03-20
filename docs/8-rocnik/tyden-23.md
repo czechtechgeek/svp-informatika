@@ -51,27 +51,31 @@ Doporučení: Authenticator aplikace je nejlepší poměr bezpečnosti a pohodl�
 #### 3. Praktická aktivita: Nastavení 2FA (20 min)
 *Práce na PC — praktické nastavení.*
 
-Žáci pracují samostatně na počítačích nebo telefonech. Vyberou si jednu ze služeb, na které mají účet:
+<div class="zadani-pc">
+
+Zapněte 2FA na jedné ze služeb, na které máte účet:
 
 **Možnost A — Google účet (Gmail):**
-1. Přejít na myaccount.google.com
+1. Přejděte na myaccount.google.com
 2. Bezpečnost → Dvoufázové ověření → Začít
-3. Projít průvodcem (SMS nebo aplikace)
-4. Uložit záložní kódy na bezpečné místo
+3. Projděte průvodcem (SMS nebo aplikace)
+4. Uložte záložní kódy na bezpečné místo
 
 **Možnost B — Discord:**
 1. Nastavení uživatele (ozubené kolo) → Moje účet
-3. Dvoufázové ověření → Zapnout
-4. Naskenovat QR kód v aplikaci Authenticator
-5. Zadat ověřovací kód
+2. Dvoufázové ověření → Zapnout
+3. Naskenujte QR kód v aplikaci Authenticator
+4. Zadejte ověřovací kód
 
 **Možnost C — Instagram / TikTok:**
 1. Nastavení → Zabezpečení → Dvoufázové ověření
-2. Vybrat metodu (SMS nebo aplikace)
+2. Vyberte metodu (SMS nebo aplikace)
 
-Žáci, kteří nemají vlastní zařízení nebo účet: pracují ve dvojici s kamarádem nebo sledují demonstraci na projektoru.
+*Nemáte vlastní zařízení nebo účet? Pracujte ve dvojici nebo sledujte demonstraci na projektoru.*
 
-Učitel prochází třídou a pomáhá. Po aktivitě: ruka nahoru — kdo 2FA úspěšně nastavil?
+</div>
+
+Po aktivitě: ruka nahoru — kdo 2FA úspěšně nastavil?
 
 ---
 

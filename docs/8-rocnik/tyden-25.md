@@ -37,7 +37,9 @@ Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard ko
 #### 2. Jak poznat důvěryhodný e-shop? (12 min)
 *Práce na PC — průzkum e-shopů.*
 
-Žáci pracují u počítačů. Učitel zadá 2 e-shopy k porovnání — jeden důvěryhodný (alza.cz), jeden fiktivní podvodný (popsaný níže). Žáci vyplní checklist pro každý.
+<div class="zadani-pc">
+
+Porovnejte 2 e-shopy — jeden důvěryhodný (alza.cz) a jeden fiktivní podvodný (viz níže). Pro každý vyplňte checklist:
 
 **Checklist důvěryhodného e-shopu:**
 - [ ] HTTPS a platný certifikát (zámek v prohlížeči)
@@ -48,10 +50,12 @@ Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard ko
 - [ ] Jasná informace o právu na odstoupení od smlouvy do 14 dnů
 - [ ] E-shop je registrován v ČR nebo EU (IČO ověřitelné na ares.gov.cz)
 
-**Popis podvodného e-shopu pro analýzu:**
+**Fiktivní podvodný e-shop k analýze:**
 > Web „super-electronics-deals.shop" nabízí iPhone 16 za 4 990 Kč. Platba pouze převodem na účet nebo kryptoměnou. Kontakt jen přes formulář. Obchodní podmínky neexistují. Recenze na webu jsou jen 5hvězdičkové a vypadají generovaně. Sídlo firmy je uvedeno jako „Německo" bez konkrétní adresy.
 
-Červené vlajky: cena nereálně nízká, platba jen převodem (nelze reklamovat), chybí kontakty a podmínky, podezřelá doména (.shop).
+Jaké červené vlajky vidíte?
+
+</div>
 
 ---
 

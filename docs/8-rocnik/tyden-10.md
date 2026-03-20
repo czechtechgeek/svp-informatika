@@ -50,7 +50,9 @@ Učitel ukáže krok za krokem:
 #### 3. Projekt: Krokoměr s resetem (20 min)
 *Práce s Micro:bitem.*
 
-Žáci rozšíří základní počítadlo:
+<div class="zadani-pc">
+
+Rozšiřte základní počítadlo kroků o zobrazení a reset:
 
 ```
 při spuštění:
@@ -71,9 +73,11 @@ při stisknutí A+B:
   zobrazit číslo kroky
 ```
 
-**Diskuse:** Proč krokoměr není přesný? (Zachytí každé zatřesení, nejen kroky. Profesionální algoritmus filtruje frekvenci a intenzitu pohybu.)
+**Rozšíření *(pro rychlé)*:** Přidejte proměnnou `vzdalenost` — každý krok = 0,7 m, zobrazte vzdálenost v metrech.
 
-**Rozšíření:** Přidejte proměnnou `vzdalenost` — každý krok = 0,7 m, zobrazit vzdálenost.
+</div>
+
+**Diskuse:** Proč krokoměr není přesný? (Zachytí každé zatřesení, nejen kroky. Profesionální algoritmus filtruje frekvenci a intenzitu pohybu.)
 
 ---
 

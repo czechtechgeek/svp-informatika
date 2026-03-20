@@ -49,20 +49,23 @@ Učitel projde se třídou přehled technik:
 #### 3. Praktická aktivita: Oprav graf (18 min)
 *Práce na PC.*
 
-Žáci dostanou (nebo si vytvoří) sadu dat a mají za úkol:
+Zadaná data — vývoj prodejů e-shopu:
 
-**Část A:** Vytvořit záměrně zavádějící graf (zkrácená osa, vhodné časové okno).
-
-Vzorová data — vývoj prodejů e-shopu:
 | Měsíc | Prodeje (tis. Kč) |
 |-------|-------------------|
 | Říjen | 842 |
 | Listopad | 856 |
 | Prosinec | 871 |
 
-**Část B:** Vytvořit poctivý graf ze stejných dat (osa od 0, korektní popis).
+<div class="zadani-pc">
 
-**Část C:** Žáci sdílí oba grafy se sousedem — poznají manipulaci?
+**Část A:** Ze zadaných dat vytvořte záměrně **zavádějící graf** (zkraťte osu Y, vyberte vhodné časové okno) — ať vypadá jako dramatický růst.
+
+**Část B:** Ze stejných dat vytvořte **poctivý graf** (osa od 0, korektní popis os a nadpis).
+
+**Část C:** Vyměňte oba grafy se sousedem — pozná manipulaci? Diskutujte, co přesně dělá každý graf zavádějícím.
+
+</div>
 
 ---
 

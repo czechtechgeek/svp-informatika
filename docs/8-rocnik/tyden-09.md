@@ -55,7 +55,9 @@ Aktivita: Proměřte teplotu na různých místech — u okna, u radiátoru, na 
 #### 3. Projekt: Teplotní alarm (18 min)
 *Práce s Micro:bitem.*
 
-Žáci naprogramují alarm překročení teploty:
+<div class="zadani-pc">
+
+Naprogramujte alarm překročení teploty:
 
 ```
 opakovat stále:
@@ -75,7 +77,9 @@ jinak:
   zobrazit text "SVĚTLO"
 ```
 
-**Rozšíření (pro rychlé):** Spojte oba senzory — zobrazujte různé ikony pro různé kombinace teploty a světla (ráno/odpoledne/noc, léto/zima).
+**Rozšíření *(pro rychlé)*:** Spojte oba senzory — zobrazujte různé ikony pro různé kombinace teploty a světla (ráno/odpoledne/noc, léto/zima).
+
+</div>
 
 ---
 

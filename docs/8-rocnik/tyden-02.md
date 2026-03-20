@@ -68,6 +68,8 @@ Učitel sdílí nebo žáci vytvoří tabulku s výsledky testu:
 | Jana | 91 | ? |
 | Tomáš | 38 | ? |
 
+<div class="zadani-pc">
+
 **Úloha 1:** Do sloupce C napište IF, který vypíše „Prospěl" pokud body ≥ 60, jinak „Neprospěl".
 
 **Úloha 2:** Rozšiřte na tři kategorie pomocí vnořeného IF:
@@ -76,6 +78,8 @@ Učitel sdílí nebo žáci vytvoří tabulku s výsledky testu:
 ```
 
 **Úloha 3 (pro rychlé):** Přidejte sloupec „Bonus" — kdo má ≥ 90 bodů, dostane „5 % bonus", ostatní „—".
+
+</div>
 
 ---
 

@@ -61,7 +61,9 @@ při přijetí rádio textové zprávy:
 #### 3. Projekt: Třídní chatovací systém (20 min)
 *Práce s Micro:bitem.*
 
-Žáci ve dvojicích naprogramují obousměrnou komunikaci:
+<div class="zadani-pc">
+
+Ve dvojicích naprogramujte obousměrnou komunikaci (každá dvojice má jiné číslo skupiny 1–30):
 
 ```
 při spuštění:
@@ -80,9 +82,9 @@ při přijetí čísla:
   pokud přijaté číslo = 2 → zobrazit ikonu (křížek)
 ```
 
-**Rozšíření:** Přidejte tlačítko A+B pro odeslání čísla 3 = „Možná".
+**Rozšíření *(pro rychlé)*:** Přidejte tlačítko A+B pro odeslání čísla 3 = „Možná".
 
-Různé skupiny mají různá čísla skupiny — zprávy se nemíchají.
+</div>
 
 ---
 

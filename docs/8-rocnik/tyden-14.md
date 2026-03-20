@@ -53,15 +53,19 @@ Kategorie LED → `vykreslit x [0] y [0] jas [9]` (hodnota 0–9)
 #### 3. Vlastní světelná show (25 min)
 *Práce s Micro:bitem — tvůrčí tvorba.*
 
-Žáci vytvoří vlastní vánoční animaci. Doporučené motivy:
+<div class="zadani-pc">
+
+Vytvořte vlastní vánoční animaci v MakeCode. Doporučené motivy (nebo vymyslete vlastní):
+
 - Sněhová vločka (symetrie pomocí pixelů)
 - Padající sníh (animace pohyblivého bodu shora dolů)
 - Blikající hvězdička (střídání vzorů)
-- Vánoční strom (vykreslení tvar + blikání)
+- Vánoční strom (vykreslení tvaru + blikání)
 - Scroll textu „Veselé vánoce" (kategorie Základní → `zobrazit text`)
 
-**Bonus — synchronizace přes rádio:**
-Skupiny nastaví stejný kanál a synchronizují blikání stiskem A na jednom Micro:bitu.
+**Bonus — synchronizace přes rádio:** Skupiny nastaví stejný kanál a synchronizují blikání stiskem A na jednom Micro:bitu.
+
+</div>
 
 ---
 

@@ -56,7 +56,9 @@ Skupina dostane pracovní list s otázkami:
 #### 3. Skupinová práce — tvorba výstupu (22 min)
 *PC nebo papír — skupinová tvorba.*
 
-Skupiny pracují na svém výstupu. Na výběr mají:
+<div class="zadani-pc">
+
+Připravte výstup o vaší chytré technologii. Na výběr máte:
 
 **Varianta A – digitální prezentace (Google Slides / PowerPoint):**
 - Min. 5 snímků: název, popis problému, navrhované řešení, schéma datového toku, rizika
@@ -67,6 +69,8 @@ Skupiny pracují na svém výstupu. Na výběr mají:
 - Popis řešení v bodech
 - Schéma: co → senzor → data → akce
 - Sekce „Výhody vs. rizika"
+
+</div>
 
 Učitel obchází skupiny, klade doplňující otázky: „Kdo bude mít přístup k datům? Co se stane, když systém selže?"
 

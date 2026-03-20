@@ -47,13 +47,17 @@
 #### 3. Praktická tvorba na PC (18 min)
 *Žáci zpracovávají dva odlišné datasety v Excelu / Tabulkách Google:*
 
-**Dataset A (Sloupcový graf)**
-* *Data:* Návštěvnost jídelny (Po: 312, Út: 298, St: 321, Čt: 305, Pá: 267).
-* *Cíl:* Správné měřítko osy Y a popisky dnů.
+<div class="zadani-pc">
 
-**Dataset B (Koláč / Pruh)**
-* *Data:* Oblíbené předměty (Informatika 38 %, TV 27 %, VV 18 %, M 17 %).
-* *Cíl:* Přehlednost a vložení popisků přímo do grafu.
+**Dataset A — Sloupcový graf**
+* *Data:* Návštěvnost jídelny (Po: 312, Út: 298, St: 321, Čt: 305, Pá: 267)
+* *Cíl:* Vytvořte sloupcový graf se správným měřítkem osy Y a popisky dnů
+
+**Dataset B — Koláčový / Pruhový graf**
+* *Data:* Oblíbené předměty (Informatika 38 %, TV 27 %, VV 18 %, M 17 %)
+* *Cíl:* Vytvořte přehledný graf s popisky hodnotami přímo v grafu
+
+</div>
 
 ---
 

@@ -57,14 +57,18 @@ při stisknutí A+B        → zobrazit text "OK"
 
 Žáci programují vlastní „rozhodovač":
 
-**Zadání:** Naprogramujte Micro:bit, který funguje jako pomocník při rozhodování:
-- Stisk A = zobrazit „ANO" + ikona fajfky
-- Stisk B = zobrazit „NE" + ikona křížku
-- Stisk A+B = zobrazit „MOŽNÁ" + otazník
+<div class="zadani-pc">
 
-**Rozšíření (pro rychlé):**
-- Přidejte náhodu: při stisku A+B vygenerujte náhodné číslo 0 nebo 1 a podle toho zobrazit ANO nebo NE
+**Zadání:** Naprogramujte Micro:bit, který funguje jako pomocník při rozhodování:
+- Stisk **A** = zobrazit „ANO" + ikona fajfky
+- Stisk **B** = zobrazit „NE" + ikona křížku
+- Stisk **A+B** = zobrazit „MOŽNÁ" + otazník
+
+**Rozšíření *(pro rychlé)*:**
+- Přidejte náhodu: při stisku A+B vygenerujte náhodné číslo 0 nebo 1 a zobrazte ANO nebo NE
 - Blok: Matematika → `vybrat náhodně 0 až 1`
+
+</div>
 
 Žáci testují na fyzickém zařízení a sdílejí s vedlejším sousedem.
 
