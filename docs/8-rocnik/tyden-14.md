@@ -4,7 +4,7 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `I-9-2-02` – *Žák implementuje algoritmus v programovacím jazyce.*
+> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
 
 **Po hodině žák:**
 * **Naprogramuje** animovanou světelnou sekvenci na LED matici Micro:bitu.

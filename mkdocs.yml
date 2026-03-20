@@ -30,6 +30,9 @@ repo_name: czechtechgeek/svp-informatika
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/rvp.js
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -41,6 +44,7 @@ markdown_extensions:
 
 nav:
   - Domů: index.md
+  - RVP výstupy: rvp-vystupy.md
   - 6. ročník - Objevitel:
       - Přehled: 6-rocnik/index.md
       - 1. Pololetí - Data a základy logiky:

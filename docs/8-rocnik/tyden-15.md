@@ -4,7 +4,7 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Průřezová (všechny oblasti)
-> **Kód:** `I-9-2-01` – *Žák rozloží problém na podproblémy a navrhne algoritmus.*
+> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
 
 **Po hodině žák:**
 * **Shrne** klíčové pojmy a dovednosti z 1. pololetí (data, tabulky, Micro:bit).

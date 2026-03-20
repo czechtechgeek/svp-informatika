@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování / Data, informace a modelování
-> **Kód:** `I-9-2-01` – *Žák rozloží problém na podproblémy a navrhne algoritmus.*
-> **Kód:** `I-9-1-03` – *Žák vytvoří model pro řešení problému nebo organizaci informací.*
+> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
+> **Kód:** `INF-INF-001-ZV9-003` – *Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.*
 
 **Po hodině žák:**
 * **Navrhne** vlastní projekt s Micro:bitem (definuje problém, vstupy, výstupy a algoritmus).

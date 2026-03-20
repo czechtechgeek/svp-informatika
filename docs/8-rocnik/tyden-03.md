@@ -4,7 +4,7 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `I-9-1-02` – *Žák zpracuje a interpretuje data pomocí vhodných nástrojů.*
+> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
 
 **Po hodině žák:**
 * **Použije** funkce MIN, MAX a PRŮMĚR (AVERAGE) pro základní datovou analýzu.

@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování / Digitální technologie
-> **Kód:** `I-9-2-01` – *Žák rozloží problém na podproblémy a navrhne algoritmus.*
-> **Kód:** `I-9-3-01` – *Žák vysvětlí princip fungování digitálních technologií a sítí.*
+> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
+> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
 
 **Po hodině žák:**
 * **Popíše** fyzické součásti BBC Micro:bitu (LED matice, tlačítka, piny, konektor USB).

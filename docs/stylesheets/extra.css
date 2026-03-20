@@ -212,26 +212,55 @@
 
 /* ----------------------------------------------------------
    CURRICULUM TAGS  (RVP výstupy)
-   Zkrácený a sdílený styl — nahrazuje inline styly v MD.
-   Použití: <span class="rvp-tag" data-code="I-9-4-02">I-9-4-02 Popis</span>
+   ──────────────────────────────
+   Styl je definován zde — mění se na jednom místě.
+   URL odkazu je v docs/javascripts/rvp.js (proměnná RVP_URL).
+
+   HTML šablona v MD souborech:
+     <span class="rvp-tag">
+       <span class="rvp-code">INF-INF-XXX-ZV9-XXX</span>
+       <span class="rvp-desc">Text výstupu.</span>
+     </span>
+
+   JS (rvp.js) automaticky obalí každý tag odkazem na RVP ZV.
    ---------------------------------------------------------- */
+
+/* Wrapper odkaz přidávaný JS — reset link stylů */
+a.rvp-tag-link {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 2px 4px 2px 0;
+}
+
 .rvp-tag {
   display: inline-flex;
   align-items: center;
   gap: 5px;
   padding: 3px 10px;
-  background-color: #f0f7ff;
-  border: 1px solid #1975FE;
-  border-radius: 6px;
+  background-color: #f0fdf4;
+  border: 1px solid #16a34a;
+  border-radius: 9999px;
   font-size: 0.8rem;
-  margin: 2px 4px 2px 0;
-  cursor: default;
-  user-select: none;
   vertical-align: middle;
+  transition: background-color 0.15s, border-color 0.15s;
+}
+
+.rvp-tag::before {
+  content: "🟢";
+  font-size: 0.65em;
+  line-height: 1;
+}
+
+/* Hover efekt — zobrazí se jen pokud je tag v odkazu */
+a.rvp-tag-link:hover .rvp-tag {
+  background-color: #dcfce7;
+  border-color: #15803d;
 }
 
 .rvp-tag .rvp-code {
-  color: #1975FE;
+  color: #15803d;
   font-weight: 600;
 }
 

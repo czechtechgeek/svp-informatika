@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování / Data, informace a modelování
-> **Kód:** `I-9-2-02` – *Žák implementuje algoritmus v programovacím jazyce.*
-> **Kód:** `I-9-1-01` – *Žák porozumí pojmu data, jejich typům a způsobům reprezentace.*
+> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
+> **Kód:** `INF-INF-001-ZV9-001` – *Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.*
 
 **Po hodině žák:**
 * **Přečte** hodnotu z vestavěného teploměru a světelného senzoru Micro:bitu.

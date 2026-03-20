@@ -4,7 +4,7 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Digitální technologie
-> **Kód:** `I-9-3-01` – *Žák vysvětlí princip fungování digitálních technologií a sítí.*
+> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
 
 **Po hodině žák:**
 * **Vysvětlí**, co je datový paket a proč se data dělí na pakety.

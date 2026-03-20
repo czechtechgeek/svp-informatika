@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `I-9-2-01` – *Žák rozloží problém na podproblémy a navrhne algoritmus.*
-> **Kód:** `I-9-2-02` – *Žák implementuje algoritmus v programovacím jazyce.*
+> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
+> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
 
 **Po hodině žák:**
 * **Vytvoří** proměnnou v MakeCode a manipuluje s její hodnotou (zvýšení, resetování).
