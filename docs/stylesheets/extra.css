@@ -239,22 +239,28 @@ a.rvp-tag-link {
   align-items: center;
   gap: 5px;
   padding: 3px 10px;
-  background-color: #f0f7ff;
-  border: 1px solid #1975FE;
-  border-radius: 6px;
+  background-color: #f0fdf4;
+  border: 1px solid #16a34a;
+  border-radius: 9999px;
   font-size: 0.8rem;
   vertical-align: middle;
   transition: background-color 0.15s, border-color 0.15s;
 }
 
+.rvp-tag::before {
+  content: "🟢";
+  font-size: 0.65em;
+  line-height: 1;
+}
+
 /* Hover efekt — zobrazí se jen pokud je tag v odkazu */
 a.rvp-tag-link:hover .rvp-tag {
-  background-color: #dbeafe;
-  border-color: #1558d6;
+  background-color: #dcfce7;
+  border-color: #15803d;
 }
 
 .rvp-tag .rvp-code {
-  color: #1975FE;
+  color: #15803d;
   font-weight: 600;
 }
 
