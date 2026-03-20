@@ -72,7 +72,7 @@ Zadaná data — vývoj prodejů e-shopu:
 | Listopad | 856 |
 | Prosinec | 871 |
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část A:** Ze zadaných dat vytvořte záměrně **zavádějící graf** (zkraťte osu Y, vyberte vhodné časové okno) — ať vypadá jako dramatický růst.
 

@@ -56,7 +56,7 @@ Alternativa — žák hraje robota. Jeden žák zavře oči, druhý mu dává p�
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [OzoBlockly editor](https://ozoblockly.com) a naprogramuj sekvenci pohybů v blokovém prostředí.
 

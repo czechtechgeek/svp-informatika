@@ -64,7 +64,7 @@ Učitel rozdá sady kartiček — na jedné kartičce je foto hardwaru, na druh�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Prohlédni si (fyzicky nebo na fotografii/videu) součástky počítače a odpověz písemně do sešitu na tyto otázky:
 
@@ -83,7 +83,7 @@ Učitel chodí po třídě a doplňuje odpovědi žáků komentářem u fyzický
 
 <span class="act pc">💻 PC — 7 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Google Formulář od učitele a vyplň krátký minitest (5 otázek):
 

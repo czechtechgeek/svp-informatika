@@ -55,7 +55,7 @@ Třída kontroluje výsledek. Po 5–6 kolech se dobrovolníci vystřídají.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [umimeinformatiku.cz](https://www.umimeinformatiku.cz) (sekce „Binární čísla") nebo kalkulačku v OS (Zobrazit → Programátorský režim → BIN) a splň tyto úkoly:
 

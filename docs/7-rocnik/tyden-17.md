@@ -66,7 +66,7 @@ Učitel záměrně nastaví špatná práva a nechá žáky říct, co opravit.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj ve dvojici. Označte si, kdo je žák A a kdo žák B.
 

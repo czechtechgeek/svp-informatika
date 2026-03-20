@@ -65,7 +65,7 @@ Pravidla dobré mapy (zapsat na tabuli):
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [MindMeister](https://www.mindmeister.com) nebo [Coggle.it](https://coggle.it) a vytvoř vlastní digitální myšlenkovou mapu.
 

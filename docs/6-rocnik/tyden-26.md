@@ -63,7 +63,7 @@ Praktická otázka ke každé zkratce:
 
 <span class="act pc">💻 PC — 17 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj ve dvojici. Učitel vám ukáže 3 zprávy (vytisknuté nebo na tabuli). Každou zprávu prověřte pomocí metody **SIFT**:
 

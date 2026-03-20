@@ -49,11 +49,15 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 
 <span class="act pc">💻 PC — 8 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Žáci otevřou [makecode.microbit.org](https://makecode.microbit.org) a prozkoumají prostředí:
 - Levý panel: kategorie bloků (Základní, Vstup, Logika, Smyčky, Proměnné...)
 - Střed: pracovní plocha s bloky `při spuštění` a `opakovat stále`
 - Vpravo: simulátor — vidíme výsledek BEZ fyzického zařízení
 - Klíčový rozdíl od Scratche: bloky `při spuštění` = setup, `opakovat stále` = loop
+
+</div>
 
 ---
 
@@ -61,7 +65,7 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Krok za krokem sestavte program v MakeCode:
 

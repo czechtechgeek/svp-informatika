@@ -84,7 +84,7 @@ Algoritmus (pseudokód nebo diagram):
 
 <span class="act pc">💻 PC — 13 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Nakresli algoritmus svého projektu (flowchart nebo pseudokód) na papír nebo v [app.diagrams.net](https://app.diagrams.net) a zkontroluj:
 - Mám správné senzory pro to, co chci měřit?

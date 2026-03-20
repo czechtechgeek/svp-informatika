@@ -65,7 +65,7 @@ Každý žák na papír napíše:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyhledej data o svém zvířeti z ověřených zdrojů a zadej je do tabulky:
 

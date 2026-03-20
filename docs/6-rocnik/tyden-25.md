@@ -58,7 +58,7 @@ Typy grafů a kdy je použít:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Excel nebo Google Sheets a zadej data z hlasování třídy (z tabule) do tabulky. Pak vytvoř sloupcový graf podle níže uvedeného postupu.
 

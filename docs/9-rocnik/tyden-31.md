@@ -31,7 +31,7 @@ friday_tip: "Tato hodina je emocionálně jiná než ostatní — je to loučen�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Připrav se na **prezentaci svého portfolia** (2–3 minuty). Postupuj takto:
 

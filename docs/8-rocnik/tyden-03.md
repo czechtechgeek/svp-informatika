@@ -69,7 +69,7 @@ Učitel ukáže na příkladu tabulky výsledků třídy:
 |-------|--------|--------|--------|--------|--------|--------|
 | ... | ... | ... | ... | ... | ... | =AVERAGE(...) |
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Úkoly:**
 1. Doplňte sloupec Průměr pro každého žáka

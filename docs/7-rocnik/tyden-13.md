@@ -31,7 +31,7 @@ friday_tip: "Metoda „Dvě hvězdy a jedno přání\" při prezentaci: každý 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Máš 15 minut na závěrečné úpravy svého herního projektu. Zkontroluj a oprav v tomto pořadí:
 
@@ -50,7 +50,7 @@ Před sdílením projekt ulož a přejmenuj ho na rozpoznatelný název.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyměň si místo se spolužákem/spolužačkou. Zahraj hru spolužáka 3–4 minuty a vyplň testovací formulář (papír od učitele nebo Google Forms):
 
@@ -78,7 +78,7 @@ Vyplněný formulář předej tvůrci hry — on/ona ti předá zpětnou vazbu n
 
 <span class="act pc">💻 PC — 8 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Přečti si zpětnou vazbu od spolužáka a proveď **jednu konkrétní změnu** ve svém projektu.
 

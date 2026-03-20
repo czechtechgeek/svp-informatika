@@ -65,7 +65,7 @@ Učitel projde tabulku typů malwaru. Žáci si mohou dělat poznámky:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracujte ve dvojicích. Ke každému scénáři odpovězte na 3 otázky:
 1. Jaký typ malwaru je popsán?

@@ -66,7 +66,7 @@ Doporučení: Authenticator aplikace je nejlepší poměr bezpečnosti a pohodl�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Zapněte 2FA na jedné ze služeb, na které máte účet:
 

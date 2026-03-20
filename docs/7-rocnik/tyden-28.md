@@ -74,7 +74,7 @@ Každý žák dostane přidělené téma a termín: „Do příštího týdne m�
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři sdílenou šablonu časopisu (Google Slides nebo Canva template) a začni tvořit:
 

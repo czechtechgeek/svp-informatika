@@ -60,7 +60,7 @@ Příklad: `ADAM = 1-4-1-13`
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [ascii.cl](https://ascii.cl) a prozkoumej skutečnou ASCII tabulku.
 

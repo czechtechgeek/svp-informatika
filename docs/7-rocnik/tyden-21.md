@@ -83,7 +83,7 @@ Učitel píše kód živě na projektoru (Poznámkový blok nebo online editor):
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř vlastní HTML stránku „O mně". Použij Poznámkový blok (ulož jako `omne.html` a otevři v prohlížeči) nebo online editor [codepen.io](https://codepen.io).
 

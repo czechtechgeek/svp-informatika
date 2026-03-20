@@ -47,7 +47,7 @@ Přehled licencí na tabuli:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Najdi 2 obrázky na téma podle vlastního výběru (nebo téma zadá učitel) — ale musí to být obrázky, které **smíš použít**!
 

@@ -66,7 +66,7 @@ Demo rozšíření: `změň [čas] o 5` při kolizi s bonusem.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři svůj herní projekt ve [scratch.mit.edu](https://scratch.mit.edu) a přidej odpočítávač (časomíru).
 

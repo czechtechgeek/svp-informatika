@@ -45,7 +45,7 @@ Učitel připraví časomíru (např. online stopky na projektoru).
 
 <span class="act pc">💻 PC — 25 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Postupně prezentujte své návrhy z předchozí hodiny (týden 29). Pokud jste projekt nestihli dokončit, máte 3 minuty navíc na úpravu před svým vystoupením.
 

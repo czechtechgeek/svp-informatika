@@ -41,6 +41,8 @@ Krátké opakování minulé hodiny: Co jsou základní tvary v Tinkercad? Jak s
 
 <span class="act pc">💻 PC — 10 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší na svém počítači:
 
 **Krok 1 – Hole (díra):**
@@ -58,13 +60,15 @@ Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší n
 - Písmena zapuštěná do tabulky (text jako hole)
 - Zásobník nebo miska (cylinder s dírou uvnitř)
 
+</div>
+
 ---
 
 ### 3. Samostatná tvorba vlastního objektu
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyberte si jeden projekt (nebo navrhněte vlastní po dohodě s učitelem):
 

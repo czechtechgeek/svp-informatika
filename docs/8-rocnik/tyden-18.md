@@ -67,7 +67,7 @@ Co je SSL/TLS certifikát? Je to digitální doklad totožnosti webu, vydaný d�
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Prozkoumejte v prohlížeči 5 různých webů a pro každý zjistěte:
 

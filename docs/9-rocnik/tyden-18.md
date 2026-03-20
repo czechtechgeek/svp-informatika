@@ -89,7 +89,7 @@ Délka: maximálně 3 věty.
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj ve dvojici. Vyberte si jedno ze tří zadání a napište **co nejlepší prompt** pro AI chatbota (ChatGPT, Claude nebo podobný). Máte 10 minut.
 

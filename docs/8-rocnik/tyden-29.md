@@ -69,7 +69,7 @@ Skupina dostane pracovní list s otázkami:
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Připravte výstup o vaší chytré technologii. Na výběr máte:
 

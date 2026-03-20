@@ -33,7 +33,7 @@ friday_tip: "Nechejte skupiny otestovat projekt kamarádem, ne autorem — „u�
 
 <span class="act pc">💻 PC — 5 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevřete MakeCode a začněte programovat podle návrhu z minulého týdne. Pamatujte:
 - Začněte s **minimální funkční verzí** (MVP) — základní funkce fungují
@@ -83,7 +83,7 @@ Formulář zpětné vazby:
 
 <span class="act pc">💻 PC — 5 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Zapracujte nejdůležitější feedback a uložte finální verzi projektu:
 - Screenshot kódu do Google Drive / USB

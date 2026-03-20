@@ -65,7 +65,7 @@ Učitel ukáže krok za krokem:
 
 <span class="act board">🖊️ Tabule — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Rozšiřte základní počítadlo kroků o zobrazení a reset:
 

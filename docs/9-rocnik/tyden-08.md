@@ -60,7 +60,7 @@ Logic error je nejnebezpečnější – program nehlásí chybu, ale výsledek j
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [replit.com](https://replit.com) a záměrně napiš chybný kód — přečti a porozuměj chybové hlášce:
 
@@ -101,7 +101,7 @@ print(jmena[5])
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [replit.com](https://replit.com) a zkopíruj do editoru tento program s 5 chybami — najdi je všechny a oprav je:
 

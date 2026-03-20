@@ -29,7 +29,7 @@ friday_tip: "Časový tlak zvyšuje soustředění: nastavte odpočítávač na 
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Dokonči svou sekci třídního digitálního časopisu. Před odevzdáním projdi tento kontrolní seznam:
 
@@ -48,7 +48,7 @@ Pokud jsi hotov/a dřív — pomoz spolužákovi, nebo přidej doplňkový obsah
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Projdi celý časopis jako redaktor/ka a zkontroluj:
 - Jsou všechny sekce vyplněné?

@@ -46,7 +46,7 @@ Učitel zopakuje strukturu projektu:
 
 Žáci pracují samostatně.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Dokonči svůj datový projekt v **Google Docs / Google Sheets** nebo jiném nástroji. Zkontroluj, zda máš splněné všechny části:
 

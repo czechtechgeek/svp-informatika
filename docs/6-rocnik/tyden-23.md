@@ -43,7 +43,7 @@ Zásada: formátování slouží **čitelnosti**, ne dekoraci.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři novou tabulku v Excelu nebo Google Sheets a vyzkoušej tyto formátovací nástroje — sleduj učitele a opakuj na svém PC:
 
@@ -64,7 +64,7 @@ Do tabulky zadej aspoň 5 ukázkových hodnot a vyzkoušej každou z akcí výš
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři tabulku z minulého týdne (jídelní lístek nebo podobná tabulka) a naformátuj ji podle těchto pokynů:
 

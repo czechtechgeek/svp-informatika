@@ -43,6 +43,8 @@ Po sestavení mapy učitel ukáže, jak pojmy navazují: Modelování → Diagra
 
 <span class="act pc">💻 PC — 10 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Žáci vyplní jednoduchou sebehodnotící tabulku:
 
 | Téma | Zvládám sám | Zvládám s pomocí | Ještě ne |
@@ -56,11 +58,13 @@ Po sestavení mapy učitel ukáže, jak pojmy navazují: Modelování → Diagra
 
 Sebehodnocení je soukromé — žáci si ho uloží do portfolia.
 
+</div>
+
 ### 3. Portfolio: Přehled projektů
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři svůj Scratch účet a zdokumentuj projekty z 1. pololetí do portfoliového dokumentu (Google Docs šablona od učitele nebo vlastní dokument):
 

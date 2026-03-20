@@ -60,7 +60,7 @@ time_budget:
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Dataset A — Sloupcový graf**
 * *Data:* Návštěvnost jídelny (Po: 312, Út: 298, St: 321, Čt: 305, Pá: 267)
@@ -77,9 +77,14 @@ time_budget:
 ### 4. Reflexe a peer-review
 
 <span class="act pc">💻 PC — 7 min</span>
+
+<div class="zadani-pc" markdown="1">
+
 1.  Je zvolený typ grafu logický vzhledem k datům?
 2.  Má graf název a popsané osy?
 3.  Pochopím hlavní informaci do 5 sekund bez vysvětlování?
+
+</div>
 
 ---
 

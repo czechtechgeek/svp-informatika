@@ -56,7 +56,7 @@ Příklad kódu pro jeden řádek:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [Piskel.com](https://www.piskelapp.com) — bezplatný online pixel-art editor (bez registrace).
 

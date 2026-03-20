@@ -57,7 +57,7 @@ Diskuse: Proč záleží na tom, **jak** pošleme zprávu? Co se může ztratit 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Google Docs tabulku sdílenou učitelem (nebo si ji připrav sám/sama).
 

@@ -48,6 +48,8 @@ Klíčová sdělení:
 
 <span class="act pc">💻 PC — 8 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Žáci otevřou tinkercad.com a přihlásí se (Google účet školy nebo e-mail). Učitel promítá svou obrazovku a krok za krokem ukazuje:
 - Tlačítko „Vytvořit nový design"
 - Pracovní plocha (workplane) — šedá mřížka
@@ -56,11 +58,15 @@ Klíčová sdělení:
 
 Žáci sledují a zároveň opakují kroky na svém počítači. Učitel ověří, že všichni mají otevřenou prázdnou scénu.
 
+</div>
+
 ---
 
 ### 3. Navigace v 3D prostoru
 
 <span class="act pc">💻 PC — 8 min</span>
+
+<div class="zadani-pc" markdown="1">
 
 Učitel předvede a žáci ihned zopakují:
 - **Orbit (otáčení pohledu):** pravé tlačítko myši + tažení
@@ -68,6 +74,8 @@ Učitel předvede a žáci ihned zopakují:
 - **Pan (posun pohledu):** střední tlačítko nebo Shift + pravé tlačítko
 
 Cvičení: „Podívejte se na scénu zleva, zprava, shora a zepředu." Učitel pojmenuje tyto pohledy a ukáže zkratky (F = front, T = top). Tato fáze je klíčová — kdo neovládá navigaci, bude mít problémy celou hodinu.
+
+</div>
 
 ---
 
@@ -81,7 +89,7 @@ Cvičení: „Podívejte se na scénu zleva, zprava, shora a zepředu." Učitel 
 - Jak objekt **zvednout od podlahy** (černá šipka nahoru)
 - Jak změnit **barvu** (tlačítko „Solid" vpravo nahoře při výběru objektu)
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvořte scénu v Tinkercad s alespoň 3 různými tvary (Box, Cylinder, Sphere), přičemž každý tvar musí mít **jinou barvu** a **jinou velikost**. Zkuste postavit věž nebo domeček.
 

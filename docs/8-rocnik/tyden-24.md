@@ -79,7 +79,7 @@ Učitel projde tři hlavní kategorie rizik s reálnými příklady:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracujte ve skupinách po 3–4 a analyzujte tento případ:
 

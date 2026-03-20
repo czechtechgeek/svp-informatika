@@ -49,7 +49,7 @@ Krátký přehled OS na tabuli:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři svůj počítač a zjisti, jaký software na něm máš. Zapiš výsledky do tabulky (do sešitu nebo Google Docs):
 

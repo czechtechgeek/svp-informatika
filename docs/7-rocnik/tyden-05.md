@@ -58,7 +58,7 @@ U každé skupiny žáci navrhnou, k čemu ji použijí v herním projektu.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj individuálně. Splň alespoň dvě ze tří výzev:
 

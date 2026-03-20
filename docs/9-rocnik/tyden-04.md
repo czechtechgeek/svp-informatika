@@ -54,7 +54,7 @@ Důraz na **odsazení** – Python nevyužívá závorky, ale mezery (4 mezery n
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Úloha — Pseudokód → Python** (15 min)
 
@@ -91,7 +91,7 @@ Dokud číslo <= 100:
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Debugging — Najdi 3 chyby!** (12 min)
 

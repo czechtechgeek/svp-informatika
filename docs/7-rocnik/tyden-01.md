@@ -66,7 +66,7 @@ Každá skupina dostane jiný algoritmus (vaření vajíčka, mytí rukou, přih
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [scratch.mit.edu](https://scratch.mit.edu) a přihlas se svým účtem. Splň tři rychlé úlohy bez nápovědy — zkus je sám/sama nejdřív:
 

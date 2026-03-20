@@ -39,7 +39,7 @@ Tabulkový procesor = nástroj pro organizaci, výpočty a vizualizaci dat. Zák
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři tabulkový procesor (Excel nebo Google Sheets) a společně s učitelem prozkoumejte prostředí:
 
@@ -57,7 +57,7 @@ Otevři tabulkový procesor (Excel nebo Google Sheets) a společně s učitelem 
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř jednoduchý **týdenní jídelní lístek** podle tohoto vzoru:
 

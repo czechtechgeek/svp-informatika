@@ -39,7 +39,7 @@ Učitel upozorní: „Mějte otevřený GDD vedle Scratch — je to váš návod
 
 <span class="act pc">💻 PC — 33 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři **Scratch** (scratch.mit.edu) a programuj svou hru podle GDD z minulé hodiny. Postupuj v tomto doporučeném pořadí:
 

@@ -51,6 +51,8 @@ Propojení: Tlačítka jsou ekvivalent klávesnice — žák dává pokyn, zař�
 
 <span class="act pc">💻 PC — 10 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Učitel ukáže v MakeCode:
 - Kategorie **Vstup** → blok `při stisknutí tlačítka [A]`
 - Uvnitř bloku libovolná akce (zobrazit číslo, text, ikonu)
@@ -64,6 +66,8 @@ při stisknutí A+B        → zobrazit text "OK"
 
 Žáci sledují simulátor a diskutují: „Co je to událost?" (Reakce na akci uživatele — stejně jako `po kliknutí` v Scratchi.)
 
+</div>
+
 ---
 
 ### 3. Vlastní projekt: Binární volba
@@ -72,7 +76,7 @@ při stisknutí A+B        → zobrazit text "OK"
 
 Žáci programují vlastní „rozhodovač":
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Zadání:** Naprogramujte Micro:bit, který funguje jako pomocník při rozhodování:
 - Stisk **A** = zobrazit „ANO" + ikona fajfky

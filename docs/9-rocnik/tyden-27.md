@@ -66,7 +66,7 @@ Učitel představí tři hlavní formáty a žáci diskutují výhody a nevýhod
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část A — Návrh struktury** (7 min)
 

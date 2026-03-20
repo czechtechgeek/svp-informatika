@@ -64,7 +64,7 @@ Otázky pro celou třídu (učitel píše odpovědi na tabuli):
 
 Každý žák otevře textový editor (Word, Google Docs) nebo [Canva](https://www.canva.com) a vytvoří svůj **Digitální průkaz**.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Word, Google Docs nebo Canva (canva.com) a vytvoř svůj **Digitální průkaz** s těmito čtyřmi poli:
 

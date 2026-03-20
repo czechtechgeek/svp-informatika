@@ -46,7 +46,7 @@ Analogie: „Prohlížeč = auto. Vyhledávač = GPS navigace."
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři 3 různé webové stránky v prohlížeči a pro každou z nich zapiš do sešitu:
 
@@ -69,7 +69,7 @@ protokol: https    doména: wikipedia.org    cesta: /wiki/Praha
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyzkoušej pokročilé vyhledávací operátory v Googlu nebo Seznamu. Pro každý operátor proveď jeden vlastní pokus a zapiš, co jsi vyhledával/a a co ti to vrátilo:
 

@@ -50,7 +50,7 @@ Varianty phishingu: e-mail, SMS (smishing), telefon (vishing), sociální sítě
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pro každý z níže uvedených e-mailů zkontrolujte checklist a rozhodněte: **PODVOD** nebo **LEGITIMNÍ**?
 

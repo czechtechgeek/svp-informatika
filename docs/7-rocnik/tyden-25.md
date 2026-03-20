@@ -73,7 +73,7 @@ Učitel ukáže 4–5 veřejně dostupných příkladů zmanipulovaných fotek (
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyber si volně licencovanou fotografii z [Pixabay.com](https://pixabay.com) nebo [Unsplash.com](https://unsplash.com) a uprav ji v online editoru.
 

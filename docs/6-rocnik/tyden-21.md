@@ -82,7 +82,7 @@ Pepa Novák, 6.B
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Napiš e-mail s jednou ze zadaných situací:
 - Žádost o prodloužení termínu odevzdání úkolu
