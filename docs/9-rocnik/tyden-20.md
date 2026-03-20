@@ -6,8 +6,6 @@ area: Digitální společnost / Kariérní orientace
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "Žák rozlišuje povolání ohrožená automatizací, transformovaná AI a zcela nová povolání"
   - "Žák analyzuje konkrétní profesi a posoudí, které její části AI může vykonávat"

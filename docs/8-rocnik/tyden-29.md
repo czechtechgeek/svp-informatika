@@ -6,8 +6,6 @@ area: Digitální společnost a bezpečnost
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "**Vysvětlí**, co je „chytré město\" (smart city) a uvede alespoň tři konkrétní příklady technologií."
   - "**Ve skupině identifikuje** problém ve městě a navrhne digitální řešení s využitím IoT nebo dat."

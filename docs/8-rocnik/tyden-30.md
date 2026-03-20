@@ -6,8 +6,6 @@ area: Digitální společnost a kariérní orientace
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "**Propojí** školní znalosti z informatiky s reálnými profesemi a odvětvími IT."
   - "**Aktivně naslouchá** odborníkovi z praxe a formuluje smysluplné otázky."

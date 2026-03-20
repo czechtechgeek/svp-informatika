@@ -6,8 +6,6 @@ area: Digitální technologie a společnost
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - Žák vysvětlí pojem autorské právo a proč existuje
   - Žák vyhledá obrázky s licencí Creative Commons pomocí filtrů v Googlu

@@ -85,8 +85,8 @@ Popis aktivity nebo reflexní otázky.
      ZDROJE A PODKLADY
      Přidej odkazy na materiály, weby, videa, nástroje.
      ══════════════════════════════════════════════════════ -->
-<div class="resources">
-  <div class="resources-title">📂 Zdroje a podklady</div>
+<div class="resources" markdown="1">
+<div class="resources-title">📂 Zdroje a podklady</div>
 
   - **Název zdroje (CZ):** [odkaz.cz](https://odkaz.cz) — krátký popis
   - **Nástroj:** [nastroj.com](https://nastroj.com) — k čemu slouží

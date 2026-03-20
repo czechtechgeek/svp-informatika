@@ -79,6 +79,9 @@ def generate_lesson_html(meta: dict) -> str:
     # ── RVP sekce ───────────────────────────────────────────────────────────
     rvp_codes = meta.get('rvp_codes', [])
     if rvp_codes:
+        # Deduplikace podle kódu — stejný kód se nesmí zobrazit víckrát
+        seen = set()
+        rvp_codes = [e for e in rvp_codes if e.get('code') not in seen and not seen.add(e.get('code'))]
         rvp_items = []
         for entry in rvp_codes:
             code = entry.get('code', '')
@@ -129,8 +132,10 @@ def generate_lesson_html(meta: dict) -> str:
                 seg_type = seg.get('type', 'board')
                 seg_min = int(seg.get('minutes', 0))
                 pct = round(seg_min / total * 100)
+                color = SEG_COLORS.get(seg_type, '#888')
                 segments_html += (
-                    f'    <div class="time-segment seg-{seg_type}" style="width: {pct}%">'
+                    f'    <div class="time-segment seg-{seg_type}"'
+                    f' style="width: {pct}%; background: {color};">'
                     f'{seg_min} min</div>\n'
                 )
                 if seg_type not in seen_types:
@@ -184,4 +189,13 @@ def on_page_markdown(markdown, page, **kwargs):
             break
 
     result = lines[:insert_idx] + ['', lesson_html, ''] + lines[insert_idx:]
-    return '\n'.join(result)
+    output = '\n'.join(result)
+
+    # Přidej markdown="1" ke všem custom divům, které ještě nemají
+    # (opravuje soubory migr. před tímto patchem nebo ručně vytvořené)
+    output = re.sub(
+        r'<div class="(resources|goals|friday-tip)"(?!\s+markdown)',
+        r'<div class="\1" markdown="1"',
+        output,
+    )
+    return output

@@ -6,8 +6,6 @@ area: Digitální společnost
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - Žák definuje kyberšikanu a rozliší ji od jednorázové neshody online
   - "Žák zná konkrétní kroky, jak postupovat jako oběť i jako svědek"

@@ -6,8 +6,6 @@ area: Umělá inteligence / Digitální gramotnost
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "Žák vysvětlí, co je prompt a proč záleží na jeho formulaci"
   - "Žák aplikuje techniky prompt engineeringu: kontext, role, formát, few-shot příklady"
