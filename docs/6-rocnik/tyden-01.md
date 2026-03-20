@@ -88,8 +88,8 @@ Učitel vybere 2–3 dobrovolníky, kteří ukáží svůj průkaz na interaktiv
 
 ---
 
-<div class="resources">
-  <div class="resources-title">📂 Zdroje a podklady</div>
+<div class="resources" markdown="1">
+<div class="resources-title">📂 Zdroje a podklady</div>
 
   - **Bezpečnost online (CZ):** [e-bezpeci.cz](https://www.e-bezpeci.cz) — český portál pro bezpečnost na internetu; sekce „Pro školy" obsahuje materiály pro výuku
   - **Video (CZ):** [ČT edu](https://edu.ceskatelevize.cz) — hledej „digitální stopa" nebo „bezpečnost na internetu"

@@ -557,6 +557,13 @@ def migrate_file(filepath: str, dry_run: bool = False) -> dict:
     # Odstraň emoji ze začátku h1 (pokud tam je)
     new_content = f'{fm}\n\n# {clean_h1(title)}\n\n{body}\n'
 
+    # Přidej markdown="1" ke custom divům (md_in_html extension to vyžaduje)
+    new_content = re.sub(
+        r'<div class="(resources)"(?!\s+markdown)',
+        r'<div class="\1" markdown="1"',
+        new_content,
+    )
+
     if not dry_run:
         # Záloha
         backup_path = str(filepath) + '.bak'

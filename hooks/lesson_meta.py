@@ -184,4 +184,13 @@ def on_page_markdown(markdown, page, **kwargs):
             break
 
     result = lines[:insert_idx] + ['', lesson_html, ''] + lines[insert_idx:]
-    return '\n'.join(result)
+    output = '\n'.join(result)
+
+    # Přidej markdown="1" ke všem custom divům, které ještě nemají
+    # (opravuje soubory migr. před tímto patchem nebo ručně vytvořené)
+    output = re.sub(
+        r'<div class="(resources|goals|friday-tip)"(?!\s+markdown)',
+        r'<div class="\1" markdown="1"',
+        output,
+    )
+    return output
