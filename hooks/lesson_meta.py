@@ -129,8 +129,10 @@ def generate_lesson_html(meta: dict) -> str:
                 seg_type = seg.get('type', 'board')
                 seg_min = int(seg.get('minutes', 0))
                 pct = round(seg_min / total * 100)
+                color = SEG_COLORS.get(seg_type, '#888')
                 segments_html += (
-                    f'    <div class="time-segment seg-{seg_type}" style="width: {pct}%">'
+                    f'    <div class="time-segment seg-{seg_type}"'
+                    f' style="width: {pct}%; background: {color};">'
                     f'{seg_min} min</div>\n'
                 )
                 if seg_type not in seen_types:
