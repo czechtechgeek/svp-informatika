@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Algoritmizace a programování / Digitální technologie
-> **Kód:** `I-9-2-02` – *Žák implementuje algoritmus v programovacím jazyce.*
-> **Kód:** `I-9-3-01` – *Žák vysvětlí princip fungování digitálních technologií a sítí.*
+> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
+> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
 
 **Po hodině žák:**
 * **Vysvětlí**, co měří akcelerometr a v jakých jednotkách (milli-g).

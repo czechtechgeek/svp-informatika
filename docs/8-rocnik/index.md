@@ -112,7 +112,9 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 
 ## 📚 Soupis zdrojů podle RVP výstupů
 
-### I-9-1-01 — Žák porozumí pojmu data, jejich typům a způsobům reprezentace
+> Kódy odpovídají [oficiálnímu přehledu RVP výstupů](../rvp-vystupy.md). Starý formát `I-9-X-XX` byl nahrazen kódy `INF-INF-XXX-ZV9-YYY`.
+
+### INF-INF-001-ZV9-001 — Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.
 *(Oblast: Data, informace a modelování)*
 
 | Zdroj | Typ | Hodina |
@@ -120,23 +122,14 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | ČT edu — „data digitální ekonomika" | Video (CZ) | Týden 1 |
 | [datacentermap.com](https://www.datacentermap.com) | Interaktivní mapa | Týden 1 |
 | [datadetoxkit.org/cs](https://datadetoxkit.org/cs) | Web (CZ/EN) | Týden 1 |
-| MakeCode — `teplota (°C)`, `úroveň světla` | Výukový nástroj | Týden 9 |
-
-### I-9-1-02 — Žák zpracuje a interpretuje data pomocí vhodných nástrojů
-*(Oblast: Data, informace a modelování)*
-
-| Zdroj | Typ | Hodina |
-|-------|-----|--------|
-| [support.google.com — IF](https://support.google.com/docs/answer/3093364) | Dokumentace | Týden 2 |
-| YouTube — „funkce IF Excel česky" | Video (CZ) | Týden 2 |
 | [chmi.cz](https://www.chmi.cz) | Data ke stažení | Týden 3 |
-| YouTube — „funkce MIN MAX Excel průměr česky" | Video (CZ) | Týden 3 |
 | [Datawrapper](https://www.datawrapper.de) | Online vizualizace | Týden 4 |
 | [Flourish](https://flourish.studio) | Online vizualizace | Týden 4 |
 | [callingbullshit.org](https://www.callingbullshit.org) | Web (EN) | Týden 5 |
 | „Jak lhát se statistikou" — Darrell Huff | Kniha (CZ) | Týden 5 |
+| MakeCode — `teplota (°C)`, `úroveň světla` | Výukový nástroj | Týden 9 |
 
-### I-9-1-03 — Žák vytvoří model pro řešení problému nebo organizaci informací
+### INF-INF-001-ZV9-003 — Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.
 *(Oblast: Data, informace a modelování)*
 
 | Zdroj | Typ | Hodina |
@@ -144,7 +137,7 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | [app.diagrams.net](https://app.diagrams.net) | Vývojové diagramy | Týden 12 |
 | [microbit.org/projects](https://microbit.org/projects) | Projektové návody | Týden 12 |
 
-### I-9-2-01 — Žák rozloží problém na podproblémy a navrhne algoritmus
+### INF-INF-002-ZV9-006 — Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
 *(Oblast: Algoritmizace a programování)*
 
 | Zdroj | Typ | Hodina |
@@ -156,7 +149,7 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | [microbit.org/do-your-bit](https://microbit.org/do-your-bit) | Showcase | Týden 12 |
 | [cryptii.com](https://cryptii.com) | Online šifrovací nástroj | Týden 19 |
 
-### I-9-2-02 — Žák implementuje algoritmus v programovacím jazyce
+### INF-INF-002-ZV9-007 — V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.
 *(Oblast: Algoritmizace a programování)*
 
 | Zdroj | Typ | Hodina |
@@ -170,8 +163,8 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | microbit.org/projects — „Walkie Talkie" | Projektový návod | Týden 11 |
 | MakeCode — LED → `vykreslit x y jas` | Výukový nástroj | Týden 14 |
 
-### I-9-3-01 — Žák vysvětlí princip fungování digitálních technologií a sítí
-*(Oblast: Digitální technologie)*
+### INF-INF-003-ZV9-009 — Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.
+*(Oblast: Informační systémy)*
 
 | Zdroj | Typ | Hodina |
 |-------|-----|--------|
@@ -183,8 +176,30 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/) | SSL test | Týden 18 |
 | [tinkercad.com](https://www.tinkercad.com) | 3D modelování | Týdny 27–28 |
 
-### I-9-4-01 — Žák kriticky hodnotí digitální obsah a chování online
-*(Oblast: Digitální bezpečnost a etika)*
+### INF-INF-003-ZV9-011 — V evidenci dat používá funkce pro automatické zpracování dat a nastavuje zobrazení dat s cílem řešit potřeby uživatelů.
+*(Oblast: Informační systémy)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [support.google.com — IF](https://support.google.com/docs/answer/3093364) | Dokumentace | Týden 2 |
+| YouTube — „funkce IF Excel česky" | Video (CZ) | Týden 2 |
+| YouTube — „funkce MIN MAX Excel průměr česky" | Video (CZ) | Týden 3 |
+
+### INF-INF-004-ZV9-013 — Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.
+*(Oblast: Digitální technologie)*
+
+| Zdroj | Typ | Hodina |
+|-------|-----|--------|
+| [observatory.mozilla.org](https://observatory.mozilla.org) | Web (EN) | Týden 18 |
+| [cryptii.com](https://cryptii.com) | Online šifrovací nástroj | Týden 19 |
+| Khan Academy — Cryptography | Kurz (EN) | Týden 19 |
+| YouTube — „WannaCry útok vysvětlení" | Video (CZ) | Týden 20 |
+| [haveibeenpwned.com](https://haveibeenpwned.com) | Web (EN) | Týden 23 |
+| [2fa.directory](https://2fa.directory) | Web (EN) | Týden 23 |
+| [dtest.cz](https://www.dtest.cz) | Web (CZ) | Týden 25 |
+
+### INF-INF-004-ZV9-014 — Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+*(Oblast: Digitální technologie)*
 
 | Zdroj | Typ | Hodina |
 |-------|-----|--------|
@@ -197,26 +212,6 @@ Stav změníte přímo v souboru: nahraďte `` `⬜ Nekontrolováno` `` za `` `�
 | [shodan.io](https://www.shodan.io) | Vyhledávač IoT | Týden 24 |
 | [heureka.cz](https://www.heureka.cz) | Web (CZ) | Týden 25 |
 | [coi.cz](https://www.coi.cz) | Web (CZ) | Týden 25 |
-
-### I-9-4-02 — Žák chrání sebe i ostatní při práci v digitálním prostředí
-*(Oblast: Digitální bezpečnost a etika)*
-
-| Zdroj | Typ | Hodina |
-|-------|-----|--------|
-| [observatory.mozilla.org](https://observatory.mozilla.org) | Web (EN) | Týden 18 |
-| [cryptii.com](https://cryptii.com) | Online šifrovací nástroj | Týden 19 |
-| Khan Academy — Cryptography | Kurz (EN) | Týden 19 |
-| YouTube — „WannaCry útok vysvětlení" | Video (CZ) | Týden 20 |
-| [haveibeenpwned.com](https://haveibeenpwned.com) | Web (EN) | Týden 23 |
-| [2fa.directory](https://2fa.directory) | Web (EN) | Týden 23 |
-| [dtest.cz](https://www.dtest.cz) | Web (CZ) | Týden 25 |
-
-### I-9-4-03 — Žák komunikuje a spolupracuje digitálně s ohledem na etiku
-*(Oblast: Digitální bezpečnost a etika)*
-
-| Zdroj | Typ | Hodina |
-|-------|-----|--------|
-| [2fa.directory](https://2fa.directory) | Web (EN) | Týden 23 |
 | [ares.gov.cz](https://ares.gov.cz) | Ověření IČO | Týden 25 |
 | Tinkercad galerie (tinkercad.com/things) | Inspirace | Týdny 27–28 |
 | [smartcityvpraxi.cz](https://www.smartcityvpraxi.cz) | Web (CZ) | Týden 29 |

@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Bezpečnost / Kryptografie
-> **Kód:** `I-9-4-02` – *Žák chrání sebe i ostatní při práci v digitálním prostředí.*
-> **Kód:** `I-9-2-01` – *Žák navrhne a zapíše algoritmus řešení problému.*
+> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
+> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
 
 **Po hodině žák:**
 * **Vysvětlí** princip šifrování a dešifrování vlastními slovy.

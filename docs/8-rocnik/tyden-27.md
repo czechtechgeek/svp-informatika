@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Digitální tvorba a programování
-> **Kód:** `I-9-3-01` – *Žák vytvoří jednoduchý program / digitální artefakt.*
-> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně.*
+> **Kód:** `INF-INF-003-ZV9-009` – *Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
 
 **Po hodině žák:**
 * **Přihlásí se** do Tinkercad a orientuje se v základním rozhraní.

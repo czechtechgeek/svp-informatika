@@ -41,6 +41,7 @@ markdown_extensions:
 
 nav:
   - Domů: index.md
+  - RVP výstupy: rvp-vystupy.md
   - 6. ročník - Objevitel:
       - Přehled: 6-rocnik/index.md
       - 1. Pololetí - Data a základy logiky:

@@ -18,14 +18,15 @@
 
 <!-- ══════════════════════════════════════════════════════
      VAZBA NA RVP ZV
-     Uveď kódy výstupů z RVP. Stačí kód + krátký popis.
-     Formát: <span class="rvp-tag"><span class="rvp-code">KÓD</span>
-             <span class="rvp-desc">Popis výstupu</span></span>
+     Uveď kódy výstupů z RVP (viz docs/data/rvp.yml a stránka RVP výstupy).
+     Používej VÝHRADNĚ formát INF-INF-XXX-ZV9-YYY a přesné znění z rvp.yml.
+     Nepoužívej starý formát I-9-X-XX.
      ══════════════════════════════════════════════════════ -->
 ## 📋 Vazba na RVP ZV
 
-<span class="rvp-tag"><span class="rvp-code">I-9-X-XX</span><span class="rvp-desc">Popis výstupu z RVP</span></span>
-<span class="rvp-tag"><span class="rvp-code">I-9-X-XX</span><span class="rvp-desc">Druhý výstup (pokud je)</span></span>
+<!-- Kódy výstupů dle docs/data/rvp.yml — používejte POUZE formát INF-INF-XXX-ZV9-YYY -->
+- **Výstup:** <div class="curriculumTag" data-code="INF-INF-XXX-ZV9-YYY" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-XXX-ZV9-YYY</span><span style="color: #374151;">Přesné znění výstupu z rvp.yml</span></div>
+- **Výstup:** <div class="curriculumTag" data-code="INF-INF-XXX-ZV9-YYY" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-XXX-ZV9-YYY</span><span style="color: #374151;">Druhý výstup (pokud je)</span></div>
 
 ---
 

@@ -9,8 +9,8 @@
 
 ## 📋 Vazba na RVP ZV
 
-<span class="rvp-tag"><span class="rvp-code">I-9-4-02</span><span class="rvp-desc">Žák chrání svá data i data ostatních</span></span>
-<span class="rvp-tag"><span class="rvp-code">I-9-4-03</span><span class="rvp-desc">Žák jedná eticky a respektuje pravidla netikety</span></span>
+<span class="rvp-tag"><span class="rvp-code">INF-INF-004-ZV9-013</span><span class="rvp-desc">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></span>
+<span class="rvp-tag"><span class="rvp-code">INF-INF-004-ZV9-014</span><span class="rvp-desc">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></span>
 
 ---
 

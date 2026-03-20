@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Data, informace a modelování / Digitální společnost
-> **Kód:** `I-9-1-02` – *Žák zpracuje a interpretuje data pomocí vhodných nástrojů.*
-> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a chování online.*
+> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
 
 **Po hodině žák:**
 * **Identifikuje** nejčastější techniky klamavé vizualizace dat (zkrácená osa, 3D efekty, cherry picking).

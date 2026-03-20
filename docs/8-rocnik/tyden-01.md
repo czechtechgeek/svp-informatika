@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `I-9-1-01` – *Žák porozumí pojmu data, jejich typům a způsobům reprezentace.*
-> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a chování online.*
+> **Kód:** `INF-INF-001-ZV9-001` – *Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
 
 **Po hodině žák:**
 * **Vysvětlí**, proč se říká „data jsou nová ropa" a co tato metafora znamená.

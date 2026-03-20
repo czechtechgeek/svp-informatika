@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Kybernetická bezpečnost / Psychologie
-> **Kód:** `I-9-4-02` – *Žák chrání sebe i ostatní při práci v digitálním prostředí.*
-> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a chování online.*
+> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
 
 **Po hodině žák:**
 * **Definuje** pojem sociální inženýrství a vysvětlí, proč útočí na lidi, ne na technologie.

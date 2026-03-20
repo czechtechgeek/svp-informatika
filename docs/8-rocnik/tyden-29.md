@@ -4,8 +4,8 @@
 
 ### 📋 Kontext a cíle
 > **RVP ZV (Informatika):** Digitální společnost a bezpečnost
-> **Kód:** `I-9-4-01` – *Žák kriticky hodnotí digitální obsah a technologie.*
-> **Kód:** `I-9-4-03` – *Žák komunikuje a spolupracuje digitálně.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
+> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
 
 **Po hodině žák:**
 * **Vysvětlí**, co je „chytré město" (smart city) a uvede alespoň tři konkrétní příklady technologií.
