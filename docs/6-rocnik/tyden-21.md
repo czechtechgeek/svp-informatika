@@ -82,10 +82,14 @@ Pepa Novák, 6.B
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Každý žák napíše e-mail s jednou ze zadaných situací:
+<div class="zadani-pc">
+
+Napiš e-mail s jednou ze zadaných situací:
 - Žádost o prodloužení termínu odevzdání úkolu
 - Pozvání spolužáka na narozeninovou oslavu (formální i neformální verze)
 - Dotaz do knihovny, zda mají určitou knihu
+
+</div>
 
 Sdílení: 2–3 dobrovolníci přečtou svůj e-mail, třída hodnotí podle struktury.
 

@@ -56,9 +56,13 @@ Alternativa — žák hraje robota. Jeden žák zavře oči, druhý mu dává p�
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Žáci otevřou [OzoBlockly editor](https://ozoblockly.com) a naprogramují sekvenci pohybů v blokovém prostředí.
+<div class="zadani-pc">
 
-Úkol: Naprogramujte Ozobota tak, aby nakreslil čtverec (4× „pohyb vpřed + otočení o 90°").
+Otevři [OzoBlockly editor](https://ozoblockly.com) a naprogramuj sekvenci pohybů v blokovém prostředí.
+
+**Úkol:** Naprogramuj Ozobota tak, aby nakreslil čtverec (4× „pohyb vpřed + otočení o 90°").
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

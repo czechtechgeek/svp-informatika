@@ -57,7 +57,9 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vytvoří animaci „Věčný tanec":
+<div class="zadani-pc">
+
+Vytvoř animaci „Věčný tanec":
 
 #### Základní verze
 
@@ -79,6 +81,8 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
 #### Ohraničený cyklus (bonus)
 
 7. Ukažte rozdíl: `opakuj [10]-krát: pohni se o [20] kroků` → sprite se zastaví po 10 krocích
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

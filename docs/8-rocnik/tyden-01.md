@@ -66,7 +66,9 @@ Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kop�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci ve dvojicích vyplní tabulku — odhadnou, kolik datových stop zanechají za jeden typický den:
+<div class="zadani-pc">
+
+Ve dvojici vyplňte tabulku — odhadněte, kolik datových stop zanecháte za jeden typický den. Doplňte chybějící položky nebo přidejte vlastní aktivity:
 
 | Aktivita | Typ dat | Kdo to sbírá |
 |----------|---------|--------------|
@@ -75,6 +77,8 @@ Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kop�
 | WhatsApp zpráva | Text, čas, příjemce, poloha | Meta |
 | Otevření e-mailu | IP adresa, čas, zařízení | Gmail/Centrum |
 | Vyhledávání na Googlu | Dotaz, čas, poloha, profil | Google |
+
+</div>
 
 Skupiny porovnají výsledky — učitel ukáže, jak velký „datový profil" vzniká za jeden den.
 
