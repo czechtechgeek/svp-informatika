@@ -41,19 +41,27 @@ Otázka: „Ve které situaci najdete soubor za 5 sekund? A za rok?"
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Žáci dostanou seznam 15 přípon souborů a jejich úkolem je přiřadit je ke kategorii:
+<div class="zadani-pc">
 
-| Přípona | Co to je? |
-|---------|-----------|
-| .docx | Word dokument |
-| .jpg / .png | Obrázek |
-| .mp3 / .wav | Zvuk |
-| .mp4 | Video |
-| .pdf | PDF dokument |
-| .exe | Spustitelný program |
-| .zip | Archiv |
-| .py | Python kód |
-| .sb3 | Scratch projekt |
+Otevři sdílený pracovní list (Google Docs nebo vytištěný papír od učitele) s tabulkou přípon souborů.
+
+Pro každou příponu v tabulce napiš, **co to je** (typ souboru) a **jakou aplikací** bys soubor otevřel/a:
+
+| Přípona | Co to je? | Otevřu v... |
+|---------|-----------|-------------|
+| .docx | ? | ? |
+| .jpg / .png | ? | ? |
+| .mp3 / .wav | ? | ? |
+| .mp4 | ? | ? |
+| .pdf | ? | ? |
+| .exe | ? | ? |
+| .zip | ? | ? |
+| .py | ? | ? |
+| .sb3 | ? | ? |
+
+**Pro rychlé žáky:** Vymysli příponu, kterou jsi v tabulce neviděl/a, a zjisti, co to je (zkus vyhledat na internetu).
+
+</div>
 
 Po vyplnění společná kontrola — učitel otevře každý typ souboru v příslušné aplikaci.
 
@@ -61,20 +69,33 @@ Po vyplnění společná kontrola — učitel otevře každý typ souboru v př�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák navrhne a vytvoří svou osobní strukturu složek pro školní rok. Vzorová hierarchie:
+<div class="zadani-pc">
 
+Navrhni a vytvoř vlastní strukturu složek pro celý školní rok. Použij Průzkumník souborů (Windows) nebo Google Drive.
+
+**Krok 1:** Vytvoř hlavní složku pojmenovanou podle vzoru: `6A_Prijmeni_Jmeno` (bez diakritiky, bez mezer).
+
+**Krok 2:** Uvnitř vytvoř složky pro aspoň 4 předměty (Matematika, Informatika, Cesky_jazyk, ...). Každá složka předmětu by měla mít aspoň 2 podsložky (např. `Domaci_ukoly` a `Testy`).
+
+Vzorová struktura:
 ```
-📁 6A_Novak_Jan/
-├── 📁 Matematika/
-│   ├── 📁 Domaci_ukoly/
-│   └── 📁 Testy/
-├── 📁 Informatika/
-│   ├── 📁 Scratch_projekty/
-│   └── 📁 Pracovni_listy/
-├── 📁 Cesky_jazyk/
-└── 📁 Osobni/
-    └── 📁 Fotky/
+6A_Novak_Jan/
+├── Matematika/
+│   ├── Domaci_ukoly/
+│   └── Testy/
+├── Informatika/
+│   ├── Scratch_projekty/
+│   └── Pracovni_listy/
+└── Cesky_jazyk/
 ```
+
+**Pravidla pojmenování:** žádné mezery (použij `_`), žádná diakritika, název musí napovídat obsah.
+
+**Pro rychlé žáky:** Přidej složku `Osobni` a uvnitř ní vymaž vše nepotřebné — procvič digitální úklid.
+
+Hotovou strukturu ukáž učiteli nebo ulož snímek obrazovky do složky `Informatika/Pracovni_listy`.
+
+</div>
 
 Žáci vytvoří tuto strukturu na svém PC nebo školním disku (Průzkumník souborů / Google Drive).
 

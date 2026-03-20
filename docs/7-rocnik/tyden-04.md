@@ -70,20 +70,31 @@ Učitel promítne nebo nakreslí kompletní diagram:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-**Zadání — vyberte jeden proces:**
-- Možnost A: „Jak se rozhodnu, co si dám k snídani" (obsahuje podmínky: Je doma mléko? Mám čas vařit?)
-- Možnost B: „Jak funguje půjčování knihy v knihovně" (registrace, dostupnost, vrácení)
-- Možnost C: „Algoritmus pro výběr hry na PC/konzoli" (žánr, čas, sám nebo s kamarádem)
+<div class="zadani-pc">
 
-**Nástroje:**
-- Online: [Diagrams.net (draw.io)](https://app.diagrams.net) — zdarma, bez registrace, shapes panel obsahuje flowchart
-- Alternativa: Google Slides nebo PowerPoint (tvary + šipky)
-- Offline: Papír A4, tužka, pravítko
+Otevři [Diagrams.net (draw.io)](https://app.diagrams.net) a vytvoř vlastní vývojový diagram. Nevyžaduje registraci.
 
-Požadavky:
+**Vyber si jeden proces:**
+- **Možnost A:** „Jak se rozhodnu, co si dám k snídani" (podmínky: Je doma mléko? Mám čas vařit?)
+- **Možnost B:** „Jak funguje půjčování knihy v knihovně" (registrace, dostupnost, vrácení)
+- **Možnost C:** „Algoritmus pro výběr hry na PC/konzoli" (žánr, čas, sám nebo s kamarádem)
+
+**Použij správné tvary:**
+- **Ovál** = Začátek / Konec
+- **Obdélník** = akce (krok)
+- **Kosočtverec** = podmínka (otázka ANO/NE)
+- **Šipky** = tok / pořadí kroků
+
+**Tvůj diagram musí obsahovat:**
 - Začátek a konec označeny oválem
-- Alespoň jedna podmínka (kosočtverec) s větvemi ANO/NE
-- Šipky ukazují směr
+- Aspoň jednu podmínku (kosočtverec) s větvemi ANO a NE
+- Šipky ukazující směr průchodu
+
+**Pro rychlé žáky:** Přidej do diagramu smyčku (zpětnou šipku) — kde by v tvém procesu dávalo smysl „zkus znovu"?
+
+Hotový diagram exportuj jako PNG (Soubor → Exportovat) a odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Propojení s programováním
 

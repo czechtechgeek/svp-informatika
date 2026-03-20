@@ -65,16 +65,24 @@ Klíčová pozorování:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-Žáci si vyberou jednu ze dvou simulací a experimentují:
+<div class="zadani-pc">
 
-**Možnost A – Šíření nákazy:** ncase.me/pandemic (EN, vizuálně skvělé)
+Vyber si jednu ze dvou simulací a experimentuj s parametry:
 
-**Možnost B – Predátor a kořist:** Simulátor vlků a losů (viz podklady)
+**Možnost A — Šíření nákazy** 🦠
+Otevři [ncase.me/pandemic](https://ncase.me/pandemic) (anglicky, vše jasné z obrázků)
 
-Každý žák zapíše do sešitu nebo sdíleného dokumentu:
-1. Výchozí parametry a výsledek
-2. Co se stane, když změním parametr X?
-3. Jedno překvapení, které mě zaujalo
+**Možnost B — Predátor a kořist** 🐺
+Vyhledej online „Lotka-Volterra simulation" nebo „wolves and moose simulation"
+
+Do sešitu nebo sdíleného dokumentu zapiš:
+1. Výchozí parametry, které jsi nastavil/a, a výsledek simulace
+2. Co se stalo, když jsi změnil/a jeden parametr? (napiš konkrétně co a jak)
+3. Jedno překvapení nebo zajímavé zjištění
+
+</div>
+
+Každý žák zapisuje, učitel obchází.
 
 ### 4. Sdílení a reflexe
 

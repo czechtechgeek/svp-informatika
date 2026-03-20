@@ -66,25 +66,28 @@ Všechna zařízení v domácnosti sdílí jednu veřejnou IP (od poskytovatele 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-#### Úkol 1 — Privátní IP
+<div class="zadani-pc">
 
-- Windows: Start → cmd → `ipconfig` → hledat „IPv4 adresa"
-- macOS/Linux: Terminál → `ifconfig` nebo `ip addr`
-- Žáci zapíší svou privátní IP. Mají všichni stejnou nebo různou?
+Proveď tyto úkoly a odpovědi zapiš do sešitu nebo Google Docs:
 
-#### Úkol 2 — Veřejná IP
+**Úkol 1 — Zjisti svou privátní IP:**
+- Windows: otevři **Start → cmd** → napiš `ipconfig` → hledej „IPv4 adresa"
+- Zapiš svou privátní IP. Mají všichni žáci ve třídě stejnou nebo různou privátní IP?
 
-- Otevřít browser → vyhledat „co je moje IP adresa" nebo navštívit veřejný checker
-- Zapsat veřejnou IP. Mají všichni ve třídě stejnou veřejnou IP? (Ano — sdílí školní router)
+**Úkol 2 — Zjisti veřejnou IP:**
+- Otevři prohlížeč a vyhledej „co je moje IP adresa" nebo přejdi na stránku pro zjištění IP
+- Zapiš veřejnou IP. Je stejná jako u ostatních žáků v třídě? Proč?
 
-#### Úkol 3 — DNS lookup
+**Úkol 3 — DNS lookup:**
+- V příkazové řádce (cmd) napiš: `nslookup google.com`
+- Jakou IP adresu má google.com? Co to znamená — proč stránka nemá jen jméno?
 
-- Vyhledat „IP adresa google.com" nebo v cmd: `nslookup google.com`
-- Zjistit, jakou IP má google.com — vysvětlení DNS (jméno → IP)
+**Úkol 4 — Geolokace:**
+- Vyhledej geolokaci veřejné IP naší školy. Kde říká, že se škola nachází? Je to přesné?
 
-#### Úkol 4 — Geolokace IP
+**Pro rychlé žáky:** Spusť příkaz `tracert google.com` (Windows). Co vidíš? Co jsou ta čísla a adresy?
 
-- Vyhledat geolokaci veřejné IP školy — kde říká, že se škola nachází? Je to přesné?
+</div>
 
 ### 4. Propojení s bezpečností
 

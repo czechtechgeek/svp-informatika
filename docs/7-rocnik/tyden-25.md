@@ -73,19 +73,23 @@ Učitel ukáže 4–5 veřejně dostupných příkladů zmanipulovaných fotek (
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák si vybere **volně licencovanou** fotografii z [Pixabay.com](https://pixabay.com) nebo [Unsplash.com](https://unsplash.com) a provede úpravy v online editoru:
+<div class="zadani-pc">
 
-**Nástroj:** [Canva.com](https://www.canva.com) (zdarma, bez registrace pro základní funkce) nebo [Photopea.com](https://www.photopea.com) (pokročilejší, zdarma)
+Vyber si volně licencovanou fotografii z [Pixabay.com](https://pixabay.com) nebo [Unsplash.com](https://unsplash.com) a uprav ji v online editoru.
 
-**Úkol — proveďte všechny přijatelné úpravy:**
-1. Ořez na lepší kompozici
-2. Úprava jasu a kontrastu
-3. Přidání textového popisku
-4. Export jako JPG
+**Nástroj:** [Canva.com](https://www.canva.com) (zdarma, doporučeno) nebo [Photopea.com](https://www.photopea.com) (pokročilejší)
 
-**Bonus (pokud čas dovoluje):**
-- Zkuste vymazat objekt z pozadí (Canva magic eraser)
-- Diskuse: Je to ještě fotografie, nebo ilustrace?
+**Proveď tyto úpravy:**
+1. **Ořez** — vyber část fotky, která má lepší kompozici
+2. **Jas a kontrast** — vylepši celkový vzhled
+3. **Textový popisek** — přidej krátký popis nebo název k fotce
+4. **Export** — ulož jako JPG nebo PNG
+
+**Bonus (pro rychlé):** Zkus vymazat nebo změnit objekt v pozadí (Canva → Magic Eraser nebo Photopea → lasso + delete). Diskutuj: je to ještě fotografie, nebo ilustrace?
+
+Po dokončení ulož soubor a odevzdej přes Google Classroom. Přidej do odevzdání krátkou poznámku: jakou **přijatelnou úpravu** jsi provedl/a a co by bylo **manipulací** (záměrnou změnou reality)?
+
+</div>
 
 ### 4. Etická diskuse (5 min)
 

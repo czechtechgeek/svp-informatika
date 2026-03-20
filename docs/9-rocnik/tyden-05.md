@@ -35,7 +35,11 @@ friday_tip: "První hodina Pythonu je klíčová pro motivaci. Nechejte žáky c
 
 Žáci otevřou replit.com nebo trinket.io a vytvoří nový Python projekt.
 
-Učitel diktuje, žáci píší:
+<div class="zadani-pc">
+
+**Část 1 — První program** (8 min)
+
+Otevři [replit.com](https://replit.com) nebo [trinket.io](https://trinket.io) a vytvoř nový **Python** projekt. Napiš a spusť tento kód (tlačítko Run ▶):
 
 ```python
 print("Ahoj, světe!")
@@ -43,6 +47,10 @@ print("Jmenuji se Python.")
 print(2025)
 print(3 + 5)
 ```
+
+❓ Co vypíše poslední řádek? Proč?
+
+</div>
 
 Spustí program (Run). Diskuse: `print()` je funkce – dává počítači příkaz „vypiš toto".
 
@@ -52,20 +60,30 @@ Spustí program (Run). Diskuse: `print()` je funkce – dává počítači pří
 
 Učitel na tabuli: Proměnná je pojmenovaná „krabička" v paměti počítače.
 
+<div class="zadani-pc">
+
+**Část 2 — Proměnné** (12 min)
+
+Napiš do editoru tento kód — pak **změň hodnoty** na vlastní jméno, věk a číslo:
+
 ```python
 jmeno = "Honza"
 vek = 15
-oblibena_cisla = 7
+oblibene_cislo = 7
 
 print("Jmenuji se", jmeno)
 print("Je mi", vek, "let")
-print("Moje číslo je", oblibena_cisla)
+print("Moje číslo je", oblibene_cislo)
 ```
 
-Klíčové pojmy:
+Typy dat v Pythonu:
 - **str** (string) – text v uvozovkách: `"Ahoj"`
 - **int** (integer) – celé číslo: `42`
 - **float** – desetinné číslo: `3.14`
+
+🚀 Hotový brzy? Přidej ještě proměnnou `oblibena_barva` nebo `oblibene_jidlo` a vypiš větu o sobě.
+
+</div>
 
 Žáci změní hodnoty proměnných a spustí znovu.
 

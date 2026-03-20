@@ -65,13 +65,25 @@ Klíčové principy silného hesla:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Každý žák vytvoří vlastní silné heslo pomocí passphrase:
+<div class="zadani-pc">
 
-1. Vymyslete zapamatovatelnou větu: *„Moje kočka se jmenuje Micka a má 3 roky!"*
-2. Vezměte první písmena každého slova: `MksjMam3r!`
-3. Přidejte speciální znak na jiném místě: `Mk\$sjMam3r!`
+Vytvoř si vlastní silné heslo pomocí techniky věty (passphrase). Postup:
 
-**Ověření síly hesla:** na [howsecureismypassword.net](https://howsecureismypassword.net) — vkládejte pouze vymyšlená cvičná hesla, nikdy svá skutečná!
+1. Vymysli zapamatovatelnou větu (o aspoň 6 slovech): např. „Moje kočka se jmenuje Micka a má 3 roky!"
+2. Vezmi **první písmeno** každého slova: `MksjMam3r!`
+3. Přidej aspoň jeden speciální znak (`!`, `$`, `#`, `%`) do středu hesla
+
+**Ověř sílu svého cvičného hesla** na [howsecureismypassword.net](https://howsecureismypassword.net).
+
+> ⚠️ **Důležité:** Vkládej POUZE vymyšlená cvičná hesla — nikdy své skutečné heslo!
+
+Zapiš do sešitu:
+- Svou vymyšlenou větu (tu větu, ne výsledné heslo!)
+- Jak dlouho by trvalo prolomit tvé cvičné heslo podle webu?
+
+**Pro rychlé žáky:** Vyzkoušej heslo z jednoho slova (např. `heslo123`) a porovnej s passphrase. Jaký je rozdíl v čase prolomení?
+
+</div>
 
 ### 4. Shrnutí: Desatero hesel (7 min)
 

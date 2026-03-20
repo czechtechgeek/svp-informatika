@@ -56,12 +56,21 @@ Příklad kódu pro jeden řádek:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci otevřou [Piskel.com](https://www.piskelapp.com) — bezplatný online pixel-art editor.
+<div class="zadani-pc">
 
-Úkol:
-- Vytvořte stejný obrázek jako na papíře, ale v Piskel editoru
-- Zkuste přidat druhou barvu
-- Exportujte jako PNG (File → Export → PNG)
+Otevři [Piskel.com](https://www.piskelapp.com) — bezplatný online pixel-art editor (bez registrace).
+
+**Úloha 1:** Vytvoř v editoru stejný obrázek, který jsi nakreslil/a na papíře (srdce, hvězda, domeček nebo písmeno, max. 10×10 pixelů).
+
+**Úloha 2:** Přidej k obrázku druhou barvu — přebarvi aspoň část obrázku.
+
+**Úloha 3:** Exportuj výsledek jako PNG: v menu vyber **File → Export → PNG** a ulož soubor.
+
+**Pro rychlé žáky:** Vytvoř úplně nový obrázek — tentokrát animaci (Piskel umí animovat — přidej druhý snímek tlačítkem + vpravo dole).
+
+Hotový soubor PNG ulož do složky Informatika na svém školním disku nebo odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

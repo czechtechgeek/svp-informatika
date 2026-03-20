@@ -46,33 +46,45 @@ Analogie: „Prohlížeč = auto. Vyhledávač = GPS navigace."
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Učitel napíše na tabuli příklad URL a žáci identifikují části:
+<div class="zadani-pc">
 
+Otevři 3 různé webové stránky v prohlížeči a pro každou z nich zapiš do sešitu:
+
+1. Celou URL adresu z adresního řádku
+2. Jaký **protokol** používá (http nebo https)?
+3. Jaká je **doména** (název webu)?
+4. Jaká je **cesta** (co je za doménou)?
+
+Příklad:
 ```
 https://www.wikipedia.org/wiki/Praha
-  ^       ^                ^
-  |       |                |
-protokol  doména           cesta
+protokol: https    doména: wikipedia.org    cesta: /wiki/Praha
 ```
 
-Žáci otevřou 3 různé weby a identifikují části URL v adresním řádku.
+**Důležité:** Zjisti, zda web používá `https://` (bezpečné, šifrované) nebo `http://` (nešifrované). Jak to poznáš v prohlížeči? (Nápověda: podívej se na ikonku zámku.)
 
-Důležité: `https://` = šifrované spojení (bezpečné), `http://` = nešifrované (opatrně).
+</div>
 
 ### 3. Aktivita: Pokročilé vyhledávání
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci postupně vyzkoušejí vyhledávací operátory:
+<div class="zadani-pc">
 
-| Operátor | Příklad | Co udělá |
-|----------|---------|----------|
-| `"uvozovky"` | `"klimatická změna"` | Hledá přesnou frázi |
-| `-mínus` | `jablko -ovoce` | Vyloučí slovo z výsledků |
-| `site:` | `site:ceskatelevize.cz` | Prohledá jen jeden web |
-| `filetype:` | `evoluční teorie filetype:pdf` | Hledá konkrétní typ souboru |
+Vyzkoušej pokročilé vyhledávací operátory v Googlu nebo Seznamu. Pro každý operátor proveď jeden vlastní pokus a zapiš, co jsi vyhledával/a a co ti to vrátilo:
 
-Úkol: pomocí pokročilého vyhledávání najdi odpovědi na 5 otázek (připravené učitelem na kartičkách nebo na tabuli).
+| Operátor | Tvůj příklad | Co to udělalo |
+|----------|-------------|---------------|
+| `"uvozovky"` | | |
+| `-mínus` | | |
+| `site:` | | |
+| `filetype:` | | |
+
+**Úkol:** Pomocí pokročilého vyhledávání najdi odpovědi na 5 otázek od učitele (viz kartičky nebo tabule). Ke každé odpovědi zapiš URL zdroje, kde jsi ji našel/a.
+
+**Pro rychlé žáky:** Zkus najít PDF dokument o tématu podle vlastního výběru pomocí operátoru `filetype:pdf`. Povedlo se? Jaké téma jsi hledal/a?
+
+</div>
 
 ### 4. Shrnutí (7 min)
 

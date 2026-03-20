@@ -89,13 +89,15 @@ Délka: maximálně 3 věty.
 
 <span class="act pc">💻 PC — 18 min</span>
 
-Žáci pracují ve dvojicích. Každá dvojice dostane stejný úkol a má 10 minut vytvořit co nejlepší prompt.
+<div class="zadani-pc">
 
-**Zadání 1 — Pomoc s učením:**
-Cíl: Nechat AI vytvořit 5 testových otázek z dějepisu o 2. světové válce, vhodných pro žáka 9. třídy, ve formátu kvízu s výběrem ze 3 možností.
+Pracuj ve dvojici. Vyberte si jedno ze tří zadání a napište **co nejlepší prompt** pro AI chatbota (ChatGPT, Claude nebo podobný). Máte 10 minut.
 
-**Zadání 2 — Ladění kódu:**
-Cíl: Nechat AI najít a vysvětlit chybu v tomto Python kódu:
+**Zadání 1 — Pomoc s učením** 📚
+Cíl: Nech AI vytvořit 5 testových otázek z dějepisu o 2. světové válce, vhodných pro žáka 9. třídy, ve formátu kvízu s výběrem ze 3 možností.
+
+**Zadání 2 — Ladění kódu** 🐛
+Cíl: Nech AI najít a vysvětlit chybu v tomto Python kódu:
 ```python
 def secti_seznam(seznam):
     soucet = 0
@@ -104,10 +106,12 @@ def secti_seznam(seznam):
     return soucet
 ```
 
-**Zadání 3 — Kreativní psaní:**
-Cíl: Nechat AI napsat vtipný příběh (5 vět) o robotovi, který se poprvé ocitne v české škole, psaný pro teenagery.
+**Zadání 3 — Kreativní psaní** ✍️
+Cíl: Nech AI napsat vtipný příběh (5 vět) o robotovi, který se poprvé ocitne v české škole, psaný pro teenagery.
 
-Po 10 minutách: každá dvojice sdílí svůj prompt a výsledek. Třída hlasuje, který výsledek je nejlepší.
+Po 10 minutách: sdílej svůj prompt a výsledek se třídou. Kdo dostal nejlepší výsledek?
+
+</div>
 
 **Diskuse:** Jaké prvky nejúspěšnějšího promptu ho odlišovaly?
 

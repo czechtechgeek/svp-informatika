@@ -72,23 +72,30 @@ Učitel ukáže tři klíčové funkce:
 
 <span class="act pc">💻 PC — 22 min</span>
 
-Třída společně vytvoří „Průvodce informatiky pro 6. třídu" — dokument, který by pomohl žákům o rok mladším.
+<div class="zadani-pc">
 
-**Struktura dokumentu (učitel připraví předem):**
+Otevři sdílený Google Doc, který připravil učitel — „Průvodce informatiky pro 6. třídu". Každý žák má přidělený odstavec.
+
+Najdi svůj přidělený oddíl (tvoje jméno je v záhlaví) a napiš 5–8 vět pro budoucí šeststáky na téma, které ti bylo přiřazeno:
+
 ```
-Průvodce informatiky — 6. třída
-(každý žák dostane přidělený odstavec)
-
-1. Co je algoritmus — [jméno žáka]
-2. Jak funguje Scratch — [jméno žáka]
-3. Co je proměnná — [jméno žáka]
-4. Jak bezpečně zacházet s PC — [jméno žáka]
-5. Co jsme dělali v projektu — [jméno žáka]
+Příklady témat:
+1. Co je algoritmus
+2. Jak funguje Scratch
+3. Co je proměnná
+4. Jak bezpečně zacházet s PC
+5. Co jsme dělali v herním projektu
 ...
 ```
 
-Každý žák napíše svůj odstavec (5–8 vět), ostatní mohou komentovat.
-Po 15 minutách: 3 žáci přečtou svůj odstavec nahlas.
+**Pravidla spolupráce:**
+- Piš **pouze do svého oddílu** — cizí text nemaž ani nepřepisuj
+- Pokud máš připomínku k textu spolužáka, použij **komentář** (označ text → Ctrl+Alt+M)
+- Pokud navrhneš úpravu, použij **režim navrhování** (Nástroje → Navrhnout úpravy)
+
+Po 15 minutách přečte 3 žáci svůj odstavec nahlas.
+
+</div>
 
 ### 4. Reflexe a etika (5 min)
 

@@ -40,21 +40,29 @@ Rychlý ústní kvíz — učitel ukazuje screenshoty bloků, žáci říkají, 
 
 <span class="act pc">💻 PC — 30 min</span>
 
-Každý žák si vybere jedno ze tří témat a vytvoří mini-projekt:
+Každý žák si vybere jedno ze tří témat a vytvoří mini-projekt.
 
-**Možnost A — Hra: Chytej hvězdy**
+<div class="zadani-pc">
+
+Otevři **Scratch** (scratch.mit.edu) a vytvoř vlastní projekt — vyber si jednu z možností:
+
+**Možnost A — Hra: Chytej hvězdy** 🌟
 - Hvězda padá shora dolů v cyklu
-- Hráč pohybuje košem (klávesy ←→)
-- Při dotyku: hvězda zmizí a přehraje zvuk
+- Hráč pohybuje košem pomocí kláves ← →
+- Při dotyku hvězdy: hvězda zmizí a přehraje se zvuk
 
-**Možnost B — Animovaný příběh**
-- Alespoň 3 sprity, každý má dialog
-- Příběh má začátek, střed a konec (3 scény)
-- Zvuková kulisa
+**Možnost B — Animovaný příběh** 🎭
+- Alespoň 3 sprity, každý má dialog (blok `řekni`)
+- Příběh má začátek, střed a konec (3 scény nebo pozadí)
+- Zvuková kulisa nebo hudba na pozadí
 
-**Možnost C — Vlastní nápad**
-- Žák navrhne vlastní projekt (schválení učitele)
-- Musí obsahovat: cyklus, událost, zvuk, alespoň 2 sprity
+**Možnost C — Vlastní nápad** 💡
+- Navrhni vlastní projekt (nejprve ho schval s učitelem)
+- Musí obsahovat: cyklus, událost, zvuk a alespoň 2 sprity
+
+Na závěr ulož projekt a sdílej odkaz do portfolia třídy v Google Docs.
+
+</div>
 
 Učitel chodí po třídě, komentuje, pomáhá s debuggingem.
 

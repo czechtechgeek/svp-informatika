@@ -85,17 +85,29 @@ pokud [skóre] = 10 pak:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci přidají proměnnou `skóre` do svého projektu z minulé hodiny nebo začnou nový projekt:
+<div class="zadani-pc">
+
+Otevři svůj projekt z minulé hodiny (hráč sbírá hvězdy) nebo začni nový. Přidej proměnnou `skóre`.
+
+**Postup:**
+1. V kategorii **Proměnné** klikni na „Vytvořit proměnnou" → název: `skóre`
+2. Na začátku programu (po kliknutí na vlajku) nastav `skóre` na 0
+3. Při každé kolizi se sbíraným předmětem zvyš skóre o 1 (`změň [skóre] o 1`)
+4. Přidej podmínku: pokud `skóre = 10`, řekni „Výhra!" a zastav vše
 
 **Minimální požadavky:**
-- Proměnná `skóre` inicializovaná na 0 při startu
+- Proměnná `skóre` se inicializuje na 0 při startu hry
 - Skóre se zvyšuje při určité události (kolize, kliknutí, stisk klávesy)
 - Skóre je viditelné na scéně
 
-**Rozšíření:**
-- **Životy:** druhá proměnná `životy` (začíná na 3, snižuje se při chybě)
-- **Nejvyšší skóre:** proměnná `rekord` — aktualizuje se, pokud `skóre > rekord`
-- **Hladiny:** po dosažení 10 bodů se zvýší obtížnost (rychlejší pohyb nepřátel)
+**Rozšíření (vyber si):**
+- **Životy:** přidej druhou proměnnou `životy` (začíná na 3, snižuje se při chybě)
+- **Rekord:** proměnná `rekord` — aktualizuje se, pokud `skóre > rekord`
+- **Hladiny:** po dosažení 10 bodů se zvýší obtížnost (rychlejší pohyb nepřátel nebo více předmětů)
+
+Projekt ulož a sdílej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

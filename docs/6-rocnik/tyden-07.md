@@ -60,25 +60,25 @@ Každý žák napíše minimálně 10 kroků svého rána (vstát, čistit zuby,
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci nakreslí jednoduchý vývojový diagram pro algoritmus „Jak připravit čaj?":
+<div class="zadani-pc">
 
-```
-Začátek
-  ↓
-Naplň konvici vodou
-  ↓
-Zapni konvici
-  ↓
-Voda je horká? → NE → Počkej 1 minutu → zpět na otázku
-  ↓ ANO
-Vlož čajový sáček do hrníčku
-  ↓
-Zalijte horkou vodou
-  ↓
-Počkej 3 minuty
-  ↓
-Vyhoď sáček → Konec
-```
+Otevři [draw.io](https://app.diagrams.net) (bez registrace, zdarma) a nakresli vývojový diagram algoritmu.
+
+**Úloha:** Nakresli vývojový diagram pro algoritmus „Jak připravit čaj?" Použij tyto tvary:
+- **Obdélník** = akce (příkaz)
+- **Kosočtverec** = rozhodnutí (otázka ANO/NE)
+- **Oval** = Začátek / Konec
+
+Diagram musí obsahovat aspoň:
+- 5 akčních kroků
+- 1 rozhodnutí (větvení ANO/NE)
+- smyčku (zpětnou šipku) pro čekání
+
+**Pro rychlé žáky:** Nakresli druhý diagram pro vlastní algoritmus — např. „Jak si připravit batoh do školy" nebo „Jak rozhodnout, jestli jít ven".
+
+Hotový diagram ulož (File → Export → PNG) a odevzdej přes Google Classroom nebo ulož do složky `Informatika/Pracovni_listy`.
+
+</div>
 
 Nástroj: [draw.io](https://app.diagrams.net) nebo tužka a papír.
 

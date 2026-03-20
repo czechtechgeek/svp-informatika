@@ -66,9 +66,11 @@ Klíčový bod: dokument je uložen na serveru Google, ne na PC — proto funguj
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák se přihlásí do školního Google účtu a splní úkoly:
+<div class="zadani-pc">
 
-**Úkol 1:** Vytvořte strukturu složek:
+Přihlas se do svého školního Google účtu a splň tyto úkoly v Google Drive:
+
+**Úkol 1:** Vytvoř strukturu složek:
 ```
 Informatika 7. ročník/
 ├── 1. pololetí/
@@ -77,11 +79,15 @@ Informatika 7. ročník/
 └── 2. pololetí/
 ```
 
-**Úkol 2:** Nahrajte alespoň jeden soubor (foto pixelart, PDF, cokoliv) do příslušné složky.
+**Úkol 2:** Nahraj alespoň jeden soubor (screenshot projektu, PDF, obrázek…) do příslušné složky.
 
-**Úkol 3:** Vytvořte nový Google Doc s názvem „Moje poznámky — 7. třída" a napište první větu.
+**Úkol 3:** Vytvoř nový Google Doc s názvem „Moje poznámky — 7. třída" a napiš alespoň první větu.
 
-**Úkol 4:** Ověřte: otevřete Drive v anonymním okně (nebo jiném prohlížeči) a ověřte, že soubor tam je.
+**Úkol 4:** Ověř, že cloud opravdu funguje: otevři Google Drive na jiném zařízení nebo v anonymním okně a zkontroluj, že tvůj soubor tam je.
+
+**Pro rychlé žáky:** Zkus zjistit, kolik úložného místa máš v Drive k dispozici a kolik z něj využíváš. Kde to najdeš?
+
+</div>
 
 ### 4. Reflexe (5 min)
 

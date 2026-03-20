@@ -46,17 +46,23 @@ Učitel nakreslí na tabuli myšlenkovou mapu „Co jsme se naučili v 2. polole
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Učitel připraví 20 otázek pokrývající celé 2. pololetí:
+<div class="zadani-pc">
 
-**Příklady otázek:**
-- „Jaká zkratka označuje procesor?" → CPU
-- „Co je to RAM?" → dočasná operační paměť
-- „Jaký vzorec spočítá součet buněk A1 až A10?" → =SUMA(A1:A10)
-- „Co je to phishing?" → podvodný e-mail kradoucí hesla
-- „Která licence CC dovoluje použití bez nutnosti uvést autora?" → CC0 / Public domain
-- „Co označuje HTTPS v URL?" → šifrované spojení
+Otevři Kahoot kvíz od učitele (odkaz nebo PIN na tabuli) a zahraj opakování celého pololetí.
 
-Alternativa bez internetu: papírové kartičky nebo tabule s výběrem odpovědí.
+Kvíz obsahuje otázky z těchto témat — zopakuj si je předem:
+- **Hardware:** CPU, RAM, HDD, vstupní a výstupní zařízení
+- **Software:** operační systém, aplikace, rozdíl OS vs. program
+- **Internet:** prohlížeč vs. vyhledávač, URL adresa, HTTPS
+- **Bezpečnost:** silné heslo, passphrase, phishing
+- **Tabulky a grafy:** vzorec `=SUMA(...)`, sloupcový graf, osy X a Y
+- **Autorská práva:** Creative Commons licence, citování zdrojů
+
+Hraj poctivě — po každé otázce se zamysli nad tím, kde jsi odpověděl/a špatně a proč.
+
+**Po kvízu:** Zapiš si do sešitu 2 témata, kde jsi dělal/a nejvíc chyb — to jsou oblasti, které si ještě procvičíš.
+
+</div>
 
 ### 3. Aktivita: Vysvětli sousedovi
 

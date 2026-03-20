@@ -58,16 +58,27 @@ Učitel promítá nebo vykřikuje zařízení, žáci ukazují kartičku **„Vs
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Učitel zadá scénář: „Vyfotím spolužáka telefonem → pošlu foto na počítač → vytisknu ho."
+<div class="zadani-pc">
 
-Žáci ve skupinách nakreslí tok dat:
+Otevři Google Docs nebo sešit a nakresli (nebo napiš) tok dat pro tento scénář:
+
+**Scénář:** Vyfotím spolužáka telefonem → pošlu foto na počítač → vytisknu ho.
+
+Pro každý krok popiš: jaké zařízení se použije a zda jde o **vstup**, **výstup** nebo **zpracování**:
 
 ```
-Fotoaparát (vstup) → Telefon (zpracování) → WiFi / USB (přenos)
-→ Počítač (zpracování) → Tiskárna (výstup) → Fotografie (výsledek)
+[Zařízení 1] → [Zařízení 2] → [Zařízení 3] → [Zařízení 4] → [Výsledek]
 ```
 
-Každý žák pak samostatně vymyslí vlastní scénář (alespoň 3 zařízení) a popíše tok dat.
+**Úloha:** Vymysli vlastní scénář s aspoň 3 různými zařízeními a nakresli tok dat. Například:
+- Mluvím do mikrofonu → ... → slyším zvuk z reproduktoru
+- Píšu na klávesnici → ... → tisknu dokument
+
+**Pro rychlé žáky:** Vymysli scénář, kde jedno zařízení funguje jako **vstup i výstup zároveň** (např. dotykový displej). Vysvětli proč.
+
+Svou práci ulož nebo odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Shrnutí (6 min)
 

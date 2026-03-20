@@ -66,19 +66,24 @@ Každá skupina dostane jiný algoritmus (vaření vajíčka, mytí rukou, přih
 
 <span class="act pc">💻 PC — 18 min</span>
 
-Žáci otevřou Scratch ([scratch.mit.edu](https://scratch.mit.edu)) a splní tři rychlé úlohy bez nápovědy:
+<div class="zadani-pc">
 
-#### Úloha 1 — Posloupnost
+Otevři [scratch.mit.edu](https://scratch.mit.edu) a přihlas se svým účtem. Splň tři rychlé úlohy bez nápovědy — zkus je sám/sama nejdřív:
 
-Pohni kočkou doprava o 100 kroků, pak nahoru o 50, pak řekni „Jsem zpátky!".
+**Úloha 1 — Posloupnost:**
+Naprogramuj kočku tak, aby se pohnula doprava o 100 kroků, pak nahoru o 50 kroků, a nakonec řekla „Jsem zpátky!".
 
-#### Úloha 2 — Cyklus
+**Úloha 2 — Cyklus:**
+Nech kočku 5× se otočit o 72 stupňů, a při každém otočení přehrát libovolný zvuk.
 
-Nech kočku 5× se otočit o 72 stupňů a při každém otočení přehrát zvuk.
+**Úloha 3 — Podmínka:**
+Když kočka narazí na okraj, nech ji říct „Au!" a vrátit se na střed jeviště.
 
-#### Úloha 3 — Podmínka
+**Pro rychlé žáky:** Přidej do projektu druhý sprite s vlastním pohybem. Nebo zkus, zda si pamatuješ, jak přidat pozadí jeviště.
 
-Když kočka narazí na okraj, nech ji říct „Au!" a vrátit se na střed.
+Projekt ulož (Soubor → Uložit) nebo sdílej odkaz přes Google Classroom.
+
+</div>
 
 Učitel projde třídou, identifikuje žáky, kteří potřebují podporu, a spáruje je se silnějšími.
 

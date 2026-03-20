@@ -80,13 +80,21 @@ Učitel vysvětlí, že nestačí znát GDPR — stejně důležité je vědět,
 | CC BY-ND | No Derivatives | Pouze sdílet beze změn |
 | CC0 | Public Domain | Vše povoleno, bez podmínek |
 
-**Praktické cvičení — žáci u počítačů (10 min):**
+<div class="zadani-pc">
 
-1. Otevři [search.creativecommons.org](https://search.creativecommons.org) nebo Wikimedia Commons
-2. Vyhledej obrázek na téma „Prague" nebo „robot"
-3. Zjisti, jakou licenci má
-4. Napiš do dokumentu: název díla, autor, licence, co s ním smím a nesmím udělat
-5. Najdi jeden obrázek, který smíš volně použít i v komerčním projektu
+**Praktické cvičení — Creative Commons** (10 min)
+
+1. Otevři [search.creativecommons.org](https://search.creativecommons.org) nebo [commons.wikimedia.org](https://commons.wikimedia.org)
+2. Vyhledej obrázek na téma **„Prague"** nebo **„robot"**
+3. Zjisti, jakou licenci obrázek má (zobrazí se pod obrázkem)
+4. Do Google Docs nebo sešitu zapiš:
+   - Název díla
+   - Autor
+   - Typ licence (CC BY, CC BY-NC, CC0 atd.)
+   - Co s ním smíš / nesmíš dělat
+5. Najdi **jeden obrázek s licencí CC0 nebo CC BY** — ten smíš použít i komerčně
+
+</div>
 
 ### 4. Kvíz a shrnutí
 

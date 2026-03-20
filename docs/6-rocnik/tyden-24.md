@@ -48,34 +48,53 @@ Základní operátory: `+` `-` `*` `/` (násobení, dělení)
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci vytvoří nový list a zadají:
+<div class="zadani-pc">
+
+Otevři novou tabulku v Excelu nebo Google Sheets a do buněk zadej tato čísla a vzorce — sleduj, co se stane:
 
 ```
    A          B          C
 1  10         20         =A1+B1     → výsledek: 30
-2  100        =A2*2      (bonus)    → výsledek: 200
-3  =A1+A2     (zkuste!)
+2  100        =A2*2                 → výsledek: 200
+3  =A1+A2
 ```
 
-Pak naformátují jako tabulku výdajů třídy:
+Pamatuj: **vzorec vždy začíná znakem `=`**. Pokud napíšeš `A1+B1` bez rovnítka, tabulka to zobrazí jako text, ne jako výsledek výpočtu.
+
+Pak vytvoř tabulku výdajů pro jeden školní týden:
 
 | Den | Svačina (Kč) | Oběd (Kč) | Celkem |
 |-----|-------------|-----------|--------|
 | Po  | 25          | 60        | =B2+C2 |
 | Út  | 30          | 55        | =B3+C3 |
-| ...  | ...         | ...       | ...    |
+| St  | 20          | 65        | =B4+C4 |
+| Čt  | 35          | 60        | =B5+C5 |
+| Pá  | 15          | 55        | =B6+C6 |
 | **Součet** | **=SUMA(B2:B6)** | **=SUMA(C2:C6)** | **=SUMA(D2:D6)** |
+
+Změň jedno číslo ve sloupci „Svačina" — co se stane se součty?
+
+</div>
 
 ### 3. Aktivita: AutoSum
 
 <span class="act pc">💻 PC — 13 min</span>
 
-Žáci se naučí rychlý způsob:
-1. Klikněte na buňku pod sloupcem čísel
-2. Stiskněte tlačítko **AutoSum** (Σ) nebo zkratku `Alt+Shift+0`
-3. Excel/Sheets sám navrhne rozsah — stiskněte Enter
+<div class="zadani-pc">
 
-Úkol: vytvořte tabulku „Měsíční výdaje" s 5 kategoriemi (jídlo, doprava, sport, kultura, ostatní) a doplňte součty pomocí SUMA.
+Nauč se používat funkci **AutoSum** pro rychlý součet sloupce:
+
+1. Klikni na prázdnou buňku **pod** sloupcem čísel
+2. Stiskni tlačítko **AutoSum** (Σ) na panelu nástrojů — nebo zkratku `Alt+Shift+0`
+3. Excel nebo Sheets sám navrhne rozsah buněk — zkontroluj ho a stiskni **Enter**
+
+**Úkol:** Vytvoř tabulku „Měsíční výdaje" s 5 kategoriemi (Jídlo, Doprava, Sport, Kultura, Ostatní) a vymyšlenými čísly. Všechny součty doplň pomocí funkce SUMA nebo AutoSum.
+
+**Pro rychlé žáky:** Přidej do tabulky sloupec „Průměr" a vypočítej průměrné výdaje na kategorii pomocí funkce `=PRŮMĚR(...)` (v Excelu) nebo `=AVERAGE(...)` (v Google Sheets).
+
+Hotovou tabulku ulož a odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

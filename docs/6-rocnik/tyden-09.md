@@ -37,15 +37,23 @@ Stručné představení: Scratch = vizuální programovací jazyk pro začáteč
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Učitel sdílí obrazovku nebo žáci sledují tabuli. Společně prozkoumají:
+<div class="zadani-pc">
 
-| Oblast | Co tam je |
-|--------|-----------|
-| **Jeviště** (vpravo nahoře) | Kde se animace/hra odehrává |
-| **Sprite** | Postavička, kterou programujeme |
-| **Paleta bloků** (vlevo) | Barevné kategorie příkazů |
-| **Skriptovací plocha** (uprostřed) | Sem skládáme bloky |
-| **Zelená vlajka / Červené stop** | Start a stop programu |
+Otevři [scratch.mit.edu](https://scratch.mit.edu) → klikni na **Vytvořit**.
+
+Prozkoumej prostředí Scratch a najdi tyto části — pro každou část zapiš do sešitu, **kde se nachází** a **k čemu slouží**:
+
+| Oblast | Kde to je? | K čemu slouží? |
+|--------|-----------|----------------|
+| Jeviště | ? | ? |
+| Sprite | ? | ? |
+| Paleta bloků | ? | ? |
+| Skriptovací plocha | ? | ? |
+| Zelená vlajka / Červené stop | ? | ? |
+
+Klikni na **zelenou vlajku** — co se stane? A na **červené stop**?
+
+</div>
 
 ### 3. Aktivita: Moje první pohybující se postavička
 

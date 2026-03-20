@@ -66,17 +66,29 @@ Demo rozšíření: `změň [čas] o 5` při kolizi s bonusem.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci přidají časomíru do svého herního projektu nebo vytvoří nový:
+<div class="zadani-pc">
+
+Otevři svůj herní projekt ve [scratch.mit.edu](https://scratch.mit.edu) a přidej odpočítávač (časomíru).
+
+**Postup:**
+1. Vytvoř proměnnou `čas`
+2. Na začátku hry nastav `čas` na 30
+3. Přidej cyklus: `čekej 1 sekund` → `změň [čas] o -1`
+4. Přidej podmínku: pokud `čas = 0`, řekni „Čas vypršel!" a zastav vše
 
 **Minimální požadavky:**
 - Proměnná `čas` odpočítává od 30 do 0
-- Po uplynutí času se hra zastaví s hláškou
+- Po uplynutí času se hra zastaví se zprávou pro hráče
 
-**Rozšíření:**
-- **A:** Vizuální upozornění — pokud `čas < 10`, změnit barvu spritu nebo pozadí na červenou
-- **B:** Bonusový čas — sebrání speciálního předmětu přidá 5 sekund
-- **C:** Kombinace skóre + čas — výsledná obrazovka zobrazí dosažené skóre i čas
-- **D:** Nejvyšší skóre v limitu — po skončení hry porovnej skóre s rekordem
+**Rozšíření (vyber si aspoň jedno):**
+- **A:** Vizuální upozornění — pokud `čas < 10`, změň barvu spritu nebo pozadí na červenou
+- **B:** Bonusový čas — sebrání speciálního předmětu přidá 5 sekund (`změň [čas] o 5`)
+- **C:** Výsledná obrazovka — zobraz dosažené skóre i zbývající čas po skončení
+- **D:** Rekord — porovnej skóre s nejvyšším dosaženým skóre
+
+Na konci hodiny napiš na kartičku: „V mé hře bude...", „Chci použít...", „Obávám se...". Kartičku odevzdej učiteli.
+
+</div>
 
 ### 4. Reflexe a příprava na projekt (5 min)
 

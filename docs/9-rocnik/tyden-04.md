@@ -54,7 +54,11 @@ Důraz na **odsazení** – Python nevyužívá závorky, ale mezery (4 mezery n
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci dostají 3 pseudokódy a přepíší je do Pythonu:
+<div class="zadani-pc">
+
+**Úloha — Pseudokód → Python** (15 min)
+
+Otevři [replit.com](https://replit.com) a přepiš tyto pseudokódy do funkčního Pythonu:
 
 **Úloha 1 – podmínka:**
 ```
@@ -79,11 +83,19 @@ Dokud číslo <= 100:
     číslo = číslo * 2
 ```
 
+💡 Nezapomeň: Python vyžaduje **odsazení** (4 mezery nebo Tab) místo závorek!
+
+</div>
+
 ### 3. Debugging: Najdi chybu
 
 <span class="act pc">💻 PC — 12 min</span>
 
-Žáci dostanou kód s úmyslnými chybami a opraví je:
+<div class="zadani-pc">
+
+**Debugging — Najdi 3 chyby!** (12 min)
+
+Tento kód nefunguje správně. Zkopíruj ho do editoru, spusť ho a oprav **3 chyby**:
 
 ```python
 # Tento kód má 3 chyby – najdi je!
@@ -93,6 +105,10 @@ if vek >= 18
 else:
     print("Nezletilý)
 ```
+
+Nápověda: Přečti si chybovou hlášku pozorně — Python ti řekne, na kterém řádku je problém.
+
+</div>
 
 Chyby: 1) `input()` vrací string – chybí `int()`, 2) chybí `:` za `if`, 3) chybí uzavírací `"` v posledním print.
 

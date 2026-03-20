@@ -29,29 +29,37 @@ friday_tip: "Časový tlak zvyšuje soustředění: nastavte odpočítávač na 
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák dokončí svou sekci. Na tabuli jsou viditelné statusy všech sekcí.
+<div class="zadani-pc">
 
-**Kontrolní seznam před odevzdáním:**
+Dokonči svou sekci třídního digitálního časopisu. Před odevzdáním projdi tento kontrolní seznam:
 
-- [ ] Text je v češtině, bez pravopisných chyb (zkontrolovat automatickou kontrolu)
-- [ ] Fotky/obrázky jsou volně licencované nebo vlastní (ne stažené z Googlu bez licence)
-- [ ] Jména spolužáků jsou použita se souhlasem
+- [ ] Text je v češtině, bez pravopisných chyb (zkontroluj automatickou kontrolu pravopisu)
+- [ ] Fotky a obrázky jsou **volně licencované** nebo vlastní — ne stahovány z Googlu bez licence
+- [ ] Jména spolužáků jsou použita s jejich souhlasem
 - [ ] Délka textu odpovídá přidělené sekci
-- [ ] Grafický styl odpovídá šabloně (písmo, barvy)
-- [ ] Sekce má nadpis a autorský podpis
+- [ ] Grafický styl odpovídá šabloně třídy (písmo, barvy)
+- [ ] Sekce má **nadpis** a **autorský podpis** (tvoje jméno)
 
-Žáci, kteří jsou hotovi dříve: pomohou spolužákovi, nebo přidají doplňkový obsah (rozhovor, infografika).
+Pokud jsi hotov/a dřív — pomoz spolužákovi, nebo přidej doplňkový obsah (rozhovor, krátká infografika, citát).
+
+</div>
 
 ### 2. Redakční uzávěrka: Finální sestavení
 
 <span class="act pc">💻 PC — 12 min</span>
 
-Šéfredaktor/ka nebo učitel projde kompletní časopis a zkontroluje:
-- Chybějící sekce
-- Nekonzistentní formátování
-- Nevhodný obsah
+<div class="zadani-pc">
 
-Třída provede drobné korekce. Časopis je „uzavřen".
+Projdi celý časopis jako redaktor/ka a zkontroluj:
+- Jsou všechny sekce vyplněné?
+- Je formátování konzistentní (stejné písmo, barvy)?
+- Je obsah vhodný ke sdílení?
+
+Proveď drobné korekce v textu svého oddílu. Pokud vidíš chybu v textu spolužáka, použij **komentář** v Google Docs — nepřepisuj cizí text přímo.
+
+Časopis je „uzavřen" — učitel exportuje finální verzi.
+
+</div>
 
 ### 3. Publikace nebo prezentace (8 min)
 

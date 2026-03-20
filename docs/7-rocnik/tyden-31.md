@@ -43,7 +43,9 @@ Po dokončení mapa vizuálně ukazuje, jak hodně toho třída zvládla. Učite
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci otevřou svůj portfoliový dokument (Google Docs nebo Slides) a přidají sekci „7. ročník — závěr":
+<div class="zadani-pc">
+
+Otevři svůj portfoliový dokument (Google Docs nebo Slides) a přidej sekci „7. ročník — závěr":
 
 ```
 MOJE NEJLEPŠÍ PROJEKTY 7. ROČNÍKU:
@@ -64,11 +66,17 @@ OBLÍBENÉ TÉMA ROKU:
 _______________________________
 ```
 
+Ulož portfolio do složky `Informatika 7. ročník` v Google Drive a odevzdej odkaz přes Google Classroom.
+
+</div>
+
 ### 3. Sebehodnocení celého roku
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Žáci vyplní komplexní sebehodnotící tabulku:
+<div class="zadani-pc">
+
+Vyplň sebehodnotící tabulku celého roku (Google Forms od učitele nebo do sešitu). Buď upřímný/á — hodnocení je soukromé:
 
 | Oblast | Dovednost | Zvládám sám | S pomocí | Ještě ne |
 |--------|-----------|------------|---------|---------|
@@ -82,6 +90,10 @@ _______________________________
 | Bezpečnost | Nastavit soukromí | □ | □ | □ |
 | Nástroje | Google Drive + sdílení | □ | □ | □ |
 | Tvorba | Video nebo časopis | □ | □ | □ |
+
+Na závěr napiš jednu větu o tom, co si z informatiky v 7. ročníku nejvíce zapamatuješ.
+
+</div>
 
 ### 4. Preview 8. ročníku a závěrečné slovo (10 min)
 

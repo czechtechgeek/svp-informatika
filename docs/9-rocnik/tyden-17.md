@@ -77,27 +77,33 @@ Vstup (tokeny) → Transformer → Pravděpodobnosti slov → Výběr dalšího 
 
 <span class="act pc">💻 PC — 13 min</span>
 
-Žáci otevřou ChatGPT nebo Gemini a testují selhání:
+<div class="zadani-pc">
 
-**Experiment 1 — Halucinace (vymyšlené fakty):**
-Prompt: „Napiš mi životopis českého fyzika Jana Nováka, který v roce 1998 získal Nobelovu cenu."
-→ Model pravděpodobně vymyslí přesvědčivě znějící, ale zcela fiktivní životopis.
+Otevři **ChatGPT** nebo **Gemini** a testuj, kdy AI selže. Proveď tyto 3 experimenty a zaznamenej výsledky:
 
-**Experiment 2 — Špatná aritmetika:**
-Prompt: „Kolik je 17 × 83?"
-→ LLM dělá chyby v aritmetice, protože počítá statisticky, ne numericky.
-Správný výsledek: 1 411
+**Experiment 1 — Halucinace (vymyšlené fakty)**
+Zadej: *„Napiš mi životopis českého fyzika Jana Nováka, který v roce 1998 získal Nobelovu cenu."*
+→ Co model vymyslel? Ověř, zda tato osoba skutečně existuje.
 
-**Experiment 3 — Neaktuálnost:**
-Prompt: „Kdo je aktuální premiér Česka?" nebo „Jaký byl výsledek voleb v roce 2025?"
-→ Model má cut-off datum tréninku a neví o novějších událostech.
+**Experiment 2 — Špatná aritmetika**
+Zadej: *„Kolik je 17 × 83?"*
+→ Správný výsledek je **1 411**. Splnil to model správně?
 
-Žáci zaznamenají výsledky experimentů do tabulky:
+**Experiment 3 — Neaktuálnost**
+Zadej: *„Kdo je aktuální premiér České republiky?"*
+→ Porovnej odpověď s realitou. Je model aktuální?
+
+Zapiš výsledky do tabulky:
+
 | Experiment | Co model odpověděl | Správná odpověď | Typ selhání |
 |-----------|-------------------|-----------------|-------------|
-| Halucinace | ... | neexistující osoba | vymyšlený fakt |
-| Aritmetika | ... | 1 411 | numerická chyba |
-| Aktuálnost | ... | aktuální info | zastaralé data |
+| Halucinace | … | neexistující osoba | vymyšlený fakt |
+| Aritmetika | … | 1 411 | numerická chyba |
+| Aktuálnost | … | aktuální info | zastaralé data |
+
+</div>
+
+Žáci sdílejí výsledky — co je nejvíce překvapilo?
 
 ### 4. Závěr: LLM rozumí, nebo ne?
 

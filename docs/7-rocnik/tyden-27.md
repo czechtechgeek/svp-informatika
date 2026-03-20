@@ -67,27 +67,33 @@ Učitel živě sestříhá 2–3 připravené klipy (volně licencovaná videa z
 
 <span class="act pc">💻 PC — 22 min</span>
 
-Žáci pracují individuálně nebo ve dvojicích. Zdroje videomateriálu:
+<div class="zadani-pc">
 
-#### Varianta A — připravené klipy
+Pracuj individuálně nebo ve dvojici. Sestříhej krátké video (30–60 sekund).
 
-- Učitel poskytne složku se 6–8 volně licencovanými klipy (Pexels, Pixabay)
-- Žáci z nich sestaví 30–60s videopříběh
+**Zdroje videomateriálu:**
+- **Varianta A:** Učitel ti dá složku s 6–8 volně licencovanými klipy (z Pexels, Pixabay) — z nich sestav videopříběh
+- **Varianta B:** Použij vlastní záznamy z mobilu nebo screen recording aktivity na PC
 
-#### Varianta B — vlastní záznamy
-- Žáci mohou použít klipy ze svého mobilu (nevhodný obsah = nesmiřitelné ne)
-- Nebo screen recording PC aktivity
+**Postup ve střihovém programu (Clipchamp nebo Canva Video):**
+1. Importuj klipy do programu
+2. Přetáhni je na timeline v logickém pořadí
+3. Ořež začátek nebo konec aspoň jednoho klipu
+4. Přidej přechod mezi klipy (fade nebo jiný efekt)
+5. Vlož titulek na začátek nebo konec videa
+6. Exportuj jako **MP4**
 
-**Povinné prvky:**
-- Min. 3 klipy za sebou
-- Alespoň jeden ořez (zkrácení klipu)
-- Titulek na začátku nebo konci
-- Export jako MP4
+**Povinné minimum:**
+- Aspoň **3 klipy** za sebou
+- Aspoň **jeden ořez** (zkrácení klipu)
+- **Titulek** (název videa nebo tvé jméno)
+- Export jako **MP4**
 
-**Doporučené nástroje:**
-- **Clipchamp** (Windows 10/11 — zabudovaný, zdarma)
-- **Canva Video** ([canva.com](https://www.canva.com)) — online, zdarma
-- **CapCut Online** — populární u žáků, zdarma
+**Pro rychlé žáky:** Přidej hudbu na pozadí (z [pixabay.com/music](https://pixabay.com/music/) — zdarma). Nastav hlasitost hudby nižší než hlavní zvuk videa.
+
+Hotové video ulož a odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Přehrání a zpětná vazba (3 min)
 

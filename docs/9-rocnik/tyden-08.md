@@ -60,27 +60,50 @@ Logic error je nejnebezpečnější – program nehlásí chybu, ale výsledek j
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Žáci záměrně napíší chybný kód a čtou výstup:
+<div class="zadani-pc">
 
+Otevři [replit.com](https://replit.com) a záměrně napiš chybný kód — přečti a porozuměj chybové hlášce:
+
+```python
+print(jmeno)   # proměnná jmeno neexistuje
 ```
-Traceback (most recent call last):
-  File "main.py", line 3, in <module>
-    print(jmeno)
+
+Výstup bude:
+```
 NameError: name 'jmeno' is not defined
 ```
 
 Anatomie chybové hlášky:
-- **File / line** – kde se chyba vyskytla
-- **Typ chyby** – `NameError`, `TypeError`, `ValueError`…
-- **Popis** – co přesně se stalo
+- **File / line** — kde se chyba stala
+- **Typ chyby** — `NameError`, `TypeError`, `ValueError`…
+- **Popis** — co přesně se stalo
 
-Žáci dostanu 5 různých chybových hlášek a identifikují typ a příčinu.
+Nyní spusť tyto kódy jeden po druhém, přečti chybovou hlášku a napiš: Co znamená? Jak ji opravíš?
+
+```python
+# Chyba 1
+cislo = "5"
+print(cislo + 1)
+
+# Chyba 2
+print(10 / 0)
+
+# Chyba 3
+jmena = ["Anna", "Petr"]
+print(jmena[5])
+```
+
+</div>
+
+Žáci identifikují typ a příčinu každé chyby.
 
 ### 3. Debugging challenge
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-Žáci dostanou program s 5 chybami (mix syntax, runtime, logic) a opraví je:
+<div class="zadani-pc">
+
+Otevři [replit.com](https://replit.com) a zkopíruj do editoru tento program s 5 chybami — najdi je všechny a oprav je:
 
 ```python
 # Program má 5 chyb – najdi je všechny!
@@ -102,7 +125,16 @@ elif bmi < 30.0
     print("Nadváha")
 ```
 
-Správné chyby: 1) chybí `:` za `def`, 2) vzorec BMI špatně `(vaha / vyska**2)`, 3) chybí `)` v `input`, 4) chybí `,` mezi parametry, 5) chybí `:` za `elif`.
+Pro každou nalezenou chybu zapiš do sešitu:
+- Na jakém řádku je chyba?
+- Jaký typ chyby to je? (syntax / runtime / logic)
+- Jak jsi ji opravil/a?
+
+Spusť opravený program a ověř, že funguje správně pro různé hodnoty.
+
+**Pro rychlé žáky:** Přidej do programu větev pro `bmi >= 30` s výpisem „Obezita". Pak použij techniku **print debugging** — přidej `print()` výpisy na klíčová místa a sleduj, jaké hodnoty má program v průběhu výpočtu.
+
+</div>
 
 ### 4. Print debugging
 

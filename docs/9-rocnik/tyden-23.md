@@ -74,23 +74,22 @@ Učitel ukáže na projektoru jeden reálný příklad (hoax ze serveru jako man
 **Co je laterální čtení?**
 Místo abychom hledali důkazy přímo na daném webu, otevřeme novou záložku a hledáme informace O daném webu z jiných zdrojů. Profesionální fact-checkeři takto pracují.
 
-**Cvičení — žáci ve dvojicích u počítačů:**
+<div class="zadani-pc">
 
-Učitel zadá 2–3 URL adresy (připravené předem):
-- Jedna z důvěryhodného zdroje (ČTK, iRozhlas)
-- Jedna z dezinformačního webu
-- Jedna ze satirického webu, který se tváří jako zpravodajství
+Pracuj ve dvojici. Učitel zadá 2–3 URL adresy různých webů — proveď **laterální čtení** každého webu:
 
-Postup pro každý web:
-1. Neprocházej web samotný — otevři novou záložku
-2. Do Googlu napiš název webu + „recenze" / „kdo stojí za" / „dezinformace"
+**Postup pro každý web:**
+1. Otevři web jen na 10 sekund — nezůstávej na něm
+2. Otevři **novou záložku** a do Googlu napiš název webu + „recenze" nebo „dezinformace" nebo „kdo stojí za"
 3. Zjisti: Kdo web vlastní? Má transparentní redakci? Píšou o něm fact-checkeři?
-4. Zapiš hodnocení: Důvěryhodný / Pochybný / Satira
+4. Zapiš hodnocení: **Důvěryhodný / Pochybný / Satira**
 
-**Nástroje:**
+**Nástroje, které můžeš použít:**
 - [manipulatori.cz](https://manipulatori.cz) — databáze dezinformátorů
 - [demagog.cz](https://demagog.cz) — ověřování výroků politiků
-- [google.com/fact-check/tools](https://toolbox.google.com/factcheck/explorer)
+- Google fact check
+
+</div>
 
 ### 4. Reflexe: Co s tím?
 

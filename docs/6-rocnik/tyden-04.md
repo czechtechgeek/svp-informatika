@@ -60,13 +60,21 @@ Příklad: `ADAM = 1-4-1-13`
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci otevřou [ascii.cl](https://ascii.cl) a prozkoumají skutečnou ASCII tabulku.
+<div class="zadani-pc">
 
-Úkoly:
-- Jaké číslo má velké A? A malé a? Proč jsou jiná?
-- Co znamená číslo 32? (mezera)
-- Napište libovolnou větu (5 slov) jako ASCII čísla v desítkové soustavě
-- Pošlete zakódovanou zprávu spolužákovi (na papíře nebo do chatu), ten ji rozluští
+Otevři [ascii.cl](https://ascii.cl) a prozkoumej skutečnou ASCII tabulku.
+
+**Úloha 1:** Odpověz na tyto otázky (zapiš odpovědi do sešitu nebo poznámkového bloku):
+- Jaké číslo má velké písmeno **A**? A malé **a**? Proč jsou jiná?
+- Co znamená číslo **32**?
+
+**Úloha 2:** Napiš libovolnou větu (aspoň 5 slov) jako ASCII čísla v desítkové soustavě — každé písmeno nahraď jeho číslem z tabulky, čísla odděl mezerami.
+
+**Úloha 3:** Svou zakódovanou zprávu předej spolužákovi (na papíře nebo přes chat). Spolužák ji rozluští pomocí ASCII tabulky — pak si role vyměňte.
+
+**Pro rychlé žáky:** Zjisti, jaké číslo odpovídá emoji 😀 (nápověda: hledej „Unicode code point"). Porovnej s ASCII — proč ASCII emoji neobsahuje?
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

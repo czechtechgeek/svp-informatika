@@ -48,32 +48,45 @@ Klíčový pojem: **Složený úrok** = úrok se připočítává k jistině a v
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vytvoří tabulku v Google Sheets nebo LibreOffice Calc:
+<div class="zadani-pc">
 
-**Struktura simulace spoření:**
+**Část 1 — Simulace spoření** (20 min)
+
+Otevři **Google Sheets** a vytvoř tabulku spoření. Struktura:
 
 | Rok | Počáteční stav | Roční vklad | Úrok (5 %) | Konečný stav |
 |-----|---------------|-------------|------------|-------------|
-| 1   | 0             | 6 000       | 300        | 6 300       |
-| 2   | 6 300         | 6 000       | 615        | 12 915      |
-| ... | ...           | ...         | ...        | ...         |
+| 1   | 0             | 6 000       | =B2\*0,05  | =B2+C2+D2   |
+| 2   | =E2           | 6 000       | =B3\*0,05  | =B3+C3+D3   |
+| 3   | =E3           | …           | …          | …           |
 
-Vzorce:
-- Úrok: `=B2*0,05`
-- Konečný stav: `=B2+C2+D2`
-- Příští rok začátek: `=E2`
+Vyplň aspoň **10 řádků** (10 let) pomocí vzorců — použij táhnutí buňky dolů.
 
-Po 10 řádcích (10 let) žáci přidají **graf** – spojnicový, osa X = rok, osa Y = úspory.
+Pak přidej **graf** (Vložit → Graf → Spojnicový):
+- Osa X = rok
+- Osa Y = konečný stav (sloupec E)
+
+</div>
 
 ### 3. Experimenty: Co se změní?
 
 <span class="act pc">💻 PC — 12 min</span>
 
-Žáci zkusí tři scénáře a porovnají grafy:
+<div class="zadani-pc">
 
-1. **Základní:** 500 Kč/měsíc, 5 % úrok, 20 let
-2. **Více vkladů:** 1 000 Kč/měsíc, 5 % úrok, 20 let
-3. **Vyšší úrok:** 500 Kč/měsíc, 8 % úrok, 20 let
+**Část 2 — Experimenty** (12 min)
+
+Uprav svou tabulku a vyzkoušej tři scénáře. Zapiš výsledky po 20 letech:
+
+| Scénář | Měsíční vklad | Úrok | Výsledek po 20 letech |
+|--------|--------------|------|----------------------|
+| Základní | 500 Kč | 5 % | ? |
+| Více vkladů | 1 000 Kč | 5 % | ? |
+| Vyšší úrok | 500 Kč | 8 % | ? |
+
+❓ Která proměnná má největší vliv na výsledek — výše vkladu, nebo výše úroku?
+
+</div>
 
 Závěr: Která proměnná má největší vliv? (Zpravidla čas > výše vkladu > úrok)
 

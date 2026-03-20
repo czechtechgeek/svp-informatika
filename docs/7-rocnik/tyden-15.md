@@ -60,19 +60,29 @@ Sebehodnocení je soukromé — žáci si ho uloží do portfolia.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci otevřou svůj Scratch účet a zdokumentují projekty z 1. pololetí do portfoliového dokumentu:
+<div class="zadani-pc">
+
+Otevři svůj Scratch účet a zdokumentuj projekty z 1. pololetí do portfoliového dokumentu (Google Docs šablona od učitele nebo vlastní dokument):
 
 ```
 DIGITÁLNÍ PORTFOLIO — 7. ročník, 1. pololetí
 
 Jméno: ___________
 
-| Projekt | Odkaz | Co jsem se naučil/a | Hodnotím |
-|---------|-------|--------------------| ---------|
-| Bouncing Ball | scratch.mit.edu/... | Podmínky, odraz | ⭐⭐⭐ |
-| Herní projekt | scratch.mit.edu/... | Proměnné, GDD | ⭐⭐⭐⭐ |
-| Pixel-art | ... | Rastr, barvy | ⭐⭐⭐ |
+| Projekt | Odkaz | Co jsem se naučil/a | Hodnotím (1–5) |
+|---------|-------|---------------------|----------------|
+| Bouncing Ball | scratch.mit.edu/... | Podmínky, odraz | |
+| Herní projekt | scratch.mit.edu/... | Proměnné, GDD | |
+| Pixel-art nebo diagram | ... | | |
 ```
+
+Pro každý projekt přidej alespoň 1–2 věty: co tě nejvíce bavilo a co bylo nejtěžší.
+
+**Pro rychlé žáky:** Přidej do portfolia screenshot nebo obrázek svého nejoblíbenějšího projektu.
+
+Hotové portfolio ulož do Google Drive ve složce `Informatika 7. ročník / 1. pololetí` a odevzdej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Preview 2. pololetí
 
