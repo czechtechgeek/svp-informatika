@@ -44,7 +44,9 @@ Učitel říká definice a žáci škrtají pojmy — kdo má celý řádek, ře
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák vytvoří myšlenkovou mapu s centrálním tématem **„Co vím o informatice po 1. pololetí"**
+<div class="zadani-pc">
+
+Vytvoř myšlenkovou mapu s centrálním tématem **„Co vím o informatice po 1. pololetí"**
 
 Struktura (větvě):
 - **Data a kódování** (pixel, ASCII, binárně, obrázek, text)
@@ -54,6 +56,8 @@ Struktura (větvě):
 - **Já jako programátor** (co umím, co jsem vytvořil)
 
 **Nástroj:** [Mindmeister.com](https://www.mindmeister.com) (zdarma 3 mapy) nebo [Coggle.it](https://coggle.it) (zdarma, přihlášení přes Google) nebo papír.
+
+</div>
 
 ### 3. Reflexe a zpětná vazba (10 min)
 

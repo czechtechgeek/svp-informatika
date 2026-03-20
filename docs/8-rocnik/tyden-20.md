@@ -65,19 +65,22 @@ Učitel projde tabulku typů malwaru. Žáci si mohou dělat poznámky:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-Žáci pracují ve dvojicích. Každá dvojice dostane 3 scénáře a musí odpovědět na 3 otázky:
+<div class="zadani-pc">
+
+Pracujte ve dvojicích. Ke každému scénáři odpovězte na 3 otázky:
 1. Jaký typ malwaru je popsán?
 2. Jak se do systému dostal?
 3. Co by měl uživatel udělat?
 
 **Scénář 1:** Jana stáhla z internetu „zdarma" program na střih videí. Po instalaci se na ploše začaly objevovat reklamy, prohlížeč přesměrovává na neznámé weby a počítač je pomalejší.
-*(Odpověď: Adware/Bundleware. Stažení z nedůvěryhodného webu. Odinstalovat program, spustit antivirus.)*
 
 **Scénář 2:** Petr dostal e-mail s přílohou „faktura_2024.pdf.exe". Po otevření se nic nestalo — ale za hodinu mu přišla zpráva, že všechny jeho soubory jsou zašifrované a má zaplatit 2 BTC.
-*(Odpověď: Ransomware. Phishingový e-mail s podvodnou přílohou. NEPLATIT, odpojit od sítě, kontaktovat IT, obnovit ze zálohy.)*
 
 **Scénář 3:** Školní server začal posílat spam na tisíce adres, aniž to kdokoli ze školy dělal. IT správce zjistil, že server komunikuje s adresami v Rusku.
-*(Odpověď: Červ nebo botnet. Zranitelnost v serverovém softwaru. Izolovat server, záplatovat, prohledat.)*
+
+</div>
+
+*Očekávané odpovědi (pro učitele): Scénář 1 — Adware/Bundleware, stažení z nedůvěryhodného webu, odinstalovat program a spustit antivirus. Scénář 2 — Ransomware, phishingový e-mail s podvodnou přílohou, NEPLATIT, odpojit od sítě, kontaktovat IT, obnovit ze zálohy. Scénář 3 — Červ nebo botnet, zranitelnost v serverovém softwaru, izolovat server, záplatovat, prohledat.*
 
 ---
 

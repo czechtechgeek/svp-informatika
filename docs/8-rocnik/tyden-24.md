@@ -79,15 +79,19 @@ Učitel projde tři hlavní kategorie rizik s reálnými příklady:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci pracují ve skupinách po 3–4. Dostanou popis případu a odpoví na otázky.
+<div class="zadani-pc">
+
+Pracujte ve skupinách po 3–4 a analyzujte tento případ:
 
 **Případ:** Severoamerické kasino bylo hackováno přes akvárium. Útočníci se dostali do sítě skrze chytrý teploměr v akváriu — zařízení mělo výchozí heslo a bylo připojeno do firemní sítě. Z akváriového termostatu pak útočníci prošli do databáze VIP zákazníků.
 
-**Otázky pro skupiny:**
+**Odpovězte na otázky:**
 1. Jaká chyba umožnila útok? *(výchozí heslo, IoT zařízení v hlavní síti)*
-2. Jak byste kasino poradili, aby se to neopakovalo? *(změna hesla, oddělená síť pro IoT)*
+2. Jak byste kasinu poradili, aby se to neopakovalo? *(změna hesla, oddělená síť pro IoT)*
 3. Jaká zařízení ve vaší škole by mohla být podobným rizikem?
 4. Co sbírá váš telefon, chytré hodinky nebo fitness náramek? Je to v pořádku?
+
+</div>
 
 Skupiny sdílejí závěry — učitel zapisuje doporučení na tabuli.
 

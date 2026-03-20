@@ -51,7 +51,9 @@ AKCE: "pohni se o 50 kroků"
 
 <span class="act pc">💻 PC — 25 min</span>
 
-Žáci vytvoří projekt „Reagující duch":
+<div class="zadani-pc">
+
+Vytvoř projekt „Reagující duch":
 
 #### Krok 1 — Základní reakce
 1. Smaž kocoura → přidej sprite „Ghost" (nebo jiný)
@@ -69,6 +71,8 @@ AKCE: "pohni se o 50 kroků"
 9. Přidej: `pohni se o [100] kroků`
 
 Výsledek: Duch se teleportuje při startu, změní kostým při kliknutí, skočí při mezerníku.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

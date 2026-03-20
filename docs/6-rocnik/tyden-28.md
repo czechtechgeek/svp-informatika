@@ -65,15 +65,20 @@ Každý žák na papír napíše:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vyhledávají data z ověřených zdrojů:
+<div class="zadani-pc">
+
+Vyhledej data o svém zvířeti z ověřených zdrojů a zadej je do tabulky:
+
 - [cs.wikipedia.org](https://cs.wikipedia.org) — výchozí bod, ověřte z jiného zdroje
 - [biolib.cz](https://www.biolib.cz) — česká vědecká databáze živočichů
 - Školní encyklopedie přírody
 
-Žáci zadávají data do tabulky a kontrolují:
+Při zadávání dat do tabulky zkontroluj:
 - Jsou data ve stejných jednotkách? (kg, ne mix kg a g)
 - Jsou číselné buňky formátovány jako čísla (ne jako text)?
 - Je záhlaví tabulky jasné a popisné?
+
+</div>
 
 ### 4. Plánování vizualizace (5 min)
 

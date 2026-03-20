@@ -39,7 +39,9 @@ Tabulkový procesor = nástroj pro organizaci, výpočty a vizualizaci dat. Zák
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Učitel sdílí obrazovku nebo promítá a společně prozkoumají:
+<div class="zadani-pc">
+
+Otevři tabulkový procesor (Excel nebo Google Sheets) a společně s učitelem prozkoumejte prostředí:
 
 | Oblast | Co tam je |
 |--------|-----------|
@@ -49,11 +51,15 @@ Učitel sdílí obrazovku nebo promítá a společně prozkoumají:
 | **Listy** | Záložky dole — jeden soubor může mít více listů |
 | **Pásy karet** | Domů, Vložení, Data... — podobné jako Word |
 
+</div>
+
 ### 3. Aktivita: Moje první tabulka
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák vytvoří jednoduchý **týdenní jídelní lístek**:
+<div class="zadani-pc">
+
+Vytvoř jednoduchý **týdenní jídelní lístek** podle tohoto vzoru:
 
 ```
      A          B          C          D          E          F
@@ -63,10 +69,12 @@ Každý žák vytvoří jednoduchý **týdenní jídelní lístek**:
 ...
 ```
 
-Žáci se naučí:
+Nauč se:
 - Zadávat text (Enter = dolů, Tab = doprava)
 - Šířku sloupce: poklepat na hranici záhlaví sloupce (automatická šířka)
 - Uložit: Ctrl+S (Excel: `.xlsx`, Sheets: automaticky)
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

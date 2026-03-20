@@ -31,9 +31,9 @@ friday_tip: "Závěrečná páteční hodina je ideální příležitost pro **�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci projdou svou školní složku (Google Drive / OneDrive / lokální disk) a:
+<div class="zadani-pc">
 
-**Struktura složek navrhovaná pro portfolio:**
+Projdi svou školní složku (Google Drive / OneDrive / lokální disk) a uspořádej ji podle této struktury:
 
 ```
 📁 Portfolio — 6. třída
@@ -47,16 +47,19 @@ friday_tip: "Závěrečná páteční hodina je ideální příležitost pro **�
         📁 Bezpečnost a netiketa
 ```
 
-Žáci:
-- Přejmenují soubory smysluplně (ne „Nový dokument 3")
-- Přesunou soubory do správných složek
-- Smažou zbytečné koncepty a duplikáty
+- Přejmenuj soubory smysluplně (ne „Nový dokument 3")
+- Přesuň soubory do správných složek
+- Smaž zbytečné koncepty a duplikáty
+
+</div>
 
 ### 2. Výběr nejlepších prací
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Každý žák vybere **3 práce**, na které je nejvíce hrdý, a napíše ke každé 1–2 věty:
+<div class="zadani-pc">
+
+Vyber **3 práce**, na které jsi nejvíce hrdý/á, a napiš ke každé 1–2 věty podle tohoto vzoru:
 
 ```
 Práce: Scratch projekt "Kočka na měsíci"
@@ -65,7 +68,9 @@ Proč: Poprvé se mi podařilo naprogramovat pohyb postavy
       nadšený.
 ```
 
-Výběr lze sdílet s učitelem jako součást závěrečného hodnocení.
+Výběr sdílej s učitelem jako součást závěrečného hodnocení.
+
+</div>
 
 ### 3. Reflexe roku
 

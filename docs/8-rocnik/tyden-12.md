@@ -84,10 +84,14 @@ Algoritmus (pseudokód nebo diagram):
 
 <span class="act pc">💻 PC — 13 min</span>
 
-Skupiny skicují algoritmus (flowchart nebo pseudokód) a diskutují s učitelem:
-- „Mají na to správné senzory?"
-- „Je rozsah projektu zvládnutelný za jednu hodinu programování?"
-- „Co je minimální funkční verze (MVP)?"
+<div class="zadani-pc">
+
+Nakresli algoritmus svého projektu (flowchart nebo pseudokód) na papír nebo v [app.diagrams.net](https://app.diagrams.net) a zkontroluj:
+- Mám správné senzory pro to, co chci měřit?
+- Je rozsah projektu zvládnutelný za jednu hodinu programování?
+- Co je minimální funkční verze (MVP)?
+
+</div>
 
 Učitel obchází a pomáhá zpřesnit zadání — příliš ambiciózní projekty se zužují na jádro funkčnosti.
 

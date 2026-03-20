@@ -55,12 +55,15 @@ Třída kontroluje výsledek. Po 5–6 kolech se dobrovolníci vystřídají.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci otevřou [umimeinformatiku.cz](https://www.umimeinformatiku.cz) (sekce „Binární čísla") nebo kalkulačku v OS (Zobrazit → Programátorský režim → BIN).
+<div class="zadani-pc">
 
-Úkoly:
+Otevři [umimeinformatiku.cz](https://www.umimeinformatiku.cz) (sekce „Binární čísla") nebo kalkulačku v OS (Zobrazit → Programátorský režim → BIN) a splň tyto úkoly:
+
 - Zapište čísla 5, 10, 15, 21 v binárním formátu
 - Dekódujte binární čísla: `0101`, `1010`, `11111`
 - Spočítejte: kolik bitů potřebujete pro číslo 255?
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

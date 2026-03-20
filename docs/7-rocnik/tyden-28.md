@@ -74,18 +74,21 @@ Každý žák dostane přidělené téma a termín: „Do příštího týdne m�
 
 <span class="act pc">💻 PC — 22 min</span>
 
-Učitel sdílí šablonu časopisu (Google Slides nebo Canva template).
+<div class="zadani-pc">
 
-Každý žák:
-1. Otevře svou sekci/stránku
-2. Začne psát nebo hledá materiál
-3. Dodržuje grafický styl šablony (písmo, barvy)
+Otevři sdílenou šablonu časopisu (Google Slides nebo Canva template) a začni tvořit:
+
+1. Otevři svou sekci/stránku
+2. Začni psát nebo hledej materiál
+3. Dodržuj grafický styl šablony (písmo, barvy)
 
 **Pravidla obsahu:**
 - Texty: vlastní slova (nekopírovat z internetu)
 - Fotky: vlastní nebo volně licencované (Pixabay, Unsplash)
 - Jména spolužáků: pouze se souhlasem
 - Kontroverzní obsah: konzultovat s učitelem
+
+</div>
 
 Učitel chodí po třídě, konzultuje témata, opravuje strukturu.
 

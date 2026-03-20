@@ -58,7 +58,9 @@ U každé skupiny žáci navrhnou, k čemu ji použijí v herním projektu.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci pracují individuálně. Tři stupně obtížnosti — splňte alespoň dvě:
+<div class="zadani-pc">
+
+Pracuj individuálně. Splň alespoň dvě ze tří výzev:
 
 **Výzva 1 — Lehká:** Animovaný pozdrav
 - Sprite přijde z levého okraje
@@ -76,7 +78,9 @@ U každé skupiny žáci navrhnou, k čemu ji použijí v herním projektu.
 - Po nárazu na okraj se odrazí (blok `odraz od okraje`)
 - Stopa zanechávána pohybem (pero)
 
-Hotové projekty žáci uloží do svého Scratch účtu s názvem „7rocnik-rozcvicka".
+Hotový projekt ulož do svého Scratch účtu s názvem „7rocnik-rozcvicka".
+
+</div>
 
 ### 4. Sdílení a reflexe (7 min)
 

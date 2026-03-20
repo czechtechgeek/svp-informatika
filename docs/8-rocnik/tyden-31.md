@@ -45,7 +45,9 @@ Učitel připraví časomíru (např. online stopky na projektoru).
 
 <span class="act pc">💻 PC — 25 min</span>
 
-Skupiny postupně presentují své návrhy z předchozí hodiny (týden 29). Pokud projekty nestihly dokončit, mají 3 minuty navíc na úpravu před svým vystoupením.
+<div class="zadani-pc">
+
+Postupně prezentujte své návrhy z předchozí hodiny (týden 29). Pokud jste projekt nestihli dokončit, máte 3 minuty navíc na úpravu před svým vystoupením.
 
 **Struktura každé prezentace (3 min):**
 1. Název projektu a oblast (doprava, odpad, bezpečnost…)
@@ -54,8 +56,11 @@ Skupiny postupně presentují své návrhy z předchozí hodiny (týden 29). Pok
 4. Jedno riziko nebo nevýhoda
 
 **Zpětná vazba od třídy — „2 hvězdy a přání":**
-- Spolužáci po každé prezentaci řeknou 2 věci, které se jim líbily, a 1 věc, kterou by vylepšili
-- Učitel moderuje, dbá na konstruktivní tón
+- Po každé prezentaci řekněte 2 věci, které se vám líbily, a 1 věc, kterou byste vylepšili
+
+</div>
+
+Učitel moderuje, dbá na konstruktivní tón.
 
 ---
 
