@@ -3,11 +3,59 @@
  * =================================================
  * Automaticky přidá tlačítko „Kopírovat" ke každému bloku
  * s třídou `.zadani-pc`, aby mohl učitel jednoduše zkopírovat
- * zadání žákům.
+ * zadání žákům do MS Teams nebo jiné komunikační platformy.
+ *
+ * Kopíruje text ve formátu Markdown kompatibilním s Teams:
+ * tučné písmo, odrážky, oddíly oddělené čarou.
  */
 
 (function () {
   "use strict";
+
+  /**
+   * Převede HTML element na Markdown text kompatibilní s Teams.
+   * Zpracovává: strong/b → **text**, em/i → _text_,
+   * ul/ol+li → odrážky, a → text (URL), p/br → nový řádek.
+   */
+  function htmlToMarkdown(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      return node.textContent;
+    }
+
+    var tag = node.nodeName.toLowerCase();
+    var children = Array.from(node.childNodes)
+      .map(htmlToMarkdown)
+      .join("");
+
+    switch (tag) {
+      case "strong":
+      case "b":
+        return "**" + children.trim() + "**";
+      case "em":
+      case "i":
+        return "_" + children.trim() + "_";
+      case "code":
+        return "`" + children + "`";
+      case "a":
+        return children; /* jen text, URL vynechat */
+      case "li":
+        return "\n- " + children.trim();
+      case "ul":
+      case "ol":
+        return children + "\n";
+      case "p":
+        return children.trim() + "\n\n";
+      case "br":
+        return "\n";
+      case "h1":
+      case "h2":
+      case "h3":
+      case "h4":
+        return "\n**" + children.trim() + "**\n";
+      default:
+        return children;
+    }
+  }
 
   function addCopyButtons() {
     document.querySelectorAll(".zadani-pc").forEach(function (el) {
@@ -16,18 +64,29 @@
 
       var btn = document.createElement("button");
       btn.className = "zadani-pc-copy";
-      btn.title = "Kopírovat zadání do schránky";
+      btn.title = "Kopírovat zadání do schránky (pro MS Teams)";
       btn.innerHTML = "📋 Kopírovat";
 
       btn.addEventListener("click", function () {
-        /* zkopírovat text bloku — bez textu tlačítka a prefix nadpisu */
-        var lines = [];
+        /* Sestavit markdown text — přeskočit samotné tlačítko */
+        var parts = [];
         el.childNodes.forEach(function (node) {
           if (node === btn) return;
-          var text = node.textContent || "";
-          if (text.trim()) lines.push(text);
+          parts.push(htmlToMarkdown(node));
         });
-        var textToCopy = lines.join("").trim();
+
+        var body = parts
+          .join("")
+          .replace(/\n{3,}/g, "\n\n") /* max 2 prázdné řádky za sebou */
+          .trim();
+
+        /* Vizuální ohraničení pro Teams — oddělovač + hlavička */
+        var textToCopy =
+          "─────────────────────\n" +
+          "💻 ZADÁNÍ NA PC\n" +
+          "─────────────────────\n\n" +
+          body +
+          "\n\n─────────────────────";
 
         if (navigator.clipboard && navigator.clipboard.writeText) {
           navigator.clipboard.writeText(textToCopy).then(function () {
