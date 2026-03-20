@@ -53,9 +53,10 @@ Uživatel zadá: www.google.com
 #### 3. Aktivita: DNS v příkazové řádce (15 min)
 *Práce na PC.*
 
-Žáci otevřou příkazovou řádku / terminál:
+<div class="zadani-pc">
 
-**Windows:**
+Otevřete příkazovou řádku (Windows: `Win+R` → `cmd`) a spusťte:
+
 ```
 nslookup google.com
 nslookup youtube.com
@@ -64,7 +65,11 @@ nslookup seznam.cz
 
 **Alternativa (web):** [mxtoolbox.com/DNSLookup.aspx](https://mxtoolbox.com/DNSLookup.aspx) — online DNS lookup
 
-Žáci si zapíší IP adresy populárních webů a porovnají — proč má Google více IP adres? (Load balancing — více serverů pro miliardy uživatelů.)
+Zapište si IP adresy zjištěných webů a porovnejte. Proč má Google více IP adres?
+
+</div>
+
+*(Load balancing — více serverů pro miliardy uživatelů.)*
 
 ---
 

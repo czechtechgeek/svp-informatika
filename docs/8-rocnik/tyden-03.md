@@ -55,11 +55,15 @@ Učitel ukáže na příkladu tabulky výsledků třídy:
 |-------|--------|--------|--------|--------|--------|--------|
 | ... | ... | ... | ... | ... | ... | =AVERAGE(...) |
 
+<div class="zadani-pc">
+
 **Úkoly:**
 1. Doplňte sloupec Průměr pro každého žáka
 2. Pod tabulkou vypočítejte: MIN průměrů, MAX průměrů, průměr třídy
 3. Přidejte sloupec „Nad průměrem?" — IF(průměr žáka > průměr třídy; "Ano"; "Ne")
-4. (Pro rychlé) Podmíněné formátování — obarvěte buňky pod průměrem červeně
+4. *(Pro rychlé)* Podmíněné formátování — obarvěte buňky pod průměrem červeně
+
+</div>
 
 ---
 

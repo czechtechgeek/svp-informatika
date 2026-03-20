@@ -63,7 +63,11 @@ Cvičení: „Podívejte se na scénu zleva, zprava, shora a zepředu." Učitel 
 - Jak objekt **zvednout od podlahy** (černá šipka nahoru)
 - Jak změnit **barvu** (tlačítko „Solid" vpravo nahoře při výběru objektu)
 
-Zadání pro žáky: „Vytvořte scénu s alespoň 3 různými tvary, každý v jiné barvě a velikosti. Zkuste postavit věž nebo domeček."
+<div class="zadani-pc">
+
+Vytvořte scénu v Tinkercad s alespoň 3 různými tvary (Box, Cylinder, Sphere), přičemž každý tvar musí mít **jinou barvu** a **jinou velikost**. Zkuste postavit věž nebo domeček.
+
+</div>
 
 ---
 

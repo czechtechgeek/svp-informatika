@@ -52,22 +52,25 @@ Co je SSL/TLS certifikát? Je to digitální doklad totožnosti webu, vydaný d�
 #### 3. Praktická aktivita: Průzkumník prohlížeče (18 min)
 *Práce na PC — průzkum webu.*
 
-Žáci pracují samostatně na počítačích. Úkol: prozkoumat 5 různých webů a vyplnit tabulku.
+<div class="zadani-pc">
 
-Weby k prozkoumání (žáci je otevřou v prohlížeči):
+Prozkoumejte v prohlížeči 5 různých webů a pro každý zjistěte:
+
+- Má HTTPS? (ano/ne)
+- Kde je zámek? (popište umístění nebo pořiďte screenshot)
+- Kdo vydal certifikát? (kliknout na zámek → Certifikát → Vydavatel)
+- Svěřil/a bych mu heslo nebo číslo karty? (ano/ne — proč?)
+
+Weby k prozkoumání:
 1. `https://www.csas.cz` (banka)
 2. `https://www.seznam.cz` (vyhledávač)
 3. `https://www.alza.cz` (e-shop)
-4. Libovolný web, který sami navštěvují
-5. Libovolný web, který sami navštěvují
+4. Libovolný web, který sami navštěvujete
+5. Libovolný web, který sami navštěvujete
 
-Co zaznamenat pro každý web:
-- Má HTTPS? (ano/ne)
-- Kde najdu zámek? (popište/screenshot)
-- Kdo vydal certifikát? (kliknout na zámek → Certifikát → Vydavatel)
-- Svěřil bych mu heslo/číslo karty? (ano/ne/proč)
+**Bonus:** Zkuste najít web, který ještě používá HTTP — co prohlížeč zobrazí?
 
-Bonusový úkol: Zkuste najít web, který ještě používá HTTP — co prohlížeč zobrazí?
+</div>
 
 ---
 

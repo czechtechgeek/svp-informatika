@@ -54,7 +54,9 @@ Diskuse: Jaká hodnota je při pokojové poloze? (≈ 0 na ose X, ≈ -1000 na o
 #### 3. Projekt: Elektronická vodováha (20 min)
 *Práce s Micro:bitem.*
 
-Žáci naprogramují jednoduchý indikátor náklonu:
+<div class="zadani-pc">
+
+Naprogramujte jednoduchý indikátor náklonu:
 
 ```
 opakovat stále:
@@ -66,9 +68,11 @@ opakovat stále:
     zobrazit ikonu (čtverec / bod uprostřed) ← rovnováha
 ```
 
-**Rozšíření:**
+**Rozšíření *(pro rychlé)*:**
 - Přidejte osu Y pro detekci náklonu vpřed/vzad
 - Přidejte gesto „zatřesení": kategorie Vstup → `při gestu [zatřesení]` → zobrazit náhodné číslo (hod kostkou)
+
+</div>
 
 ---
 

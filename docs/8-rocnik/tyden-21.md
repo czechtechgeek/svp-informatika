@@ -36,7 +36,9 @@ Varianty phishingu: e-mail, SMS (smishing), telefon (vishing), sociální sítě
 #### 2. Detektiv podvodů: Rozbor vzorových e-mailů (20 min)
 *PC nebo papír — práce samostatně nebo ve dvojicích.*
 
-Žáci pracují samostatně nebo ve dvojicích. Dostanou 3 vzorové e-maily a hodnotí každý pomocí formuláře.
+<div class="zadani-pc">
+
+Pro každý z níže uvedených e-mailů zkontrolujte checklist a rozhodněte: **PODVOD** nebo **LEGITIMNÍ**?
 
 **Checklist červených vlajek:**
 - [ ] Odesílatel — odpovídá doména skutečné organizaci? (podvod: `info@ceska-posta-doruceni.cz`)
@@ -47,26 +49,26 @@ Varianty phishingu: e-mail, SMS (smishing), telefon (vishing), sociální sítě
 - [ ] Příloha — očekával jsem tento soubor? Je přípona podezřelá? (.exe, .zip)
 - [ ] Požadavek — chce e-mail heslo, číslo karty, osobní údaje?
 
-**Vzorový e-mail 1 — PODVOD:**
+---
+
+**E-mail č. 1:**
 > *Od:* support@ceska-sporitelna-online.net
 > *Předmět:* ⚠️ Váš účet byl pozastaven — okamžitá akce nutná!
 > *Text:* Vážený zákazníku, detekovali jsme podezřelou aktivitu na Vašem účtu. Pro obnovu přístupu klikněte ZDE do 24 hodin, jinak bude Váš účet trvale zablokován. Česka spořitelna, bezpečnostní tým.
 
-Červené vlajky: špatná doména (.net místo .cz), obecné oslovení, urgentnost, překlep „Česka" místo „Česká", hrozba.
-
-**Vzorový e-mail 2 — LEGITIMNÍ:**
+**E-mail č. 2:**
 > *Od:* newsletter@alza.cz
-> *Předmět:* Váš objednávka č. 2847163 byla odeslána
+> *Předmět:* Vaše objednávka č. 2847163 byla odeslána
 > *Text:* Dobrý den, Martine, Vaše objednávka byla předána přepravci DPD. Sledovat zásilku můžete na alza.cz v sekci Moje objednávky. S pozdravem, tým Alza.cz
 
-Legitimní znaky: správná doména, osobní oslovení, konkrétní číslo objednávky, žádná urgentnost, odkaz na legitimní web.
-
-**Vzorový e-mail 3 — PODVOD (pokročilý):**
+**E-mail č. 3:**
 > *Od:* noreply@microsoft-security.com
 > *Předmět:* Neobvyklé přihlášení z Ruska do vašeho Microsoft účtu
 > *Text:* Zjistili jsme přihlášení z IP adresy v Rusku. Pokud jste to nebyli vy, okamžitě ověřte svůj účet: [Zabezpečit účet]. Váš token vyprší za 30 minut.
 
-Červené vlajky: doména `microsoft-security.com` není oficiální Microsoft (správně: `microsoft.com`), umělý časový tlak „30 minut", strach z cizí přihlášení.
+</div>
+
+*(Klíč: E-mail 1 = PODVOD, E-mail 2 = LEGITIMNÍ, E-mail 3 = PODVOD)*
 
 ---
 

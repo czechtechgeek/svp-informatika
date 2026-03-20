@@ -32,6 +32,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/rvp.js
+  - javascripts/zadani.js
 
 markdown_extensions:
   - admonition
@@ -119,38 +120,38 @@ nav:
   - 8. ročník - Analytik:
       - Přehled: 8-rocnik/index.md
       - 1. Pololetí - Data a robotika:
-          - Týden 1: 8-rocnik/tyden-01.md
-          - Týden 2: 8-rocnik/tyden-02.md
-          - Týden 3: 8-rocnik/tyden-03.md
-          - Týden 4: 8-rocnik/tyden-04.md
-          - Týden 5: 8-rocnik/tyden-05.md
-          - Týden 6: 8-rocnik/tyden-06.md
-          - Týden 7: 8-rocnik/tyden-07.md
-          - Týden 8: 8-rocnik/tyden-08.md
-          - Týden 9: 8-rocnik/tyden-09.md
-          - Týden 10: 8-rocnik/tyden-10.md
-          - Týden 11: 8-rocnik/tyden-11.md
-          - Týden 12: 8-rocnik/tyden-12.md
-          - Týden 13: 8-rocnik/tyden-13.md
-          - Týden 14: 8-rocnik/tyden-14.md
-          - Týden 15: 8-rocnik/tyden-15.md
+          - Týden 1 - Data v 21. století: 8-rocnik/tyden-01.md
+          - Týden 2 - Funkce IF: 8-rocnik/tyden-02.md
+          - Týden 3 - Analýza: MIN/MAX: 8-rocnik/tyden-03.md
+          - Týden 4 - Vizualizace grafů: 8-rocnik/tyden-04.md
+          - Týden 5 - Klamání daty: 8-rocnik/tyden-05.md
+          - Týden 6 - Micro:bit – Úvod: 8-rocnik/tyden-06.md
+          - Týden 7 - Tlačítka a senzory: 8-rocnik/tyden-07.md
+          - Týden 8 - Akcelerometr: 8-rocnik/tyden-08.md
+          - Týden 9 - Teploměr a světlo: 8-rocnik/tyden-09.md
+          - Týden 10 - Proměnné: Krokoměr: 8-rocnik/tyden-10.md
+          - Týden 11 - Radiová komunikace: 8-rocnik/tyden-11.md
+          - Týden 12 - Projekt Robot I: 8-rocnik/tyden-12.md
+          - Týden 13 - Projekt Robot II: 8-rocnik/tyden-13.md
+          - Týden 14 - Vánoce: Světelná show: 8-rocnik/tyden-14.md
+          - Týden 15 - Pololetní reflexe: 8-rocnik/tyden-15.md
       - 2. Pololetí - Internet a bezpečnost:
-          - Týden 16: 8-rocnik/tyden-16.md
-          - Týden 17: 8-rocnik/tyden-17.md
-          - Týden 18: 8-rocnik/tyden-18.md
-          - Týden 19: 8-rocnik/tyden-19.md
-          - Týden 20: 8-rocnik/tyden-20.md
-          - Týden 21: 8-rocnik/tyden-21.md
-          - Týden 22: 8-rocnik/tyden-22.md
-          - Týden 23: 8-rocnik/tyden-23.md
-          - Týden 24: 8-rocnik/tyden-24.md
-          - Týden 25: 8-rocnik/tyden-25.md
-          - Týden 26: 8-rocnik/tyden-26.md
-          - Týden 27: 8-rocnik/tyden-27.md
-          - Týden 28: 8-rocnik/tyden-28.md
-          - Týden 29: 8-rocnik/tyden-29.md
-          - Týden 30: 8-rocnik/tyden-30.md
-          - Týden 31: 8-rocnik/tyden-31.md
+          - Týden 16 - Internet: Cesta paketu: 8-rocnik/tyden-16.md
+          - Týden 17 - DNS: 8-rocnik/tyden-17.md
+          - Týden 18 - HTTP vs. HTTPS: 8-rocnik/tyden-18.md
+          - Týden 19 - Šifrování: 8-rocnik/tyden-19.md
+          - Týden 20 - Malware: 8-rocnik/tyden-20.md
+          - Týden 21 - Phishing: 8-rocnik/tyden-21.md
+          - Týden 22 - Sociální inženýrství: 8-rocnik/tyden-22.md
+          - Týden 23 - Dvoufázové ověření: 8-rocnik/tyden-23.md
+          - Týden 24 - IoT: Internet věcí: 8-rocnik/tyden-24.md
+          - Týden 25 - E-commerce: 8-rocnik/tyden-25.md
+          - Týden 26 - Velikonoce: 8-rocnik/tyden-26.md
+          - Týden 27 - 3D modelování I: 8-rocnik/tyden-27.md
+          - Týden 28 - 3D modelování II: 8-rocnik/tyden-28.md
+          - Týden 29 - Projekt: Chytré město: 8-rocnik/tyden-29.md
+          - Týden 30 - Rezerva: 8-rocnik/tyden-30.md
+          - Týden 31 - Závěr: 8-rocnik/tyden-31.md
   - 9. ročník - Expert:
       - Přehled: 9-rocnik/index.md
       - 1. Pololetí - Simulace a kód:

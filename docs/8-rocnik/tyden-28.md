@@ -49,22 +49,25 @@ Učitel živě demonstruje na projektoru, žáci sledují a zároveň zkouší n
 #### 3. Samostatná tvorba vlastního objektu (22 min)
 *Práce na PC — tvůrčí tvorba.*
 
-Žáci si vyberou jeden z nabízených projektů (nebo vlastní nápad po dohodě s učitelem):
+<div class="zadani-pc">
+
+Vyberte si jeden projekt (nebo navrhněte vlastní po dohodě s učitelem):
 
 **Varianta A – Přívěsek se jménem:**
 - Tenký obdélník (základ) + text „Hole" zapuštěný do povrchu (nebo vystupující)
 - Otvor na kroužek nahoře
 - Výsledek: personalizovaný přívěsek vhodný k tisku
 
-**Varianta B – Klíčenka ve tvaru srdce / hvězdy / herního ovladače:**
+**Varianta B – Klíčenka (srdce / hvězda / herní ovladač):**
 - Základní tvar z galerie Tinkercad + úpravy + otvor
 - Kombinace alespoň 3 tvarů
 
-**Varianta C – Miniatura (domeček, auto, robot):**
-- Složitější projekt pro rychlejší žáky
-- Využití více skupin, různé barvy pro části
+**Varianta C – Miniatura (domeček, auto, robot):** *(pro rychlejší žáky)*
+- Složitější projekt s využitím více skupin, různé barvy pro části
 
-Učitel obchází třídu, pomáhá s problémy, upozorňuje na časté chyby (díra musí přesahovat základní tvar, jinak nevyřízne celou tloušťku).
+*Pozor: díra (Hole) musí fyzicky přesahovat základní tvar, jinak nevyřízne celou tloušťku.*
+
+</div>
 
 ---
 

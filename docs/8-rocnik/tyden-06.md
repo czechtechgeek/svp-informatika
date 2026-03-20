@@ -46,7 +46,9 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 #### 3. První program: Animovaný pozdrav (18 min)
 *Práce s Micro:bitem.*
 
-Žáci krok za krokem sestaví program:
+<div class="zadani-pc">
+
+Krok za krokem sestavte program v MakeCode:
 
 **Krok 1:** Do bloku `při spuštění` přidejte `zobrazit text "Ahoj!"` (kategorie Základní)
 
@@ -54,9 +56,11 @@ Otázka: „Jak se Micro:bit liší od Scratche?" → Micro:bit je fyzické zař
 
 **Krok 3:** Otestujte v simulátoru — funguje animace?
 
-**Krok 4:** Nahrajte na fyzický Micro:bit (připojit USB, kliknout „Stáhnout", přetáhnout soubor na zařízení)
+**Krok 4:** Nahrajte na fyzický Micro:bit (připojit USB → kliknout „Stáhnout" → přetáhnout soubor na zařízení)
 
-**Krok 5 (pro rychlé):** Změňte text nebo ikonu. Přidejte druhý obrázek do animace.
+**Krok 5 *(pro rychlé)*:** Změňte text nebo ikonu a přidejte druhý obrázek do animace.
+
+</div>
 
 ---
 
