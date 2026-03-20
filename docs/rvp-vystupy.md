@@ -18,7 +18,7 @@ Výstupy jsou systematicky provázány s výukovými hodinami v celém ŠVP. Ka�
 
 *Kódy INF-INF-001-ZV9-001 až INF-INF-001-ZV9-004*
 
-<div class="rvp-vystupy-table">
+<div class="rvp-vystupy-table" markdown="1">
 
 | Kód | Očekávaný výstup | Klíčové hodiny |
 |-----|-----------------|----------------|
@@ -35,7 +35,7 @@ Výstupy jsou systematicky provázány s výukovými hodinami v celém ŠVP. Ka�
 
 *Kódy INF-INF-002-ZV9-005 až INF-INF-002-ZV9-008*
 
-<div class="rvp-vystupy-table">
+<div class="rvp-vystupy-table" markdown="1">
 
 | Kód | Očekávaný výstup | Klíčové hodiny |
 |-----|-----------------|----------------|
@@ -52,7 +52,7 @@ Výstupy jsou systematicky provázány s výukovými hodinami v celém ŠVP. Ka�
 
 *Kódy INF-INF-003-ZV9-009 až INF-INF-003-ZV9-011*
 
-<div class="rvp-vystupy-table">
+<div class="rvp-vystupy-table" markdown="1">
 
 | Kód | Očekávaný výstup | Klíčové hodiny |
 |-----|-----------------|----------------|
@@ -68,7 +68,7 @@ Výstupy jsou systematicky provázány s výukovými hodinami v celém ŠVP. Ka�
 
 *Kódy INF-INF-004-ZV9-012 až INF-INF-004-ZV9-014*
 
-<div class="rvp-vystupy-table">
+<div class="rvp-vystupy-table" markdown="1">
 
 | Kód | Očekávaný výstup | Klíčové hodiny |
 |-----|-----------------|----------------|
