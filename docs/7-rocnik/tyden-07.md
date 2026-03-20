@@ -69,7 +69,7 @@ Příklad ve Scratch: `pokud [dotýkám se červeného spritu] A [skóre > 5] pa
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři **Scratch** (scratch.mit.edu) a vytvoř jeden z následujících projektů — vyber si:
 

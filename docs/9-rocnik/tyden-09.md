@@ -53,7 +53,7 @@ print(len(filmy)) # 5 – délka seznamu
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [replit.com](https://replit.com) a zkopíruj/napiš tento kód. Pak ho spusť a experimentuj:
 

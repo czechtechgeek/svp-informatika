@@ -49,7 +49,7 @@ Učitel se rychle ptá třídy: „Kde kdo je?"
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Dokonči a zkontroluj své **digitální portfolio** (Google Sites, Canva nebo jiný nástroj). Projdi tento checklist:
 
@@ -92,11 +92,15 @@ Po 10 minutách si žáci předají zpětnou vazbu a mají 2 minuty na doplňuj�
 
 <span class="act pc">💻 PC — 8 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Žáci implementují alespoň jednu změnu navrženou peer-reviewerem. Poté:
 
 - Zkopírují odkaz na portfolio (nebo exportují PDF)
 - Vloží ho do sdíleného třídního dokumentu / formuláře, který připraví učitel
 - Volitelně: nastaví sdílení tak, aby odkaz fungoval pro kohokoli s odkazem
+
+</div>
 
 Učitel sbírá portfolio jako výstup hodiny — sdílený dokument s odkazy je archiválem třídy.
 

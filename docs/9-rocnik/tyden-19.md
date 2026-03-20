@@ -96,7 +96,7 @@ Po diskusi: každá skupina sdílí svůj závěr — učitel shrnuje různá st
 
 <span class="act pc">💻 PC — 13 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otestuj nástroje pro detekci AI obsahu a ověřování obrázků:
 

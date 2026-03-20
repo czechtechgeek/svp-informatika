@@ -48,7 +48,7 @@ Základní operátory: `+` `-` `*` `/` (násobení, dělení)
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři novou tabulku v Excelu nebo Google Sheets a do buněk zadej tato čísla a vzorce — sleduj, co se stane:
 
@@ -80,7 +80,7 @@ Změň jedno číslo ve sloupci „Svačina" — co se stane se součty?
 
 <span class="act pc">💻 PC — 13 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Nauč se používat funkci **AutoSum** pro rychlý součet sloupce:
 

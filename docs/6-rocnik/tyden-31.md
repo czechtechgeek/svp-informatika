@@ -31,7 +31,7 @@ friday_tip: "Závěrečná páteční hodina je ideální příležitost pro **�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Projdi svou školní složku (Google Drive / OneDrive / lokální disk) a uspořádej ji podle této struktury:
 
@@ -57,7 +57,7 @@ Projdi svou školní složku (Google Drive / OneDrive / lokální disk) a uspoř
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyber **3 práce**, na které jsi nejvíce hrdý/á, a napiš ke každé 1–2 věty podle tohoto vzoru:
 

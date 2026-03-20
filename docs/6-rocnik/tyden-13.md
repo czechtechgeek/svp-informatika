@@ -39,7 +39,7 @@ Každý žák si na papír (nebo do poznámkového bloku) skicuje svůj záměr:
 
 Každý žák pracuje samostatně.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř v **Scratchi** (scratch.mit.edu) animované vánoční přání. Projekt musí obsahovat:
 

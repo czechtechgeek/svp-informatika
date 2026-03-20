@@ -54,7 +54,7 @@ Doporučená mřížka pro hodinu: **16 × 16** nebo **32 × 32** pixelů.
 
 <span class="act pc">💻 PC — 27 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř **pixel-art obrázek** s vánoční nebo zimní tématikou. Vyber si nástroj:
 

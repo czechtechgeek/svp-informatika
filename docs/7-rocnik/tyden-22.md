@@ -65,7 +65,7 @@ Klíčová nastavení k projití:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Varianta A — máš školní účet (Google nebo MS):**
 

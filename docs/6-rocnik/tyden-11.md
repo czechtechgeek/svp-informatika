@@ -57,7 +57,7 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř animaci „Věčný tanec":
 

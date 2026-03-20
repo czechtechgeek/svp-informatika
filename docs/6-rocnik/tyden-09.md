@@ -37,7 +37,7 @@ Stručné představení: Scratch = vizuální programovací jazyk pro začáteč
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [scratch.mit.edu](https://scratch.mit.edu) → klikni na **Vytvořit**.
 
@@ -59,6 +59,8 @@ Klikni na **zelenou vlajku** — co se stane? A na **červené stop**?
 
 <span class="act pc">💻 PC — 20 min</span>
 
+<div class="zadani-pc" markdown="1">
+
 Každý žák samostatně:
 
 1. Otevřete [scratch.mit.edu](https://scratch.mit.edu) → Vytvořit
@@ -72,6 +74,8 @@ Každý žák samostatně:
 - Změňte pozadí jeviště (záložka Jeviště → Pozadí)
 - Přidejte druhý sprite
 - Přejmenujte svůj projekt
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

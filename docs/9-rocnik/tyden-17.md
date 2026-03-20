@@ -77,7 +77,7 @@ Vstup (tokeny) → Transformer → Pravděpodobnosti slov → Výběr dalšího 
 
 <span class="act pc">💻 PC — 13 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři **ChatGPT** nebo **Gemini** a testuj, kdy AI selže. Proveď tyto 3 experimenty a zaznamenej výsledky:
 

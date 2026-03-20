@@ -62,7 +62,7 @@ Reálný případ: Zaměstnanec ztratil práci kvůli příspěvku sdílenému 5
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj ve skupině 3 žáků. Učitel vám dá „datový balíček" o fiktivní osobě Janě Novákové (18 let, hledá práci):
 - Jméno, škola, věk

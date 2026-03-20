@@ -58,7 +58,7 @@ Výsledek: třída má model vlastní učebny na tabuli.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř digitální plánek prostoru — vyber si jedno z témat:
 

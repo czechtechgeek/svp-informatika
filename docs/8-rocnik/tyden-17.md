@@ -67,7 +67,7 @@ Uživatel zadá: www.google.com
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevřete příkazovou řádku (Windows: `Win+R` → `cmd`) a spusťte:
 

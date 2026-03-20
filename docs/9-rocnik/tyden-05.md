@@ -35,7 +35,7 @@ friday_tip: "První hodina Pythonu je klíčová pro motivaci. Nechejte žáky c
 
 Žáci otevřou replit.com nebo trinket.io a vytvoří nový Python projekt.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část 1 — První program** (8 min)
 
@@ -60,7 +60,7 @@ Spustí program (Run). Diskuse: `print()` je funkce – dává počítači pří
 
 Učitel na tabuli: Proměnná je pojmenovaná „krabička" v paměti počítače.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část 2 — Proměnné** (12 min)
 

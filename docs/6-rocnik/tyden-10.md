@@ -51,7 +51,7 @@ AKCE: "pohni se o 50 kroků"
 
 <span class="act pc">💻 PC — 25 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř projekt „Reagující duch":
 

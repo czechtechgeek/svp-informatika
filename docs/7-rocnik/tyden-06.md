@@ -77,7 +77,7 @@ Učitel záměrně udělá chybu (zapomene `opakuj dokola`) — žáci ji odhal�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [scratch.mit.edu](https://scratch.mit.edu) a vytvoř nový projekt. Naprogramuj sprite, který se pohybuje a odráží od stěn.
 

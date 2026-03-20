@@ -29,7 +29,7 @@ friday_tip: "Poslední hodina roku si zaslouží rituál. Zkuste **„Dopis sob�
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři své **digitální portfolio** a vyber 1 práci, kterou ukážeš třídě. Připrav si odpovědi na tyto 3 otázky (napiš si je do sešitu nebo poznámkového bloku):
 
@@ -43,7 +43,7 @@ Otevři své **digitální portfolio** a vyber 1 práci, kterou ukážeš tříd
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Prezentuj svou práci ze svého portfolia (2 minuty maximum):
 1. Ukáž práci na obrazovce nebo projektoru

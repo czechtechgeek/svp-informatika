@@ -67,7 +67,7 @@ Učitel živě sestříhá 2–3 připravené klipy (volně licencovaná videa z
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj individuálně nebo ve dvojici. Sestříhej krátké video (30–60 sekund).
 

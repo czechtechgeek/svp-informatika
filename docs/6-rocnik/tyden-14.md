@@ -42,7 +42,7 @@ Rychlý ústní kvíz — učitel ukazuje screenshoty bloků, žáci říkají, 
 
 Každý žák si vybere jedno ze tří témat a vytvoří mini-projekt.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři **Scratch** (scratch.mit.edu) a vytvoř vlastní projekt — vyber si jednu z možností:
 

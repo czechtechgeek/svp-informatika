@@ -79,7 +79,7 @@ když stisknuta klávesa [šipka vpravo]: nastav směr na 90; změn kostým na "
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [scratch.mit.edu](https://scratch.mit.edu) a vytvoř hráčský sprite ovládaný šipkami.
 

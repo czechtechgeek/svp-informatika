@@ -48,7 +48,7 @@ Klíčový pojem: **Složený úrok** = úrok se připočítává k jistině a v
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část 1 — Simulace spoření** (20 min)
 
@@ -72,7 +72,7 @@ Pak přidej **graf** (Vložit → Graf → Spojnicový):
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Část 2 — Experimenty** (12 min)
 

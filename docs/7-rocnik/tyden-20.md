@@ -66,7 +66,7 @@ Všechna zařízení v domácnosti sdílí jednu veřejnou IP (od poskytovatele 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Proveď tyto úkoly a odpovědi zapiš do sešitu nebo Google Docs:
 

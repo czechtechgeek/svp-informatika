@@ -46,7 +46,7 @@ Učitel nakreslí na tabuli myšlenkovou mapu „Co jsme se naučili v 2. polole
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Kahoot kvíz od učitele (odkaz nebo PIN na tabuli) a zahraj opakování celého pololetí.
 

@@ -65,7 +65,7 @@ Klíčová pozorování:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyber si jednu ze dvou simulací a experimentuj s parametry:
 

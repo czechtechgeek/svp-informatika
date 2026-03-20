@@ -41,7 +41,7 @@ Otázka: „Ve které situaci najdete soubor za 5 sekund? A za rok?"
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři sdílený pracovní list (Google Docs nebo vytištěný papír od učitele) s tabulkou přípon souborů.
 
@@ -69,7 +69,7 @@ Po vyplnění společná kontrola — učitel otevře každý typ souboru v př�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Navrhni a vytvoř vlastní strukturu složek pro celý školní rok. Použij Průzkumník souborů (Windows) nebo Google Drive.
 

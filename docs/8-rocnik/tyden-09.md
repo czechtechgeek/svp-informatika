@@ -70,7 +70,7 @@ Aktivita: Proměřte teplotu na různých místech — u okna, u radiátoru, na 
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Naprogramujte alarm překročení teploty:
 

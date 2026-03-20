@@ -72,7 +72,7 @@ Učitel ukáže tři klíčové funkce:
 
 <span class="act pc">💻 PC — 22 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři sdílený Google Doc, který připravil učitel — „Průvodce informatiky pro 6. třídu". Každý žák má přidělený odstavec.
 

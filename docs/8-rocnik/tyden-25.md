@@ -51,7 +51,7 @@ Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard ko
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Porovnejte 2 e-shopy — jeden důvěryhodný (alza.cz) a jeden fiktivní podvodný (viz níže). Pro každý vyplňte checklist:
 

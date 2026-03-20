@@ -80,7 +80,7 @@ Učitel vysvětlí, že nestačí znát GDPR — stejně důležité je vědět,
 | CC BY-ND | No Derivatives | Pouze sdílet beze změn |
 | CC0 | Public Domain | Vše povoleno, bez podmínek |
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Praktické cvičení — Creative Commons** (10 min)
 

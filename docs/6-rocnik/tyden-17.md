@@ -58,7 +58,7 @@ Učitel promítá nebo vykřikuje zařízení, žáci ukazují kartičku **„Vs
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři Google Docs nebo sešit a nakresli (nebo napiš) tok dat pro tento scénář:
 

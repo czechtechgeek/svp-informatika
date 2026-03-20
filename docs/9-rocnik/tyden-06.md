@@ -73,7 +73,7 @@ text = str(42)
 
 <span class="act board">🖊️ Tabule — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [replit.com](https://replit.com) nebo školní Python prostředí a napiš kalkulačku, která:
 1. Načte dvě čísla od uživatele

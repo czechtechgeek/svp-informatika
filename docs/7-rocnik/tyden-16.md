@@ -66,7 +66,7 @@ Klíčový bod: dokument je uložen na serveru Google, ne na PC — proto funguj
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Přihlas se do svého školního Google účtu a splň tyto úkoly v Google Drive:
 

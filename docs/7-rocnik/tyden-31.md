@@ -43,7 +43,7 @@ Po dokončení mapa vizuálně ukazuje, jak hodně toho třída zvládla. Učite
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři svůj portfoliový dokument (Google Docs nebo Slides) a přidej sekci „7. ročník — závěr":
 
@@ -74,7 +74,7 @@ Ulož portfolio do složky `Informatika 7. ročník` v Google Drive a odevzdej o
 
 <span class="act pc">💻 PC — 10 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vyplň sebehodnotící tabulku celého roku (Google Forms od učitele nebo do sešitu). Buď upřímný/á — hodnocení je soukromé:
 

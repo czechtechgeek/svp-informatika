@@ -63,7 +63,7 @@ Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robo
 
 <span class="act pc">💻 PC — 28 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracujte ve skupinách (3–4 žáci) a vyřešte přidělený úkol:
 

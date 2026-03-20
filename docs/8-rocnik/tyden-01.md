@@ -66,7 +66,7 @@ Diskuse: „Je metafora přesná? V čem se data od ropy liší?" (Data lze kop�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Ve dvojici vyplňte tabulku — odhadněte, kolik datových stop zanecháte za jeden typický den. Doplňte chybějící položky nebo přidejte vlastní aktivity:
 

@@ -52,7 +52,7 @@ Učitel na tabuli ukáže:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř v **Scratchi** projekt „Zpívající zvíře" — krátký příběh se zvuky a dialogy. Postupuj podle této struktury:
 

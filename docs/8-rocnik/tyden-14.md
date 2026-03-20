@@ -67,7 +67,7 @@ Kategorie LED → `vykreslit x [0] y [0] jas [9]` (hodnota 0–9)
 
 <span class="act board">🖊️ Tabule — 25 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvořte vlastní vánoční animaci v MakeCode. Doporučené motivy (nebo vymyslete vlastní):
 

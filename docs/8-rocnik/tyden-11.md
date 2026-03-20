@@ -76,7 +76,7 @@ při přijetí rádio textové zprávy:
 
 <span class="act board">🖊️ Tabule — 20 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Ve dvojicích naprogramujte obousměrnou komunikaci (každá dvojice má jiné číslo skupiny 1–30):
 

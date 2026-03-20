@@ -74,7 +74,7 @@ Učitel ukáže na projektoru jeden reálný příklad (hoax ze serveru jako man
 **Co je laterální čtení?**
 Místo abychom hledali důkazy přímo na daném webu, otevřeme novou záložku a hledáme informace O daném webu z jiných zdrojů. Profesionální fact-checkeři takto pracují.
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Pracuj ve dvojici. Učitel zadá 2–3 URL adresy různých webů — proveď **laterální čtení** každého webu:
 

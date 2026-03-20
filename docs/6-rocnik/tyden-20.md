@@ -65,7 +65,7 @@ Klíčové principy silného hesla:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Vytvoř si vlastní silné heslo pomocí techniky věty (passphrase). Postup:
 

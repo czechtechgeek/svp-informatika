@@ -47,7 +47,7 @@ Diskuse: „Jakou mechaniku umíme ve Scratch udělat?" → Pohyb šipkami, skó
 
 <span class="act pc">💻 PC — 30 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři **Google Docs** (nebo papír) a vyplň svůj **Game Design Dokument** pro hru, kterou budeš programovat v příštích hodinách ve Scratchi:
 

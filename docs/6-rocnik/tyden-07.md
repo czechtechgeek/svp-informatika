@@ -60,7 +60,7 @@ Každý žák napíše minimálně 10 kroků svého rána (vstát, čistit zuby,
 
 <span class="act pc">💻 PC — 15 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 Otevři [draw.io](https://app.diagrams.net) (bez registrace, zdarma) a nakresli vývojový diagram algoritmu.
 

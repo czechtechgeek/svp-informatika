@@ -62,7 +62,7 @@ Princip **DRY**: Don't Repeat Yourself. Změna rámu stačí na jednom místě.
 
 <span class="act pc">💻 PC — 12 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Úloha — Anatomie funkce** (12 min)
 
@@ -95,7 +95,7 @@ Klíčové pojmy:
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Projekt — Vlastní kvíz s funkcemi** (18 min)
 

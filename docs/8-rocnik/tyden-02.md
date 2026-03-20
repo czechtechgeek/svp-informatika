@@ -82,7 +82,7 @@ Učitel sdílí nebo žáci vytvoří tabulku s výsledky testu:
 | Jana | 91 | ? |
 | Tomáš | 38 | ? |
 
-<div class="zadani-pc">
+<div class="zadani-pc" markdown="1">
 
 **Úloha 1:** Do sloupce C napište IF, který vypíše „Prospěl" pokud body ≥ 60, jinak „Neprospěl".
 
