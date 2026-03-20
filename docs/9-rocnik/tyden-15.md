@@ -1,23 +1,37 @@
-﻿# Pololetní uzavření
+---
+grade: 9
+week: 15
+time: 45
+area: Průřezové / Reflexe a hodnocení
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák pojmenuje tři věci, které se naučil v prvním pololetí informatiky"
+  - "Žák zhodnotí, co bylo pro něj nejtěžší a co ho nejvíce překvapilo"
+  - "Žák porozumí přehledu témat druhého pololetí (AI, deepfakes, digitální budoucnost)"
+  - "Žák formuluje vlastní cíl nebo otázku, na kterou chce v druhém pololetí najít odpověď"
+time_budget:
+  - type: discussion
+    minutes: 12
+  - type: unplugged
+    minutes: 10
+  - type: discussion
+    minutes: 15
+  - type: discussion
+    minutes: 8
+friday_tip: "Hodina reflexe funguje nejlépe v uvolněné atmosféře — nemusí to být formální. Dopřejte si čas na skutečný rozhovor o tom, co žáky informatika naučila a co je čeká. Tato hodina je investice do motivace na druhé pololetí."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové / Reflexe a hodnocení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Hodina reflexe funguje nejlépe v uvolněné atmosféře — nemusí to být formální. Dopřejte si čas na skutečný rozhovor o tom, co žáky informatika naučila a co je čeká. Tato hodina je investice do motivace na druhé pololetí.
-
-## 🎯 Cíle hodiny
-
-- Žák pojmenuje tři věci, které se naučil v prvním pololetí informatiky
-- Žák zhodnotí, co bylo pro něj nejtěžší a co ho nejvíce překvapilo
-- Žák porozumí přehledu témat druhého pololetí (AI, deepfakes, digitální budoucnost)
-- Žák formuluje vlastní cíl nebo otázku, na kterou chce v druhém pololetí najít odpověď
+# 
 
 ## 💡 Metodický postup
 
-### 1. Retrospektiva prvního pololetí (12 min) — tabule / diskuse
+### 1. Retrospektiva prvního pololetí
+
+<span class="act discussion">💬 Diskuse — 12 min</span>
 
 Učitel napíše na tabuli přehled témat prvního pololetí (týdny 1–14):
 
@@ -41,7 +55,9 @@ Diskusní otázky:
 - „Co bys kamarádovi popsal/a jako nejtěžší věc, co jsi zvládl/a?"
 - „Bylo něco, kde jsi pomohl/a spolužákovi? Nebo kde ti pomohl spolužák?"
 
-### 2. Individuální reflexní karta (10 min) — bez počítače
+### 2. Individuální reflexní karta
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák vyplní kartu (papír nebo Google Forms):
 
@@ -65,7 +81,9 @@ V druhém pololetí chci zjistit: ____________________
 
 Učitel sbírá karty — pomáhají s plánováním výuky a individuálním přístupem.
 
-### 3. Ochutnávka druhého pololetí (15 min) — diskuse / tabule
+### 3. Ochutnávka druhého pololetí
+
+<span class="act discussion">💬 Diskuse — 15 min</span>
 
 Učitel ukáže přehled témat a vyvolá zájem:
 
@@ -83,7 +101,9 @@ Učitel ukáže přehled témat a vyvolá zájem:
 **Klíčová myšlenka pro druhé pololetí:**
 „Neučíme se o AI proto, abychom se jí báli — ale abychom ji uměli používat, kriticky hodnotit a případně i sami tvořit."
 
-### 4. Motivační uzavření a cíle (8 min) — diskuse
+### 4. Motivační uzavření a cíle
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel sdílí 3 zajímavé otázky, které budou v druhém pololetí řešit:
 1. „Může AI lhát? A jak poznáme, kdy lže?"

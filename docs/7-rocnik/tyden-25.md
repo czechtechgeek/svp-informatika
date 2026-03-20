@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 25
+time: 45
+area: "Digitální společnost / Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - Žák rozliší přijatelnou úpravu fotografie od manipulace měnící realitu nebo klamající
+  - "Žák identifikuje znaky zmanipulované fotografie (nerovnoměrné osvětlení, deformace pozadí)"
+  - Žák provede základní úpravu fotografie v online editoru
+  - Žák diskutuje o etice úprav fotek — kdy je to v pořádku a kdy ne
+time_budget:
+  - type: board
+    minutes: 10
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "\"Před a po\" srovnání: stáhněte veřejně dostupné reklamní \"before/after\" snímky (úpravy pleti, zeštíhlení). Žáci hádají, co bylo změněno. Otevírá diskusi o realistickém obrazu těla bez moralizování."
+---
+
 # Fotografie: Úprava vs. manipulace
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost / Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-"Před a po" srovnání: stáhněte veřejně dostupné reklamní "before/after" snímky (úpravy pleti, zeštíhlení). Žáci hádají, co bylo změněno. Otevírá diskusi o realistickém obrazu těla bez moralizování.
-
-## 🎯 Cíle hodiny
-
-- Žák rozliší přijatelnou úpravu fotografie od manipulace měnící realitu nebo klamající
-- Žák identifikuje znaky zmanipulované fotografie (nerovnoměrné osvětlení, deformace pozadí)
-- Žák provede základní úpravu fotografie v online editoru
-- Žák diskutuje o etice úprav fotek — kdy je to v pořádku a kdy ne
 
 ## 💡 Metodický postup
 
-### 1. Co je úprava a co manipulace? (10 min) — tabule
+### 1. Co je úprava a co manipulace?
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel představí spektrum:
 
@@ -44,7 +56,9 @@ Učitel představí spektrum:
 
 Diskuse: „Kde je hranice?" (závisí na kontextu — reklama vs. fotožurnalistika vs. umění)
 
-### 2. Rozpoznávání zmanipulovaných fotek (10 min) — tabule
+### 2. Rozpoznávání zmanipulovaných fotek
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel ukáže 4–5 veřejně dostupných příkladů zmanipulovaných fotek (z databází fake news nebo mediálních studií) a žáci hledají znaky:
 
@@ -55,7 +69,9 @@ Učitel ukáže 4–5 veřejně dostupných příkladů zmanipulovaných fotek (
 - Metadat EXIF (kdy byl soubor uložen vs. pořízen)
 - Reverzní vyhledávání obrazu (Google Obrázky)
 
-### 3. Praktická aktivita: Úprava vlastní fotografie (20 min) — PC
+### 3. Praktická aktivita: Úprava vlastní fotografie
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák si vybere **volně licencovanou** fotografii z [Pixabay.com](https://pixabay.com) nebo [Unsplash.com](https://unsplash.com) a provede úpravy v online editoru:
 

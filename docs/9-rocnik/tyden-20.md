@@ -1,23 +1,37 @@
-﻿# Budoucnost práce: Která povolání se změní
+---
+grade: 9
+week: 20
+time: 45
+area: Digitální společnost / Kariérní orientace
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák rozlišuje povolání ohrožená automatizací, transformovaná AI a zcela nová povolání"
+  - "Žák analyzuje konkrétní profesi a posoudí, které její části AI může vykonávat"
+  - "Žák identifikuje „budoucíodolné\" dovednosti, které AI nedokáže nahradit"
+  - Žák reflektuje vlastní kariérní záměry v kontextu technologických změn
+time_budget:
+  - type: review
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: unplugged
+    minutes: 18
+  - type: discussion
+    minutes: 9
+friday_tip: "Toto téma je pro žáky 9. třídy velmi osobní — za rok nebo dva budou volit střední školu a obor. Přistupujte k hodině s respektem k jejich nejistotě a zdůrazněte, že cílem není strašit, ale připravit."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost / Kariérní orientace
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Toto téma je pro žáky 9. třídy velmi osobní — za rok nebo dva budou volit střední školu a obor. Přistupujte k hodině s respektem k jejich nejistotě a zdůrazněte, že cílem není strašit, ale připravit.
-
-## 🎯 Cíle hodiny
-
-- Žák rozlišuje povolání ohrožená automatizací, transformovaná AI a zcela nová povolání
-- Žák analyzuje konkrétní profesi a posoudí, které její části AI může vykonávat
-- Žák identifikuje „budoucíodolné" dovednosti, které AI nedokáže nahradit
-- Žák reflektuje vlastní kariérní záměry v kontextu technologických změn
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvodní anketa: AI nahradí nebo ne? (8 min) — kvíz / tabule
+### 1. Úvodní anketa: AI nahradí nebo ne?
+
+<span class="act review">🔍 Reflexe — 8 min</span>
 
 Učitel přečte povolání — žáci hlasují: palec nahoru (AI nenahradí), palec dolů (AI nahradí), vodorovně (transformuje).
 
@@ -37,7 +51,9 @@ Učitel přečte povolání — žáci hlasují: palec nahoru (AI nenahradí), p
 
 Učitel zaznamenává hlasování na tabuli — výsledky budou sloužit jako základ diskuse.
 
-### 2. Rámec: Tři kategorie povolání (10 min) — tabule
+### 2. Rámec: Tři kategorie povolání
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel vysvětlí tři kategorie a uvede příklady z ankety:
 
@@ -62,7 +78,9 @@ Učitel vysvětlí tři kategorie a uvede příklady z ankety:
 
 **Klíčový závěr:** Počítačová revoluce v 80. letech také „zničila" mnoho povolání (sekretářky, stenografové) — a vytvořila miliony nových. AI bude podobná transformace.
 
-### 3. Skupinová analýza povolání (18 min) — bez počítače / diskuse
+### 3. Skupinová analýza povolání
+
+<span class="act unplugged">✋ Bez počítače — 18 min</span>
 
 Žáci se rozdělí do skupin po 3–4. Každá skupina dostane jedno povolání a za 10 minut vypracuje analýzu:
 
@@ -93,7 +111,9 @@ Hodnocení: povolání je  [ ] ohrožené  [ ] transformované  [ ] bezpečné
 
 Po 10 minutách každá skupina (2 min) prezentuje závěry — třída diskutuje, souhlasí / nesouhlasí.
 
-### 4. Budoucíodolné dovednosti a reflexe (9 min) — diskuse
+### 4. Budoucíodolné dovednosti a reflexe
+
+<span class="act discussion">💬 Diskuse — 9 min</span>
 
 Učitel shrnuje: Které dovednosti AI NEDOKÁŽE nahradit?
 

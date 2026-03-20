@@ -1,24 +1,37 @@
-# 🎭 Sociální inženýrství: Manipulace hackerů
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Kybernetická bezpečnost / Psychologie
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Definuje** pojem sociální inženýrství a vysvětlí, proč útočí na lidi, ne na technologie.
-* **Rozliší** techniky pretextingu, vishingu a tailgatingu a uvede příklad každé z nich.
-* **V roleplay scénáři identifikuje** pokus o sociální inženýrství a zvolí správnou reakci.
-* **Navrhne** opatření, jak chránit sebe i svou školu před manipulací.
-
+---
+grade: 8
+week: 22
+time: 45
+area: Kybernetická bezpečnost / Psychologie
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Definuje** pojem sociální inženýrství a vysvětlí, proč útočí na lidi, ne na technologie."
+  - "**Rozliší** techniky pretextingu, vishingu a tailgatingu a uvede příklad každé z nich."
+  - "**V roleplay scénáři identifikuje** pokus o sociální inženýrství a zvolí správnou reakci."
+  - "**Navrhne** opatření, jak chránit sebe i svou školu před manipulací."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: unplugged
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Roleplay scénáře fungují nejlépe, když jsou dostatečně reálné — nezapomeňte po každém scénáři provést krátkou reflexi s celou třídou. Žáci, kteří „přišli na to\" i ti, co „naletěli\", jsou cenní pro diskusi."
 ---
 
-### 💡 Metodický postup (45 min)
+# Sociální inženýrství: Manipulace hackerů
 
-#### 1. Úvod: Nejslabší článek je člověk (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Nejslabší článek je člověk
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel uvede provocativní tvrzení: „Nejdražší firewall na světě nepomůže, když zaměstnanec otevře dveře vetřelci." Kevin Mitnick — jeden z nejslavnějších hackerů historie — říkal, že na technologie nikdy neútočil, protože lidi je snazší přesvědčit.
 
@@ -28,8 +41,9 @@ Reálný příklad pro žáky: V roce 2020 byl hacknut Twitter. Útočníci nezl
 
 ---
 
-#### 2. Přehled technik sociálního inženýrství (12 min)
-*Tabule — přehled technik.*
+### 2. Přehled technik sociálního inženýrství
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel projde tři hlavní techniky s příklady:
 
@@ -54,8 +68,9 @@ Učitel projde tři hlavní techniky s příklady:
 
 ---
 
-#### 3. Roleplay: Odhalte útok (18 min)
-*Aktivita bez počítače — roleplay ve skupinách.*
+### 3. Roleplay: Odhalte útok
+
+<span class="act unplugged">✋ Bez počítače — 18 min</span>
 
 Žáci pracují ve skupinách po 3–4. Každá skupina dostane kartu se scénářem — jeden žák hraje útočníka, ostatní obranu. Po 3 minutách krátká reflexe celé třídy.
 
@@ -73,8 +88,9 @@ Učitel projde tři hlavní techniky s příklady:
 
 ---
 
-#### 4. Obrana a shrnutí (7 min)
-*Diskuze.*
+### 4. Obrana a shrnutí
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Třída společně sestaví „Pravidla obrany proti sociálnímu inženýrství":
 
@@ -86,7 +102,7 @@ Třída společně sestaví „Pravidla obrany proti sociálnímu inženýrství
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Kniha / dokument:** Kevin Mitnick „The Art of Deception" (dostupné v angličtině) — klasika sociálního inženýrství, příběhy z praxe
 * **Video (CZ):** YouTube — „sociální inženýrství hackeři" nebo dokument o Kevinu Mitnickovi; nebo ČT reportáže o telefonních podvodech
@@ -95,7 +111,5 @@ Třída společně sestaví „Pravidla obrany proti sociálnímu inženýrství
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Roleplay je nejsilnější část hodiny — nechte žáky skutečně si zahrát scénáře, ne jen číst. Žáci, kteří hrají útočníka, si uvědomí, jak snadno lze manipulovat ostatní. Pokud máte čas, přidejte reálný příklad z médií (telefonní podvody na seniory jsou v ČR velmi časté). Propojte téma s rodinnou bezpečností: žáci mohou upozornit rodiče a prarodiče na techniky vishingu.
-
-> 💬 **Tip pro pátek:** Roleplay scénáře fungují nejlépe, když jsou dostatečně reálné — nezapomeňte po každém scénáři provést krátkou reflexi s celou třídou. Žáci, kteří „přišli na to" i ti, co „naletěli", jsou cenní pro diskusi.
+!!! tip "Tip pro učitele"
+    Roleplay je nejsilnější část hodiny — nechte žáky skutečně si zahrát scénáře, ne jen číst. Žáci, kteří hrají útočníka, si uvědomí, jak snadno lze manipulovat ostatní. Pokud máte čas, přidejte reálný příklad z médií (telefonní podvody na seniory jsou v ČR velmi časté). Propojte téma s rodinnou bezpečností: žáci mohou upozornit rodiče a prarodiče na techniky vishingu.

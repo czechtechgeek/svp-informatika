@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 6
+time: 45
+area: Programování / Algoritmické myšlení
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - Žák používá aritmetické operátory Pythonu včetně celočíselného dělení a zbytku
+  - "Žák převádí datové typy pomocí `int()`, `float()` a `str()`"
+  - "Žák napíše program s podmínkou `if/elif/else`"
+  - Žák vytvoří funkční kalkulačku nebo konvertor jednotek
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 7
+  - type: board
+    minutes: 20
+  - type: discussion
+    minutes: 10
+friday_tip: "Nechejte žáky si vybrat, co jejich kalkulačka bude počítat – BMI, cenu nákupu, převod měn. Vlastní volba zvyšuje zapojení. Pokud třída zvládá rychle, přidejte podmínku: „Pokud BMI > 25, vypiš upozornění.\""
+---
+
 # Python II: Jednoduché výpočty
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Programování / Algoritmické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Nechejte žáky si vybrat, co jejich kalkulačka bude počítat – BMI, cenu nákupu, převod měn. Vlastní volba zvyšuje zapojení. Pokud třída zvládá rychle, přidejte podmínku: „Pokud BMI > 25, vypiš upozornění."
-
-## 🎯 Cíle hodiny
-
-- Žák používá aritmetické operátory Pythonu včetně celočíselného dělení a zbytku
-- Žák převádí datové typy pomocí `int()`, `float()` a `str()`
-- Žák napíše program s podmínkou `if/elif/else`
-- Žák vytvoří funkční kalkulačku nebo konvertor jednotek
 
 ## 💡 Metodický postup
 
-### 1. Aritmetické operátory (8 min) — tabule
+### 1. Aritmetické operátory
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Přehled operátorů v Pythonu:
 
@@ -33,7 +47,9 @@ Přehled operátorů v Pythonu:
 
 Žáci zkusí v Pythonu: Co je `17 % 5`? Co je `2 ** 10`?
 
-### 2. Konverze typů (7 min) — PC
+### 2. Konverze typů
+
+<span class="act pc">💻 PC — 7 min</span>
 
 ```python
 # Problém:
@@ -53,7 +69,9 @@ text = str(42)
 
 Žáci vyzkoušejí a zapíší, co každá funkce dělá.
 
-### 3. Kalkulačka s podmínkou (20 min) — Python
+### 3. Kalkulačka s podmínkou
+
+<span class="act board">🖊️ Tabule — 20 min</span>
 
 Žáci napíší kalkulačku, která:
 1. Načte dvě čísla
@@ -83,7 +101,9 @@ else:
 
 Rychlí žáci přidají konvertor (km na míle, °C na °F, Kč na EUR).
 
-### 4. Sdílení a reflexe (10 min) — diskuse
+### 4. Sdílení a reflexe
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 2–3 žáci ukáží svůj program. Třída zkusí zadat krajní hodnoty (0, záporná čísla). Diskuse: Co program dělá v neočekávaných situacích?
 

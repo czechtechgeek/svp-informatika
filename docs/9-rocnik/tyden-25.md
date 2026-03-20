@@ -1,23 +1,37 @@
-﻿# Digitální wellbeing: Odolnost vůči mobilu
+---
+grade: 9
+week: 25
+time: 45
+area: Digitální bezpečnost a etika / Zdraví
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák analyzuje vlastní vzorce chování ve vztahu k telefonu a sociálním sítím
+  - "Žák vysvětlí, jakými mechanismy aplikace udržují pozornost uživatele"
+  - Žák navrhne konkrétní strategii pro zdravější používání technologií
+  - Žák rozliší mezi produktivním a destruktivním používáním technologií
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: unplugged
+    minutes: 15
+  - type: discussion
+    minutes: 10
+friday_tip: Nechte žáky před hodinou (nebo jako domácí přípravu) zkontrolovat screen time ve svém telefonu. Většina žáků bude překvapena — průměr u jejich věkové skupiny v ČR je přes 6 hodin denně. Tato data jsou mnohem přesvědčivější než jakékoliv přednášení o závislostech.
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální bezpečnost a etika / Zdraví
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Nechte žáky před hodinou (nebo jako domácí přípravu) zkontrolovat screen time ve svém telefonu. Většina žáků bude překvapena — průměr u jejich věkové skupiny v ČR je přes 6 hodin denně. Tato data jsou mnohem přesvědčivější než jakékoliv přednášení o závislostech.
-
-## 🎯 Cíle hodiny
-
-- Žák analyzuje vlastní vzorce chování ve vztahu k telefonu a sociálním sítím
-- Žák vysvětlí, jakými mechanismy aplikace udržují pozornost uživatele
-- Žák navrhne konkrétní strategii pro zdravější používání technologií
-- Žák rozliší mezi produktivním a destruktivním používáním technologií
+# 
 
 ## 💡 Metodický postup
 
-### 1. Kolik času trávíme u obrazovek? (8 min) — diskuse
+### 1. Kolik času trávíme u obrazovek?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Žáci si vzájemně sdílejí (dobrovolně) svůj screen time za minulý týden. Učitel zaznamenává průměry na tabuli.
 
@@ -31,7 +45,9 @@ Otázky:
 - „Kdy jste naposledy nudu vydrželi bez telefonu déle než 10 minut?"
 - „Jak se cítíte, když nemáte telefon po dobu hodiny?"
 
-### 2. Jak aplikace „kradou" čas — design závislosti (12 min) — tabule
+### 2. Jak aplikace „kradou" čas — design závislosti
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel vysvětlí konkrétní techniky, které aplikace záměrně používají:
 
@@ -48,7 +64,9 @@ Učitel vysvětlí konkrétní techniky, které aplikace záměrně používají
 
 Klíčová myšlenka: Tato rozhraní navrhli psychologové specializující se na závislosti. Nejste slabí — bojujete s technologií postavenou proti vaší pozornosti.
 
-### 3. Moje strategie digitálního wellbeingu (15 min) — bez počítače
+### 3. Moje strategie digitálního wellbeingu
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 **Část A — Sebeanalýza (5 min):**
 Žáci individuálně vyplní pracovní list:
@@ -69,7 +87,9 @@ Klíčová myšlenka: Tato rozhraní navrhli psychologové specializující se n
 - **Digitální detox** — jeden den v týdnu nebo víkend bez soc. sítí
 - **Aplikace pro focus** — Forest, BeFocused, Freedom
 
-### 4. Reflexe a závazek (10 min) — diskuse
+### 4. Reflexe a závazek
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Každý žák napíše na papír (nebo do sešitu) jeden konkrétní závazek na příští týden — co změní ve svém chování. Příklady:
 - „Telefon před spaním odkládám nejméně 30 minut před spaním."

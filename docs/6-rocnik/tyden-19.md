@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 19
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí rozdíl mezi prohlížečem (Chrome, Firefox) a vyhledávačem (Google, Seznam)"
+  - "Žák přečte URL adresu a identifikuje její části (protokol, doména, cesta)"
+  - "Žák použije pokročilé vyhledávací operátory (uvozovky, mínus, site:)"
+  - "Žák zhodnotí, zda je výsledek vyhledávání relevantní a důvěryhodný"
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 15
+friday_tip: "Zkuste **„Vyhledávací štafetu\"** — rozdělte třídu do skupin, každá dostane stejnou otázku a soutěží, kdo najde správnou odpověď nejrychleji. Podmínka: musí uvést URL zdroje. Po každém kole krátká diskuse — jak žáci věděli, že zdroj je spolehlivý? Skvělá aktivita na konec pátku."
+---
+
 # Internet: Prohlížeč a vyhledávač
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Zkuste **„Vyhledávací štafetu"** — rozdělte třídu do skupin, každá dostane stejnou otázku a soutěží, kdo najde správnou odpověď nejrychleji. Podmínka: musí uvést URL zdroje. Po každém kole krátká diskuse — jak žáci věděli, že zdroj je spolehlivý? Skvělá aktivita na konec pátku.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí rozdíl mezi prohlížečem (Chrome, Firefox) a vyhledávačem (Google, Seznam)
-- Žák přečte URL adresu a identifikuje její části (protokol, doména, cesta)
-- Žák použije pokročilé vyhledávací operátory (uvozovky, mínus, site:)
-- Žák zhodnotí, zda je výsledek vyhledávání relevantní a důvěryhodný
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Prohlížeč není vyhledávač (8 min) — diskuse
+### 1. Úvod: Prohlížeč není vyhledávač
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Otázka: „Jaký je rozdíl mezi Chrome a Googlem?" Většina žáků si myslí, že jsou to totéž.
 
@@ -30,7 +42,9 @@ Vysvětlení na tabuli:
 
 Analogie: „Prohlížeč = auto. Vyhledávač = GPS navigace."
 
-### 2. Anatomie URL (10 min) — tabule + PC
+### 2. Anatomie URL
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel napíše na tabuli příklad URL a žáci identifikují části:
 
@@ -45,7 +59,9 @@ protokol  doména           cesta
 
 Důležité: `https://` = šifrované spojení (bezpečné), `http://` = nešifrované (opatrně).
 
-### 3. Aktivita: Pokročilé vyhledávání (15 min) — PC
+### 3. Aktivita: Pokročilé vyhledávání
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci postupně vyzkoušejí vyhledávací operátory:
 

@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 30
+time: 45
+area: Průřezové téma (Reflexe a opakování)
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+goals:
+  - "Žák zopakuje klíčové pojmy z celého 2. pololetí (hardware, software, internet, bezpečnost, tabulky, grafy)"
+  - "Žák identifikuje oblasti, ve kterých potřebuje ještě procvičit"
+  - Žák spolupracuje v týmu a pomáhá spolužákům s pochopením látky
+  - Žák si uvědomí vlastní pokrok za celý rok
+time_budget:
+  - type: board
+    minutes: 7
+  - type: pc
+    minutes: 20
+  - type: unplugged
+    minutes: 10
+friday_tip: "Závěrečné opakování v pátek je příležitost pro **„Týmové Bingo\"** — stejně jako v 1. pololetí, ale tentokrát s pojmy z 2. pololetí. Dvojice žáků spolupracují, sdílejí znalosti a snižuje to stres před koncem roku. Jako odměna pro vítěze: právo vybrat aktivitu na poslední hodinu."
+---
+
 # Rezerva: Opakování hrou
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové téma (Reflexe a opakování)
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-
-## 💬 Tip pro pátek
-Závěrečné opakování v pátek je příležitost pro **„Týmové Bingo"** — stejně jako v 1. pololetí, ale tentokrát s pojmy z 2. pololetí. Dvojice žáků spolupracují, sdílejí znalosti a snižuje to stres před koncem roku. Jako odměna pro vítěze: právo vybrat aktivitu na poslední hodinu.
-
-## 🎯 Cíle hodiny
-
-- Žák zopakuje klíčové pojmy z celého 2. pololetí (hardware, software, internet, bezpečnost, tabulky, grafy)
-- Žák identifikuje oblasti, ve kterých potřebuje ještě procvičit
-- Žák spolupracuje v týmu a pomáhá spolužákům s pochopením látky
-- Žák si uvědomí vlastní pokrok za celý rok
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Mapování znalostí (7 min) — tabule
+### 1. Úvod: Mapování znalostí
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel nakreslí na tabuli myšlenkovou mapu „Co jsme se naučili v 2. pololetí" a žáci doplňují:
 
@@ -30,7 +42,9 @@ Učitel nakreslí na tabuli myšlenkovou mapu „Co jsme se naučili v 2. polole
               výstup  netiketa      SUMA
 ```
 
-### 2. Kahoot — kvíz celé pololetí (20 min) — PC nebo telefon
+### 2. Kahoot — kvíz celé pololetí
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Učitel připraví 20 otázek pokrývající celé 2. pololetí:
 
@@ -44,7 +58,9 @@ Učitel připraví 20 otázek pokrývající celé 2. pololetí:
 
 Alternativa bez internetu: papírové kartičky nebo tabule s výběrem odpovědí.
 
-### 3. Aktivita: Vysvětli sousedovi (10 min) — bez počítače
+### 3. Aktivita: Vysvětli sousedovi
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Každý žák dostane lístek s pojmem (RAM, URL, netiketa, SUMA, Creative Commons...). Má 2 minuty ho vysvětlit sousedovi vlastními slovy, bez odborné terminologie.
 

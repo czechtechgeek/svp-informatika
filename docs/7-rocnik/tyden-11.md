@@ -1,23 +1,33 @@
+---
+grade: 7
+week: 11
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - "Žák navrhne koncept vlastní hry včetně herní mechaniky, postav a cíle"
+  - "Žák vytvoří papírový nebo digitální „game design dokument\" (GDD) ve zjednodušené formě"
+  - "Žák identifikuje, které Scratch bloky bude potřebovat pro svůj návrh"
+  - Žák se naučí realisticky odhadnout rozsah projektu a přizpůsobit ho dostupnému času
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 30
+friday_tip: "Krátké inspirační kolo: každý žák jmenuje jednu oblíbenou hru a jednu mechaniku z ní (skákání, sbírání, vyhýbání). Učitel zapisuje na tabuli. Vznikne „banka nápadů\", ze které slabší žáci mohou čerpat."
+---
+
 # Projekt Hra I: Návrh mechaniky
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-
-## 💬 Tip pro pátek
-Krátké inspirační kolo: každý žák jmenuje jednu oblíbenou hru a jednu mechaniku z ní (skákání, sbírání, vyhýbání). Učitel zapisuje na tabuli. Vznikne „banka nápadů", ze které slabší žáci mohou čerpat.
-
-## 🎯 Cíle hodiny
-
-- Žák navrhne koncept vlastní hry včetně herní mechaniky, postav a cíle
-- Žák vytvoří papírový nebo digitální „game design dokument" (GDD) ve zjednodušené formě
-- Žák identifikuje, které Scratch bloky bude potřebovat pro svůj návrh
-- Žák se naučí realisticky odhadnout rozsah projektu a přizpůsobit ho dostupnému času
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je herní mechanika? (8 min) — tabule
+### 1. Úvod: Co je herní mechanika?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel vysvětlí rozdíl:
 - **Téma:** O čem hra je (vesmír, pohádka, sport)
@@ -33,7 +43,9 @@ Příklady:
 
 Diskuse: „Jakou mechaniku umíme ve Scratch udělat?" → Pohyb šipkami, skóre, časomíra, kolize.
 
-### 2. Workshp: Návrh hry (30 min) — PC nebo papír
+### 2. Workshp: Návrh hry
+
+<span class="act pc">💻 PC — 30 min</span>
 
 Každý žák vyplní **Game Design Dokument** (GDD) — šablona na papíře nebo v Google Docs:
 

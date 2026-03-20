@@ -1,24 +1,37 @@
-# 🛒 E-commerce: E-shop a bezpečné platby
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Digitální gramotnost / E-commerce
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Popíše**, jak funguje e-shop od objednávky po doručení, a identifikuje klíčové bezpečnostní prvky.
-* **Posoudí** důvěryhodnost e-shopu podle konkrétních kritérií.
-* **Rozliší** bezpečné a rizikové způsoby platby online.
-* **Zná** svá práva jako spotřebitel při nákupu v e-shopu (reklamace, odstoupení od smlouvy).
-
+---
+grade: 8
+week: 25
+time: 45
+area: Digitální gramotnost / E-commerce
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Popíše**, jak funguje e-shop od objednávky po doručení, a identifikuje klíčové bezpečnostní prvky."
+  - "**Posoudí** důvěryhodnost e-shopu podle konkrétních kritérií."
+  - "**Rozliší** bezpečné a rizikové způsoby platby online."
+  - "**Zná** svá práva jako spotřebitel při nákupu v e-shopu (reklamace, odstoupení od smlouvy)."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 12
+  - type: board
+    minutes: 13
+  - type: discussion
+    minutes: 12
+friday_tip: "Ptejte se žáků, zda sami nebo rodiče nakupují online — většina ano. Reálné zkušenosti s reklamací nebo podezřelým e-shopem bývají v každé třídě. Tyto příběhy jsou nejlepší motivací pro hodinu o bezpečném nakupování."
 ---
 
-### 💡 Metodický postup (45 min)
+# E-commerce: E-shop a bezpečné platby
 
-#### 1. Úvod: Jak funguje e-shop? (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Jak funguje e-shop?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel nakreslí na tabuli cestu objednávky:
 
@@ -34,8 +47,9 @@ Statistika pro žáky: Češi v roce 2023 utratili online přes **200 miliard ko
 
 ---
 
-#### 2. Jak poznat důvěryhodný e-shop? (12 min)
-*Práce na PC — průzkum e-shopů.*
+### 2. Jak poznat důvěryhodný e-shop?
+
+<span class="act pc">💻 PC — 12 min</span>
 
 <div class="zadani-pc">
 
@@ -59,8 +73,9 @@ Jaké červené vlajky vidíte?
 
 ---
 
-#### 3. Způsoby platby: Bezpečnostní srovnání (13 min)
-*Tabule — přehled.*
+### 3. Způsoby platby: Bezpečnostní srovnání
+
+<span class="act board">🖊️ Tabule — 13 min</span>
 
 Učitel projde srovnání platebních metod:
 
@@ -76,8 +91,9 @@ Klíčové právo: **Zákon o ochraně spotřebitele** zaručuje právo vrátit 
 
 ---
 
-#### 4. Reklamace a práva spotřebitele: Scénáře (12 min)
-*Diskuze.*
+### 4. Reklamace a práva spotřebitele: Scénáře
+
+<span class="act discussion">💬 Diskuse — 12 min</span>
 
 Žáci dostanou 3 scénáře a diskutují, co by udělali:
 
@@ -97,7 +113,7 @@ Závěrečné shrnutí: 3 zlatá pravidla online nákupu:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Web — Heureka.cz:** [heureka.cz](https://www.heureka.cz) — ověřené recenze e-shopů; žáci mohou vyhledat libovolný e-shop
 * **Web — Česká obchodní inspekce:** [coi.cz](https://www.coi.cz) — podání stížnosti, rádce spotřebitele, seznam problematických e-shopů
@@ -106,7 +122,5 @@ Závěrečné shrnutí: 3 zlatá pravidla online nákupu:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Hodina má přesah do výchovy k občanství — spotřebitelská práva jsou klíčová a žáci je ve svém životě brzy využijí. Propojte téma s reálnou zkušeností: zeptejte se, zda někdo z žáků nebo jejich rodičů měl problém s online nákupem. Praktický tip: ukažte žákům, jak ověřit IČO e-shopu přes ares.gov.cz — to zvládnou za 30 sekund a je to nejrychlejší kontrola legitimity obchodníka.
-
-> 💬 **Tip pro pátek:** Ptejte se žáků, zda sami nebo rodiče nakupují online — většina ano. Reálné zkušenosti s reklamací nebo podezřelým e-shopem bývají v každé třídě. Tyto příběhy jsou nejlepší motivací pro hodinu o bezpečném nakupování.
+!!! tip "Tip pro učitele"
+    Hodina má přesah do výchovy k občanství — spotřebitelská práva jsou klíčová a žáci je ve svém životě brzy využijí. Propojte téma s reálnou zkušeností: zeptejte se, zda někdo z žáků nebo jejich rodičů měl problém s online nákupem. Praktický tip: ukažte žákům, jak ověřit IČO e-shopu přes ares.gov.cz — to zvládnou za 30 sekund a je to nejrychlejší kontrola legitimity obchodníka.

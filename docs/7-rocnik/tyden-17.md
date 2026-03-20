@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 17
+time: 45
+area: Digitální technologie / Digitální společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+goals:
+  - "Žák rozlišuje tři úrovně přístupu k dokumentu: prohlížení, komentování, úpravy"
+  - Žák správně nastaví sdílení dokumentu pro konkrétní osoby i skupiny
+  - "Žák vysvětlí rizika sdílení „komukoliv s odkazem\" a ví, kdy je použít a kdy ne"
+  - "Žák odvolá přístup k dokumentu a ověří, kdo k němu má přístup"
+time_budget:
+  - type: unplugged
+    minutes: 7
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 20
+friday_tip: "Scénářová hra: napište na tabuli situaci — „Omylem jste sdíleli soubor s celým internetem. Co uděláte?\" Žáci diskutují v trojicích. Aktivuje kritické myšlení o právech k datům bez potřeby PC."
+---
+
 # Sdílení: Práva k dokumentům
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie / Digitální společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-
-## 💬 Tip pro pátek
-Scénářová hra: napište na tabuli situaci — „Omylem jste sdíleli soubor s celým internetem. Co uděláte?" Žáci diskutují v trojicích. Aktivuje kritické myšlení o právech k datům bez potřeby PC.
-
-## 🎯 Cíle hodiny
-
-- Žák rozlišuje tři úrovně přístupu k dokumentu: prohlížení, komentování, úpravy
-- Žák správně nastaví sdílení dokumentu pro konkrétní osoby i skupiny
-- Žák vysvětlí rizika sdílení „komukoliv s odkazem" a ví, kdy je použít a kdy ne
-- Žák odvolá přístup k dokumentu a ověří, kdo k němu má přístup
 
 ## 💡 Metodický postup
 
-### 1. Analogie: Digitální klíče (7 min) — bez počítače
+### 1. Analogie: Digitální klíče
+
+<span class="act unplugged">✋ Bez počítače — 7 min</span>
 
 Učitel kreslí na tabuli dům s různými klíči:
 
@@ -35,7 +47,9 @@ A typy příjemců:
 
 Otázka: „Kdy byste použili ‚komukoliv s odkazem'?" (veřejná prezentace, sdílení s rodiči bez účtu)
 
-### 2. Demo: Sdílení v Google Docs (12 min) — tabule
+### 2. Demo: Sdílení v Google Docs
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel otevře Google Docs na projektoru a ukáže celý proces sdílení:
 
@@ -48,7 +62,9 @@ Učitel otevře Google Docs na projektoru a ukáže celý proces sdílení:
 
 Učitel záměrně nastaví špatná práva a nechá žáky říct, co opravit.
 
-### 3. Praktická aktivita: Sdílecí cvičení (20 min) — PC
+### 3. Praktická aktivita: Sdílecí cvičení
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci pracují ve dvojicích:
 

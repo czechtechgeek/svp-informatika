@@ -1,23 +1,33 @@
+---
+grade: 7
+week: 12
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - Žák realizuje herní projekt podle svého GDD z minulé hodiny
+  - "Žák aplikuje všechny naučené koncepty: pohyb, podmínky, proměnné, kolize"
+  - "Žák debugguje svůj program — identifikuje chybu, formuluje hypotézu, testuje opravu"
+  - Žák uloží a sdílí rozpracovaný projekt pro pokračování v příštím týdnu
+time_budget:
+  - type: unplugged
+    minutes: 5
+  - type: pc
+    minutes: 33
+friday_tip: "Páteční programování je nejproduktivnější v tichu s hudbou na pozadí (instrumentální, bez textů). Žáci jsou soustředěnější. Zkuste zapnout ambientní hudbu a pozorujte rozdíl v atmosféře."
+---
+
 # Projekt Hra II: Programování
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Páteční programování je nejproduktivnější v tichu s hudbou na pozadí (instrumentální, bez textů). Žáci jsou soustředěnější. Zkuste zapnout ambientní hudbu a pozorujte rozdíl v atmosféře.
-
-## 🎯 Cíle hodiny
-
-- Žák realizuje herní projekt podle svého GDD z minulé hodiny
-- Žák aplikuje všechny naučené koncepty: pohyb, podmínky, proměnné, kolize
-- Žák debugguje svůj program — identifikuje chybu, formuluje hypotézu, testuje opravu
-- Žák uloží a sdílí rozpracovaný projekt pro pokračování v příštím týdnu
 
 ## 💡 Metodický postup
 
-### 1. Zahájení: Krátká rekapitulace a plán (5 min) — bez počítače
+### 1. Zahájení: Krátká rekapitulace a plán
+
+<span class="act unplugged">✋ Bez počítače — 5 min</span>
 
 Každý žák si přečte svůj GDD z minulé hodiny a napíše na kartičku:
 - „Dnes udělám…" (3 konkrétní věci)
@@ -25,7 +35,9 @@ Každý žák si přečte svůj GDD z minulé hodiny a napíše na kartičku:
 
 Učitel upozorní: „Mějte otevřený GDD vedle Scratch — je to váš návod."
 
-### 2. Samostatná práce na projektu (33 min) — PC
+### 2. Samostatná práce na projektu
+
+<span class="act pc">💻 PC — 33 min</span>
 
 Žáci pracují individuálně na svých herních projektech. Učitel aktivně obchází třídu a pomáhá.
 

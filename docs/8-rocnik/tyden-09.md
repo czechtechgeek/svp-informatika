@@ -1,24 +1,37 @@
-# 🌡️ Senzory III: Teploměr a světelný senzor
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování / Data, informace a modelování
-> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
-> **Kód:** `INF-INF-001-ZV9-001` – *Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.*
-
-**Po hodině žák:**
-* **Přečte** hodnotu z vestavěného teploměru a světelného senzoru Micro:bitu.
-* **Naprogramuje** podmíněnou reakci na překročení prahové hodnoty (alarm).
-* **Zaznamená** naměřená data a porovná je s fyzickým teploměrem.
-* **Kriticky zhodnotí** přesnost vestavěných senzorů.
-
+---
+grade: 8
+week: 9
+time: 45
+area: "Algoritmizace a programování / Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+goals:
+  - "**Přečte** hodnotu z vestavěného teploměru a světelného senzoru Micro:bitu."
+  - "**Naprogramuje** podmíněnou reakci na překročení prahové hodnoty (alarm)."
+  - "**Zaznamená** naměřená data a porovná je s fyzickým teploměrem."
+  - "**Kriticky zhodnotí** přesnost vestavěných senzorů."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 12
+  - type: board
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Měření teploty ve třídě vs. na chodbě: žáci přirozeně diskutují o rozdílech a přesnosti — skvělá propojení s fyzikálním měřením a přesností přístrojů."
 ---
 
-### 💡 Metodický postup (45 min)
+# ️ Senzory III: Teploměr a světelný senzor
 
-#### 1. Přehled environmentálních senzorů (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Přehled environmentálních senzorů
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Micro:bit obsahuje dva environmentální senzory:
 
@@ -35,8 +48,9 @@ Micro:bit obsahuje dva environmentální senzory:
 
 ---
 
-#### 2. Demo a měření (12 min)
-*PC + Micro:bit — demonstrace a měření.*
+### 2. Demo a měření
+
+<span class="act pc">💻 PC — 12 min</span>
 
 Žáci napíší jednoduchý program pro monitoring:
 
@@ -52,8 +66,9 @@ Aktivita: Proměřte teplotu na různých místech — u okna, u radiátoru, na 
 
 ---
 
-#### 3. Projekt: Teplotní alarm (18 min)
-*Práce s Micro:bitem.*
+### 3. Projekt: Teplotní alarm
+
+<span class="act board">🖊️ Tabule — 18 min</span>
 
 <div class="zadani-pc">
 
@@ -83,8 +98,9 @@ jinak:
 
 ---
 
-#### 4. Diskuse: Přesnost a kalibrace (7 min)
-*Diskuze.*
+### 4. Diskuse: Přesnost a kalibrace
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Klíčové otázky:
 - „Proč se Micro:bit teploměr liší od skutečné teploty?" (Zahřívání procesoru)
@@ -95,7 +111,7 @@ Propojení s praxí: Profesionální senzory jsou přesnější, ale stojí víc
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode — Vstup → Teplota:** [makecode.microbit.org](https://makecode.microbit.org) → Vstup → `teplota (°C)` a `úroveň světla`
 * **Projekt — meteorologická stanice:** microbit.org/projects → „Weather Station" — komplexnější verze dnešního projektu
@@ -105,7 +121,5 @@ Propojení s praxí: Profesionální senzory jsou přesnější, ale stojí víc
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Přesnost teploměru závisí na konkrétním kusu Micro:bitu a prostředí — nevadí, pokud se žáci ptají, proč se liší od fyzického teploměru. To je cenná vědecká diskuse o přesnosti měřicích přístrojů a kalibraci. Pokud máte přístup k DHT11 senzoru (cena cca 30 Kč), lze hodinu rozšířit na přesné měření vlhkosti — velmi vhodné pro propojení s přírodovědou.
-
-> 💬 **Tip pro pátek:** Měření teploty ve třídě vs. na chodbě: žáci přirozeně diskutují o rozdílech a přesnosti — skvělá propojení s fyzikálním měřením a přesností přístrojů.
+!!! tip "Tip pro učitele"
+    Přesnost teploměru závisí na konkrétním kusu Micro:bitu a prostředí — nevadí, pokud se žáci ptají, proč se liší od fyzického teploměru. To je cenná vědecká diskuse o přesnosti měřicích přístrojů a kalibraci. Pokud máte přístup k DHT11 senzoru (cena cca 30 Kč), lze hodinu rozšířit na přesné měření vlhkosti — velmi vhodné pro propojení s přírodovědou.

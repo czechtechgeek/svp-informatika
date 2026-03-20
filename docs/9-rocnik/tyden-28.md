@@ -1,23 +1,37 @@
-﻿# Projekt: Dokončení portfolia
+---
+grade: 9
+week: 28
+time: 45
+area: Digitální tvorba / Komunikace a spolupráce
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - Žák dokončí a obohatí své digitální portfolio o zbývající sekce a práce
+  - Žák poskytne a přijme konstruktivní zpětnou vazbu od spolužáka
+  - Žák upraví portfolio na základě peer-review a vlastní reflexe
+  - Žák připraví portfolio k finální prezentaci nebo sdílení
+time_budget:
+  - type: discussion
+    minutes: 5
+  - type: pc
+    minutes: 20
+  - type: unplugged
+    minutes: 12
+  - type: pc
+    minutes: 8
+friday_tip: "Peer-review funguje nejlépe, když žáci mají jasná kritéria hodnocení připravená předem. Dejte jim rubriku nebo checklist — bez toho mají tendenci říkat jen „je to hezké\". Konstruktivní zpětná vazba je dovednost, která se musí učit, ne jen předpokládat."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální tvorba / Komunikace a spolupráce
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Peer-review funguje nejlépe, když žáci mají jasná kritéria hodnocení připravená předem. Dejte jim rubriku nebo checklist — bez toho mají tendenci říkat jen „je to hezké". Konstruktivní zpětná vazba je dovednost, která se musí učit, ne jen předpokládat.
-
-## 🎯 Cíle hodiny
-
-- Žák dokončí a obohatí své digitální portfolio o zbývající sekce a práce
-- Žák poskytne a přijme konstruktivní zpětnou vazbu od spolužáka
-- Žák upraví portfolio na základě peer-review a vlastní reflexe
-- Žák připraví portfolio k finální prezentaci nebo sdílení
+# 
 
 ## 💡 Metodický postup
 
-### 1. Kontrola stavu a plán práce (5 min) — diskuse
+### 1. Kontrola stavu a plán práce
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Učitel se rychle ptá třídy: „Kde kdo je?"
 - Kdo má hotovou strukturu? Obsah? Kdo teprve začíná?
@@ -31,7 +45,9 @@ Učitel se rychle ptá třídy: „Kde kdo je?"
 - Jsou informace pravdivé a přesné? (1–5)
 - Vypadá portfolio profesionálně? (1–5)
 
-### 2. Dokončovací práce (20 min) — PC
+### 2. Dokončovací práce
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci pracují samostatně na dokončení portfolia. Učitel obchází a konzultuje:
 
@@ -48,7 +64,9 @@ Učitel se rychle ptá třídy: „Kde kdo je?"
 - Embedovat Python kód (GitHub Gist nebo repl.it)
 - Přidat video prezentaci (nahraná lupa nebo screen recording)
 
-### 3. Peer-review (12 min) — bez počítače
+### 3. Peer-review
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Žáci si navzájem vymění portfolio se spolužákem, kterého si sami vyberou. Každý žák má 5 minut na prostudování portfolia partnera a vyplnění zpětné vazby (písemně na papíře nebo v sdíleném dokumentu).
 
@@ -61,7 +79,9 @@ Učitel se rychle ptá třídy: „Kde kdo je?"
 
 Po 10 minutách si žáci předají zpětnou vazbu a mají 2 minuty na doplňující dotazy nebo diskusi.
 
-### 4. Finální úpravy a sdílení odkazu (8 min) — PC
+### 4. Finální úpravy a sdílení odkazu
+
+<span class="act pc">💻 PC — 8 min</span>
 
 Žáci implementují alespoň jednu změnu navrženou peer-reviewerem. Poté:
 

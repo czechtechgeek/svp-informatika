@@ -1,23 +1,37 @@
-﻿# Digitální právo: GDPR, Creative Commons
+---
+grade: 9
+week: 21
+time: 45
+area: Digitální bezpečnost a etika
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí, co jsou osobní údaje a proč jsou chráněny zákonem GDPR"
+  - "Žák vyjmenuje alespoň tři práva, která mu GDPR dává vůči firmám a institucím"
+  - "Žák rozliší typy licencí Creative Commons a určí, co smí s daným dílem udělat"
+  - Žák posoudí reálný příklad použití obrázku z internetu z hlediska autorského práva
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 17
+  - type: review
+    minutes: 10
+friday_tip: "Začněte hodinu otázkou: „Kdy jste naposledy klikli na ‚Souhlasím' a nepřečetli podmínky?\" Téměř všichni žáci ruku zvednou — a tím máte perfektní úvod do GDPR. Reálné cookie bannery a smluvní podmínky Instagramu jsou pro žáky tohoto věku okamžitě srozumitelné."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální bezpečnost a etika
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Začněte hodinu otázkou: „Kdy jste naposledy klikli na ‚Souhlasím' a nepřečetli podmínky?" Téměř všichni žáci ruku zvednou — a tím máte perfektní úvod do GDPR. Reálné cookie bannery a smluvní podmínky Instagramu jsou pro žáky tohoto věku okamžitě srozumitelné.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co jsou osobní údaje a proč jsou chráněny zákonem GDPR
-- Žák vyjmenuje alespoň tři práva, která mu GDPR dává vůči firmám a institucím
-- Žák rozliší typy licencí Creative Commons a určí, co smí s daným dílem udělat
-- Žák posoudí reálný příklad použití obrázku z internetu z hlediska autorského práva
+# 
 
 ## 💡 Metodický postup
 
-### 1. Co ví firma o tobě? (8 min) — diskuse
+### 1. Co ví firma o tobě?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel otevře (nebo vytiskne) výpis dat, která o uživatelích ukládá Google (tzv. Google Takeout) nebo Facebook. Ukáže na projektoru, co vše platforma zná: poloha, historie vyhledávání, věk, zájmy, zařízení.
 
@@ -33,7 +47,9 @@ Učitel uvede: GDPR (General Data Protection Regulation) je evropský zákon z r
 - **Správce dat** = firma nebo instituce, která data sbírá
 - **Subjekt dat** = člověk, jehož data jsou zpracovávána — tedy MY
 
-### 2. Práva podle GDPR (10 min) — tabule
+### 2. Práva podle GDPR
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel probere práva subjektu dat — žáci zapisují do sešitu:
 
@@ -48,7 +64,9 @@ Učitel probere práva subjektu dat — žáci zapisují do sešitu:
 
 Praktické cvičení: Učitel ukáže reálný cookie banner a žáci identifikují, které kategorie cookies přijmout, které odmítnout a proč.
 
-### 3. Creative Commons — co smím použít? (17 min) — PC
+### 3. Creative Commons — co smím použít?
+
+<span class="act pc">💻 PC — 17 min</span>
 
 Učitel vysvětlí, že nestačí znát GDPR — stejně důležité je vědět, co smím dělat s cizím obsahem (obrázky, hudba, texty).
 
@@ -70,7 +88,9 @@ Učitel vysvětlí, že nestačí znát GDPR — stejně důležité je vědět,
 4. Napiš do dokumentu: název díla, autor, licence, co s ním smím a nesmím udělat
 5. Najdi jeden obrázek, který smíš volně použít i v komerčním projektu
 
-### 4. Kvíz a shrnutí (10 min) — kvíz
+### 4. Kvíz a shrnutí
+
+<span class="act review">🔍 Reflexe — 10 min</span>
 
 Učitel promítne 5 scénářů, žáci hlasují (Mentimeter, zvedání rukou nebo kartičky ANO/NE):
 

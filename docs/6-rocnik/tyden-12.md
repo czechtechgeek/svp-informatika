@@ -1,19 +1,27 @@
-﻿# Scratch IV: Zvuky a bubliny
+---
+grade: 6
+week: 12
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák přidá do Scratch projektu zvuk ze knihovny nebo nahraje vlastní
+  - "Žák použije bloky `řekni` a `přemýšlej` pro vytvoření bublin s textem"
+  - Žák synchronizuje zvuk s pohybem nebo změnou kostýmu
+  - Žák vytvoří krátký příběh pomocí sekvence zvuků a bublinových dialogů
+time_budget:
+  - type: pc
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Pátky jsou ideální pro **\"Dabingové studio\"**. Pokud mají žáci k dispozici mikrofony (nebo stačí i jeden u učitele), nechte je nahrát legrační věty pro jejich postavičky. Práce s vlastním hlasem v 6. třídě spolehlivě zvedne energii v hodině a žáci se naučí pracovat s editorem zvuku (oříznutí ticha, zrychlení/zpomalení hlasu), což je skvělý bonus k programování."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou ideální pro **"Dabingové studio"**. Pokud mají žáci k dispozici mikrofony (nebo stačí i jeden u učitele), nechte je nahrát legrační věty pro jejich postavičky. Práce s vlastním hlasem v 6. třídě spolehlivě zvedne energii v hodině a žáci se naučí pracovat s editorem zvuku (oříznutí ticha, zrychlení/zpomalení hlasu), což je skvělý bonus k programování.
-
-## 🎯 Cíle hodiny
-
-- Žák přidá do Scratch projektu zvuk ze knihovny nebo nahraje vlastní
-- Žák použije bloky `řekni` a `přemýšlej` pro vytvoření bublin s textem
-- Žák synchronizuje zvuk s pohybem nebo změnou kostýmu
-- Žák vytvoří krátký příběh pomocí sekvence zvuků a bublinových dialogů
+# 
 
 ## 💡 Metodický postup
 
@@ -23,7 +31,9 @@ Učitel ukáže žákům svůj projekt z minulé hodiny (tančící sprite) — 
 
 Diskuse o tom, jak zvuk doplňuje vizuální obsah — jako v animovaném filmu.
 
-### 2. Průzkum zvuků a bublin (10 min) — PC
+### 2. Průzkum zvuků a bublin
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel na tabuli ukáže:
 
@@ -38,7 +48,9 @@ Učitel na tabuli ukáže:
 
 Žáci si 5 minut hrají sami — prozkoumají možnosti.
 
-### 3. Aktivita: Zpívající zvíře (20 min) — PC
+### 3. Aktivita: Zpívající zvíře
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci vytvoří projekt „Zpívající zvíře" — krátký příběh se zvuky a dialogy:
 
@@ -80,4 +92,3 @@ Scéna 3:
 
 !!! tip "Tip pro učitele"
     Nahrávání vlastního hlasu je pro žáky velmi motivující — jsou nadšení, když slyší svůj hlas z postavičky. Upozorněte na pravidla netikety — nenahrávat spolužáky bez svolení. Pokud nemáte mikrofony, použijte vestavěnou zvukovou knihovnu Scratche.
-

@@ -1,24 +1,37 @@
-# 🎭 Klamání daty: Grafy v médiích
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Data, informace a modelování / Digitální společnost
-> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
-> **Kód:** `INF-INF-004-ZV9-014` – *Diskutuje o fungování digitálních technologií určujících trendy ve světě.*
-
-**Po hodině žák:**
-* **Identifikuje** nejčastější techniky klamavé vizualizace dat (zkrácená osa, 3D efekty, cherry picking).
-* **Analyzuje** konkrétní příklady klamavých grafů a pojmenuje použitou manipulaci.
-* **Vytvoří** vlastní „klamavý" a „poctivý" graf ze stejných dat.
-* **Aplikuje** kritický přístup k datovým vizualizacím v médiích.
-
+---
+grade: 8
+week: 5
+time: 45
+area: "Data, informace a modelování / Digitální společnost"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "**Identifikuje** nejčastější techniky klamavé vizualizace dat (zkrácená osa, 3D efekty, cherry picking)."
+  - "**Analyzuje** konkrétní příklady klamavých grafů a pojmenuje použitou manipulaci."
+  - "**Vytvoří** vlastní „klamavý\" a „poctivý\" graf ze stejných dat."
+  - "**Aplikuje** kritický přístup k datovým vizualizacím v médiích."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Prohlídka novin nebo zpravodajských webů: najděte s žáky jeden graf živě a analyzujte ho. Reálný případ z aktuálního dne je silnější než jakýkoli připravený příklad."
 ---
 
-### 💡 Metodický postup (45 min)
+# Klamání daty: Grafy v médiích
 
-#### 1. Úvod: Může lhát pravdivé číslo? (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Může lhát pravdivé číslo?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel napíše na tabuli: „Nezaměstnanost klesla z 5,2 % na 5,0 %."
 
@@ -31,8 +44,9 @@ Závěr: Čísla jsou pravdivá. Graf lže způsobem, jakým je znázorní.
 
 ---
 
-#### 2. Katalog klamavých technik (12 min)
-*Tabule — přehled technik.*
+### 2. Katalog klamavých technik
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel projde se třídou přehled technik:
 
@@ -46,8 +60,9 @@ Učitel projde se třídou přehled technik:
 
 ---
 
-#### 3. Praktická aktivita: Oprav graf (18 min)
-*Práce na PC.*
+### 3. Praktická aktivita: Oprav graf
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Zadaná data — vývoj prodejů e-shopu:
 
@@ -69,8 +84,9 @@ Zadaná data — vývoj prodejů e-shopu:
 
 ---
 
-#### 4. Reflexe: Jak se bránit? (7 min)
-*Diskuze.*
+### 4. Reflexe: Jak se bránit?
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Checklist pro analýzu grafu:
 1. Kde začíná osa Y?
@@ -80,7 +96,7 @@ Checklist pro analýzu grafu:
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Web — Calling Bullshit (EN):** [callingbullshit.org](https://www.callingbullshit.org) — galerie klamavých vizualizací s vysvětlením
 * **Kniha (CZ):** „Jak lhát se statistikou" — Darrell Huff; dostupná v knihovnách, čtivá a krátká
@@ -90,7 +106,5 @@ Checklist pro analýzu grafu:
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Tato hodina má velký potenciál pro debatu. Žáci se přirozeně ptají: „Dělají to novináři záměrně?" Odpověď: Někdy ano (politická agenda), někdy ne (neznalost vizualizace). Obojí je problém. Veďte žáky k tomu, že odhalení manipulace není o politickém přesvědčení — je to analytická dovednost. Příklady najdete v aktuálním tisku i na sociálních sítích.
-
-> 💬 **Tip pro pátek:** Prohlídka novin nebo zpravodajských webů: najděte s žáky jeden graf živě a analyzujte ho. Reálný případ z aktuálního dne je silnější než jakýkoli připravený příklad.
+!!! tip "Tip pro učitele"
+    Tato hodina má velký potenciál pro debatu. Žáci se přirozeně ptají: „Dělají to novináři záměrně?" Odpověď: Někdy ano (politická agenda), někdy ne (neznalost vizualizace). Obojí je problém. Veďte žáky k tomu, že odhalení manipulace není o politickém přesvědčení — je to analytická dovednost. Příklady najdete v aktuálním tisku i na sociálních sítích.

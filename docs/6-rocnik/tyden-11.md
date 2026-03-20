@@ -1,23 +1,35 @@
-﻿# Scratch III: Jednoduché cykly
+---
+grade: 6
+week: 11
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák vysvětlí, proč se v programování používají cykly (opakování)"
+  - "Žák použije blok `opakuj dokola` (forever) pro vytvoření nepřetržité animace"
+  - "Žák použije blok `opakuj X-krát` pro ohraničené opakování"
+  - Žák porovná kód bez cyklu vs. s cyklem a vysvětlí výhodu cyklu
+time_budget:
+  - type: unplugged
+    minutes: 5
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Pátky v 6. třídě jsou ideální pro **\"Nekonečnou diskotéku\"**. Nechte žáky do cyklu `opakuj dokola` přidat blok `změň efekt [barva] o [25]`. Celá třída pak má na monitorech barevně blikající sprity. Je to vizuálně atraktivní důkaz toho, že cyklus běží neustále a mění vlastnosti objektu v reálném čase."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Pátky v 6. třídě jsou ideální pro **"Nekonečnou diskotéku"**. Nechte žáky do cyklu `opakuj dokola` přidat blok `změň efekt [barva] o [25]`. Celá třída pak má na monitorech barevně blikající sprity. Je to vizuálně atraktivní důkaz toho, že cyklus běží neustále a mění vlastnosti objektu v reálném čase.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, proč se v programování používají cykly (opakování)
-- Žák použije blok `opakuj dokola` (forever) pro vytvoření nepřetržité animace
-- Žák použije blok `opakuj X-krát` pro ohraničené opakování
-- Žák porovná kód bez cyklu vs. s cyklem a vysvětlí výhodu cyklu
+# 
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Opakování bez konce (5 min) — bez počítače
+### 1. Úvod: Opakování bez konce
+
+<span class="act unplugged">✋ Bez počítače — 5 min</span>
 
 Učitel požádá jednoho žáka, aby vstal a sednul si, vstal a sednul — 10×. Pak se zeptá: „Kdybychom to chtěli zapsat jako program, jak by to vypadalo?"
 
@@ -26,7 +38,9 @@ Učitel požádá jednoho žáka, aby vstal a sednul si, vstal a sednul — 10×
 
 Klíčová otázka: „Co kdybychom chtěli 1000× opakovat?"
 
-### 2. Ukázka: Tančící kočka (10 min) — tabule
+### 2. Ukázka: Tančící kočka
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel ukáže na tabuli postup vytvoření tančící animace:
 
@@ -39,7 +53,9 @@ Po kliknutí na zelenou vlajku
 
 Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáčkneme STOP.
 
-### 3. Aktivita: Věčný tanec (20 min) — PC
+### 3. Aktivita: Věčný tanec
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci vytvoří animaci „Věčný tanec":
 
@@ -80,4 +96,3 @@ Vysvětlí: `opakuj dokola` = nekonečný cyklus, program běží dokud nezmáč
 
 !!! tip "Tip pro učitele"
     Žáci mají tendenci zapomenout na `čekej` uvnitř cyklu — bez něj animace běží tak rychle, že není vidět. Nechejte je to zažít a pak přijít na řešení sami — „Co přidáme, aby se animace zpomalila?" Tento debugging moment je velmi cenný.
-

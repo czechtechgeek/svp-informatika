@@ -1,23 +1,37 @@
-﻿# Informační válka: Dezinformace a hoaxy
+---
+grade: 9
+week: 23
+time: 45
+area: Digitální společnost a mediální gramotnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+goals:
+  - "Žák rozliší pojmy dezinformace, misinformace, hoax a propaganda"
+  - "Žák aplikuje metodu SIFT (Stop, Investigate, Find, Trace) na konkrétní příklad zprávy"
+  - Žák použije nástroje laterálního čtení k ověření informace z neznámého zdroje
+  - "Žák vysvětlí, proč se dezinformace šíří rychleji než pravda"
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: unplugged
+    minutes: 12
+  - type: pc
+    minutes: 15
+  - type: discussion
+    minutes: 10
+friday_tip: "Přineste na hodinu screenshot skutečného hoaxu, který koluje na českém internetu (ideálně jeden, který sami žáci nebo jejich rodiče mohli vidět). Nesdělujte hned, že jde o hoax — nechte žáky nejprve reagovat. Autentický příklad funguje mnohem lépe než vymyšlený scénář."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální společnost a mediální gramotnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-
-## 💬 Tip pro pátek
-Přineste na hodinu screenshot skutečného hoaxu, který koluje na českém internetu (ideálně jeden, který sami žáci nebo jejich rodiče mohli vidět). Nesdělujte hned, že jde o hoax — nechte žáky nejprve reagovat. Autentický příklad funguje mnohem lépe než vymyšlený scénář.
-
-## 🎯 Cíle hodiny
-
-- Žák rozliší pojmy dezinformace, misinformace, hoax a propaganda
-- Žák aplikuje metodu SIFT (Stop, Investigate, Find, Trace) na konkrétní příklad zprávy
-- Žák použije nástroje laterálního čtení k ověření informace z neznámého zdroje
-- Žák vysvětlí, proč se dezinformace šíří rychleji než pravda
+# 
 
 ## 💡 Metodický postup
 
-### 1. Proč věříme lžím? (8 min) — diskuse
+### 1. Proč věříme lžím?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel položí otázku: „Proč se nepravdivé zprávy šíří rychleji než pravdivé?"
 
@@ -33,7 +47,9 @@ Fakta k diskusi:
 - **Propaganda** = cílené šíření informací ve prospěch určité skupiny nebo státu
 - **Deepfake** = AI-generované falešné video nebo audio s reálnou osobou
 
-### 2. Metoda SIFT (12 min) — bez počítače
+### 2. Metoda SIFT
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Učitel představí metodu SIFT — jednoduchý postup pro ověřování informací:
 
@@ -51,7 +67,9 @@ Kde se informace vzala původně? Fotka z konfliktu z roku 2012 použitá jako �
 
 Učitel ukáže na projektoru jeden reálný příklad (hoax ze serveru jako manipulatori.cz nebo demagog.cz) a společně ho prochází metodou SIFT.
 
-### 3. Laterální čtení — praktické cvičení (15 min) — PC
+### 3. Laterální čtení — praktické cvičení
+
+<span class="act pc">💻 PC — 15 min</span>
 
 **Co je laterální čtení?**
 Místo abychom hledali důkazy přímo na daném webu, otevřeme novou záložku a hledáme informace O daném webu z jiných zdrojů. Profesionální fact-checkeři takto pracují.
@@ -74,7 +92,9 @@ Postup pro každý web:
 - [demagog.cz](https://demagog.cz) — ověřování výroků politiků
 - [google.com/fact-check/tools](https://toolbox.google.com/factcheck/explorer)
 
-### 4. Reflexe: Co s tím? (10 min) — diskuse
+### 4. Reflexe: Co s tím?
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Žáci odpovídají na otázky (nejprve individuálně, pak sdílejí):
 - „Sdílel/a jsi někdy zprávu, o které ses pak dozvěděl/a, že není pravdivá? Jak ses cítil/a?"

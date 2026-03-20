@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 13
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - Žák dokončí nebo stabilizuje svůj herní projekt (opraví nejdůležitější chyby)
+  - Žák otestuje hru spolužáka a poskytne konkrétní zpětnou vazbu
+  - Žák přijme zpětnou vazbu a provede alespoň jednu úpravu na základě ní
+  - "Žák prezentuje svůj projekt třídě a popíše použité koncepty (podmínky, proměnné…)"
+time_budget:
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 8
+friday_tip: "Metoda „Dvě hvězdy a jedno přání\" při prezentaci: každý divák napíše dvě věci, které se mu na hře líbí, a jednu věc, co by vylepšil. Buduje kulturu konstruktivní zpětné vazby bez kritizování."
+---
+
 # Projekt Hra III: Testování a zpětná vazba
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Metoda „Dvě hvězdy a jedno přání" při prezentaci: každý divák napíše dvě věci, které se mu na hře líbí, a jednu věc, co by vylepšil. Buduje kulturu konstruktivní zpětné vazby bez kritizování.
-
-## 🎯 Cíle hodiny
-
-- Žák dokončí nebo stabilizuje svůj herní projekt (opraví nejdůležitější chyby)
-- Žák otestuje hru spolužáka a poskytne konkrétní zpětnou vazbu
-- Žák přijme zpětnou vazbu a provede alespoň jednu úpravu na základě ní
-- Žák prezentuje svůj projekt třídě a popíše použité koncepty (podmínky, proměnné…)
 
 ## 💡 Metodický postup
 
-### 1. Dokončovací sprint (15 min) — PC
+### 1. Dokončovací sprint
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci mají 15 minut na závěrečné úpravy svého projektu. Učitel klade na tabuli časomíru.
 
@@ -29,7 +41,9 @@ Metoda „Dvě hvězdy a jedno přání" při prezentaci: každý divák napíš
 
 Pokud projekt není funkční: žák si vybere jednu fungující část a ji prezentuje jako „prototyp".
 
-### 2. Herní kavárna: Testování ve dvojicích (15 min) — PC
+### 2. Herní kavárna: Testování ve dvojicích
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci si vymění místa ve dvojicích. Každý hraje hru spolužáka 3–4 minuty.
 
@@ -52,7 +66,9 @@ Jméno testera: ________
 
 Vyplněné formuláře žáci předají tvůrci hry.
 
-### 3. Implementace zpětné vazby (8 min) — PC
+### 3. Implementace zpětné vazby
+
+<span class="act pc">💻 PC — 8 min</span>
 
 Žáci se vrátí ke svým projektům. Na základě formuláře provedou **jednu konkrétní změnu**.
 

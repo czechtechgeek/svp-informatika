@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 18
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - Žák pracuje v reálném čase ve sdíleném dokumentu s celou třídou
+  - Žák používá komentáře a navrhované úpravy (suggestion mode) místo přímých změn
+  - "Žák sleduje historii verzí dokumentu a identifikuje, kdo co změnil"
+  - "Žák dodržuje pravidla digitální etikety při společné práci (nemazat cizí text, komentovat)"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 22
+friday_tip: "Kolaborativní psaní jako hra: otevřete jeden sdílený dokument, každý žák napíše jednu větu pokračování příběhu (po pořadí). Výsledek přečtete nahlas — je zábavný a demonstruje, jak kolaborace mění výsledek."
+---
+
 # Společná tvorba: Jeden dokument, deset autorů
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Kolaborativní psaní jako hra: otevřete jeden sdílený dokument, každý žák napíše jednu větu pokračování příběhu (po pořadí). Výsledek přečtete nahlas — je zábavný a demonstruje, jak kolaborace mění výsledek.
-
-## 🎯 Cíle hodiny
-
-- Žák pracuje v reálném čase ve sdíleném dokumentu s celou třídou
-- Žák používá komentáře a navrhované úpravy (suggestion mode) místo přímých změn
-- Žák sleduje historii verzí dokumentu a identifikuje, kdo co změnil
-- Žák dodržuje pravidla digitální etikety při společné práci (nemazat cizí text, komentovat)
 
 ## 💡 Metodický postup
 
-### 1. Demo: Chaos a pořádek (10 min) — tabule
+### 1. Demo: Chaos a pořádek
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 #### Fáze 1 — Chaos (3 min)
 
@@ -34,7 +46,9 @@ Pravidla kolaborace:
 2. Cizí text = komentář, ne přepis
 3. Navrhnout úpravu (suggestion mode) → autor schválí
 
-### 2. Funkce pro spolupráci (8 min) — tabule
+### 2. Funkce pro spolupráci
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel ukáže tři klíčové funkce:
 
@@ -54,7 +68,9 @@ Učitel ukáže tři klíčové funkce:
 - Soubor → Historie verzí → Zobrazit historii verzí
 - Lze obnovit libovolnou starší verzi
 
-### 3. Společný projekt: Třídní průvodce (22 min) — PC
+### 3. Společný projekt: Třídní průvodce
+
+<span class="act pc">💻 PC — 22 min</span>
 
 Třída společně vytvoří „Průvodce informatiky pro 6. třídu" — dokument, který by pomohl žákům o rok mladším.
 

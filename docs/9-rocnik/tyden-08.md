@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 8
+time: 45
+area: Programování / Testování a ladění
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák rozliší tři typy chyb: syntax error, runtime error a logic error"
+  - Žák přečte a interpretuje chybovou hlášku Pythonu
+  - Žák systematicky lokalizuje a opraví chyby v připraveném kódu
+  - "Žák použije `print()` jako nástroj debuggingu (print debugging)"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 10
+  - type: board
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Debugging je skill, který programátoři používají každý den – a většina žáků si myslí, že chyby v kódu jsou selhání. Změňte perspektivu: „Každý profesionální programátor tráví 50 % času debuggingem. Je to normální část práce, ne ostuda.\""
+---
+
 # Debugging: Proč program nefunguje?
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Programování / Testování a ladění
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Debugging je skill, který programátoři používají každý den – a většina žáků si myslí, že chyby v kódu jsou selhání. Změňte perspektivu: „Každý profesionální programátor tráví 50 % času debuggingem. Je to normální část práce, ne ostuda."
-
-## 🎯 Cíle hodiny
-
-- Žák rozliší tři typy chyb: syntax error, runtime error a logic error
-- Žák přečte a interpretuje chybovou hlášku Pythonu
-- Žák systematicky lokalizuje a opraví chyby v připraveném kódu
-- Žák použije `print()` jako nástroj debuggingu (print debugging)
 
 ## 💡 Metodický postup
 
-### 1. Tři typy chyb (10 min) — tabule
+### 1. Tři typy chyb
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 **Syntax Error** – gramatická chyba, Python kód vůbec nespustí:
 ```python
@@ -42,7 +56,9 @@ print(prumer)        # Vypíše 20, ne 15
 
 Logic error je nejnebezpečnější – program nehlásí chybu, ale výsledek je špatný.
 
-### 2. Čtení chybových hlášek (10 min) — PC
+### 2. Čtení chybových hlášek
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Žáci záměrně napíší chybný kód a čtou výstup:
 
@@ -60,7 +76,9 @@ Anatomie chybové hlášky:
 
 Žáci dostanu 5 různých chybových hlášek a identifikují typ a příčinu.
 
-### 3. Debugging challenge (18 min) — Python
+### 3. Debugging challenge
+
+<span class="act board">🖊️ Tabule — 18 min</span>
 
 Žáci dostanou program s 5 chybami (mix syntax, runtime, logic) a opraví je:
 
@@ -86,7 +104,9 @@ elif bmi < 30.0
 
 Správné chyby: 1) chybí `:` za `def`, 2) vzorec BMI špatně `(vaha / vyska**2)`, 3) chybí `)` v `input`, 4) chybí `,` mezi parametry, 5) chybí `:` za `elif`.
 
-### 4. Print debugging (7 min) — diskuse
+### 4. Print debugging
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Technika: Když nevíme, kde je chyba, vložíme `print()` na různá místa:
 

@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 30
+time: 45
+area: Algoritmizace a programování / Digitální technologie
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák naprogramuje robota (Ozobot, micro:bit nebo online simulátor) pro splnění jednoduchého úkolu"
+  - "Žák aplikuje znalosti z algoritmizace (podmínky, cykly) v fyzickém nebo simulovaném prostředí"
+  - Žák spolupracuje ve skupině na řešení problému s jasným cílem a omezeními
+  - Žák porovná programování robota s programováním ve Scratch a identifikuje podobnosti
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: board
+    minutes: 5
+  - type: pc
+    minutes: 28
+friday_tip: Robotika na konci roku je přirozená motivace — žáci jsou uvolněnější a kreativnější. Nechejte skupiny soutěžit v jednoduchém závodu nebo splnění úkolu. Rivalita (zdravá) zvyšuje angažovanost.
+---
+
 # Rezerva: Robotika
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Robotika na konci roku je přirozená motivace — žáci jsou uvolněnější a kreativnější. Nechejte skupiny soutěžit v jednoduchém závodu nebo splnění úkolu. Rivalita (zdravá) zvyšuje angažovanost.
-
-## 🎯 Cíle hodiny
-
-- Žák naprogramuje robota (Ozobot, micro:bit nebo online simulátor) pro splnění jednoduchého úkolu
-- Žák aplikuje znalosti z algoritmizace (podmínky, cykly) v fyzickém nebo simulovaném prostředí
-- Žák spolupracuje ve skupině na řešení problému s jasným cílem a omezeními
-- Žák porovná programování robota s programováním ve Scratch a identifikuje podobnosti
 
 ## 💡 Metodický postup
 
-### 1. Roboti kolem nás (7 min) — diskuse
+### 1. Roboti kolem nás
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel se ptá: „Kde jste viděli roboty v reálném světě?" Žáci odpovídají.
 
@@ -25,7 +37,9 @@ Příklady: průmyslové rameno (auto-výroba), robotické vysavače (Roomba), d
 
 Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robot (člověk dálkově ovládá). Dnes budeme programovat autonomní chovánít (robot splní úkol sám).
 
-### 2. Výběr platformy a zadání (5 min) — tabule
+### 2. Výběr platformy a zadání
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 **Dle dostupnosti vyberte jednu z variant:**
 
@@ -45,7 +59,9 @@ Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robo
 - [csedweek.org](https://csedweek.org) — Hour of Code aktivity
 - Scratch simulace robota v bludišti (vlastní projekt)
 
-### 3. Skupinová robotická výzva (28 min) — PC nebo fyzický robot
+### 3. Skupinová robotická výzva
+
+<span class="act pc">💻 PC — 28 min</span>
 
 Žáci pracují ve skupinách 3–4 a řeší přidělený úkol:
 

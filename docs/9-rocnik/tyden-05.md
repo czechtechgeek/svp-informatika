@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 5
+time: 45
+area: Programování / Algoritmické myšlení
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - Žák spustí Python v online prostředí a napíše svůj první program
+  - "Žák používá příkaz `print()` k výpisu textu a čísel"
+  - "Žák vytvoří proměnnou a přiřadí jí hodnotu různých typů (int, str)"
+  - "Žák napíše interaktivní program, který reaguje na vstup uživatele pomocí `input()`"
+time_budget:
+  - type: pc
+    minutes: 8
+  - type: pc
+    minutes: 12
+  - type: board
+    minutes: 15
+  - type: discussion
+    minutes: 10
+friday_tip: "První hodina Pythonu je klíčová pro motivaci. Nechejte žáky co nejrychleji zažít úspěch – program, který dělá cokoli viditelného. „Hello, World!\" za 5 minut od spuštění editoru je ideální start. Neřešte hned instalaci – použijte online prostředí."
+---
+
 # Python I: Print, proměnné, input
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Programování / Algoritmické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-První hodina Pythonu je klíčová pro motivaci. Nechejte žáky co nejrychleji zažít úspěch – program, který dělá cokoli viditelného. „Hello, World!" za 5 minut od spuštění editoru je ideální start. Neřešte hned instalaci – použijte online prostředí.
-
-## 🎯 Cíle hodiny
-
-- Žák spustí Python v online prostředí a napíše svůj první program
-- Žák používá příkaz `print()` k výpisu textu a čísel
-- Žák vytvoří proměnnou a přiřadí jí hodnotu různých typů (int, str)
-- Žák napíše interaktivní program, který reaguje na vstup uživatele pomocí `input()`
 
 ## 💡 Metodický postup
 
-### 1. Spuštění prostředí a první program (8 min) — PC
+### 1. Spuštění prostředí a první program
+
+<span class="act pc">💻 PC — 8 min</span>
 
 Žáci otevřou replit.com nebo trinket.io a vytvoří nový Python projekt.
 
@@ -32,7 +46,9 @@ print(3 + 5)
 
 Spustí program (Run). Diskuse: `print()` je funkce – dává počítači příkaz „vypiš toto".
 
-### 2. Proměnné – krabičky na data (12 min) — tabule + PC
+### 2. Proměnné – krabičky na data
+
+<span class="act pc">💻 PC — 12 min</span>
 
 Učitel na tabuli: Proměnná je pojmenovaná „krabička" v paměti počítače.
 
@@ -53,7 +69,9 @@ Klíčové pojmy:
 
 Žáci změní hodnoty proměnných a spustí znovu.
 
-### 3. Vstup od uživatele: input() (15 min) — Python
+### 3. Vstup od uživatele: input()
+
+<span class="act board">🖊️ Tabule — 15 min</span>
 
 ```python
 jmeno = input("Jak se jmenuješ? ")
@@ -67,7 +85,9 @@ Důležité: `input()` vždy vrací **string**. Pokud chceme počítat, musíme 
 
 Žáci napíší vlastní verzi „představovacího programu" – program se zeptá na jméno, věk a oblíbené číslo a vypíše o uživateli větu.
 
-### 4. Ukázka chyby a reflexe (10 min) — diskuse
+### 4. Ukázka chyby a reflexe
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Učitel záměrně napíše chybný kód:
 

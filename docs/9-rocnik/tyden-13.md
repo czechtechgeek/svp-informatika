@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 13
+time: 45
+area: Algoritmizace a programování / Prezentace
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák prezentuje svůj projekt třídě a vysvětlí, co program dělá"
+  - Žák popíše klíčové části kódu srozumitelným jazykem pro neodborné publikum
+  - "Žák reflektuje, co se naučil, co bylo těžké a co by příště udělal jinak"
+  - Žák poskytne konstruktivní zpětnou vazbu na projekty spolužáků
+time_budget:
+  - type: unplugged
+    minutes: 5
+  - type: discussion
+    minutes: 28
+  - type: discussion
+    minutes: 10
+  - type: unplugged
+    minutes: 2
+friday_tip: "Nastavte přátelskou atmosféru — prezentace kódu může být stresující. Zdůrazněte, že chyby a nedodělanosti jsou v pořádku, jde o učení, ne dokonalost. Odměňte odvahu prezentovat potleskem po každém vystoupení."
+---
+
 # Závěrečný kódovací projekt III: Prezentace
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Prezentace
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Nastavte přátelskou atmosféru — prezentace kódu může být stresující. Zdůrazněte, že chyby a nedodělanosti jsou v pořádku, jde o učení, ne dokonalost. Odměňte odvahu prezentovat potleskem po každém vystoupení.
-
-## 🎯 Cíle hodiny
-
-- Žák prezentuje svůj projekt třídě a vysvětlí, co program dělá
-- Žák popíše klíčové části kódu srozumitelným jazykem pro neodborné publikum
-- Žák reflektuje, co se naučil, co bylo těžké a co by příště udělal jinak
-- Žák poskytne konstruktivní zpětnou vazbu na projekty spolužáků
 
 ## 💡 Metodický postup
 
-### 1. Příprava prezentace (5 min) — Python / bez počítače
+### 1. Příprava prezentace
+
+<span class="act unplugged">✋ Bez počítače — 5 min</span>
 
 Každý žák má 5 minut na finální přípravu. Učitel ukáže strukturu prezentace na tabuli:
 
@@ -30,7 +44,9 @@ Každý žák má 5 minut na finální přípravu. Učitel ukáže strukturu pre
 
 Příklad dobrého úvodu: „Moje kalkulačka umí základní čtyři operace a ošetřuje dělení nulou. Ukážu vám, jak..."
 
-### 2. Prezentace projektů (28 min) — diskuse / Python
+### 2. Prezentace projektů
+
+<span class="act discussion">💬 Diskuse — 28 min</span>
 
 Žáci prezentují v pořadí — učitel moderuje. Po každé prezentaci 1 minuta na otázky třídy.
 
@@ -47,7 +63,9 @@ Příklad dobrého úvodu: „Moje kalkulačka umí základní čtyři operace a
 | Vysvětlení kódu | Nerozumím ničemu | Rozumím základu | Jasné vysvětlení |
 | Prezentační projev | Tiché, nejasné | Srozumitelné | Přesvědčivé |
 
-### 3. Reflexe a hodnocení (10 min) — diskuse
+### 3. Reflexe a hodnocení
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Po prezentacích učitel vede krátkou třídní reflexi:
 
@@ -65,7 +83,9 @@ Příště bych chtěl/a zkusit: ______________
 
 Dobrovolníci sdílí odpovědi — učitel zapisuje na tabuli opakující se témata.
 
-### 4. Hodnocení projektu (2 min) — bez počítače
+### 4. Hodnocení projektu
+
+<span class="act unplugged">✋ Bez počítače — 2 min</span>
 
 Učitel oznámí hodnocení nebo sdělí, kdy ho žáci dostanou. Připomene kritéria:
 

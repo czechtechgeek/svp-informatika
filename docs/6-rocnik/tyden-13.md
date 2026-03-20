@@ -1,19 +1,25 @@
-﻿# Vánoční kódování: Digitální přání
+---
+grade: 6
+week: 13
+time: 45
+area: Algoritmizace a programování / Informační systémy
+rvp_codes:
+  - code: INF-INF-002-ZV9-005
+    text: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - "Žák samostatně vytvoří animované vánoční přání v Scratch, které kombinuje pohyb, zvuk a bubliny"
+  - "Žák aplikuje znalosti z předchozích čtyř Scratch hodin (pohyb, události, cykly, zvuky)"
+  - Žák sdílí projekt a dokáže ho svěřenec/rodič spustit přes odkaz
+  - Žák zažije radost z tvorby — výsledek má skutečné použití (darování přání)
+time_budget:
+  - type: pc
+    minutes: 30
+friday_tip: "Předvánoční pátky bývají ve škole specifické. Udělejte z této hodiny **\"Digitální vernisáž\"**. Zhasněte v učebně, nechte svítit jen monitory s běžícími vánočními animacemi a pusťte vánoční hudbu ze Scratche. Žáci mohou obcházet učebnu (\"galerii\") a zkoušet přání svých spolužáků. Tato forma prezentace je méně stresující než mluvení u tabule a buduje skvělou atmosféru."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Informační systémy
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-005" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-005</span><span style="color: #374151;">Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Předvánoční pátky bývají ve škole specifické. Udělejte z této hodiny **"Digitální vernisáž"**. Zhasněte v učebně, nechte svítit jen monitory s běžícími vánočními animacemi a pusťte vánoční hudbu ze Scratche. Žáci mohou obcházet učebnu ("galerii") a zkoušet přání svých spolužáků. Tato forma prezentace je méně stresující než mluvení u tabule a buduje skvělou atmosféru.
-
-## 🎯 Cíle hodiny
-
-- Žák samostatně vytvoří animované vánoční přání v Scratch, které kombinuje pohyb, zvuk a bubliny
-- Žák aplikuje znalosti z předchozích čtyř Scratch hodin (pohyb, události, cykly, zvuky)
-- Žák sdílí projekt a dokáže ho svěřenec/rodič spustit přes odkaz
-- Žák zažije radost z tvorby — výsledek má skutečné použití (darování přání)
+# 
 
 ## 💡 Metodický postup
 
@@ -27,7 +33,9 @@ Každý žák si na papír (nebo do poznámkového bloku) skicuje svůj záměr:
 - Co bude psát v bublině?
 - Jaký zvuk/hudba bude hrát?
 
-### 2. Tvorba přání (30 min) — PC
+### 2. Tvorba přání
+
+<span class="act pc">💻 PC — 30 min</span>
 
 Každý žák pracuje samostatně. Minimální požadavky na projekt:
 
@@ -61,4 +69,3 @@ Učitel chodí po třídě, pomáhá a navrhuje zlepšení. Pokud žák dokonč�
 
 !!! tip "Tip pro učitele"
     Tato hodina je záměrně volnější — žáci mají prostor pro kreativitu a radost z tvorby. Výsledek (odkaz na přání) je reálný produkt, který mohou darovat rodičům. Doporučujeme vytisknout QR kód s odkazem na projekt — pěkný dárek do vánočního přání.
-

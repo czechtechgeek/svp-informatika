@@ -1,23 +1,37 @@
-﻿# Prompt Engineering: Jak se ptát AI
+---
+grade: 9
+week: 18
+time: 45
+area: Umělá inteligence / Digitální gramotnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí, co je prompt a proč záleží na jeho formulaci"
+  - "Žák aplikuje techniky prompt engineeringu: kontext, role, formát, few-shot příklady"
+  - Žák porovná výsledky špatně a dobře formulovaného promptu na konkrétním příkladu
+  - Žák vytvoří vlastní systémový prompt pro specifický účel
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Dejte žákům soutěžní rámec — kdo ze třídy dostane nejlepší AI odpověď na stejnou otázku pomocí různých promptů? Soutěž o „nejlepší prompt\" silně motivuje a přirozeně vede k diskusi o tom, proč jeden prompt funguje lépe než druhý."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Umělá inteligence / Digitální gramotnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Dejte žákům soutěžní rámec — kdo ze třídy dostane nejlepší AI odpověď na stejnou otázku pomocí různých promptů? Soutěž o „nejlepší prompt" silně motivuje a přirozeně vede k diskusi o tom, proč jeden prompt funguje lépe než druhý.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je prompt a proč záleží na jeho formulaci
-- Žák aplikuje techniky prompt engineeringu: kontext, role, formát, few-shot příklady
-- Žák porovná výsledky špatně a dobře formulovaného promptu na konkrétním příkladu
-- Žák vytvoří vlastní systémový prompt pro specifický účel
+# 
 
 ## 💡 Metodický postup
 
-### 1. Proč záleží na tom, jak se ptám? (8 min) — tabule / diskuse
+### 1. Proč záleží na tom, jak se ptám?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel ukáže srovnání stejné otázky formulované různě:
 
@@ -36,7 +50,9 @@ Použij konkrétní příklady z Česka. Vyhni se odborným termínům.
 
 Analogie: Příkaz AI je jako pracovní zadání zaměstnanci. Čím přesnější zadání, tím lepší výsledek.
 
-### 2. Techniky prompt engineeringu (12 min) — tabule
+### 2. Techniky prompt engineeringu
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel projde 5 klíčových technik s příklady:
 
@@ -71,7 +87,9 @@ Vysvětli princip černých děr. Nepoužívej matematické vzorce.
 Délka: maximálně 3 věty.
 ```
 
-### 3. Soutěž: Nejlepší prompt (18 min) — PC / kvíz
+### 3. Soutěž: Nejlepší prompt
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Žáci pracují ve dvojicích. Každá dvojice dostane stejný úkol a má 10 minut vytvořit co nejlepší prompt.
 
@@ -95,7 +113,9 @@ Po 10 minutách: každá dvojice sdílí svůj prompt a výsledek. Třída hlasu
 
 **Diskuse:** Jaké prvky nejúspěšnějšího promptu ho odlišovaly?
 
-### 4. Systémový prompt a limity AI (7 min) — diskuse
+### 4. Systémový prompt a limity AI
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel vysvětlí koncept systémového promptu (instrukce, která nastaví chování AI před konverzací):
 

@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 7
+time: 45
+area: Programování / Algoritmické myšlení
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "Žák importuje modul `turtle` a ovládá základní příkazy pohybu"
+  - "Žák využívá `for` cyklus pro kreslení opakujících se tvarů"
+  - "Žák propojuje matematiku (úhly, počet stran) s programováním"
+  - Žák vytvoří vlastní kreativní obrázek pomocí želví grafiky
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 15
+  - type: board
+    minutes: 17
+  - type: discussion
+    minutes: 5
+friday_tip: "Želví grafika je skvělá pro páteční hodinu – výsledky jsou okamžitě viditelné a esteticky zajímavé. Pusťte žákům na začátku inspiraci: výstup spirálového programu. „Chcete vědět, jak se to napíše?\" Garantovaně ano."
+---
+
 # Python III: Želví grafika
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Programování / Algoritmické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-
-## 💬 Tip pro pátek
-Želví grafika je skvělá pro páteční hodinu – výsledky jsou okamžitě viditelné a esteticky zajímavé. Pusťte žákům na začátku inspiraci: výstup spirálového programu. „Chcete vědět, jak se to napíše?" Garantovaně ano.
-
-## 🎯 Cíle hodiny
-
-- Žák importuje modul `turtle` a ovládá základní příkazy pohybu
-- Žák využívá `for` cyklus pro kreslení opakujících se tvarů
-- Žák propojuje matematiku (úhly, počet stran) s programováním
-- Žák vytvoří vlastní kreativní obrázek pomocí želví grafiky
 
 ## 💡 Metodický postup
 
-### 1. Úvod do modulu turtle (8 min) — tabule
+### 1. Úvod do modulu turtle
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel ukáže a vysvětlí základní příkazy:
 
@@ -36,7 +50,9 @@ t.speed(5)            # Rychlost 1–10
 
 Analogie: Želva je robot s perem – říkáte jí, kam jít a o kolik se otočit.
 
-### 2. Čtverce a pravidelné mnohoúhelníky (15 min) — Python
+### 2. Čtverce a pravidelné mnohoúhelníky
+
+<span class="act board">🖊️ Tabule — 15 min</span>
 
 **Čtverec bez cyklu:**
 ```python
@@ -67,7 +83,9 @@ for i in range(6):
 
 Klíč: Pro N-úhelník je vnější úhel `360 / N`. Žáci zjistí sami.
 
-### 3. Kreativní tvorba (17 min) — Python
+### 3. Kreativní tvorba
+
+<span class="act board">🖊️ Tabule — 17 min</span>
 
 Žáci si vyberou výzvu dle svých schopností:
 
@@ -82,7 +100,9 @@ for i in range(50):
 
 **Pokročilé:** Nakreslit sněhovou vločku nebo vlastní vzor s více barvami a tvary.
 
-### 4. Galerie a reflexe (5 min) — diskuse
+### 4. Galerie a reflexe
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Žáci ukáží svůj obrázek sousedovi. Vyberou 2–3 zajímavé výsledky k sdílení s celou třídou. Diskuse: Jaký matematický vzorec stojí za spirálou?
 

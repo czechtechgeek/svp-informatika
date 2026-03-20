@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 21
+time: 45
+area: Algoritmizace a programování / Digitální technologie
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák vysvětlí, co je HTML a jaký je jeho vztah k webové stránce (struktura obsahu)"
+  - "Žák použije základní HTML tagy: `<h1>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<li>`"
+  - "Žák vytvoří jednoduchou HTML stránku s nadpisem, textem a odkazem"
+  - "Žák rozlišuje HTML (struktura), CSS (vzhled) a JavaScript (chování) — základní přehled"
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 22
+friday_tip: "\"Zobrazit zdrojový kód\" je magický moment: klikněte pravým tlačítkem na jakoukoli webovou stránku a vyberte \"Zobrazit zdrojový kód\". Žáci vidí HTML každé stránky. Nechejte je hádat, co jednotlivé tagy dělají — intuice je překvapivě dobrá."
+---
+
 # Webová stránka: Základy HTML
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-"Zobrazit zdrojový kód" je magický moment: klikněte pravým tlačítkem na jakoukoli webovou stránku a vyberte "Zobrazit zdrojový kód". Žáci vidí HTML každé stránky. Nechejte je hádat, co jednotlivé tagy dělají — intuice je překvapivě dobrá.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je HTML a jaký je jeho vztah k webové stránce (struktura obsahu)
-- Žák použije základní HTML tagy: `<h1>`, `<p>`, `<a>`, `<img>`, `<ul>`, `<li>`
-- Žák vytvoří jednoduchou HTML stránku s nadpisem, textem a odkazem
-- Žák rozlišuje HTML (struktura), CSS (vzhled) a JavaScript (chování) — základní přehled
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Jak funguje webová stránka? (8 min) — tabule
+### 1. Úvod: Jak funguje webová stránka?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel nakreslí schéma:
 
@@ -39,7 +51,9 @@ Analogie: HTML je jako kostra domu — říká, co je kde, ale neurčuje barvu s
 
 Dnes: jen HTML. CSS a JS jsou témata pro 8.–9. ročník.
 
-### 2. Demo: Základní tagy (10 min) — tabule
+### 2. Demo: Základní tagy
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel píše kód živě na projektoru (Poznámkový blok nebo online editor):
 
@@ -65,7 +79,9 @@ Učitel píše kód živě na projektoru (Poznámkový blok nebo online editor):
 
 Žáci říkají, co každý tag dělá. Učitel uloží jako `index.html` a otevře v prohlížeči — stránka se zobrazí!
 
-### 3. Tvorba: Osobní webová stránka (22 min) — PC
+### 3. Tvorba: Osobní webová stránka
+
+<span class="act pc">💻 PC — 22 min</span>
 
 Žáci vytvoří vlastní HTML stránku „O mně" s těmito prvky:
 

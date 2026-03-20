@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 3
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+goals:
+  - "Žák chápe pojem „plošný model\" a ví, že zjednodušení reality je záměrné"
+  - Žák vytvoří plánek (schéma) skutečného prostoru v měřítku (nebo s dodržením poměrů)
+  - Žák použije dohodnuté symboly (legenda) a orientaci (sever/vstup)
+  - Žák porovná svůj model se spolužákovým a diskutuje o rozdílech v reprezentaci
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 20
+friday_tip: "Schéma jako icebreaker: žáci nakreslí plánek svého pokoje (5 min, papír) a ukáží spolužákovi. Rychle se zjistí, kdo bydlí v paneláku, kdo na vsi — a třída se lépe pozná."
+---
+
 # Modelování II: Schéma bytu/třídy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-
-## 💬 Tip pro pátek
-Schéma jako icebreaker: žáci nakreslí plánek svého pokoje (5 min, papír) a ukáží spolužákovi. Rychle se zjistí, kdo bydlí v paneláku, kdo na vsi — a třída se lépe pozná.
-
-## 🎯 Cíle hodiny
-
-- Žák chápe pojem „plošný model" a ví, že zjednodušení reality je záměrné
-- Žák vytvoří plánek (schéma) skutečného prostoru v měřítku (nebo s dodržením poměrů)
-- Žák použije dohodnuté symboly (legenda) a orientaci (sever/vstup)
-- Žák porovná svůj model se spolužákovým a diskutuje o rozdílech v reprezentaci
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Modely kolem nás (8 min) — tabule
+### 1. Úvod: Modely kolem nás
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel ukáže na projektoru tři typy modelů stejného prostoru:
 1. Fotografie školní třídy
@@ -28,7 +40,9 @@ Diskuse: Co každý model zobrazuje? Co v něm chybí? Proč architekti kreslí 
 
 **Klíčový pojem:** Model vybírá relevantní informace a ostatní zjednodušuje nebo vynechává. Výběr závisí na **účelu modelu**.
 
-### 2. Živý příklad: Schéma učebny společně (10 min) — tabule
+### 2. Živý příklad: Schéma učebny společně
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel nakreslí na tabuli obdélník = půdorys třídy. Žáci navrhují, co zakreslit:
 - Dveře, okna
@@ -40,7 +54,9 @@ Společně se dohodnou na **legendě** (čtverec = stůl, X = PC, obdélník = t
 
 Výsledek: třída má model vlastní učebny na tabuli.
 
-### 3. Tvorba: Plánek bytu nebo herního prostoru (20 min) — PC nebo papír
+### 3. Tvorba: Plánek bytu nebo herního prostoru
+
+<span class="act pc">💻 PC — 20 min</span>
 
 **Zadání — vyberte jedno:**
 - Možnost A: Nakreslete plánek svého bytu/domu (alespoň 3 místnosti, legenda, zaznačit vstup)

@@ -1,29 +1,43 @@
+---
+grade: 6
+week: 17
+time: 45
+area: Digitální technologie a společnost
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+goals:
+  - Žák vysvětlí rozdíl mezi vstupním a výstupním zařízením
+  - Žák uvede alespoň 5 příkladů vstupních a 5 příkladů výstupních zařízení
+  - Žák popíše cestu dat od vstupu přes zpracování k výstupu na konkrétním příkladu (fotoaparát → počítač → tiskárna)
+  - "Žák rozpozná zařízení, která jsou vstupní, výstupní nebo obojí (dotykový displej, headset)"
+time_budget:
+  - type: discussion
+    minutes: 7
+  - type: unplugged
+    minutes: 12
+  - type: pc
+    minutes: 15
+friday_tip: "Pátky jsou ideální pro aktivitu **„Tok dat v mém dni\"** — každý žák nakreslí na papír 3 situace z dnešního dne, kde použil vstupní nebo výstupní zařízení (focení na mobil, poslouchání hudby, tisk ve školní knihovně). Sdílení je rychlé a osobní — žáci vidí, že I/O zařízení jsou všude kolem nich."
+---
+
 # Vstupy a výstupy: Fotka do PC, papír z tiskárny
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie a společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou ideální pro aktivitu **„Tok dat v mém dni"** — každý žák nakreslí na papír 3 situace z dnešního dne, kde použil vstupní nebo výstupní zařízení (focení na mobil, poslouchání hudby, tisk ve školní knihovně). Sdílení je rychlé a osobní — žáci vidí, že I/O zařízení jsou všude kolem nich.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí rozdíl mezi vstupním a výstupním zařízením
-- Žák uvede alespoň 5 příkladů vstupních a 5 příkladů výstupních zařízení
-- Žák popíše cestu dat od vstupu přes zpracování k výstupu na konkrétním příkladu (fotoaparát → počítač → tiskárna)
-- Žák rozpozná zařízení, která jsou vstupní, výstupní nebo obojí (dotykový displej, headset)
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Analogie s lidskými smysly (7 min) — diskuse
+### 1. Úvod: Analogie s lidskými smysly
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel se zeptá: „Jak lidé přijímají informace z okolí? Jak je sdílejí?" → Smysly = vstup, řeč a gesta = výstup.
 
 Přechod na počítač: „Počítač má také svá ‚smysla' a způsoby, jak komunikovat s okolím. Vstupy přijímají data, výstupy je vydávají."
 
-### 2. Třídění zařízení (12 min) — bez počítače
+### 2. Třídění zařízení
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Učitel promítá nebo vykřikuje zařízení, žáci ukazují kartičku **„Vstup"** / **„Výstup"** / **„Obojí"** (vyrobené předem nebo napsané na papírku).
 
@@ -40,7 +54,9 @@ Učitel promítá nebo vykřikuje zařízení, žáci ukazují kartičku **„Vs
 | Čtečka otisků prstů | Vstup |
 | Braille displej | Výstup |
 
-### 3. Aktivita: Cesta fotky (15 min) — PC + tabule
+### 3. Aktivita: Cesta fotky
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Učitel zadá scénář: „Vyfotím spolužáka telefonem → pošlu foto na počítač → vytisknu ho."
 

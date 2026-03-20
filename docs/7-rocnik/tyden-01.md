@@ -1,23 +1,37 @@
+---
+grade: 7
+week: 1
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - "Žák si vybaví klíčové pojmy z 6. ročníku: algoritmus, posloupnost, cyklus, podmínka"
+  - Žák dokáže rozlišit korektní a chybný algoritmus a opravit chybu
+  - Žák aktivně spolupracuje při skupinovém řešení algoritmické úlohy
+  - "Žák propojí znalosti z minulého roku s tím, co ho čeká v 7. ročníku"
+time_budget:
+  - type: unplugged
+    minutes: 8
+  - type: unplugged
+    minutes: 12
+  - type: pc
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Začínáte nový školní rok? Zaveďte tradici **\"Algoritmus týdne\"** — každý pátek jeden žák popíše libovolnou každodenní činnost jako algoritmus (kroky, podmínky, cykly). Ostatní hádají, co popisuje. Rozhýbe to myšlení a zároveň buduje komunitu třídy."
+---
+
 # Opakování: Co jsme zapomněli o algoritmech?
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Začínáte nový školní rok? Zaveďte tradici **"Algoritmus týdne"** — každý pátek jeden žák popíše libovolnou každodenní činnost jako algoritmus (kroky, podmínky, cykly). Ostatní hádají, co popisuje. Rozhýbe to myšlení a zároveň buduje komunitu třídy.
-
-## 🎯 Cíle hodiny
-
-- Žák si vybaví klíčové pojmy z 6. ročníku: algoritmus, posloupnost, cyklus, podmínka
-- Žák dokáže rozlišit korektní a chybný algoritmus a opravit chybu
-- Žák aktivně spolupracuje při skupinovém řešení algoritmické úlohy
-- Žák propojí znalosti z minulého roku s tím, co ho čeká v 7. ročníku
 
 ## 💡 Metodický postup
 
-### 1. Rozcvička: Rychlý kvíz pojmů (8 min) — bez počítače
+### 1. Rozcvička: Rychlý kvíz pojmů
+
+<span class="act unplugged">✋ Bez počítače — 8 min</span>
 
 Učitel píše pojmy na tabuli a žáci hlasují kartičkami (palec nahoru/dolů — vím/nevím):
 
@@ -29,7 +43,9 @@ Učitel píše pojmy na tabuli a žáci hlasují kartičkami (palec nahoru/dolů
 
 U každého pojmu žák uvede příklad z reálného života. Učitel zapisuje příklady na tabuli.
 
-### 2. Aktivita: Najdi chybu v algoritmu (12 min) — bez počítače
+### 2. Aktivita: Najdi chybu v algoritmu
+
+<span class="act unplugged">✋ Bez počítače — 12 min</span>
 
 Učitel rozdá skupinám (4 žáci) kartičku s **vadným algoritmem** — úkol: oprav chybu.
 
@@ -46,7 +62,9 @@ Učitel rozdá skupinám (4 žáci) kartičku s **vadným algoritmem** — úkol
 
 Každá skupina dostane jiný algoritmus (vaření vajíčka, mytí rukou, přihlášení do PC). Po 8 minutách skupiny prezentují nalezenou chybu.
 
-### 3. Scratch: Rozcvičení na blocích (18 min) — PC
+### 3. Scratch: Rozcvičení na blocích
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Žáci otevřou Scratch ([scratch.mit.edu](https://scratch.mit.edu)) a splní tři rychlé úlohy bez nápovědy:
 
@@ -64,7 +82,9 @@ Když kočka narazí na okraj, nech ji říct „Au!" a vrátit se na střed.
 
 Učitel projde třídou, identifikuje žáky, kteří potřebují podporu, a spáruje je se silnějšími.
 
-### 4. Reflexe: Co mě čeká v 7. ročníku? (7 min) — diskuse
+### 4. Reflexe: Co mě čeká v 7. ročníku?
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel stručně ukáže osnovu roku (projektor):
 - Modelování reality (myšlenkové mapy, diagramy)

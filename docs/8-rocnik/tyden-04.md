@@ -1,23 +1,34 @@
-# 📊 Vizualizace: Který graf pro jaká data?
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Data, informace a modelování
-> **Kód:** `INF-INF-001-ZV9-002` – *Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.*
-
-**Po hodině žák:**
-* **Rozlišuje** základní typy grafů a jejich účel.
-* **Zvolí** správnou vizualizaci pro konkrétní datovou sadu.
-* **Vytvoří** v tabulkovém procesoru grafy včetně popisků a legendy.
-* **Kriticky posoudí**, zda graf předává informaci srozumitelně.
-
+---
+grade: 8
+week: 4
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "**Rozlišuje** základní typy grafů a jejich účel."
+  - "**Zvolí** správnou vizualizaci pro konkrétní datovou sadu."
+  - "**Vytvoří** v tabulkovém procesoru grafy včetně popisků a legendy."
+  - "**Kriticky posoudí**, zda graf předává informaci srozumitelně."
+time_budget:
+  - type: discussion
+    minutes: 10
+  - type: board
+    minutes: 10
+  - type: board
+    minutes: 18
+  - type: pc
+    minutes: 7
 ---
 
-### 💡 Metodický postup (45 min)
+# Vizualizace: Který graf pro jaká data?
 
-#### 1. Rychlý přehled: Kdy co použít? (10 min)
-*Diskuze u tabule nad klíčovými pravidly.*
+## 💡 Metodický postup
+
+### 1. Rychlý přehled: Kdy co použít?
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 | Typ grafu | Hlavní účel | Příklad z praxe |
 | :--- | :--- | :--- |
@@ -34,8 +45,9 @@
 
 ---
 
-#### 2. Aktivita: „Najdi správný graf“ (10 min)
-*Práce ve dvojicích s kartičkami nebo promítaným zadáním. Žáci přiřazují k zadání typ grafu:*
+### 2. Aktivita: „Najdi správný graf“
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 * **Doprava do školy** (autobus / auto / pěšky) $\rightarrow$ **Koláčový**
 * **Průměrná teplota** každý měsíc $\rightarrow$ **Spojnicový**
@@ -44,8 +56,9 @@
 
 ---
 
-#### 3. Praktická tvorba na PC (18 min)
-*Žáci zpracovávají dva odlišné datasety v Excelu / Tabulkách Google:*
+### 3. Praktická tvorba na PC
+
+<span class="act board">🖊️ Tabule — 18 min</span>
 
 <div class="zadani-pc">
 
@@ -61,15 +74,16 @@
 
 ---
 
-#### 4. Reflexe a peer-review (7 min)
-*Žáci si navzájem zhodnotí práci u sousedního počítače:*
+### 4. Reflexe a peer-review
+
+<span class="act pc">💻 PC — 7 min</span>
 1.  Je zvolený typ grafu logický vzhledem k datům?
 2.  Má graf název a popsané osy?
 3.  Pochopím hlavní informaci do 5 sekund bez vysvětlování?
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Online nástroje:** [Datawrapper](https://www.datawrapper.de) (profesionální výstupy), [Flourish](https://flourish.studio) (interaktivita).
 * **Inspirace:** Hledejte termín **"Chart Chooser"** pro přehledné plakáty do učebny.
@@ -77,7 +91,6 @@
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Ukažte žákům reálnou infografiku z médií a nechte je hádat: *„Proč grafik vybral zrovna tento typ?“* Vizuální diskuze funguje lépe než suchá teorie.
->
-> ❗ **Pozor na koláče:** Žáci je milují, ale v praxi jsou často nevhodné. Ukažte jim stejná data v koláči a v pruhovém grafu vedle sebe. Sami uvidí, že v pruhu se hodnoty porovnávají mnohem přesněji.
+!!! tip "Tip pro učitele"
+    Ukažte žákům reálnou infografiku z médií a nechte je hádat: *„Proč grafik vybral zrovna tento typ?“* Vizuální diskuze funguje lépe než suchá teorie.
+    > ❗ **Pozor na koláče:** Žáci je milují, ale v praxi jsou často nevhodné. Ukažte jim stejná data v koláči a v pruhovém grafu vedle sebe. Sami uvidí, že v pruhu se hodnoty porovnávají mnohem přesněji.

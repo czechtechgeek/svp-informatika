@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 14
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák vysvětlí princip rastrového obrázku jako mřížky pixelů s barevnou hodnotou
+  - Žák vytvoří pixel-art obrázek s vánoční nebo zimní tématikou
+  - "Žák pochopí, že každý digitální obrázek je v základu tabulka čísel (barvy = kódy)"
+  - Žák propojí znalost o binárním kódování dat s praktickou tvorbou
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 5
+  - type: pc
+    minutes: 27
+friday_tip: Vánoční pixel-art funguje jako relaxační aktivita i v náhradní hodině — nevyžaduje Scratch ani složité nástroje. Stačí Excel/Google Sheets se zbarvenými buňkami nebo speciální webový editor.
+---
+
 # Vánoce: Digitální pixel-art
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Vánoční pixel-art funguje jako relaxační aktivita i v náhradní hodině — nevyžaduje Scratch ani složité nástroje. Stačí Excel/Google Sheets se zbarvenými buňkami nebo speciální webový editor.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí princip rastrového obrázku jako mřížky pixelů s barevnou hodnotou
-- Žák vytvoří pixel-art obrázek s vánoční nebo zimní tématikou
-- Žák pochopí, že každý digitální obrázek je v základu tabulka čísel (barvy = kódy)
-- Žák propojí znalost o binárním kódování dat s praktickou tvorbou
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Co je pixel? (8 min) — tabule
+### 1. Úvod: Co je pixel?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel přiblíží obrázek na projektoru na 2000 % — jsou vidět čtvereček. Každý čtverec = **pixel** (picture element).
 
@@ -28,7 +40,9 @@ Klíčové pojmy:
 
 Propojení s 6. ročníkem: „V 6. třídě jste kreslili na čtverečkovaném papíru — to byl pixel-art na papíře. Dnes to uděláme digitálně."
 
-### 2. Krátká inspirační prohlídka (5 min) — tabule
+### 2. Krátká inspirační prohlídka
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Učitel ukáže na projektoru 3–4 příklady pixel-art vánočních obrázků (Santa, stromeček, sněhulák, hvězda) z veřejně dostupných zdrojů.
 
@@ -36,7 +50,9 @@ Diskuse: Kolik pixelů má přibližně každý obrázek? Jak velká je mřížk
 
 Doporučená mřížka pro hodinu: **16 × 16** nebo **32 × 32** pixelů.
 
-### 3. Tvorba: Vánoční pixel-art (27 min) — PC
+### 3. Tvorba: Vánoční pixel-art
+
+<span class="act pc">💻 PC — 27 min</span>
 
 Vyberte jeden z nástrojů dle vybavení třídy:
 

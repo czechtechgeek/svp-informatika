@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 2
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+  - code: INF-INF-001-ZV9-001
+    text: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+goals:
+  - "Žák vysvětlí, co je myšlenková mapa a k čemu slouží"
+  - "Žák rozlišuje mezi lineárním zápisem (seznam) a hierarchickým (mapa) a ví, kdy použít který"
+  - Žák vytvoří vlastní digitální myšlenkovou mapu k zadanému nebo vlastnímu tématu
+  - Žák propojí alespoň 3 úrovně větví a každou větev opatří popiskem
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 7
+  - type: pc
+    minutes: 22
+friday_tip: "Myšlenková mapa jako icebreaker: dejte žákům téma „Moje léto\" a 5 minut na papírovou mapu. Pak si mapy navzájem vyloží — vznikne rychlé a autentické sdílení bez nucené diskuse."
+---
+
 # Modelování I: Myšlenkové mapy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-001" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-001</span><span style="color: #374151;">Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému.</span></div>
-
-## 💬 Tip pro pátek
-Myšlenková mapa jako icebreaker: dejte žákům téma „Moje léto" a 5 minut na papírovou mapu. Pak si mapy navzájem vyloží — vznikne rychlé a autentické sdílení bez nucené diskuse.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je myšlenková mapa a k čemu slouží
-- Žák rozlišuje mezi lineárním zápisem (seznam) a hierarchickým (mapa) a ví, kdy použít který
-- Žák vytvoří vlastní digitální myšlenkovou mapu k zadanému nebo vlastnímu tématu
-- Žák propojí alespoň 3 úrovně větví a každou větev opatří popiskem
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Model reality (8 min) — tabule
+### 1. Úvod: Model reality
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel nakreslí na tabuli jednoduchý seznam (5 odrážek o škole) a vedle něj myšlenkovou mapu stejného obsahu.
 
@@ -28,7 +40,9 @@ Diskuse:
 
 Klíčová myšlenka: **model není realita — je to zjednodušení reality, které nám pomáhá přemýšlet**.
 
-### 2. Ukázka struktury myšlenkové mapy (7 min) — tabule
+### 2. Ukázka struktury myšlenkové mapy
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel společně se třídou staví mapu na téma „Informatika v 7. ročníku":
 
@@ -47,7 +61,9 @@ Pravidla dobré mapy (zapsat na tabuli):
 - Podbvětve = detaily
 - Barvy a ikony pomáhají paměti
 
-### 3. Tvorba: Digitální myšlenková mapa (22 min) — PC
+### 3. Tvorba: Digitální myšlenková mapa
+
+<span class="act pc">💻 PC — 22 min</span>
 
 Žáci otevřou [MindMeister](https://www.mindmeister.com) (zdarma, bez registrace pro základní použití) nebo [Coggle.it](https://coggle.it).
 

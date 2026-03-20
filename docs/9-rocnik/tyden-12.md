@@ -1,23 +1,37 @@
-﻿# Závěrečný kódovací projekt II: Vývoj
+---
+grade: 9
+week: 12
+time: 45
+area: Algoritmizace a programování / Debugging
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák implementuje pseudokód z minulé hodiny do funkčního Python programu
+  - Žák identifikuje a opraví alespoň jednu chybu pomocí debuggingu
+  - Žák provede peer-review — otestuje kód spolužáka a poskytne konstruktivní zpětnou vazbu
+  - Žák program dokončí do prezentovatelné podoby s komentáři v kódu
+time_budget:
+  - type: board
+    minutes: 5
+  - type: board
+    minutes: 25
+  - type: discussion
+    minutes: 10
+  - type: board
+    minutes: 5
+friday_tip: "Dejte žákům od začátku jasný časový plán: „Za 30 minut musí program fungovat alespoň v základu.\" Krátké check-iny každých 10 minut (zvedněte ruku, kdo má spuštěný alespoň první část) udržují tempo celé třídy."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování / Debugging
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Dejte žákům od začátku jasný časový plán: „Za 30 minut musí program fungovat alespoň v základu." Krátké check-iny každých 10 minut (zvedněte ruku, kdo má spuštěný alespoň první část) udržují tempo celé třídy.
-
-## 🎯 Cíle hodiny
-
-- Žák implementuje pseudokód z minulé hodiny do funkčního Python programu
-- Žák identifikuje a opraví alespoň jednu chybu pomocí debuggingu
-- Žák provede peer-review — otestuje kód spolužáka a poskytne konstruktivní zpětnou vazbu
-- Žák program dokončí do prezentovatelné podoby s komentáři v kódu
+# Strategie 1: Vypisování mezivýsledků
 
 ## 💡 Metodický postup
 
-### 1. Rychlý check-in a připomenutí (5 min) — tabule
+### 1. Rychlý check-in a připomenutí
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Učitel krátce shrne: „Dnes kódujete, já chodím a pomáhám. Cíl: funkční program."
 
@@ -31,7 +45,9 @@ Připomenout nejčastější chyby v Pythonu:
 | `ZeroDivisionError` | `10 / 0` | Přidej podmínku `if b != 0` |
 | Nekonečná smyčka | `while True` bez `break` | Přidej podmínku ukončení |
 
-### 2. Samostatná práce na projektu (25 min) — Python
+### 2. Samostatná práce na projektu
+
+<span class="act board">🖊️ Tabule — 25 min</span>
 
 Žáci pracují samostatně na svém projektu. Učitel obchází třídu a pomáhá.
 
@@ -75,7 +91,9 @@ fahrenheit = (stupen_c * 9 / 5) + 32
 
 Učitel věnuje 2–3 minuty každému žákovi nebo skupince. Priorita pomoci: ti, kteří mají prázdnou obrazovku nebo chybovou hlášku, které nechápou.
 
-### 3. Peer-review (10 min) — diskuse / Python
+### 3. Peer-review
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Žáci si vymění počítače (nebo sedí vedle sebe) a testují projekt spolužáka.
 
@@ -88,7 +106,9 @@ Učitel věnuje 2–3 minuty každému žákovi nebo skupince. Priorita pomoci: 
 
 Každý tester napíše spolužákovi 1 věc, která funguje dobře, a 1 věc k vylepšení.
 
-### 4. Finalizace a komentáře (5 min) — Python
+### 4. Finalizace a komentáře
+
+<span class="act board">🖊️ Tabule — 5 min</span>
 
 Žáci zapracují zpětnou vazbu a přidají komentáře do kódu:
 

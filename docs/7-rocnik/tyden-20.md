@@ -1,23 +1,37 @@
+---
+grade: 7
+week: 20
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+goals:
+  - "Žák vysvětlí, co je IP adresa a k čemu slouží"
+  - "Žák rozlišuje IPv4 a IPv6 a ví, proč přecházíme na IPv6"
+  - Žák rozlišuje soukromou a veřejnou IP adresu
+  - "Žák chápe, že IP adresa odhaluje polohu a identitu — propojení s bezpečností"
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: discussion
+    minutes: 7
+friday_tip: "Aktualizace IP: ukažte žákům na projektoru web „co je moje IP adresa\" (whatismyip.com nebo podobný) — okamžitě vidí svou veřejnou IP adresu. Je to „wow moment\", který otvírá diskusi o soukromí."
+---
+
 # IP adresa: Adresa bydliště počítače
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-
-## 💬 Tip pro pátek
-Aktualizace IP: ukažte žákům na projektoru web „co je moje IP adresa" (whatismyip.com nebo podobný) — okamžitě vidí svou veřejnou IP adresu. Je to „wow moment", který otvírá diskusi o soukromí.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je IP adresa a k čemu slouží
-- Žák rozlišuje IPv4 a IPv6 a ví, proč přecházíme na IPv6
-- Žák rozlišuje soukromou a veřejnou IP adresu
-- Žák chápe, že IP adresa odhaluje polohu a identitu — propojení s bezpečností
 
 ## 💡 Metodický postup
 
-### 1. Analogie: Adresa domu (8 min) — tabule
+### 1. Analogie: Adresa domu
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel kreslí analogii:
 
@@ -33,7 +47,9 @@ Klíčový bod: Každé zařízení v síti potřebuje jedinečnou adresu, aby v
 - IPv4: 4 čísla 0–255, oddělenč tečkami (192.168.0.1) → max. 4 miliardy adres → skoro vyčerpány!
 - IPv6: delší, hexadecimální (2001:0db8:85a3:0000:0000:8a2e:0370:7334) → 340 sextiliard adres
 
-### 2. Soukromá vs. veřejná IP (10 min) — tabule
+### 2. Soukromá vs. veřejná IP
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel vysvětlí rozdíl:
 
@@ -46,7 +62,9 @@ Analogie: Privátní IP = číslo pokoje v hotelu. Veřejná IP = adresa hotelu.
 
 Všechna zařízení v domácnosti sdílí jednu veřejnou IP (od poskytovatele internetu), ale mají různé privátní IP (přiděleny routerem = NAT).
 
-### 3. Praktická aktivita: Zjistěte svou IP (15 min) — PC
+### 3. Praktická aktivita: Zjistěte svou IP
+
+<span class="act pc">💻 PC — 15 min</span>
 
 #### Úkol 1 — Privátní IP
 
@@ -68,7 +86,9 @@ Všechna zařízení v domácnosti sdílí jednu veřejnou IP (od poskytovatele 
 
 - Vyhledat geolokaci veřejné IP školy — kde říká, že se škola nachází? Je to přesné?
 
-### 4. Propojení s bezpečností (7 min) — diskuse
+### 4. Propojení s bezpečností
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Klíčové otázky:
 - „Pokud někdo zná vaši IP, co o vás ví?" (přibližnou polohu, poskytovatele)

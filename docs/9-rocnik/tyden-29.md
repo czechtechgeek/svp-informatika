@@ -1,23 +1,37 @@
-﻿# Rezerva: Příprava na přijímací zkoušky
+---
+grade: 9
+week: 29
+time: 45
+area: Průřezové / Algoritmizace a logické myšlení
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - Žák procvičí logické úlohy typické pro přijímací testy na střední školy
+  - Žák aplikuje algoritmické myšlení na řešení sériových a kombinatorických úloh
+  - Žák analyzuje datové sady a odpovídá na otázky s využitím tabulek a grafů
+  - Žák rozezná strategii řešení testových úloh s časovým limitem
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: unplugged
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Přijímací testy na střední školy (zejména technické a gymnázia) pravidelně obsahují logické a analytické úlohy, které jsou velmi blízké informatickému myšlení. Rámujte tuto hodinu jako „přímou přípravu na testy\" — žáci to ocení a motivace je vysoká. Použijte skutečné vzorové testy dostupné zdarma online."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezové / Algoritmizace a logické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-Přijímací testy na střední školy (zejména technické a gymnázia) pravidelně obsahují logické a analytické úlohy, které jsou velmi blízké informatickému myšlení. Rámujte tuto hodinu jako „přímou přípravu na testy" — žáci to ocení a motivace je vysoká. Použijte skutečné vzorové testy dostupné zdarma online.
-
-## 🎯 Cíle hodiny
-
-- Žák procvičí logické úlohy typické pro přijímací testy na střední školy
-- Žák aplikuje algoritmické myšlení na řešení sériových a kombinatorických úloh
-- Žák analyzuje datové sady a odpovídá na otázky s využitím tabulek a grafů
-- Žák rozezná strategii řešení testových úloh s časovým limitem
+# 
 
 ## 💡 Metodický postup
 
-### 1. Typy úloh v přijímacích testech (8 min) — tabule
+### 1. Typy úloh v přijímacích testech
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel vysvětlí, co žáky čeká v přijímacích testech (zejména Cermat — jednotná přijímací zkouška):
 
@@ -31,7 +45,9 @@ Učitel vysvětlí, co žáky čeká v přijímacích testech (zejména Cermat �
 
 **Proč to řeší informatika?** Algoritmické myšlení, rozklad problému na kroky, práce s daty — to vše se učíme celé čtyři roky.
 
-### 2. Logické úlohy — společné řešení (12 min) — tabule
+### 2. Logické úlohy — společné řešení
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel promítne 3 úlohy, žáci řeší individuálně (2 min), pak diskutujeme postup:
 
@@ -52,7 +68,9 @@ Tabulka prodeje zmrzliny 4 dny × 4 příchutě → kdo prodal nejvíce celkem? 
 
 Učitel zdůrazní: nestačí znát výsledek — v testu musíte umět postup zapsat.
 
-### 3. Samostatné procvičování (18 min) — PC nebo bez počítače
+### 3. Samostatné procvičování
+
+<span class="act unplugged">✋ Bez počítače — 18 min</span>
 
 **Varianta A — online (s počítači):**
 Žáci pracují na platformě [Khanova škola](https://cs.khanacademy.org) — sekce Matematika 8–9, nebo přímo s vzorovými testy Cermat dostupnými na webu MŠMT.
@@ -67,7 +85,9 @@ Učitel připraví pracovní listy (6–8 úloh různé obtížnosti):
 
 Žáci pracují samostatně, po 15 minutách společně opravují.
 
-### 4. Strategie a tipy pro testy (7 min) — diskuse
+### 4. Strategie a tipy pro testy
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Učitel sdílí ověřené tipy pro úspěch v testech s časovým limitem:
 

@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 2
+time: 45
+area: Modelování a simulace / Algoritmické myšlení
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - "Žák vysvětlí, co je simulace a k čemu se používá v praxi"
+  - "Žák popíše, jak počítačový model zjednodušuje realitu a proč"
+  - Žák pracuje s interaktivní simulací a mění vstupní parametry
+  - Žák interpretuje výstup simulace a vyvodí závěry
+time_budget:
+  - type: discussion
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 18
+  - type: discussion
+    minutes: 7
+friday_tip: "Simulace šíření nákazy je téma, které žáci zažili na vlastní kůži (COVID-19). Začněte přímým odkazem: „Pamatujete si, jak se mluvilo o R čísle a exponenciálním růstu?\" Reálná zkušenost okamžitě zapojí pozornost."
+---
+
 # Simulace I: Co se stane, když...?
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Modelování a simulace / Algoritmické myšlení
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-006" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-006</span><span style="color: #374151;">Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Simulace šíření nákazy je téma, které žáci zažili na vlastní kůži (COVID-19). Začněte přímým odkazem: „Pamatujete si, jak se mluvilo o R čísle a exponenciálním růstu?" Reálná zkušenost okamžitě zapojí pozornost.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je simulace a k čemu se používá v praxi
-- Žák popíše, jak počítačový model zjednodušuje realitu a proč
-- Žák pracuje s interaktivní simulací a mění vstupní parametry
-- Žák interpretuje výstup simulace a vyvodí závěry
 
 ## 💡 Metodický postup
 
-### 1. Co je simulace? (8 min) — diskuse
+### 1. Co je simulace?
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Učitel se ptá: „Kdy jste naposledy viděli simulaci?" Žáci navrhují: počasí, letecký trenažér, videohry, předpověď pandemie, havárie aut.
 
@@ -29,7 +43,9 @@ Proč simulovat?
 - Je to **rychlejší** (simulujeme 100 let klimatu za hodinu)
 - Umožňuje to **„co kdyby" otázky** bez rizika
 
-### 2. Demonstrace: Šíření nákazy (12 min) — tabule
+### 2. Demonstrace: Šíření nákazy
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel otevře simulátor šíření nákazy (viz podklady) a ukáže ho celé třídě.
 
@@ -45,7 +61,9 @@ Klíčová pozorování:
 - Při R₀ > 1 roste exponenciálně
 - Očkování chrání i neočkované (kolektivní imunita)
 
-### 3. Samostatná práce se simulátorem (18 min) — PC
+### 3. Samostatná práce se simulátorem
+
+<span class="act pc">💻 PC — 18 min</span>
 
 Žáci si vyberou jednu ze dvou simulací a experimentují:
 
@@ -58,7 +76,9 @@ Každý žák zapíše do sešitu nebo sdíleného dokumentu:
 2. Co se stane, když změním parametr X?
 3. Jedno překvapení, které mě zaujalo
 
-### 4. Sdílení a reflexe (7 min) — diskuse
+### 4. Sdílení a reflexe
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 3–4 žáci sdílí svůj „objev" z experimentování. Učitel sumarizuje:
 

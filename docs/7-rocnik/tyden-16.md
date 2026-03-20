@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 16
+time: 45
+area: Digitální technologie
+rvp_codes:
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+  - code: INF-INF-003-ZV9-009
+    text: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+goals:
+  - "Žák vysvětlí, co je cloudové úložiště a jak se liší od lokálního disku"
+  - Žák se orientuje v rozhraní Google Drive nebo OneDrive (dle vybavení školy)
+  - "Žák nahraje soubor do cloudu, vytvoří složky a organizuje dokumenty"
+  - "Žák pochopí, proč je cloud výhodný pro zálohu a přístup z více zařízení"
+time_budget:
+  - type: unplugged
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 20
+friday_tip: "Analogie pro cloud: „Vaše fotky v mobilu jsou jako peněženka — máte je u sebe. Cloud je jako bankovní trezor — data jsou jinde, ale dostanete se k nim odkudkoliv.\" Žáci tuto analogii okamžitě pochopí."
+---
+
 # Cloud: Google Drive/OneDrive
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální technologie
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-009" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-009</span><span style="color: #374151;">Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování.</span></div>
-
-## 💬 Tip pro pátek
-Analogie pro cloud: „Vaše fotky v mobilu jsou jako peněženka — máte je u sebe. Cloud je jako bankovní trezor — data jsou jinde, ale dostanete se k nim odkudkoliv." Žáci tuto analogii okamžitě pochopí.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je cloudové úložiště a jak se liší od lokálního disku
-- Žák se orientuje v rozhraní Google Drive nebo OneDrive (dle vybavení školy)
-- Žák nahraje soubor do cloudu, vytvoří složky a organizuje dokumenty
-- Žák pochopí, proč je cloud výhodný pro zálohu a přístup z více zařízení
 
 ## 💡 Metodický postup
 
-### 1. Diskuse: Kde jsou vaše data? (8 min) — bez počítače
+### 1. Diskuse: Kde jsou vaše data?
+
+<span class="act unplugged">✋ Bez počítače — 8 min</span>
 
 Učitel se ptá:
 - „Kam si ukládáte fotky z telefonu?"
@@ -36,7 +48,9 @@ Učitel nakreslí schéma:
 
 Výhoda cloudu: přístup odkudkoliv, automatická záloha, sdílení bez přenosu souboru.
 
-### 2. Demo: Navigace v Google Drive (12 min) — tabule
+### 2. Demo: Navigace v Google Drive
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel otevře Drive na projektoru a ukáže:
 
@@ -48,7 +62,9 @@ Učitel otevře Drive na projektoru a ukáže:
 
 Klíčový bod: dokument je uložen na serveru Google, ne na PC — proto funguje i po zavření karty.
 
-### 3. Praktická aktivita: Uspořádejte složky (20 min) — PC
+### 3. Praktická aktivita: Uspořádejte složky
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Každý žák se přihlásí do školního Google účtu a splní úkoly:
 

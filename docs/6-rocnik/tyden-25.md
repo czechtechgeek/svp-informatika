@@ -1,23 +1,35 @@
+---
+grade: 6
+week: 25
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+  - code: INF-INF-001-ZV9-003
+    text: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+goals:
+  - Žák vybere vhodná data pro vizualizaci a označí je v tabulce
+  - "Žák vloží sloupcový graf a pochopí, co osy X a Y zobrazují"
+  - Žák přidá název grafu a popisky os
+  - "Žák vysvětlí, proč je graf lepší než samotná čísla pro komunikaci dat"
+time_budget:
+  - type: board
+    minutes: 7
+  - type: unplugged
+    minutes: 8
+  - type: pc
+    minutes: 20
+friday_tip: "Pátky jsou výborné pro **„Hlasování živě\"** — učitel klade otázky a žáci hlasují zvednutím ruky, učitel zapisuje na tabuli. Data pak v reálu zadají do tabulky a vytvoří graf. Vidět svůj hlas v grafu je silný zážitek — „to jsou opravdu naše data!\""
+---
+
 # Grafy I: Sloupcový graf z dat třídy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-003" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-003</span><span style="color: #374151;">Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat.</span></div>
-
-## 💬 Tip pro pátek
-Pátky jsou výborné pro **„Hlasování živě"** — učitel klade otázky a žáci hlasují zvednutím ruky, učitel zapisuje na tabuli. Data pak v reálu zadají do tabulky a vytvoří graf. Vidět svůj hlas v grafu je silný zážitek — „to jsou opravdu naše data!"
-
-## 🎯 Cíle hodiny
-
-- Žák vybere vhodná data pro vizualizaci a označí je v tabulce
-- Žák vloží sloupcový graf a pochopí, co osy X a Y zobrazují
-- Žák přidá název grafu a popisky os
-- Žák vysvětlí, proč je graf lepší než samotná čísla pro komunikaci dat
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Graf místo čísel (7 min) — tabule
+### 1. Úvod: Graf místo čísel
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel promítne tabulku s čísly a vedle ní hotový sloupcový graf ze stejných dat.
 
@@ -28,7 +40,9 @@ Typy grafů a kdy je použít:
 - **Koláčový** — podíl celku (% zastoupení)
 - **Spojnicový** — vývoj v čase (teplota v průběhu dne)
 
-### 2. Aktivita: Sběr dat ze třídy (8 min) — bez počítače
+### 2. Aktivita: Sběr dat ze třídy
+
+<span class="act unplugged">✋ Bez počítače — 8 min</span>
 
 Žáci hlasují o oblíbené barvě (nebo jiné jednoduché kategorii dle učitele). Učitel zapíše výsledky na tabuli:
 
@@ -40,7 +54,9 @@ Typy grafů a kdy je použít:
 | Žlutá | 3 |
 | Jiná | 4 |
 
-### 3. Aktivita: Vytvoření grafu (20 min) — PC
+### 3. Aktivita: Vytvoření grafu
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci zadají data ze sběru do tabulky a vytvoří graf:
 

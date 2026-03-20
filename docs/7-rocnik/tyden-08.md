@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 8
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+goals:
+  - "Žák použije bloky událostí `když stisknuta klávesa` pro ovládání spritu"
+  - Žák implementuje pohyb do čtyř směrů pomocí šipkových kláves
+  - Žák přidá animaci kostýmu reagující na směr pohybu
+  - Žák rozlišuje dva přístupy k ovládání (polling v cyklu vs. event-driven)
+time_budget:
+  - type: board
+    minutes: 8
+  - type: board
+    minutes: 12
+  - type: pc
+    minutes: 20
+friday_tip: "Dejte žákům k dispozici gamepad nebo klávesnici a nechejte je „naučit\" virtuálního žáka pohyb — kdo zvládne ovládat postavu čtyřmi šipkami bez kouknutí do kódu, má solidní intuici pro vstupní události."
+---
+
 # Interakce: Ovládání postavy šipkami
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Algoritmizace a programování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-
-## 💬 Tip pro pátek
-Dejte žákům k dispozici gamepad nebo klávesnici a nechejte je „naučit" virtuálního žáka pohyb — kdo zvládne ovládat postavu čtyřmi šipkami bez kouknutí do kódu, má solidní intuici pro vstupní události.
-
-## 🎯 Cíle hodiny
-
-- Žák použije bloky událostí `když stisknuta klávesa` pro ovládání spritu
-- Žák implementuje pohyb do čtyř směrů pomocí šipkových kláves
-- Žák přidá animaci kostýmu reagující na směr pohybu
-- Žák rozlišuje dva přístupy k ovládání (polling v cyklu vs. event-driven)
 
 ## 💡 Metodický postup
 
-### 1. Analýza: Jak funguje ovládání ve hře? (8 min) — tabule
+### 1. Analýza: Jak funguje ovládání ve hře?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel se zeptá: „Jak počítač ví, že stiskujete klávesu?" Žáci hádají.
 
@@ -38,7 +50,9 @@ když stisknuta klávesa [↑]:
 
 Diskuse: Který je přehlednější? Který lépe reaguje na rychlé stisky? (Pollování reaguje hladčeji, events jsou přehlednější.)
 
-### 2. Demo: Postava ovládaná šipkami (12 min) — tabule
+### 2. Demo: Postava ovládaná šipkami
+
+<span class="act board">🖊️ Tabule — 12 min</span>
 
 Učitel postupně staví hráčský sprite na projektoru:
 
@@ -61,7 +75,9 @@ pokud x < -230 pak: nastav x na -230
 když stisknuta klávesa [šipka vpravo]: nastav směr na 90; změn kostým na "chůze-vpravo"
 ```
 
-### 3. Kodování: Hráčův sprite + prostředí (20 min) — PC
+### 3. Kodování: Hráčův sprite + prostředí
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci vytvoří hráčský sprite a alespoň jedno z prostředí:
 

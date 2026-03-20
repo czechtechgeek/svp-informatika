@@ -1,23 +1,37 @@
-﻿# Kybernetická obrana státu: NÚKIB
+---
+grade: 9
+week: 24
+time: 45
+area: Digitální bezpečnost / Digitální společnost
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-004-ZV9-014
+    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
+goals:
+  - "Žák vysvětlí, co je NÚKIB a jaká je jeho role v ochraně ČR v kybernetickém prostoru"
+  - Žák popíše alespoň dva typy kybernetických útoků na kritickou infrastrukturu státu
+  - Žák uvede konkrétní příklady kybernetických incidentů z ČR nebo Evropy
+  - "Žák posoudí, proč je kybernetická bezpečnost státu věcí každého občana"
+time_budget:
+  - type: discussion
+    minutes: 10
+  - type: board
+    minutes: 10
+  - type: unplugged
+    minutes: 15
+  - type: discussion
+    minutes: 10
+friday_tip: "Hodina dobře funguje jako navázání na zprávy — kybernetické útoky se dějí každý týden a NÚKIB vydává pravidelné zprávy. Stáhněte si výroční zprávu NÚKIB (PDF, zdarma) a vyberte jeden konkrétní případ útoku — žáci reagují mnohem lépe na reálné incidenty než na abstraktní pojmy."
+---
 
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Digitální bezpečnost / Digitální společnost
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-013" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-013</span><span style="color: #374151;">Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-004-ZV9-014" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-004-ZV9-014</span><span style="color: #374151;">Diskutuje o fungování digitálních technologií určujících trendy ve světě.</span></div>
-
-## 💬 Tip pro pátek
-Hodina dobře funguje jako navázání na zprávy — kybernetické útoky se dějí každý týden a NÚKIB vydává pravidelné zprávy. Stáhněte si výroční zprávu NÚKIB (PDF, zdarma) a vyberte jeden konkrétní případ útoku — žáci reagují mnohem lépe na reálné incidenty než na abstraktní pojmy.
-
-## 🎯 Cíle hodiny
-
-- Žák vysvětlí, co je NÚKIB a jaká je jeho role v ochraně ČR v kybernetickém prostoru
-- Žák popíše alespoň dva typy kybernetických útoků na kritickou infrastrukturu státu
-- Žák uvede konkrétní příklady kybernetických incidentů z ČR nebo Evropy
-- Žák posoudí, proč je kybernetická bezpečnost státu věcí každého občana
+# 
 
 ## 💡 Metodický postup
 
-### 1. Co je kybernetická válka? (10 min) — diskuse
+### 1. Co je kybernetická válka?
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Učitel zahájí provokativní otázkou: „Může stát vyhrát válku bez jediného výstřelu?"
 
@@ -35,7 +49,9 @@ Hackeři zastavili ropovod zásobující východní pobřeží USA. Lidé stáli
 Otázka: „Co mají tyto případy společného?"
 → Cílem není vojenský objekt, ale kritická infrastruktura — zdravotnictví, energetika, doprava, bankovnictví.
 
-### 2. NÚKIB — kdo nás chrání? (10 min) — tabule
+### 2. NÚKIB — kdo nás chrání?
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 **NÚKIB = Národní úřad pro kybernetickou a informační bezpečnost**
 - Vznikl v roce 2017 jako samostatný úřad
@@ -60,7 +76,9 @@ Otázka: „Co mají tyto případy společného?"
 - Finanční systém (banky, ČNB)
 - Státní správa a komunikace
 
-### 3. Simulace: Jsi poradce vlády (15 min) — bez počítače
+### 3. Simulace: Jsi poradce vlády
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 Žáci se rozdělí do skupin (3–4 žáci). Každá skupina dostane scénář útoku a musí navrhnout reakci.
 
@@ -78,7 +96,9 @@ Otázka: „Co mají tyto případy společného?"
 
 Skupiny prezentují svá řešení (2 min každá), učitel doplňuje reálné postupy.
 
-### 4. Shrnutí a kariéry v kybernetické bezpečnosti (10 min) — diskuse
+### 4. Shrnutí a kariéry v kybernetické bezpečnosti
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Učitel ukáže, že kybernetická bezpečnost je jedno z nejrychleji rostoucích odvětví IT:
 

@@ -1,24 +1,37 @@
-# 🔘 Senzory I: Tlačítka jako vstupy
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
-
-**Po hodině žák:**
-* **Naprogramuje** reakci Micro:bitu na stisk tlačítka A, tlačítka B a kombinaci A+B.
-* **Propojí** koncept podmínek (Scratch) s událostmi hardware (tlačítko stisknuto).
-* **Navrhne** jednoduchý program ovládaný tlačítky s vlastní logikou.
-* **Odladí** chyby v programu metodou systematického testování.
-
+---
+grade: 8
+week: 7
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - "**Naprogramuje** reakci Micro:bitu na stisk tlačítka A, tlačítka B a kombinaci A+B."
+  - "**Propojí** koncept podmínek (Scratch) s událostmi hardware (tlačítko stisknuto)."
+  - "**Navrhne** jednoduchý program ovládaný tlačítky s vlastní logikou."
+  - "**Odladí** chyby v programu metodou systematického testování."
+time_budget:
+  - type: board
+    minutes: 7
+  - type: pc
+    minutes: 10
+  - type: board
+    minutes: 20
+  - type: discussion
+    minutes: 8
+friday_tip: "Soutěž: kdo naprogramuje nejrychlejší „bzučák\" — program, který přehraje tón při stisku A a jiný tón při stisku B? Soutěžní prvek silně motivuje."
 ---
 
-### 💡 Metodický postup (45 min)
+# Senzory I: Tlačítka jako vstupy
 
-#### 1. Vstup vs. výstup na Micro:bitu (7 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Vstup vs. výstup na Micro:bitu
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel nakreslí schéma:
 
@@ -34,8 +47,9 @@ Propojení: Tlačítka jsou ekvivalent klávesnice — žák dává pokyn, zař�
 
 ---
 
-#### 2. Blok „při stisknutí tlačítka" — demo (10 min)
-*PC + Micro:bit — demonstrace.*
+### 2. Blok „při stisknutí tlačítka" — demo
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel ukáže v MakeCode:
 - Kategorie **Vstup** → blok `při stisknutí tlačítka [A]`
@@ -52,8 +66,9 @@ při stisknutí A+B        → zobrazit text "OK"
 
 ---
 
-#### 3. Vlastní projekt: Binární volba (20 min)
-*Práce s Micro:bitem.*
+### 3. Vlastní projekt: Binární volba
+
+<span class="act board">🖊️ Tabule — 20 min</span>
 
 Žáci programují vlastní „rozhodovač":
 
@@ -74,8 +89,9 @@ při stisknutí A+B        → zobrazit text "OK"
 
 ---
 
-#### 4. Reflexe: Vstupy v reálných zařízeních (8 min)
-*Diskuze.*
+### 4. Reflexe: Vstupy v reálných zařízeních
+
+<span class="act discussion">💬 Diskuse — 8 min</span>
 
 Otázka: „Jaké vstupy má váš mobilní telefon?" (Dotyková obrazovka, akcelerometr, mikrofon, GPS, kamera, tlačítka hlasitosti)
 
@@ -83,7 +99,7 @@ Každý vstup = senzor, který přijímá data z okolí. Program reaguje na tyto
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode — Vstup:** [makecode.microbit.org](https://makecode.microbit.org) → kategorie Vstup → `při stisknutí tlačítka`
 * **Projektový návod (CZ/EN):** microbit.org/projects — „Magic 8 Ball" projekt využívá tlačítka + akcelerometr
@@ -93,7 +109,5 @@ Každý vstup = senzor, který přijímá data z okolí. Program reaguje na tyto
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Projekt „Binární volba" (ANO/NE rozhodovač) je záměrně jednoduchý, aby se žáci soustředili na logiku a ne na syntaxi. Varianta s náhodou výrazně zvyšuje motivaci — žáci přirozeně zkouší kombinace a testují. Pokud zbývá čas, nechejte žáky vymyslet vlastní „hru" s tlačítky — papírový návrh → implementace. Skupinová práce ve dvojicích funguje dobře.
-
-> 💬 **Tip pro pátek:** Soutěž: kdo naprogramuje nejrychlejší „bzučák" — program, který přehraje tón při stisku A a jiný tón při stisku B? Soutěžní prvek silně motivuje.
+!!! tip "Tip pro učitele"
+    Projekt „Binární volba" (ANO/NE rozhodovač) je záměrně jednoduchý, aby se žáci soustředili na logiku a ne na syntaxi. Varianta s náhodou výrazně zvyšuje motivaci — žáci přirozeně zkouší kombinace a testují. Pokud zbývá čas, nechejte žáky vymyslet vlastní „hru" s tlačítky — papírový návrh → implementace. Skupinová práce ve dvojicích funguje dobře.

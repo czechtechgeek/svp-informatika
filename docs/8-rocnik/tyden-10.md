@@ -1,24 +1,37 @@
-# 👟 Proměnné v robotice: Počítadlo kroků
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Algoritmizace a programování
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-> **Kód:** `INF-INF-002-ZV9-007` – *V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.*
-
-**Po hodině žák:**
-* **Vytvoří** proměnnou v MakeCode a manipuluje s její hodnotou (zvýšení, resetování).
-* **Implementuje** počítadlo kroků pomocí akcelerometru a proměnné.
-* **Propojí** znalosti o proměnných ze Scratche (7. ročník) s fyzickým programováním.
-* **Navrhne** algoritmus pro rozlišení „kroku" od náhodného pohybu.
-
+---
+grade: 8
+week: 10
+time: 45
+area: Algoritmizace a programování
+rvp_codes:
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - "**Vytvoří** proměnnou v MakeCode a manipuluje s její hodnotou (zvýšení, resetování)."
+  - "**Implementuje** počítadlo kroků pomocí akcelerometru a proměnné."
+  - "**Propojí** znalosti o proměnných ze Scratche (7. ročník) s fyzickým programováním."
+  - "**Navrhne** algoritmus pro rozlišení „kroku\" od náhodného pohybu."
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 10
+  - type: board
+    minutes: 20
+  - type: discussion
+    minutes: 7
+friday_tip: "Reálná výzva: kolik kroků uděláte od lavice ke dveřím? Nejprve odhadněte, pak změřte Micro:bitem — diskuse o přesnosti a algoritmech krokoměru je přirozená."
 ---
 
-### 💡 Metodický postup (45 min)
+# Proměnné v robotice: Počítadlo kroků
 
-#### 1. Co je proměnná v hardwarovém programování? (8 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Co je proměnná v hardwarovém programování?
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Propojení se Scratchem:
 - Ve Scratchi: `nastav skóre na 0`, `změň skóre o 1`
@@ -33,8 +46,9 @@ Typy proměnných v MakeCode:
 
 ---
 
-#### 2. Tvorba proměnné a počítadlo (10 min)
-*Práce na PC.*
+### 2. Tvorba proměnné a počítadlo
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Učitel ukáže krok za krokem:
 
@@ -47,8 +61,9 @@ Učitel ukáže krok za krokem:
 
 ---
 
-#### 3. Projekt: Krokoměr s resetem (20 min)
-*Práce s Micro:bitem.*
+### 3. Projekt: Krokoměr s resetem
+
+<span class="act board">🖊️ Tabule — 20 min</span>
 
 <div class="zadani-pc">
 
@@ -81,8 +96,9 @@ při stisknutí A+B:
 
 ---
 
-#### 4. Propojení: Proměnné ve fyzickém světě (7 min)
-*Diskuze.*
+### 4. Propojení: Proměnné ve fyzickém světě
+
+<span class="act discussion">💬 Diskuse — 7 min</span>
 
 Proměnné v IoT zařízeních:
 - Termostat: proměnná `požadovaná_teplota`, `aktuální_teplota`
@@ -93,7 +109,7 @@ Závěr: Každé chytré zařízení je v podstatě sbírka senzorů a proměnn�
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **MakeCode — Proměnné:** [makecode.microbit.org](https://makecode.microbit.org) → Proměnné
 * **Projekt — krokoměr (EN):** microbit.org/projects → „Stopwatch" nebo „Pedometer"
@@ -103,7 +119,5 @@ Závěr: Každé chytré zařízení je v podstatě sbírka senzorů a proměnn�
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Propojení proměnných ze Scratche s MakeCode je klíčové — žáci se učí, že proměnná je univerzální programátorský koncept, ne záležitost konkrétního nástroje. Krokoměr je záměrně nepřesný — to je pedagogicky cenné. Diskuse o tom, jak vylepšit algoritmus (filtrování signálu, práh citlivosti), připravuje půdu pro projektové týdny 12–13.
-
-> 💬 **Tip pro pátek:** Reálná výzva: kolik kroků uděláte od lavice ke dveřím? Nejprve odhadněte, pak změřte Micro:bitem — diskuse o přesnosti a algoritmech krokoměru je přirozená.
+!!! tip "Tip pro učitele"
+    Propojení proměnných ze Scratche s MakeCode je klíčové — žáci se učí, že proměnná je univerzální programátorský koncept, ne záležitost konkrétního nástroje. Krokoměr je záměrně nepřesný — to je pedagogicky cenné. Diskuse o tom, jak vylepšit algoritmus (filtrování signálu, práh citlivosti), připravuje půdu pro projektové týdny 12–13.

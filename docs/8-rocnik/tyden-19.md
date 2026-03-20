@@ -1,24 +1,37 @@
-# 🔐 Šifrování: Od Caesarovy šifry po RSA
-
-> **Stav:** `⬜ Nekontrolováno`
-
-### 📋 Kontext a cíle
-> **RVP ZV (Informatika):** Bezpečnost / Kryptografie
-> **Kód:** `INF-INF-004-ZV9-013` – *Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat.*
-> **Kód:** `INF-INF-002-ZV9-006` – *Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.*
-
-**Po hodině žák:**
-* **Vysvětlí** princip šifrování a dešifrování vlastními slovy.
-* **Ručně zašifruje** a dešifruje zprávu pomocí Caesarovy šifry.
-* **Porovná** symetrické a asymetrické šifrování a uvede příklad použití.
-* **Popíše**, proč je RSA důležité pro bezpečnost internetu.
-
+---
+grade: 8
+week: 19
+time: 45
+area: Bezpečnost / Kryptografie
+rvp_codes:
+  - code: INF-INF-004-ZV9-013
+    text: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+  - code: INF-INF-002-ZV9-006
+    text: Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení.
+goals:
+  - "**Vysvětlí** princip šifrování a dešifrování vlastními slovy."
+  - "**Ručně zašifruje** a dešifruje zprávu pomocí Caesarovy šifry."
+  - "**Porovná** symetrické a asymetrické šifrování a uvede příklad použití."
+  - "**Popíše**, proč je RSA důležité pro bezpečnost internetu."
+time_budget:
+  - type: board
+    minutes: 7
+  - type: unplugged
+    minutes: 15
+  - type: board
+    minutes: 13
+  - type: review
+    minutes: 10
+friday_tip: Nechte žáky napsat zprávu Caesarovou šifrou (posunutí o 3) a předejte ji sousedovi k luštění — fyzická aktivita bez počítače funguje výborně jako icebreaker a žáci si princip zapamatují lépe než z výkladu.
 ---
 
-### 💡 Metodický postup (45 min)
+# Šifrování: Od Caesarovy šifry po RSA
 
-#### 1. Úvod: Proč lidé šifrovali zprávy? (7 min)
-*Tabule — výklad.*
+## 💡 Metodický postup
+
+### 1. Úvod: Proč lidé šifrovali zprávy?
+
+<span class="act board">🖊️ Tabule — 7 min</span>
 
 Učitel stručně představí historický kontext: Julius Caesar posílal vojenské zprávy tak, aby je nepřítel nerozuměl. Každé písmeno posunul v abecedě o 3 místa (A→D, B→E, C→F…). Zpráva „AHOJ" se stala „DKRM". Stejný princip — posun — je klíč.
 
@@ -33,8 +46,9 @@ Otázka pro třídu: „Co je slabina Caesarovy šifry?" — Žáci hádají: je
 
 ---
 
-#### 2. Praktická aktivita: Luštění a šifrování (15 min)
-*Aktivita bez počítače.*
+### 2. Praktická aktivita: Luštění a šifrování
+
+<span class="act unplugged">✋ Bez počítače — 15 min</span>
 
 **Část A — Zašifruj zprávu (5 min):** Každý žák dostane list s abecedním klíčem (posun 5). Úkol: zašifrovat svou zprávu (větu o 4–6 slovech, třeba „DNES MÁM HODINU INFORMATIKY").
 
@@ -44,8 +58,9 @@ Otázka pro třídu: „Co je slabina Caesarovy šifry?" — Žáci hádají: je
 
 ---
 
-#### 3. Od Caesara k modernímu šifrování (13 min)
-*Tabule — přehled evoluce šifrování.*
+### 3. Od Caesara k modernímu šifrování
+
+<span class="act board">🖊️ Tabule — 13 min</span>
 
 Učitel přehledně vysvětlí evoluci šifrování:
 
@@ -61,8 +76,9 @@ Konkrétní příklad použití: Když se přihlásíte do Google, váš prohlí
 
 ---
 
-#### 4. Kvíz a shrnutí (10 min)
-*Kvíz.*
+### 4. Kvíz a shrnutí
+
+<span class="act review">🔍 Reflexe — 10 min</span>
 
 Rychlý kvíz (ústně nebo na papíře — 5 otázek):
 
@@ -76,7 +92,7 @@ Závěrečné shrnutí: Šifrování je matematika aplikovaná na bezpečnost. P
 
 ---
 
-### 🛠️ Zdroje a nástroje
+## 📂 Zdroje a podklady
 
 * **Online nástroj:** [cryptii.com](https://cryptii.com) — interaktivní šifrování/dešifrování včetně Caesarovy šifry, Vigenerovy šifry i moderních algoritmů
 * **Video (CZ):** YouTube — „Jak funguje asymetrické šifrování" nebo „RSA šifrování jednoduše" — dobré vizuální vysvětlení
@@ -85,7 +101,5 @@ Závěrečné shrnutí: Šifrování je matematika aplikovaná na bezpečnost. P
 
 ---
 
-> 💡 **Tip pro učitele:**
-> Žáci bývají překvapeni, že šifrování je v podstatě matematika — sčítání a násobení čísel. Nebojte se zmínit, že prolomení RSA-2048 by trvalo i nejrychlejšímu počítači světa miliardy let. To žáky obvykle zaujme. Pokud máte čas, zkuste online nástroj cryptii.com společně promítat — žáci mohou v reálném čase vidět, jak se zpráva šifruje.
-
-> 💬 **Tip pro pátek:** Nechte žáky napsat zprávu Caesarovou šifrou (posunutí o 3) a předejte ji sousedovi k luštění — fyzická aktivita bez počítače funguje výborně jako icebreaker a žáci si princip zapamatují lépe než z výkladu.
+!!! tip "Tip pro učitele"
+    Žáci bývají překvapeni, že šifrování je v podstatě matematika — sčítání a násobení čísel. Nebojte se zmínit, že prolomení RSA-2048 by trvalo i nejrychlejšímu počítači světa miliardy let. To žáky obvykle zaujme. Pokud máte čas, zkuste online nástroj cryptii.com společně promítat — žáci mohou v reálném čase vidět, jak se zpráva šifruje.

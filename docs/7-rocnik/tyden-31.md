@@ -1,23 +1,35 @@
+---
+grade: 7
+week: 31
+time: 45
+area: Průřezová (sebehodnocení a reflexe)
+rvp_codes:
+  - code: INF-INF-002-ZV9-008
+    text: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+  - code: INF-INF-003-ZV9-010
+    text: Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.
+goals:
+  - Žák rekapituluje klíčová témata a dovednosti celého školního roku
+  - Žák dokončí a prezentuje digitální portfolio 7. ročníku
+  - Žák sebehodnotí svůj pokrok od začátku roku
+  - "Žák se zamýšlí nad tím, co ho čeká v 8. ročníku, a identifikuje oblasti zájmu"
+time_budget:
+  - type: board
+    minutes: 10
+  - type: pc
+    minutes: 15
+  - type: pc
+    minutes: 10
+friday_tip: "Závěrečný kruh: žáci sedí v kruhu, každý drží kartu se svým nejoblíbenějším projektem z roku. Každý řekne 1 větu o projektu a proč ho má rád. 5 minut, silný závěr roku."
+---
+
 # Závěr: Hodnocení pokroku
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Průřezová (sebehodnocení a reflexe)
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-008" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-008</span><span style="color: #374151;">Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-003-ZV9-010" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-003-ZV9-010</span><span style="color: #374151;">Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy.</span></div>
-
-## 💬 Tip pro pátek
-Závěrečný kruh: žáci sedí v kruhu, každý drží kartu se svým nejoblíbenějším projektem z roku. Každý řekne 1 větu o projektu a proč ho má rád. 5 minut, silný závěr roku.
-
-## 🎯 Cíle hodiny
-
-- Žák rekapituluje klíčová témata a dovednosti celého školního roku
-- Žák dokončí a prezentuje digitální portfolio 7. ročníku
-- Žák sebehodnotí svůj pokrok od začátku roku
-- Žák se zamýšlí nad tím, co ho čeká v 8. ročníku, a identifikuje oblasti zájmu
 
 ## 💡 Metodický postup
 
-### 1. Roční pojmová mapa (10 min) — tabule
+### 1. Roční pojmová mapa
+
+<span class="act board">🖊️ Tabule — 10 min</span>
 
 Učitel nakreslí na tabuli prázdnou myšlenkovou mapu s centrem „7. ročník". Žáci postupně doplňují pojmy a témata z celého roku.
 
@@ -27,7 +39,9 @@ Očekávaná témata:
 
 Po dokončení mapa vizuálně ukazuje, jak hodně toho třída zvládla. Učitel ji nafotí a sdílí.
 
-### 2. Portfolio: Finální dokumentace (15 min) — PC
+### 2. Portfolio: Finální dokumentace
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci otevřou svůj portfoliový dokument (Google Docs nebo Slides) a přidají sekci „7. ročník — závěr":
 
@@ -50,7 +64,9 @@ OBLÍBENÉ TÉMA ROKU:
 _______________________________
 ```
 
-### 3. Sebehodnocení celého roku (10 min) — PC nebo papír
+### 3. Sebehodnocení celého roku
+
+<span class="act pc">💻 PC — 10 min</span>
 
 Žáci vyplní komplexní sebehodnotící tabulku:
 

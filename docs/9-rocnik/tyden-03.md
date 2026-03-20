@@ -1,23 +1,37 @@
+---
+grade: 9
+week: 3
+time: 45
+area: Modelování a simulace / Data a informace
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+  - code: INF-INF-002-ZV9-007
+    text: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+goals:
+  - Žák vytvoří tabulkovou simulaci spoření s úrokem
+  - Žák pochopí princip složeného úroku a jeho vliv v čase
+  - Žák porovná různé finanční scénáře pomocí grafu
+  - Žák propojí matematiku a informatiku při modelování reálných situací
+time_budget:
+  - type: board
+    minutes: 8
+  - type: pc
+    minutes: 20
+  - type: pc
+    minutes: 12
+  - type: discussion
+    minutes: 5
+friday_tip: "Finanční gramotnost je téma, které žáci v 9. třídě potřebují – brzy budou mít první výplatu nebo půjčku. Začněte provokativní otázkou: „Kdybyste dostali 10 000 Kč, co byste s nimi udělali?\" Různé odpovědi přirozeně otevřou téma spoření a investic."
+---
+
 # Simulace II: Finanční gramotnost
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Modelování a simulace / Data a informace
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-002-ZV9-007" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-002-ZV9-007</span><span style="color: #374151;">V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné.</span></div>
-
-## 💬 Tip pro pátek
-Finanční gramotnost je téma, které žáci v 9. třídě potřebují – brzy budou mít první výplatu nebo půjčku. Začněte provokativní otázkou: „Kdybyste dostali 10 000 Kč, co byste s nimi udělali?" Různé odpovědi přirozeně otevřou téma spoření a investic.
-
-## 🎯 Cíle hodiny
-
-- Žák vytvoří tabulkovou simulaci spoření s úrokem
-- Žák pochopí princip složeného úroku a jeho vliv v čase
-- Žák porovná různé finanční scénáře pomocí grafu
-- Žák propojí matematiku a informatiku při modelování reálných situací
 
 ## 💡 Metodický postup
 
-### 1. Úvod: Proč je čas důležitý v penězích (8 min) — tabule
+### 1. Úvod: Proč je čas důležitý v penězích
+
+<span class="act board">🖊️ Tabule — 8 min</span>
 
 Učitel napíše na tabuli dvě jména:
 
@@ -30,7 +44,9 @@ Pak ukáže výpočet: Anička má díky složenému úroku (5 % p.a.) zhruba **
 
 Klíčový pojem: **Složený úrok** = úrok se připočítává k jistině a v dalším roce nese sám další úrok.
 
-### 2. Tvorba simulace v tabulce (20 min) — PC
+### 2. Tvorba simulace v tabulce
+
+<span class="act pc">💻 PC — 20 min</span>
 
 Žáci vytvoří tabulku v Google Sheets nebo LibreOffice Calc:
 
@@ -49,7 +65,9 @@ Vzorce:
 
 Po 10 řádcích (10 let) žáci přidají **graf** – spojnicový, osa X = rok, osa Y = úspory.
 
-### 3. Experimenty: Co se změní? (12 min) — PC
+### 3. Experimenty: Co se změní?
+
+<span class="act pc">💻 PC — 12 min</span>
 
 Žáci zkusí tři scénáře a porovnají grafy:
 
@@ -59,7 +77,9 @@ Po 10 řádcích (10 let) žáci přidají **graf** – spojnicový, osa X = rok
 
 Závěr: Která proměnná má největší vliv? (Zpravidla čas > výše vkladu > úrok)
 
-### 4. Diskuse: Inflace a reálná hodnota (5 min) — diskuse
+### 4. Diskuse: Inflace a reálná hodnota
+
+<span class="act discussion">💬 Diskuse — 5 min</span>
 
 Učitel doplní: „Ale co inflace?" – pokud inflace 3 %, ale úrok 5 %, reálný výnos je jen 2 %.
 

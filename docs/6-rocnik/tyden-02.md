@@ -1,22 +1,33 @@
+---
+grade: 6
+week: 2
+time: 45
+area: "Data, informace a modelování"
+rvp_codes:
+  - code: INF-INF-001-ZV9-002
+    text: Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.
+goals:
+  - "Žák rozlišuje pojmy **data** a **informace** a vysvětlí rozdíl vlastními slovy"
+  - "Žák uvede příklady, jak různé formy přenosu zprávy ovlivňují její obsah"
+  - Žák popíše výhody a nevýhody digitálního přenosu oproti ústnímu nebo písemnému
+  - "Žák pochopí, že data jsou „surová\" čísla/fakta, informace vznikají jejich interpretací"
+time_budget:
+  - type: unplugged
+    minutes: 10
+  - type: discussion
+    minutes: 10
+  - type: pc
+    minutes: 15
+friday_tip: "Pokud máte v pátek \"línou\" hodinu, zkuste aktivitu **\"Emoji příběh\"**. Žák napíše krátkou informaci (větu) pouze pomocí emoji (data). Ostatní se pokoušejí informaci interpretovat. Ukáže se, jak moc záleží na společném kontextu, aby z dat vznikla správná informace."
+---
+
 # Informace vs. Data: Jak lidé předávají zprávy
-
-## 📋 Vazba na RVP ZV (Informatika)
-- **Oblast:** Data, informace a modelování
-- **Výstup:** <div class="curriculumTag" data-code="INF-INF-001-ZV9-002" style="display: inline-flex; align-items: center; gap: 6px; cursor: pointer; padding: 4px 10px; background-color: #f0f7ff; border: 1px solid #1975FE; border-radius: 6px; font-size: 13px; margin: 2px 4px 2px 0; user-select: none;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#1975FE" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg><span style="color: #1975FE; font-weight: 500;">INF-INF-001-ZV9-002</span><span style="color: #374151;">Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu.</span></div>
-
-## 💬 Tip pro pátek
-Pokud máte v pátek "línou" hodinu, zkuste aktivitu **"Emoji příběh"**. Žák napíše krátkou informaci (větu) pouze pomocí emoji (data). Ostatní se pokoušejí informaci interpretovat. Ukáže se, jak moc záleží na společném kontextu, aby z dat vznikla správná informace.
-
-## 🎯 Cíle hodiny
-
-- Žák rozlišuje pojmy **data** a **informace** a vysvětlí rozdíl vlastními slovy
-- Žák uvede příklady, jak různé formy přenosu zprávy ovlivňují její obsah
-- Žák popíše výhody a nevýhody digitálního přenosu oproti ústnímu nebo písemnému
-- Žák pochopí, že data jsou „surová" čísla/fakta, informace vznikají jejich interpretací
 
 ## 💡 Metodický postup
 
-### 1. Hra „Telefon" (10 min) — bez počítače
+### 1. Hra „Telefon"
+
+<span class="act unplugged">✋ Bez počítače — 10 min</span>
 
 Klasická hra s šeptanou zprávou — žáci si šeptají větu od prvního k poslednímu žákovi v řadě. Zpráva nesmí být příliš krátká ani příliš dlouhá (doporučení: „Červená kočka sedí na modrém stromě v parku u školy").
 
@@ -27,7 +38,9 @@ Po skončení učitel:
 
 **Klíčová otázka:** Jaká byla **data** (slova) a jaká **informace** (smysl sdělení)?
 
-### 2. Srovnání: Telegram, dopis, WhatsApp (10 min) — diskuse
+### 2. Srovnání: Telegram, dopis, WhatsApp
+
+<span class="act discussion">💬 Diskuse — 10 min</span>
 
 Učitel ukáže na tabuli nebo interaktivní tabuli 3 historické způsoby přenosu zprávy:
 
@@ -40,7 +53,9 @@ Učitel ukáže na tabuli nebo interaktivní tabuli 3 historické způsoby přen
 
 Diskuse: Proč záleží na tom, **jak** pošleme zprávu? Co se může ztratit nebo změnit?
 
-### 3. Aktivita: Data vs. Informace třídění (15 min) — PC nebo papír
+### 3. Aktivita: Data vs. Informace třídění
+
+<span class="act pc">💻 PC — 15 min</span>
 
 Žáci dostanou (na papíře nebo v Google Docs sdíleném učitelem) tabulku s 10 položkami a třídí je:
 
@@ -71,4 +86,3 @@ Učitel shrne: **Data = surová čísla a fakta. Informace = data v kontextu s v
 
 !!! tip "Tip pro učitele"
     Hra Telefon nejlépe funguje s větou, která obsahuje konkrétní čísla nebo jména — ta se nejčastěji zkomolí a demonstrace je přesvědčivější. Zkuste variantu, kde jedna skupina šeptá a druhá píše SMS — porovnejte výsledky obou skupin.
-
