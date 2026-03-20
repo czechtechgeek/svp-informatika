@@ -47,7 +47,9 @@ Diskuse: „Jakou mechaniku umíme ve Scratch udělat?" → Pohyb šipkami, skó
 
 <span class="act pc">💻 PC — 30 min</span>
 
-Každý žák vyplní **Game Design Dokument** (GDD) — šablona na papíře nebo v Google Docs:
+<div class="zadani-pc">
+
+Otevři **Google Docs** (nebo papír) a vyplň svůj **Game Design Dokument** pro hru, kterou budeš programovat v příštích hodinách ve Scratchi:
 
 ```
 NÁZEV HRY: _______________
@@ -67,15 +69,21 @@ CÍL HRY:
   Jak se prohraje: ______
 
 PROMĚNNÉ:
-  □ Skóre   □ Čas   □ Životy   □ Jiné: _____
+  ☐ Skóre   ☐ Čas   ☐ Životy   ☐ Jiné: _____
 
-NÁČRT SCÉNY (nakresli):
-  [místo pro skicu]
+NÁČRT SCÉNY (nakresli nebo popiš):
+  [místo pro skicu nebo popis prostředí]
 
-BLOKY SCRATCH které budu potřebovat:
-  □ Pohyb šipkami   □ Detekce kolize   □ Náhodná poloha
-  □ Proměnné        □ Časomíra         □ Jiné: _____
+BLOKY SCRATCH, které budu potřebovat:
+  ☐ Pohyb šipkami   ☐ Detekce kolize   ☐ Náhodná poloha
+  ☐ Proměnné        ☐ Časomíra         ☐ Jiné: _____
 ```
+
+⚠️ Pozor na rozsah — hra musí být hotová za 2 hodiny! Max. 3 sprity, max. 2 proměnné, 1 scéna.
+
+Na závěr ukáže spolužákovi svůj plán a navzájem zkontrolujte, zda je hra realizovatelná.
+
+</div>
 
 Učitel chodí po třídě, konzultuje nápady, upozorňuje na příliš složité plány.
 

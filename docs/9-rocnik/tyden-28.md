@@ -49,20 +49,29 @@ Učitel se rychle ptá třídy: „Kde kdo je?"
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci pracují samostatně na dokončení portfolia. Učitel obchází a konzultuje:
+<div class="zadani-pc">
 
-**Typické úkoly v této fázi:**
-- Doplnit sekci „Moje projekty" — přidat popisy a screenshoty
-- Napsat reflexi: „Co mě informatika naučila a co bych chtěl/a dál rozvíjet"
-- Upravit vizuální stránku — barvy, písmo, rozvržení
-- Zkontrolovat pravopis a gramatiku (použít Spell check)
-- Přidat kontaktní informace (volitelné — jen školní e-mail)
-- Ověřit, že portfolio funguje — klikají všechny odkazy?
+Dokonči a zkontroluj své **digitální portfolio** (Google Sites, Canva nebo jiný nástroj). Projdi tento checklist:
 
-**Tip pro pokročilé žáky:**
-- Přidat QR kód odkazující na online portfolio
-- Embedovat Python kód (GitHub Gist nebo repl.it)
-- Přidat video prezentaci (nahraná lupa nebo screen recording)
+```
+☐ Sekce „O mně" — napsána vlastními slovy (ne copy-paste)
+☐ Sekce „Moje projekty" — alespoň 3 projekty s popisem + screenshot
+☐ Reflexe — „Co mě informatika naučila a co bych chtěl/a dál rozvíjet"
+☐ Vizuální stránka — barvy, písmo, rozvržení jsou konzistentní
+☐ Pravopis zkontrolován (Spell check)
+☐ Všechny odkazy fungují (klikni na každý a ověř)
+```
+
+🚀 Hotový brzy? Přidej:
+- QR kód na portfolio (qr-code-generator.com)
+- Video prezentaci (screen recording)
+- Úryvek Python kódu (GitHub Gist nebo repl.it)
+
+Na závěr zkopíruj odkaz na portfolio a vlož ho do **sdíleného třídního dokumentu**.
+
+</div>
+
+Učitel obchází a konzultuje.
 
 ### 3. Peer-review
 

@@ -47,24 +47,30 @@ Přehled licencí na tabuli:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-**Google Images s filtrem:**
-1. Vyhledejte téma (např. „kočka")
-2. Nástroje → Práva k použití → „Licence Creative Commons"
-3. Zkontrolujte konkrétní licenci na zdrojové stránce
+<div class="zadani-pc">
 
-**Alternativní zdroje obrázků zdarma:**
-- [Wikimedia Commons](https://commons.wikimedia.org) — miliony obrázků s CC licencemi
-- [Unsplash.com](https://unsplash.com) — fotografie zdarma
-- [Pixabay.com](https://pixabay.com) — obrázky, ikony, videa zdarma
+Najdi 2 obrázky na téma podle vlastního výběru (nebo téma zadá učitel) — ale musí to být obrázky, které **smíš použít**!
 
-Každý žák najde 2 obrázky na zadané téma a zapíše citaci:
+**Kde hledat legální obrázky:**
+- **Google Obrázky:** vyhledej téma → klikni na **Nástroje → Práva k použití → Licence Creative Commons**
+- **Wikimedia Commons:** [commons.wikimedia.org](https://commons.wikimedia.org) — hledej česky
+- **Unsplash:** [unsplash.com](https://unsplash.com) — fotografie zdarma
+- **Pixabay:** [pixabay.com](https://pixabay.com) — obrázky a ikony zdarma
+
+Pro každý nalezený obrázek zapiš do sešitu nebo Google Docs citaci:
 
 ```
-Autor: [jméno]
-Název: [název díla]
-Licence: [CC BY / CC0 / ...]
-Zdroj: [URL]
+Autor: [jméno autora nebo "neznámý"]
+Název: [název díla nebo popis]
+Licence: [CC BY / CC0 / Unsplash licence / ...]
+Zdroj (URL): [adresa stránky]
 ```
+
+**Pro rychlé žáky:** Zjisti rozdíl mezi licencemi **CC BY** a **CC0**. Co smíš dělat s obrázkem pod CC BY, co nesmíš? A co dovoluje CC0?
+
+Svou vyplněnou tabulku citací ulož nebo odevzdej přes Google Classroom.
+
+</div>
 
 ### 3. Diskuse: Co hrozí za porušení?
 

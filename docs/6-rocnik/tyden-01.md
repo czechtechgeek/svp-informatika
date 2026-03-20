@@ -62,14 +62,22 @@ Otázky pro celou třídu (učitel píše odpovědi na tabuli):
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák otevře textový editor (Word, Google Docs) nebo [Canva](https://www.canva.com) a vytvoří svůj **Digitální průkaz** se čtyřmi poli:
+Každý žák otevře textový editor (Word, Google Docs) nebo [Canva](https://www.canva.com) a vytvoří svůj **Digitální průkaz**.
 
-| Pole | Co tam napíšu |
-|------|---------------|
-| **Přezdívka** | Vymyšlené jméno, které mě neidentifikuje |
-| **Avatar** | Obrázek/emoji, který mě reprezentuje |
-| **Co sdílím** | Věci, které jsou bezpečné zveřejnit |
+<div class="zadani-pc">
+
+Otevři Word, Google Docs nebo Canva (canva.com) a vytvoř svůj **Digitální průkaz** s těmito čtyřmi poli:
+
+| Pole | Co tam napíšeš |
+|------|----------------|
+| **Přezdívka** | Vymyšlené jméno, které tě neidentifikuje |
+| **Avatar** | Obrázek nebo emoji, který tě reprezentuje |
+| **Co sdílím** | Věci, které je bezpečné zveřejnit online |
 | **Co nesdílím** | Věci, které jsou soukromé |
+
+💡 Tip: Nepoužívej své pravé jméno, školu ani bydliště jako přezdívku!
+
+</div>
 
 Učitel chodí po třídě a komentuje rozhodnutí žáků — proč je jedno jméno bezpečnější než druhé.
 

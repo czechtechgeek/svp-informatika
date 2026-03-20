@@ -54,30 +54,32 @@ Doporučená mřížka pro hodinu: **16 × 16** nebo **32 × 32** pixelů.
 
 <span class="act pc">💻 PC — 27 min</span>
 
-Vyberte jeden z nástrojů dle vybavení třídy:
+<div class="zadani-pc">
 
-#### Varianta A — Piskel (online editor)
+Vytvoř **pixel-art obrázek** s vánoční nebo zimní tématikou. Vyber si nástroj:
 
-- [piskelapp.com](https://www.piskelapp.com) — zdarma, bez registrace, plné funkce
-- Nastavit plátno na 16×16 nebo 32×32
-- Exportovat jako PNG
+**Varianta A — Piskel** (doporučeno) 🎨
+1. Otevři [piskelapp.com](https://www.piskelapp.com) — zdarma, bez registrace
+2. Nastav plátno na **16×16** nebo **32×32** pixelů
+3. Kresli pixel po pixelu, vyber barvy z palety
+4. Exportuj jako PNG (File → Export → PNG)
 
-#### Varianta B — Google Sheets / Excel
-
-- Zúžit sloupce na šířku řádku (10–15px), vytvořit mřížku 20×20
-- Barvit buňky nástrojem „Barva výplně"
-- Výsledek vyfotit nebo exportovat jako PDF
-
-#### Varianta C — Scratch Sprite Editor
-- Nový sprite → Editor kostýmů → pixel by pixel
-- Výsledný sprite pak „tančí" na scéně nebo přehraje přání
+**Varianta B — Google Sheets / Excel** 📊
+1. Zúžit sloupce tak, aby byly stejně široké jako vysoké (čtvereček)
+2. Vytvoř mřížku 20×20 buněk
+3. Barvi buňky nástrojem „Barva výplně"
+4. Výsledek vyfotografuj nebo exportuj jako PDF
 
 **Témata na výběr:**
-- Vánoční stromeček
-- Sněhulák
-- Sob nebo Santa
-- Vánoční hvězda
-- Vlastní nápis (6×8 grid pro každé písmeno)
+- 🎄 Vánoční stromeček
+- ⛄ Sněhulák
+- 🦌 Sob nebo Santa
+- ⭐ Vánoční hvězda
+- Vlastní téma (schválí učitel)
+
+Na závěr ulož nebo vyfotografuj svůj obrázek a sdílej ho do **třídního Padletu nebo Google Slides** — vznikne digitální třídní výzdoba!
+
+</div>
 
 ### 4. Galerie a sdílení (5 min)
 

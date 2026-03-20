@@ -73,12 +73,15 @@ text = str(42)
 
 <span class="act board">🖊️ Tabule — 20 min</span>
 
-Žáci napíší kalkulačku, která:
-1. Načte dvě čísla
+<div class="zadani-pc">
+
+Otevři [replit.com](https://replit.com) nebo školní Python prostředí a napiš kalkulačku, která:
+1. Načte dvě čísla od uživatele
 2. Zeptá se na operaci (+, -, *, /)
-3. Provede výpočet
+3. Provede výpočet pomocí podmínek `if/elif/else`
 4. Vypíše výsledek
 
+Vzorová struktura:
 ```python
 a = float(input("První číslo: "))
 b = float(input("Druhé číslo: "))
@@ -99,7 +102,13 @@ else:
     print("Neznámá operace")
 ```
 
-Rychlí žáci přidají konvertor (km na míle, °C na °F, Kč na EUR).
+Zkus zadat krajní hodnoty: dělení nulou, záporná čísla, neznámou operaci. Chová se program správně?
+
+**Pro rychlé žáky:** Přidej konvertor jednotek — buď jako samostatný program, nebo jako rozšíření kalkulačky (např. operace `c` = převod °C na °F, `k` = km na míle).
+
+Hotový kód ulož nebo sdílej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Sdílení a reflexe
 

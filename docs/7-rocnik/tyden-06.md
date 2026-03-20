@@ -77,18 +77,26 @@ Učitel záměrně udělá chybu (zapomene `opakuj dokola`) — žáci ji odhal�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vytvoří vlastní „Bouncing Ball" projekt a přidají alespoň dvě rozšíření ze seznamu:
+<div class="zadani-pc">
 
-**Základní úkol:**
-- Sprite (libovolný) se pohybuje a odráží od čtyř stěn
-- Rychlost pohybu: 5–8 kroků (ne moc rychle, ne moc pomalu)
+Otevři [scratch.mit.edu](https://scratch.mit.edu) a vytvoř nový projekt. Naprogramuj sprite, který se pohybuje a odráží od stěn.
 
-**Rozšíření (vyberte 2):**
-- **A:** Při odrazu změní barvu (blok `změň barvu o 25`)
+**Základní úkol (povinný):**
+- Vyber si libovolný sprite
+- Sprite se pohybuje a odráží od všech čtyř stěn jeviště
+- Rychlost pohybu: 5–8 kroků (ne příliš rychle ani pomalu)
+- Použij blok `pokud dotýkám se okraje? pak: otoč se o 180 stupňů` uvnitř cyklu `opakuj dokola`
+
+**Přidej aspoň 2 rozšíření:**
+- **A:** Při každém odrazu sprite změní barvu (blok `změň barvu o 25`)
 - **B:** Při odrazu přehraje zvuk
-- **C:** Druhý sprite se pohybuje jiným směrem — kolize způsobí výbuch (skrytí a zvuk)
-- **D:** Stisknutím šipek se mění rychlost pohybu
-- **E:** Zapiš, kolikrát se sprite odrazil (preview proměnných z týdne 9)
+- **C:** Přidej druhý sprite pohybující se jiným směrem — kolize způsobí výbuch (skrytí a zvuk)
+- **D:** Šipkami nahoru/dolů se mění rychlost pohybu
+- **E:** Počítej, kolikrát se sprite odrazil (použij proměnnou)
+
+Svůj projekt pojmenuj a ulož. Sdílej odkaz přes Google Classroom nebo ulož do svého Scratch profilu.
+
+</div>
 
 ### 4. Reflexe a propojení (6 min)
 

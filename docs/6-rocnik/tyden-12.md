@@ -52,25 +52,31 @@ Učitel na tabuli ukáže:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vytvoří projekt „Zpívající zvíře" — krátký příběh se zvuky a dialogy:
+<div class="zadani-pc">
 
-**Struktura příběhu (3 scény):**
+Vytvoř v **Scratchi** projekt „Zpívající zvíře" — krátký příběh se zvuky a dialogy. Postupuj podle této struktury:
+
 ```
-Scéna 1:
-  Po kliknutí na vlajku:
-    řekni [Ahoj! Já jsem Kocour Pepa.] 2s
-    přehraj zvuk [meow] dokud neskončí
+Scéna 1 — Po kliknutí na vlajku:
+  řekni [Ahoj! Já jsem Kocour Pepa.] po dobu 2 sekund
+  přehraj zvuk [meow] dokud neskončí
 
 Scéna 2:
   přejdi na pozici [-100, 0]
-  přemýšlej [Co budu dneska dělat?] 2s
+  přemýšlej [Co budu dneska dělat?] po dobu 2 sekund
   změň kostým na [další]
 
 Scéna 3:
   pohni se o 50 kroků
-  řekni [Jdu na procházku! Čau!] 2s
+  řekni [Jdu na procházku! Čau!] po dobu 2 sekund
   přehraj zvuk [pop] dokud neskončí
 ```
+
+Zvuky najdeš v záložce **Zvuky** (ikona noty 🎵) → vyber si z knihovny nebo si nahraj vlastní hlas.
+
+💡 Vymysli vlastní příběh — nemusíš kopírovat tento vzor! Cokoliv tě napadne: zvíře, robot, vesmírná loď...
+
+</div>
 
 **Volné téma:** Žáci si vymyslí vlastní příběh — zvíře, robot, hvězda...
 

@@ -29,22 +29,34 @@ friday_tip: "Poslední hodina roku si zaslouží rituál. Zkuste **„Dopis sob�
 
 <span class="act pc">💻 PC — 10 min</span>
 
-Žáci otevřou svá portfolia (z minulé hodiny) a vyberou **1 práci**, kterou chtějí ukázat třídě. Připraví si odpovědi na 3 otázky:
+<div class="zadani-pc">
 
-1. Co jsem vytvořil/a? (1 věta)
-2. Co mě to naučilo? (1 věta)
-3. Co bych příště udělal/a jinak? (1 věta)
+Otevři své **digitální portfolio** a vyber 1 práci, kterou ukážeš třídě. Připrav si odpovědi na tyto 3 otázky (napiš si je do sešitu nebo poznámkového bloku):
+
+1. Co jsem vytvořil/a? *(1 věta — konkrétně, ne „nějaký projekt")*
+2. Co mě to naučilo? *(1 věta — co jsi pochopil/a nebo zvládl/a)*
+3. Co bych příště udělal/a jinak? *(1 věta — co bys zlepšil/a)*
+
+</div>
 
 ### 2. Prezentace portfolií
 
 <span class="act pc">💻 PC — 20 min</span>
 
+<div class="zadani-pc">
+
+Prezentuj svou práci ze svého portfolia (2 minuty maximum):
+1. Ukáž práci na obrazovce nebo projektoru
+2. Odpověz na 3 připravené otázky (viz předchozí aktivita)
+
+Po každé prezentaci řekne třída jednu větu:
+> „Oceňuji, že jsi..."
+
+</div>
+
 Formát dle velikosti třídy:
-
-**Malá třída (do 15 žáků):** každý prezentuje 2 minuty celé třídě
-**Velká třída (16+):** skupiny po 4–5 žácích — prezentují si navzájem, pak sdílejí jednu perlu s celou třídou
-
-Třída odpovídá po každé prezentaci jednou větou: „Oceňuji, že jsi..."
+- **Malá třída (do 15 žáků):** každý prezentuje celé třídě
+- **Velká třída (16+):** skupiny po 4–5 žácích, pak sdílejí jedno zjištění s celou třídou
 
 ### 3. Zpětná vazba od učitele (10 min)
 

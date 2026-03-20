@@ -96,18 +96,28 @@ Po diskusi: každá skupina sdílí svůj závěr — učitel shrnuje různá st
 
 <span class="act pc">💻 PC — 13 min</span>
 
-Žáci otestují nástroje pro detekci AI obsahu:
+<div class="zadani-pc">
 
-**Praktická cvičení:**
-1. Vyhledejte obraz na Google Images → klikněte na ikonu fotoaparátu → zpětné vyhledávání obrázku
-2. Zkuste AI detector: [hivemoderation.com](https://hivemoderation.com) nebo [illuminarty.ai](https://illuminarty.ai)
-3. Zkuste vyhledat kontext: Kdo zveřejnil? Kdy? Na jakém webu?
+Otestuj nástroje pro detekci AI obsahu a ověřování obrázků:
 
-**Pravidlo SIFT pro ověřování digitálního obsahu:**
-- **S**top — nepřeposílej hned, zamysli se
-- **I**nvestigate the source — kdo to zveřejnil?
-- **F**ind better coverage — jsou jiné zdroje, které to potvrzují?
-- **T**race claims — sleduj, odkud informace pochází původně
+**Cvičení 1 — Zpětné vyhledávání obrázku** 🔍
+1. Najdi jakýkoli obrázek tváře na webu (nebo vygeneruj na [thispersondoesnotexist.com](https://thispersondoesnotexist.com))
+2. Jdi na [Google Images](https://images.google.com), klikni na ikonu fotoaparátu
+3. Nahraj nebo vlož URL obrázku → Co Google najde?
+
+**Cvičení 2 — AI detektor** 🤖
+1. Otevři [hivemoderation.com](https://hivemoderation.com) nebo [illuminarty.ai](https://illuminarty.ai)
+2. Zkopíruj libovolný text (z novin, z webu, z AI chatbotu)
+3. Vloží do detektoru → Jak jistý je, že text napsal člověk nebo AI?
+
+**Cvičení 3 — Kontext obrázku** 🧐
+Najdi podezřelý obrázek a zjisti: Kdo ho zveřejnil? Kdy? Na jakém webu?
+
+Zapiš výsledky — co tě překvapilo?
+
+</div>
+
+**Pravidlo SIFT:** Stop → Investigate the source → Find better coverage → Trace claims.
 
 ## 📂 Podklady
 

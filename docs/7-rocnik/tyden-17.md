@@ -66,29 +66,31 @@ Učitel záměrně nastaví špatná práva a nechá žáky říct, co opravit.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci pracují ve dvojicích:
+<div class="zadani-pc">
 
-#### Úkol 1 — Sdílení s konkrétní osobou
+Pracuj ve dvojici. Označte si, kdo je žák A a kdo žák B.
 
-- Žák A vytvoří Google Doc „Sdílecí cvičení"
-- Sdílí ho žákovi B jako Editor
-- Žák B dokument otevře a přidá řádek textu
+**Úkol 1 — Sdílení s konkrétní osobou:**
+- Žák A vytvoří Google Doc „Sdílecí cvičení — [vaše jméno]"
+- Klikni na **Sdílet** → zadej e-mail žáka B → nastav ho jako **Editor**
+- Žák B dokument otevře a přidá řádek textu (ověření, že sdílení funguje)
 
-#### Úkol 2 — Odvolání přístupu
+**Úkol 2 — Odvolání přístupu:**
+- Žák A otevře nastavení sdílení → klikne na roli žáka B → vybere **Odebrat**
+- Žák B zkusí dokument znovu otevřít — co se stane?
 
-- Žák A odvolá přístup žáku B
-- Žák B zkusí dokument otevřít — co se stane?
+**Úkol 3 — Sdílení odkazu:**
+- Žák A nastaví: **Kdokoliv s odkazem může prohlížet**
+- Zkopíruje odkaz a pošle ho do třídního chatu
+- Žák B otevře odkaz v **anonymním okně** (bez přihlášení) — vidí dokument?
 
-#### Úkol 3 — Sdílení odkazu
+**Úkol 4 — Reflexe (zapiš odpovědi):**
+- Kdy je vhodné sdílet „Kdokoliv s odkazem"? Kdy ne?
+- Jak poznáš, že máš dokument sdílený příliš volně?
 
-- Žák A nastaví odkaz na „Kdokoliv s odkazem může prohlížet"
-- Zkopíruje odkaz a pošle ho do třídního chatu / sdíleného dokumentu
-- Žák B otevře odkaz bez přihlášení (anonymní okno)
+**Pro rychlé žáky:** Nastav sdílení tak, aby mohl spolužák/spolužačka dokument pouze **komentovat** (ne upravovat). Jak se to liší od role Editor?
 
-#### Úkol 4 — Reflexe
-
-- Kde se sdílí „cokoliv s odkazem" vhodně? Kde ne?
-- Jak poznáte, že dokument je sdílen příliš volně?
+</div>
 
 ### 4. Diskuse o bezpečnosti (6 min)
 

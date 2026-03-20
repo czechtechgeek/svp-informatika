@@ -58,19 +58,28 @@ Typy grafů a kdy je použít:
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci zadají data ze sběru do tabulky a vytvoří graf:
+<div class="zadani-pc">
 
-**Excel:**
-1. Označte data (A1:B6 včetně záhlaví)
-2. Záložka Vložení → Graf → Sloupcový → 2D sloupcový
-3. Klikněte na „Název grafu" a napište vlastní název
-4. Klikněte na osu X → přidat popis „Barva"
-5. Klikněte na osu Y → přidat popis „Počet žáků"
+Otevři Excel nebo Google Sheets a zadej data z hlasování třídy (z tabule) do tabulky. Pak vytvoř sloupcový graf podle níže uvedeného postupu.
 
-**Google Sheets:**
-1. Označte data → Vložení → Graf
-2. Sheets automaticky navrhne typ — zkontrolujte, zda je „Sloupcový"
-3. V pravém panelu upravte název a popisky os
+**V Excelu:**
+1. Označ data (A1:B6 včetně záhlaví)
+2. Záložka **Vložení → Graf → Sloupcový → 2D sloupcový**
+3. Klikni na „Název grafu" a napiš vlastní název (např. „Oblíbené barvy naší třídy")
+4. Přidej popis osy X (např. „Barva") a osy Y (např. „Počet žáků")
+
+**V Google Sheets:**
+1. Označ data → **Vložení → Graf**
+2. Sheets automaticky navrhne typ — zkontroluj, zda je „Sloupcový graf"
+3. V pravém panelu upravte název grafu a popisky os
+
+**Úkol:** Hotový graf musí mít: název, popis obou os, správný typ (sloupcový).
+
+**Pro rychlé žáky:** Zkus změnit typ grafu na **koláčový** (výsečový). Kdy je koláčový graf vhodnější než sloupcový? Zapiš svou odpověď pod graf.
+
+Hotový soubor s grafem ulož a odevzdej přes Google Classroom.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

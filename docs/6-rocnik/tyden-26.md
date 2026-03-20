@@ -63,18 +63,26 @@ Praktická otázka ke každé zkratce:
 
 <span class="act pc">💻 PC — 17 min</span>
 
-Učitel připraví 3 příklady zpráv (lze použít archiv [Manipulátoři.cz](https://www.manipulatori.cz)):
-- Jedna pravdivá zpráva
-- Jeden hoax s jádrem pravdy
-- Jedna zcela vymyšlená zpráva
+<div class="zadani-pc">
 
-Žáci ve dvojicích prověří každou zprávu pomocí SIFT a zapíší:
+Pracuj ve dvojici. Učitel vám ukáže 3 zprávy (vytisknuté nebo na tabuli). Každou zprávu prověřte pomocí metody **SIFT**:
 
-| Zpráva | Zdroj | Ověřeno? | Jak jsem zjistil/a |
-|--------|-------|----------|-------------------|
+- **S** — Zastav se: Vyvolává zpráva silnou emoci nebo překvapení?
+- **I** — Prověř zdroj: Kdo zprávu napsal? Je tam autor? Existuje stránka „O nás"?
+- **F** — Hledej lepší pokrytí: Co říkají jiné zdroje (ČT, iDnes, Aktuálně)?
+- **T** — Vystopuj tvrzení: Odkud pochází obrázek? (Zkus Google → vyhledávání obrázků)
+
+Pro každou zprávu vyplň tabulku (do sešitu nebo Google Docs):
+
+| Zpráva | Zdroj | Pravdivá? | Jak jsem to zjistil/a |
+|--------|-------|-----------|----------------------|
 | Zpráva 1 | | | |
 | Zpráva 2 | | | |
 | Zpráva 3 | | | |
+
+**Pro rychlé žáky:** Najdi na internetu jednu zprávu, která tě zaujme, a prověř ji sám/sama metodou SIFT. Zapiš výsledek.
+
+</div>
 
 ### 4. Shrnutí (5 min)
 

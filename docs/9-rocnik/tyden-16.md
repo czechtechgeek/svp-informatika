@@ -76,25 +76,27 @@ Otázka pro diskusi: „Jaká data musel Google použít, aby Translate fungoval
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci otevřou [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com) → Image Project.
+<div class="zadani-pc">
 
-**Zadání: Natrénujte model na rozpoznání dvou tříd:**
+Otevři [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com) → **Image Project** a natrénuj vlastní model:
 
-Třída A: „Palec nahoru"
-Třída B: „Dlaň otevřená"
+**Krok 1 — Vytvoř trénovací data:**
+- Třída A (název: „Palec nahoru") → nafoť nebo nahrej 30+ obrázků palce nahoru z různých úhlů
+- Třída B (název: „Dlaň otevřená") → nafoť nebo nahrej 30+ obrázků otevřené dlaně
 
-Postup:
-1. Vytvořit třídu A — nahrát 30+ obrázků palce nahoru (z různých úhlů)
-2. Vytvořit třídu B — nahrát 30+ obrázků otevřené dlaně
-3. Kliknout „Trénovat model"
-4. Otestovat — ukázat kameru různé polohy ruky
+**Krok 2 — Trénuj:**
+- Klikni „Trénovat model" a počkej
 
-**Experimenty:**
-- Co se stane, když trénovací data jsou jen z jednoho úhlu?
-- Co se stane, když přidáme špatně označený obrázek?
-- Jak přesný je model při špatném osvětlení?
+**Krok 3 — Testuj a experimentuj:**
+- Ukaž kameře různé polohy ruky — funguje to?
+- Co se stane, když data jsou jen z jednoho úhlu?
+- Co se stane při špatném osvětlení?
 
-Žáci zapisují pozorování: „Model fungoval správně při ___, ale selhal při ___."
+📝 Zapiš svá pozorování: „Model fungoval správně při ___, ale selhal při ___."
+
+</div>
+
+Žáci zapisují pozorování.
 
 ### 4. Reflexe: Omezení strojového učení
 

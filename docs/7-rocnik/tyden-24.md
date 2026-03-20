@@ -62,18 +62,23 @@ Reálný případ: Zaměstnanec ztratil práci kvůli příspěvku sdílenému 5
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Učitel připraví fiktivní osobu (Jana Nováková, 18 let, hledá práci). Žáci dostanou „datový balíček":
+<div class="zadani-pc">
+
+Pracuj ve skupině 3 žáků. Učitel vám dá „datový balíček" o fiktivní osobě Janě Novákové (18 let, hledá práci):
 - Jméno, škola, věk
-- 5 příspěvků z různých let (textové popisy — ne skutečné screenshoty)
-- Komentáře u příspěvků ostatních
+- 5 příspěvků z různých let (textové popisy)
+- Komentáře Jana nechávala u ostatních
 
-**Úkoly:**
-1. Sestavte profil osoby — co o ní víme?
-2. Přijali byste ji na letní brigádu? Proč/proč ne?
-3. Identifikujte 3 příspěvky, které by mohly poškodit pověst
-4. Navrhněte, co by Jana měla smazat nebo nastavit jako soukromé
+Ve skupině odpovězte na tyto otázky (zapište do sdíleného Google Docs nebo na papír):
 
-Skupiny (3 žáci) prezentují výsledky — diskuse, zda se skupiny shodují.
+1. **Co o Janě víme?** Sestavte stručný profil osoby na základě dostupných informací.
+2. **Přijali byste ji na letní brigádu?** Proč ano / proč ne?
+3. **Identifikujte 3 příspěvky**, které by mohly poškodit její pověst — proč jsou problematické?
+4. **Navrhněte konkrétní kroky:** co by Jana měla smazat, schovat za soukromé nebo nastavit jinak?
+
+Skupiny prezentují výsledky — porovnáme, zda se skupiny shodují.
+
+</div>
 
 ### 4. Osobní akční plán (4 min)
 

@@ -63,21 +63,32 @@ Klíčový rozdíl: **Autonomní** robot (rozhoduje sám) vs. **řízený** robo
 
 <span class="act pc">💻 PC — 28 min</span>
 
-Žáci pracují ve skupinách 3–4 a řeší přidělený úkol:
+<div class="zadani-pc">
 
-#### Úkol A — Ozobot
-- Nakreslite trasu z bodu A do bodu B s alespoň 3 zatáčkami
-- Přidejte kód „zrychlení" a „zatočení na místě"
-- Ozobot musí dokončit trasu bez vyjetí z čáry
+Pracujte ve skupinách (3–4 žáci) a vyřešte přidělený úkol:
 
-#### Úkol B — micro:bit
-- Program zobrazí šipku ve směru pohybu (akcelerometr)
-- Při zatřesení zobrazí náhodné číslo
-- Při stisku tlačítka A přehraje melodii
+**Úkol A — Ozobot** 🤖
+1. Otevři [games.ozobot.com](https://games.ozobot.com)
+2. Nakreslite trasu z bodu A do bodu B s alespoň 3 zatáčkami
+3. Přidejte kód „zrychlení" a „zatočení na místě"
+4. Ozobot musí dokončit trasu bez vyjetí z čáry
 
-#### Úkol C — online simulátor
-- Dokončete 5 levelů zvolené online aktivity (Code.org nebo Scratch bludiště)
-- Zapište: Kolik bloků jste použili? Kde jste se zasekli?
+**Úkol B — micro:bit** 📡
+1. Otevři [makecode.microbit.org](https://makecode.microbit.org)
+2. Naprogramuj: při naklonění zobrazí šipku ve směru pohybu (akcelerometr)
+3. Při zatřesení zobrazí náhodné číslo 1–6 (simulace kostky)
+4. Při stisku tlačítka A přehraje melodii
+
+**Úkol C — online simulátor** 💻
+1. Otevři [code.org/learn](https://code.org/learn) nebo Scratch
+2. Dokončete 5 levelů zvolené aktivity
+3. Zapište na papír: Kolik bloků jste použili? Kde jste se zasekli?
+
+Na závěr ukažte výsledek třídě — co bylo nejsložitější?
+
+</div>
+
+Žáci pracují ve skupinách 3–4 a řeší přidělený úkol.
 
 ### 4. Prezentace řešení (5 min)
 

@@ -37,21 +37,30 @@ Každý žák si na papír (nebo do poznámkového bloku) skicuje svůj záměr:
 
 <span class="act pc">💻 PC — 30 min</span>
 
-Každý žák pracuje samostatně. Minimální požadavky na projekt:
+Každý žák pracuje samostatně.
+
+<div class="zadani-pc">
+
+Vytvoř v **Scratchi** (scratch.mit.edu) animované vánoční přání. Projekt musí obsahovat:
 
 | Prvek | Splněno? |
 |-------|----------|
 | Vánoční pozadí jeviště | ☐ |
-| Alespoň 2 sprity | ☐ |
-| Animace (cyklus nebo pohyb) | ☐ |
-| Bublina s textem přání | ☐ |
-| Zvuk nebo hudba | ☐ |
-| Jméno autora v projektu | ☐ |
+| Alespoň 2 sprity (postavičky nebo předměty) | ☐ |
+| Animace — cyklus nebo pohyb | ☐ |
+| Bublina s textem přání (blok `řekni`) | ☐ |
+| Zvuk nebo hudba ze zvukové knihovny | ☐ |
+| Tvoje jméno někde v projektu | ☐ |
 
-Učitel chodí po třídě, pomáhá a navrhuje zlepšení. Pokud žák dokončí rychle, přidá:
-- Sněžení (mnoho sněhových vloček v cyklu)
-- Odpočítávání do Vánoc
+🚀 Hotový brzy? Přidej:
+- Sněžení (klonování sněhové vločky v cyklu)
 - Tlačítko „Přehrát znovu"
+
+Na závěr sdílej projekt přes Scratch (Sdílet → Kopírovat odkaz) a odkaz vlož do třídního dokumentu.
+
+</div>
+
+Učitel chodí po třídě, pomáhá a navrhuje zlepšení.
 
 ### 3. Sdílení a prezentace (5 min)
 

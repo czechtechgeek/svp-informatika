@@ -69,24 +69,30 @@ Příklad ve Scratch: `pokud [dotýkám se červeného spritu] A [skóre > 5] pa
 
 <span class="act pc">💻 PC — 22 min</span>
 
-#### Projekt A — Semafor
+<div class="zadani-pc">
 
-- Tři barevné sprity (červená, oranžová, zelená)
-- Stisknutím kláves 1/2/3 se zobrazuje jiná kombinace
-- Podmínky JINAK: vždy jeden svítí, ostatní jsou skryté
+Otevři **Scratch** (scratch.mit.edu) a vytvoř jeden z následujících projektů — vyber si:
 
-#### Projekt B — Hlídač nebezpečné zóny
+**Projekt A — Semafor** 🚦
+- Vytvoř 3 sprity: červená, oranžová a zelená světla
+- Po stisknutí klávesy 1/2/3 se zobrazí správná kombinace
+- Použij podmínky `pokud...pak...jinak` — vždy svítí jen jedno světlo
 
+**Projekt B — Hlídač nebezpečné zóny** ⚠️
 - Hráčem ovládaný sprite se pohybuje po obrazovce
-- Červená zóna vlevo: pokud vstoupí → zobraz varování
-- Zelená zóna vpravo: pokud vstoupí + skóre > 3 → zobraz gratulaci
-- Splňuje podmínku AND (poloha + skóre)
+- Červená zóna vlevo: `pokud` hráč vstoupí → zobraz varování
+- Zelená zóna vpravo: `pokud` hráč vstoupí `A` skóre > 3 → zobraz gratulaci
+- Vyzkoušej blok **AND** z kategorie Operátory (zelená)
 
-#### Projekt C — Noční/denní režim
-
-- Spritová postava reaguje na stav prostředí
-- Pokud je pozadí tmavé NEBO je čas > 20 (proměnná) → postava spí
+**Projekt C — Noční/denní režim** 🌙
+- Postava reaguje na stav prostředí
+- `pokud` je pozadí tmavé `NEBO` proměnná `čas` > 20 → postava spí
 - Jinak → postava jde
+- Vyzkoušej blok **OR** z kategorie Operátory (zelená)
+
+💡 Hotový projekt ukaž spolužákovi — ať uhádne, kde jsi použil AND nebo OR.
+
+</div>
 
 Žáci si vyberou projekt, pracují individuálně, učitel chodí po třídě.
 

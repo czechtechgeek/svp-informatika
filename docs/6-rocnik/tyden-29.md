@@ -44,15 +44,27 @@ Učitel zopakuje strukturu projektu:
 
 <span class="act pc">💻 PC — 25 min</span>
 
-Žáci pracují samostatně. Učitel obchází a poskytuje individuální zpětnou vazbu:
+Žáci pracují samostatně.
 
-- **Tabulka:** Jsou data konzistentní? Správné formátování čísel?
-- **Graf:** Je čitelný? Má název? Dají se osy snadno přečíst?
-- **Obrázek:** Je citace kompletní? Sedí licence?
-- **Závěr:** Je v závěru skutečně interpretace dat, nebo jen přepis tabulky?
+<div class="zadani-pc">
 
-Vzor závěru:
-> *„Z mých dat vyplývá, že největším savcem ze zvolených pěti je slon africký s průměrnou hmotností 5 500 kg. Naopak nejrychlejší je gepard (110 km/h), i když váží jen 60 kg. To ukazuje, že velikost a rychlost spolu přímo nesouvisí."*
+Dokonči svůj datový projekt v **Google Docs / Google Sheets** nebo jiném nástroji. Zkontroluj, zda máš splněné všechny části:
+
+```
+✅ Tabulka s daty (min. 5 řádků, min. 4 sloupce, správné jednotky)
+✅ Graf (sloupcový nebo koláčový, s názvem a popisky os)
+✅ Legální obrázek + citace (autor, licence, zdroj)
+✅ Závěr — co jsem se z dat dozvěděl/a? (min. 2 věty)
+```
+
+📝 Vzor závěru:
+> *„Z mých dat vyplývá, že … Překvapilo mě, že … To ukazuje, že …"*
+
+Na závěr ulož projekt a vlož odkaz do sdíleného dokumentu třídy (nebo odevzdej přes Google Classroom).
+
+</div>
+
+Učitel obchází a poskytuje individuální zpětnou vazbu.
 
 ### 3. Sdílení a zpětná vazba (10 min)
 

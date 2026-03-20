@@ -79,16 +79,26 @@ když stisknuta klávesa [šipka vpravo]: nastav směr na 90; změn kostým na "
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Žáci vytvoří hráčský sprite a alespoň jedno z prostředí:
+<div class="zadani-pc">
 
-**Základ (povinný):**
-- Sprite ovladatelný čtyřmi šipkami
-- Nesmí přejít přes okraj obrazovky
+Otevři [scratch.mit.edu](https://scratch.mit.edu) a vytvoř hráčský sprite ovládaný šipkami.
 
-**Prostředí — vyberte jedno:**
-- **A:** Sběratelská hra — náhodně se objevují hvězdy, hráč je sbírá dotykem (zmizí)
-- **B:** Labyrint — pozadí je labyrint (nakreslený v editoru), hráč nesmí přejít přes stěny (detekce barvy)
-- **C:** Dva hráči — druhý sprite ovládá hráč 2 klávesami WASD
+**Povinný základ:**
+- Sprite se pohybuje čtyřmi šipkami (vlevo, vpravo, nahoru, dolů)
+- Sprite nesmí přejít přes okraj obrazovky (přidej podmínky pro omezení pohybu)
+
+Použij buď blok události `když stisknuta klávesa [šipka ...]` nebo kontrolu v cyklu.
+
+**Přidej prostředí — vyber si jedno:**
+- **A:** Sběratelská hra — hvězdy se náhodně objevují na jevišti, hráč je sbírá dotykem (hvězda zmizí)
+- **B:** Labyrint — nakresli pozadí labyrintu v editoru, hráč nesmí projít přes stěny (detekce barvy)
+- **C:** Dva hráči — druhý sprite ovládá hráč 2 pomocí kláves W/A/S/D
+
+**Pro rychlé žáky:** Přidej animaci kostýmu — sprite se otočí nebo změní kostým podle směru pohybu (vlevo / vpravo).
+
+Projekt ulož a sdílej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Showcase (5 min)
 

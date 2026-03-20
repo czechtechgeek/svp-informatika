@@ -66,21 +66,30 @@ Učitel představí tři hlavní formáty a žáci diskutují výhody a nevýhod
 
 <span class="act pc">💻 PC — 22 min</span>
 
-**Část A — Návrh struktury (7 min):**
-Žáci napíší na papír nebo do dokumentu osnovu svého portfolia:
+<div class="zadani-pc">
 
-Doporučená struktura:
-1. **O mně** — jméno, třída, krátké představení, co mě v IT baví
-2. **Moje projekty** — alespoň 3 práce s popisem (co jsem dělal/a, co jsem se naučil/a)
-3. **Dovednosti** — programování, práce s daty, grafika, digitální bezpečnost...
-4. **Reflexe** — co mě informatika naučila, co bych chtěl/a dělat dál
-5. **Kontakt** — e-mail (školní nebo osobní — pozor na soukromí)
+**Část A — Návrh struktury** (7 min)
 
-**Část B — Tvorba (15 min):**
-Žáci zahájí tvorbu portfolia ve zvoleném nástroji:
-- Vytvoří základní strukturu (stránky / sekce / slide)
-- Přidají svou první sekci „O mně"
-- Vloží alespoň jednu ukázku práce (screenshot programu, odkaz na projekt)
+Do sešitu nebo dokumentu napiš osnovu svého portfolia. Doporučená struktura:
+
+```
+1. O mně — jméno, třída, krátké představení, co mě v IT baví
+2. Moje projekty — min. 3 práce s popisem
+3. Dovednosti — programování, data, grafika, bezpečnost...
+4. Reflexe — co mě informatika naučila
+5. Kontakt — školní e-mail (volitelné)
+```
+
+**Část B — Tvorba** (15 min)
+
+Otevři zvolený nástroj (Google Sites, Canva nebo jiný) a:
+- ☐ Vytvoř základní strukturu (stránky / sekce)
+- ☐ Přidej sekci „O mně" vlastními slovy
+- ☐ Vlož alespoň 1 ukázku práce (screenshot, odkaz na Scratch projekt, Python skript)
+
+💡 Nezačínej se stylováním — nejdřív obsah, pak vzhled.
+
+</div>
 
 Učitel obchází a pomáhá, konzultuje výběr obsahu.
 

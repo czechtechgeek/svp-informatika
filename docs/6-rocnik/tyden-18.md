@@ -49,7 +49,9 @@ Krátký přehled OS na tabuli:
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Každý žák otevře svůj počítač a vyplní tabulku:
+<div class="zadani-pc">
+
+Otevři svůj počítač a zjisti, jaký software na něm máš. Zapiš výsledky do tabulky (do sešitu nebo Google Docs):
 
 | Kategorie | Příklady na mém PC |
 |-----------|-------------------|
@@ -60,7 +62,15 @@ Každý žák otevře svůj počítač a vyplní tabulku:
 | Hra / zábava | |
 | Vzdělávání | |
 
-Žáci zjistí verzi OS: Start → Nastavení → Systém → O aplikaci. Pak prozkoumají nainstalované aplikace.
+**Jak zjistit verzi operačního systému:** Start → Nastavení → Systém → O aplikaci.
+
+**Jak prozkoumat nainstalované aplikace:** Start → Nastavení → Aplikace → Nainstalované aplikace.
+
+**Pro rychlé žáky:** U každé aplikace zkus zjistit, zda je **komerční** (placená), **freeware** (zdarma) nebo **open source** (volně dostupný zdrojový kód). Porovnej s tím, co bylo na tabuli.
+
+Svou vyplněnou tabulku ulož nebo odevzdej přes Google Classroom.
+
+</div>
 
 ### 3. Diskuse: Placený vs. zdarma vs. open source
 

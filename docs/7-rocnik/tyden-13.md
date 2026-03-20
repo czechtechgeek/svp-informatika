@@ -31,23 +31,29 @@ friday_tip: "Metoda „Dvě hvězdy a jedno přání\" při prezentaci: každý 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci mají 15 minut na závěrečné úpravy svého projektu. Učitel klade na tabuli časomíru.
+<div class="zadani-pc">
 
-**Prioritní opravy (v pořadí důležitosti):**
-1. Hra se spustí a nezastaví okamžitě
-2. Hráčský sprite reaguje na ovládání
-3. Je jasné, jak hra skončí (výhra/prohra)
-4. Skóre nebo čas funguje
+Máš 15 minut na závěrečné úpravy svého herního projektu. Zkontroluj a oprav v tomto pořadí:
 
-Pokud projekt není funkční: žák si vybere jednu fungující část a ji prezentuje jako „prototyp".
+1. Hra se **spustí** kliknutím na zelenou vlajku a nezastaví okamžitě
+2. **Hráčský sprite** reaguje na klávesy nebo myš
+3. Je jasné, jak hra **skončí** (výhra nebo prohra)
+4. **Skóre** nebo **čas** funguje a zobrazuje se na scéně
+
+Pokud projekt není plně funkční — nevadí, vyber jednu fungující část a tu budeš prezentovat jako prototyp.
+
+Před sdílením projekt ulož a přejmenuj ho na rozpoznatelný název.
+
+</div>
 
 ### 2. Herní kavárna: Testování ve dvojicích
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci si vymění místa ve dvojicích. Každý hraje hru spolužáka 3–4 minuty.
+<div class="zadani-pc">
 
-**Testovací formulář (papír nebo Google Forms):**
+Vyměň si místo se spolužákem/spolužačkou. Zahraj hru spolužáka 3–4 minuty a vyplň testovací formulář (papír od učitele nebo Google Forms):
+
 ```
 Název hry: ___________
 Jméno testera: ________
@@ -64,15 +70,25 @@ Jméno testera: ________
 4. Hodnocení obtížnosti: □ Příliš lehká  □ Akorát  □ Příliš těžká
 ```
 
-Vyplněné formuláře žáci předají tvůrci hry.
+Vyplněný formulář předej tvůrci hry — on/ona ti předá zpětnou vazbu na tvou hru.
+
+</div>
 
 ### 3. Implementace zpětné vazby
 
 <span class="act pc">💻 PC — 8 min</span>
 
-Žáci se vrátí ke svým projektům. Na základě formuláře provedou **jednu konkrétní změnu**.
+<div class="zadani-pc">
 
-Učitel zdůrazní: „Programátoři vždy vydávají verze — 1.0, 1.1, 2.0. Každá verze je lepší díky zpětné vazbě."
+Přečti si zpětnou vazbu od spolužáka a proveď **jednu konkrétní změnu** ve svém projektu.
+
+Zapiš si do sešitu nebo poznámkového bloku:
+- Co jsi změnil/a a proč?
+- Co by bylo potřeba změnit dál, kdyby bylo více času?
+
+Projekt ulož a odevzdej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Prezentace projektů (7 min)
 

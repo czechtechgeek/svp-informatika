@@ -65,20 +65,27 @@ Pravidla dobré mapy (zapsat na tabuli):
 
 <span class="act pc">💻 PC — 22 min</span>
 
-Žáci otevřou [MindMeister](https://www.mindmeister.com) (zdarma, bez registrace pro základní použití) nebo [Coggle.it](https://coggle.it).
+<div class="zadani-pc">
 
-**Zadání — vyberte jedno téma:**
-- Možnost A: „Moje oblíbené volnočasové aktivity" (min. 3 kategorie, min. 10 uzlů)
-- Možnost B: „Jak funguje škola" — procesy, lidé, místa, pravidla
-- Možnost C: „Plán ideálního dne" — čas jako struktura mapy
+Otevři [MindMeister](https://www.mindmeister.com) nebo [Coggle.it](https://coggle.it) a vytvoř vlastní digitální myšlenkovou mapu.
 
-Požadavky na mapu:
-1. Alespoň 3 hlavní větve
-2. Každá větev má alespoň 2 podbvětve
-3. Použity alespoň 2 různé barvy
-4. Mapa je přehledná (bez přeplnění)
+**Vyber si jedno téma:**
+- Možnost A: „Moje oblíbené volnočasové aktivity"
+- Možnost B: „Jak funguje naše škola" (procesy, lidé, místa, pravidla)
+- Možnost C: „Plán ideálního dne" (čas jako struktura mapy)
 
-Hotovou mapu žáci exportují jako obrázek nebo sdílí odkaz do třídního dokumentu.
+**Požadavky na tvou mapu:**
+1. Hlavní téma je uprostřed
+2. Alespoň **3 hlavní větve** (kategorie)
+3. Každá větev má alespoň **2 podbvětve** (detaily)
+4. Použity alespoň **2 různé barvy**
+5. Mapa je přehledná — nepřeplněná textem
+
+**Pro rychlé žáky:** Přidej do mapy ikony nebo obrázky u klíčových uzlů. Jak to změní přehlednost mapy?
+
+Hotovou mapu exportuj jako obrázek (PNG/PDF) nebo sdílej odkaz do třídního dokumentu v Google Classroom.
+
+</div>
 
 ### 4. Sdílení a zpětná vazba (8 min)
 

@@ -83,22 +83,33 @@ Učitel píše kód živě na projektoru (Poznámkový blok nebo online editor):
 
 <span class="act pc">💻 PC — 22 min</span>
 
-Žáci vytvoří vlastní HTML stránku „O mně" s těmito prvky:
+<div class="zadani-pc">
 
-**Povinné:**
-- Nadpis `<h1>` s jejich jménem (nebo přezdívkou)
-- Alespoň 2 odstavce `<p>` s textem o sobě
-- Seznam `<ul>` s oblíbenými věcmi (min. 3 položky)
-- Jeden odkaz `<a href="...">` na libovolný web
+Vytvoř vlastní HTML stránku „O mně". Použij Poznámkový blok (ulož jako `omne.html` a otevři v prohlížeči) nebo online editor [codepen.io](https://codepen.io).
+
+**Povinné prvky:**
+- Nadpis `<h1>` s tvým jménem nebo přezdívkou
+- Aspoň **2 odstavce** `<p>` s textem o sobě (koníčky, oblíbená věc...)
+- **Seznam** `<ul>` s oblíbenými věcmi (min. 3 položky pomocí `<li>`)
+- Jeden **odkaz** `<a href="...">` na libovolný web (např. Scratch, YouTube...)
 
 **Volitelné rozšíření:**
-- Obrázek `<img src="..." alt="...">` (lokální soubor nebo URL)
-- Druhý nadpis `<h2>` jako sekce
-- Tučný text `<strong>` nebo kurzíva `<em>`
+- Obrázek: `<img src="URL_obrázku" alt="popis">`
+- Druhý nadpis `<h2>` jako název sekce
+- Tučné písmo `<strong>` nebo kurzíva `<em>` pro zdůraznění
 
-**Nástroje:**
-- Poznámkový blok Windows + prohlížeč (uložit jako .html)
-- Online: [codepen.io](https://codepen.io) nebo [replit.com](https://replit.com) — okamžitý náhled
+Zkontroluj: každý otevírací tag (`<p>`) musí mít odpovídající zavírací tag (`</p>`).
+
+**Pro rychlé žáky:** Přidej na stránku jednoduchý CSS styl — do sekce `<head>` vlož:
+```html
+<style>
+  body { background-color: lightblue; font-family: Arial; }
+</style>
+```
+
+Hotový soubor ulož nebo sdílej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Sdílení a reflexe (5 min)
 

@@ -39,15 +39,27 @@ Učitel upozorní: „Mějte otevřený GDD vedle Scratch — je to váš návod
 
 <span class="act pc">💻 PC — 33 min</span>
 
-Žáci pracují individuálně na svých herních projektech. Učitel aktivně obchází třídu a pomáhá.
+<div class="zadani-pc">
 
-**Doporučené pořadí implementace:**
-1. Scéna (pozadí + sprity) — vizuální základ
-2. Pohyb hráčského spritu
-3. Pohyb překážek/nepřátel (náhodná poloha, automatický pohyb)
-4. Detekce kolize + reakce
-5. Proměnné (skóre, čas, životy)
-6. Podmínka výhra/prohra
+Otevři **Scratch** (scratch.mit.edu) a programuj svou hru podle GDD z minulé hodiny. Postupuj v tomto doporučeném pořadí:
+
+1. ☐ Scéna — nastav pozadí a přidej sprity (postavičky)
+2. ☐ Pohyb hráče — ovládání šipkami nebo myší
+3. ☐ Pohyb překážek/nepřátel — náhodná poloha nebo automatický pohyb
+4. ☐ Detekce kolize — co se stane při dotyku?
+5. ☐ Proměnné — skóre, čas nebo životy
+6. ☐ Podmínka výhry/prohry
+
+Průběžně projekt ukládej (Ctrl+S nebo tlačítko Uložit). Projekt pojmenuj: `7rocnik-hra-[tvoje jméno]`.
+
+🐛 Nefunguje? Zkontroluj:
+- Je vybrán správný sprite (ne pozadí)?
+- Jsou bloky propojené (ne volně plovoucí)?
+- Začíná program `po kliknutí na vlajku`?
+
+</div>
+
+Žáci pracují individuálně na svých herních projektech. Učitel aktivně obchází třídu a pomáhá.
 
 **Časté problémy a řešení:**
 

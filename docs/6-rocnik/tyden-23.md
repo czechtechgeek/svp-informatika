@@ -43,28 +43,42 @@ Zásada: formátování slouží **čitelnosti**, ne dekoraci.
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Učitel krok za krokem ukáže, žáci opakují na svém PC:
+<div class="zadani-pc">
+
+Otevři novou tabulku v Excelu nebo Google Sheets a vyzkoušej tyto formátovací nástroje — sleduj učitele a opakuj na svém PC:
 
 | Akce | Jak na to |
 |------|-----------|
-| Tučné písmo | Označit buňky → Ctrl+B |
-| Barva pozadí | Označit → ikona „Barva výplně" (kbelík) |
+| Tučné písmo | Označit buňky → **Ctrl+B** |
+| Barva pozadí | Označit → ikona „Barva výplně" (kbelík s barvou) |
 | Ohraničení | Označit → ikona „Ohraničení" → Všechna ohraničení |
-| Zarovnání | Označit → ikony vlevo/na střed/vpravo |
-| Šířka sloupce | Poklepat na hranici záhlaví (auto) nebo přetáhnout |
+| Zarovnání | Označit → ikony vlevo / na střed / vpravo |
+| Šířka sloupce | Poklepat na hranici záhlaví (automaticky) nebo přetáhnout |
 | Sloučit buňky | Označit rozsah → Domů → Sloučit a zarovnat na střed |
+
+Do tabulky zadej aspoň 5 ukázkových hodnot a vyzkoušej každou z akcí výše aspoň jednou.
+
+</div>
 
 ### 3. Aktivita: Vylepši svůj jídelní lístek
 
 <span class="act pc">💻 PC — 18 min</span>
 
-Žáci otevřou tabulku z minulého týdne a naformátují ji podle pokynů:
+<div class="zadani-pc">
 
-1. Záhlaví (řádek 1): tučné písmo, modrý podklad, bílé písmo
-2. Řádky dat: střídají se bílý a světle šedý podklad
-3. Všechny buňky: tenké ohraničení
-4. Nadpis „Jídelní lístek" sloučen přes všechny sloupce, vycentrován
-5. Šířky sloupců automaticky přizpůsobeny obsahu
+Otevři tabulku z minulého týdne (jídelní lístek nebo podobná tabulka) a naformátuj ji podle těchto pokynů:
+
+1. **Záhlaví** (řádek 1): tučné písmo, modrý podklad, bílé písmo
+2. **Řádky dat**: střídají se bílý a světle šedý podklad
+3. **Všechny buňky**: tenké ohraničení
+4. **Nadpis** „Jídelní lístek" sloučen přes všechny sloupce a vycentrován
+5. **Šířky sloupců** automaticky přizpůsobeny obsahu (poklepání na hranici záhlaví)
+
+**Pro rychlé žáky:** Zkus nastavit **podmíněné formátování** — v Excelu (nebo Sheets) nastav, aby se buňky s cenou nad 100 Kč automaticky zbarvily červeně. (Formát → Podmíněné formátování)
+
+Hotovou tabulku ulož a odevzdej přes Google Classroom nebo ulož na školní disk.
+
+</div>
 
 ### 4. Shrnutí (7 min)
 

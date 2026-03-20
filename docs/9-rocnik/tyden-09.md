@@ -53,16 +53,20 @@ print(len(filmy)) # 5 – délka seznamu
 
 <span class="act pc">💻 PC — 12 min</span>
 
+<div class="zadani-pc">
+
+Otevři [replit.com](https://replit.com) a zkopíruj/napiš tento kód. Pak ho spusť a experimentuj:
+
 ```python
 znamy = ["Honza", "Petra", "Martin"]
 
 # Přidání na konec
 znamy.append("Lucie")
-print(znamy)  # ["Honza", "Petra", "Martin", "Lucie"]
+print(znamy)
 
 # Odebrání
 znamy.remove("Martin")
-print(znamy)  # ["Honza", "Petra", "Lucie"]
+print(znamy)
 
 # Seřazení
 znamy.sort()
@@ -73,7 +77,15 @@ for jmeno in znamy:
     print("Ahoj,", jmeno)
 ```
 
-Žáci si vytvoří vlastní seznam (oblíbené hry, filmy, jídla) a vyzkouší operace.
+Teď vytvoř **vlastní seznam** — oblíbené hry, filmy, jídla nebo cokoliv jiného:
+1. Vytvoř seznam s alespoň 5 položkami
+2. Přidej 2 nové pomocí `append()`
+3. Odeber 1 pomocí `remove()`
+4. Seřaď seznam a vypiš každou položku pomocí cyklu `for`
+
+</div>
+
+Žáci si vytvoří vlastní seznam a vyzkouší operace.
 
 ### 3. Práce s číselnými seznamy
 

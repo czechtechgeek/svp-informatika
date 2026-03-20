@@ -62,6 +62,12 @@ Princip **DRY**: Don't Repeat Yourself. Změna rámu stačí na jednom místě.
 
 <span class="act pc">💻 PC — 12 min</span>
 
+<div class="zadani-pc">
+
+**Úloha — Anatomie funkce** (12 min)
+
+Napiš do [replit.com](https://replit.com) tento kód a spusť ho:
+
 ```python
 def pozdrav(jmeno, hodina):      # def + název + parametry
     if hodina < 12:
@@ -75,6 +81,10 @@ zprava = pozdrav("Honza", 10)    # volání funkce
 print(zprava)                    # "Dobré ráno, Honza!"
 ```
 
+Zkus zavolat funkci s různými hodnotami hodiny (10, 15, 22) a svým vlastním jménem. Co se změnilo?
+
+</div>
+
 Klíčové pojmy:
 - `def` – klíčové slovo pro definici funkce
 - **parametry** – vstupy funkce (v závorce)
@@ -85,14 +95,17 @@ Klíčové pojmy:
 
 <span class="act board">🖊️ Tabule — 18 min</span>
 
-Žáci napíší program s alespoň 3 vlastními funkcemi:
+<div class="zadani-pc">
 
-**Ukázkový projekt – jednoduchý kvíz:**
+**Projekt — Vlastní kvíz s funkcemi** (18 min)
+
+Napiš program, který obsahuje **alespoň 3 vlastní funkce**. Jako základ použij tento kvíz a uprav ho na vlastní otázky:
+
 ```python
 def otazka(text, spravna):
     odpoved = input(text)
     if odpoved.lower() == spravna.lower():
-        print("Správně!")
+        print("Správně! ✅")
         return 1
     else:
         print(f"Špatně. Správná odpověď: {spravna}")
@@ -101,11 +114,11 @@ def otazka(text, spravna):
 def vysledek(body, celkem):
     print(f"\nSkóre: {body}/{celkem}")
     if body == celkem:
-        print("Perfektní výsledek!")
+        print("Perfektní výsledek! 🏆")
     elif body >= celkem / 2:
-        print("Dobrá práce!")
+        print("Dobrá práce! 👍")
     else:
-        print("Příště lépe!")
+        print("Příště lépe! 💪")
 
 # Hlavní program
 body = 0
@@ -114,6 +127,10 @@ body += otazka("Kolik je 7 * 8? ", "56")
 body += otazka("Zkratka CPU? ", "Central Processing Unit")
 vysledek(body, 3)
 ```
+
+Uprav aspoň 3 otázky na vlastní téma (sport, zeměpis, filmy...). Kdo chce, může přidat 4. funkci — třeba `uvod()`, která přivítá hráče.
+
+</div>
 
 Žáci napíší vlastní verzi kvízu nebo jiný projekt s funkcemi.
 

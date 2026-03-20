@@ -64,24 +64,38 @@ Učitel rozdá sady kartiček — na jedné kartičce je foto hardwaru, na druh�
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Pokud má škola k dispozici starý rozmontovaný počítač, učitel ukáže fyzické součástky. Alternativa: video nebo interaktivní schéma na tabuli.
+<div class="zadani-pc">
 
-Žáci odpovídají na otázky:
-- „Kde je v počítači CPU?" → Identifikují na fotografii nebo modelu
-- „Proč má CPU chladič?" → Teplo = vedlejší produkt výpočtů
-- „Co se stane, když RAM nestačí?" → Počítač je pomalý
+Prohlédni si (fyzicky nebo na fotografii/videu) součástky počítače a odpověz písemně do sešitu na tyto otázky:
+
+- Kde se v počítači nachází CPU? Jak vypadá?
+- Proč má CPU chladič? Co by se stalo bez něj?
+- Co se stane, když počítač nemá dost RAM paměti?
+- Které součástky patří mezi **vstupní** zařízení a které mezi **výstupní**?
+
+**Pro rychlé žáky:** Zkus zjistit (na internetu nebo od učitele), jaký procesor a kolik RAM paměti má váš školní počítač. Jak to zjistíš? (Nápověda: Nastavení → Systém → O aplikaci)
+
+</div>
+
+Učitel chodí po třídě a doplňuje odpovědi žáků komentářem u fyzických součástek nebo na obrázku.
 
 ### 4. Shrnutí
 
 <span class="act pc">💻 PC — 7 min</span>
 
-Každý žák vyplní minitest (Google Formulář nebo papír — 5 otázek s výběrem):
+<div class="zadani-pc">
+
+Otevři Google Formulář od učitele a vyplň krátký minitest (5 otázek):
 
 1. Co zkracuje zkratka CPU?
-2. Která součástka ukládá data trvale?
-3. Co je to RAM?
-4. Uveď 2 vstupní zařízení.
-5. Uveď 2 výstupní zařízení.
+2. Která součástka ukládá data trvale (i po vypnutí PC)?
+3. Co je to RAM a k čemu slouží?
+4. Uveď 2 příklady vstupních zařízení.
+5. Uveď 2 příklady výstupních zařízení.
+
+Odpověz na všechny otázky a formulář odešli.
+
+</div>
 
 ## 📂 Podklady
 

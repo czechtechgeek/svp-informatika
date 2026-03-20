@@ -31,12 +31,18 @@ friday_tip: "Tato hodina je emocionálně jiná než ostatní — je to loučen�
 
 <span class="act pc">💻 PC — 20 min</span>
 
-Každý žák má 2–3 minuty na představení svého digitálního portfolia. Formát prezentace:
+<div class="zadani-pc">
+
+Připrav se na **prezentaci svého portfolia** (2–3 minuty). Postupuj takto:
 
 1. **Ukáž** — otevři portfolio na projektoru nebo sdílej obrazovku
-2. **Řekni** — jedna věc, na kterou jsi hrdý/á
-3. **Odkaž** — jedna práce nebo projekt, který tě baví nejvíce
-4. **Plán** — jednou větou: co s informatikou dále?
+2. **Řekni** — jedna věc, na kterou jsi hrdý/á (konkrétní projekt nebo dovednost)
+3. **Odkaž** — ukaž jednu práci nebo projekt, který tě baví nejvíce, a krátce vysvětli, co dělá
+4. **Plán** — jednou větou: co s informatikou dál?
+
+Než začneš prezentovat, zkontroluj, že portfolio je sdílitelné a všechny odkazy fungují.
+
+</div>
 
 Učitel (a třída) mohou po každé prezentaci položit jednu otázku.
 

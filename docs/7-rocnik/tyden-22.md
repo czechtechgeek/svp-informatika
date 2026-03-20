@@ -65,20 +65,28 @@ Klíčová nastavení k projití:
 
 <span class="act pc">💻 PC — 18 min</span>
 
-#### Varianta A — mají školní účty
+<div class="zadani-pc">
 
-Žáci projdou nastavení soukromí svého školního profilu/e-mailu a vyplní audit:
+**Varianta A — máš školní účet (Google nebo MS):**
+
+Projdi nastavení soukromí svého školního profilu nebo e-mailu a vyplň audit do sešitu nebo Google Docs:
 
 | Nastavení | Aktuální stav | Doporučení |
 |-----------|--------------|-----------|
 | Kdo vidí profilovou fotku | | |
 | Kdo vidí kontaktní info | | |
-| Kdo může psát zprávy | | |
+| Kdo mi může psát zprávy | | |
 | Synchronizace polohy | | |
 
-#### Varianta B — bez školních sítí
+U každého nastavení zapiš, zda je to bezpečné, a pokud ne — jak bys ho změnil/a.
 
-Žáci na papíře navrhnou profil pro fiktivní postavu a zdůvodní, která nastavení by zvolili a proč.
+**Varianta B — bez školního profilu:**
+
+Na papíře (nebo v Google Docs) navrhni nastavení soukromí pro fiktivní osobu Tomáše Nováka (13 let, žák ZŠ). Zdůvodni, proč bys zvolil/a každé nastavení.
+
+**Pro rychlé žáky:** Prozkoumej, jak zjistit, jaká aplikace má přístup k tvé poloze nebo kontaktům. Kde to najdeš v nastavení zařízení?
+
+</div>
 
 ### 4. Diskuse a závěr (7 min)
 

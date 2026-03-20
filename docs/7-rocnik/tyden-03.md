@@ -58,20 +58,29 @@ Výsledek: třída má model vlastní učebny na tabuli.
 
 <span class="act pc">💻 PC — 20 min</span>
 
-**Zadání — vyberte jedno:**
-- Možnost A: Nakreslete plánek svého bytu/domu (alespoň 3 místnosti, legenda, zaznačit vstup)
-- Možnost B: Navrhněte plánek ideální počítačové učebny pro 20 žáků
-- Možnost C: Nakreslete plánek herní mapy (level v plošinovce nebo bludiště)
+<div class="zadani-pc">
 
-**Nástroje:**
-- Online: [Floorplanner.com](https://floorplanner.com) — zdarma, drag-and-drop schéma
+Vytvoř digitální plánek prostoru — vyber si jedno z témat:
+
+- **Možnost A:** Plánek svého bytu nebo domu (aspoň 3 místnosti)
+- **Možnost B:** Návrh ideální počítačové učebny pro 20 žáků
+- **Možnost C:** Herní mapa — level pro plošinovku nebo bludiště
+
+**Kde pracovat:**
+- Online: [Floorplanner.com](https://floorplanner.com) — zdarma, přetahování nábytku
 - Alternativa: Google Slides nebo PowerPoint (tvary + text)
-- Offline: Čtverečkovaný papír + tužka (1 čtvereček = 1 metr)
+- Offline: čtverečkovaný papír + tužka (1 čtvereček = 1 metr)
 
-Požadavky:
-- Legenda (min. 4 symboly)
-- Popis: co je kde (popisky místností)
-- Vyznačen vstup/východ
+**Tvůj plánek musí obsahovat:**
+- **Legendu** (min. 4 symboly — co který tvar znamená)
+- **Popisky** místností nebo oblastí
+- Vyznačený **vstup/východ**
+
+**Pro rychlé žáky:** Přidej do plánu rozměry (kolik metrů je každá místnost) nebo navrhni druhou variantu stejného prostoru s jiným uspořádáním.
+
+Hotový plánek exportuj jako obrázek nebo sdílej odkaz přes Google Classroom.
+
+</div>
 
 ### 4. Porovnání a reflexe (7 min)
 

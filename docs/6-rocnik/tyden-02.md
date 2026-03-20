@@ -57,14 +57,23 @@ Diskuse: Proč záleží na tom, **jak** pošleme zprávu? Co se může ztratit 
 
 <span class="act pc">💻 PC — 15 min</span>
 
-Žáci dostanou (na papíře nebo v Google Docs sdíleném učitelem) tabulku s 10 položkami a třídí je:
+<div class="zadani-pc">
 
-Příklady položek:
+Otevři Google Docs tabulku sdílenou učitelem (nebo si ji připrav sám/sama).
+
+Pro každou položku v tabulce rozhodni, zda jde o **data** nebo **informace**, a svou volbu zdůvodni jednou větou:
+
 - `42` — data nebo informace?
 - `Teploměr ukazuje 42 °C` — data nebo informace?
 - `Ahoj` — data nebo informace?
 - `Obrázek slunce` — data nebo informace?
 - `Praha, 15. 3. 2025, 8:00` — data nebo informace?
+
+**Pro rychlé žáky:** Vymysli vlastní příklad — jednu položku, která by mohla být data i informace zároveň (záleží na kontextu), a vysvětli proč.
+
+Svou práci ulož do Google Docs nebo odevzdej přes Google Classroom.
+
+</div>
 
 Po vyplnění společná diskuse — u každé položky žáci zdůvodní svou volbu.
 
