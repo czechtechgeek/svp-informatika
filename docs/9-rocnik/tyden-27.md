@@ -6,8 +6,6 @@ area: Digitální tvorba / Komunikace a spolupráce
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "Žák vysvětlí, co je digitální portfolio a proč je užitečné pro budoucí studium i kariéru"
   - "Žák vybere vhodný formát portfolia (web, prezentace, PDF) a zdůvodní svou volbu"

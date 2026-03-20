@@ -79,6 +79,9 @@ def generate_lesson_html(meta: dict) -> str:
     # ── RVP sekce ───────────────────────────────────────────────────────────
     rvp_codes = meta.get('rvp_codes', [])
     if rvp_codes:
+        # Deduplikace podle kódu — stejný kód se nesmí zobrazit víckrát
+        seen = set()
+        rvp_codes = [e for e in rvp_codes if e.get('code') not in seen and not seen.add(e.get('code'))]
         rvp_items = []
         for entry in rvp_codes:
             code = entry.get('code', '')

@@ -6,8 +6,6 @@ area: Digitální společnost a průřezové kompetence
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - "**Prezentuje** skupinový projekt „chytrého města\" před třídou strukturovaně a srozumitelně."
   - "**Formuluje** konstruktivní zpětnou vazbu na práci spolužáků."

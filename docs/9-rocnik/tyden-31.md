@@ -6,8 +6,6 @@ area: Průřezové / Reflexe a závěr
 rvp_codes:
   - code: INF-INF-004-ZV9-014
     text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
-  - code: INF-INF-004-ZV9-014
-    text: Diskutuje o fungování digitálních technologií určujících trendy ve světě.
 goals:
   - Žák prezentuje své digitální portfolio spolužákům a stručně ho komentuje
   - "Žák reflektuje, co se za čtyři roky naučil a jak to využívá v každodenním životě"
