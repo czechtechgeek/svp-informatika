@@ -47,9 +47,15 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+
 plugins:
-    - search
-    - pdf-export
+  - search
+  - pdf-export:
+      combined: true          # jedno PDF z celého webu
+      combined_output_path: pdf/Digitalni_kniha_informatiky.pdf
+      media_type: print
+      verbose: true
+
 
 nav:
   - Domů: index.md
