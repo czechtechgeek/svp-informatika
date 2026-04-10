@@ -47,6 +47,10 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+plugins:
+    - search
+    - pdf-export
+
 nav:
   - Domů: index.md
   - RVP výstupy: rvp-vystupy.md
