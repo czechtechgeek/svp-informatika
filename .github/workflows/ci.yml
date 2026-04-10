@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
@@ -10,9 +10,47 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-pdf-export-plugin
-      - run: mkdocs gh-deploy --force
+
+      # Systémové knihovny potřebné pro WeasyPrint (PDF rendering engine).
+      # cairo + pango = layout engine pro text a grafiku
+      # libgdk-pixbuf2.0-0 = podpora obrázků (PNG, JPEG, SVG rasterizace)
+      # shared-mime-info = detekce MIME typů souborů (vyžaduje WeasyPrint ≥ 53)
+      - name: Instalace systémových závislostí pro WeasyPrint
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            libpango-1.0-0 \
+            libpangocairo-1.0-0 \
+            libcairo2 \
+            libgdk-pixbuf2.0-0 \
+            libffi-dev \
+            shared-mime-info
+
+      # Python závislosti — WeasyPrint je tranzitivní závislost
+      # mkdocs-pdf-export-plugin, ale uvádíme ji explicitně pro jistotu.
+      - name: Instalace Python závislostí
+        run: |
+          pip install --upgrade pip
+          pip install mkdocs-material
+          pip install mkdocs-pdf-export-plugin
+          pip install weasyprint
+
+      # mkdocs build vygeneruje:
+      #   site/                              (web)
+      #   site/pdf/Digitalni_kniha_informatiky.pdf  (celková kniha — pdf-export plugin)
+      #   site/pdf/6-rocnik.pdf              (per-ročníkové PDF — hooks/pdf_build.py)
+      #   site/pdf/7-rocnik.pdf
+      #   site/pdf/8-rocnik.pdf
+      #   site/pdf/9-rocnik.pdf
+      - name: Sestavení webu a generování PDF
+        run: mkdocs build --strict
+
+      # gh-deploy nasadí obsah site/ na GitHub Pages.
+      # PDF soubory jsou součástí site/pdf/, takže budou dostupné
+      # na adrese https://<owner>.github.io/<repo>/pdf/X-rocnik.pdf
+      - name: Nasazení na GitHub Pages
+        run: mkdocs gh-deploy --force
