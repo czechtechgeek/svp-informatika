@@ -1,0 +1,52 @@
+# RVP ZV – Očekávané výstupy Informatiky (2. stupeň ZŠ)
+# Zdroj: Rámcový vzdělávací program pro základní vzdělávání (aktuální znění)
+# Vzdělávací oblast: Informatika — stupeň ZV9 (6.–9. ročník)
+#
+# Tento soubor je závazným zdrojem pravdy pro všechny RVP kódy použité v ŠVP.
+# Při odkazování na výstupy v hodinách používejte POUZE kódy a znění odtud.
+
+oblasti:
+
+  - id: INF-INF-001
+    nazev: "Data, informace a modelování"
+    vystupy:
+      - kod: INF-INF-001-ZV9-001
+        zneni: "Získá z dat informace, interpretuje data získaná pro řešení konkrétního problému."
+      - kod: INF-INF-001-ZV9-002
+        zneni: "Navrhuje a porovnává různé způsoby kódování dat s cílem jejich uložení a přenosu."
+      - kod: INF-INF-001-ZV9-003
+        zneni: "Modeluje situace různými způsoby, včetně grafů nebo obdobných schémat."
+      - kod: INF-INF-001-ZV9-004
+        zneni: "Natrénuje model strojového učení a vyhodnotí, jak dobře model funguje."
+
+  - id: INF-INF-002
+    nazev: "Algoritmizace a programování"
+    vystupy:
+      - kod: INF-INF-002-ZV9-005
+        zneni: "Po přečtení jednotlivých kroků algoritmu vysvětlí celý postup a určí problém, který je daným algoritmem řešen."
+      - kod: INF-INF-002-ZV9-006
+        zneni: "Rozdělí problém na jednotlivě řešitelné části a navrhne postupy a algoritmy pro jeho řešení."
+      - kod: INF-INF-002-ZV9-007
+        zneni: "V blokově orientovaném programovacím jazyce vytvoří přehledný program, používá opakování, větvení programu, proměnné."
+      - kod: INF-INF-002-ZV9-008
+        zneni: "Průběžně ověřuje správnost vytvářeného postupu, zkouší program, opravuje chyby, posoudí efektivitu postupu, programu."
+
+  - id: INF-INF-003
+    nazev: "Informační systémy"
+    vystupy:
+      - kod: INF-INF-003-ZV9-009
+        zneni: "Posoudí účel a užitečnost vybraného informačního systému, popíše jeho vnitřní fungování."
+      - kod: INF-INF-003-ZV9-010
+        zneni: "Pro řešení problému vytvoří tabulku evidence dat a stanoví pravidla pro práci se záznamy."
+      - kod: INF-INF-003-ZV9-011
+        zneni: "V evidenci dat používá funkce pro automatické zpracování dat a nastavuje zobrazení dat s cílem řešit potřeby uživatelů."
+
+  - id: INF-INF-004
+    nazev: "Digitální technologie"
+    vystupy:
+      - kod: INF-INF-004-ZV9-012
+        zneni: "Vybírá pro své potřeby hardware, software a způsob připojení digitálních zařízení do sítě na základě porozumění jejich vlastnostem."
+      - kod: INF-INF-004-ZV9-013
+        zneni: "Navrhne základní způsoby zabezpečení zařízení a systémů, se kterými pracuje, na základě posouzení rizik ztráty, poškození či zneužití dat."
+      - kod: INF-INF-004-ZV9-014
+        zneni: "Diskutuje o fungování digitálních technologií určujících trendy ve světě."
