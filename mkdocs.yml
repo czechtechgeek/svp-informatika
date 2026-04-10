@@ -25,6 +25,7 @@ theme:
 
 hooks:
   - hooks/lesson_meta.py
+  - hooks/pdf_build.py
 
 edit_uri: edit/main/docs/
 repo_url: https://github.com/czechtechgeek/svp-informatika
@@ -32,6 +33,7 @@ repo_name: czechtechgeek/svp-informatika
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/print.css
 
 extra_javascript:
   - javascripts/rvp.js
@@ -43,15 +45,31 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.snippets:
+      # base_path: odkud se hledají soubory pro --8<-- "cesta/k/souboru.md"
+      # Hodnota "docs" umožňuje psát --8<-- "pdf-src/rvp-metadata.md"
+      base_path:
+        - docs
+        - "."
+      check_paths: true   # chyba při sestavení, pokud cíl neexistuje
   - tables
   - attr_list
   - md_in_html
 
 
+# ── Stránky mimo navigaci webu ─────────────────────────────────────────────
+# Soubory v pdf-src/ jsou přítomny ve webu (pro snippets a zálohu), ale
+# nezobrazují se v navigaci. PDF z nich generuje hooks/pdf_build.py.
+not_in_nav: |
+  pdf-src/
+
 plugins:
   - search
   - pdf-export:
-      combined: true          # jedno PDF z celého webu
+      # Celková kniha — jedno kombinované PDF ze všech stránek v nav.
+      # Per-ročníkové PDF (6-rocnik.pdf … 9-rocnik.pdf) vytváří hook
+      # hooks/pdf_build.py pomocí WeasyPrint.
+      combined: true
       combined_output_path: pdf/Digitalni_kniha_informatiky.pdf
       media_type: print
       verbose: true

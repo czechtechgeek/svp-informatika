@@ -1,0 +1,701 @@
+/* ============================================================
+   SVP Informatika — Tisková / PDF CSS pravidla
+   ============================================================
+   Tento soubor se aplikuje ve dvou kontextech:
+
+   1) V prohlížeči: uvnitř @media print {} — pouze při tisku
+      stránky nebo exportu přes Ctrl+P.
+
+   2) Ve WeasyPrint (hooks/pdf_build.py): WeasyPrint renderuje
+      vždy v tiskovém médiu, takže všechna pravidla se uplatní.
+      Pravidla @page jsou vždy aktivní v stránkovaném médiu.
+
+   PRAVIDLA INTEGRITY LEKCE:
+   ─────────────────────────
+   Každá hodina (lesson-unit) začíná na nové stránce.
+   Uvnitř hodiny platí:
+
+     h3 { break-after: avoid }        → nadpis nesmí být
+         + .zadani-pc { break-before: avoid }   osamocen na konci stránky
+         + .zadani-pc { break-inside: avoid }   zadání se nerozdělí
+
+   Tím vzniká „lepidlo" mezi nadpisem a blokem zadání:
+   pokud se nadpis nevejde na stránku i se zadáním, přejde
+   celý blok na stránku novou — nikdy nevznikne prázdná strana
+   před zadáním ani osamocený nadpis.
+   ============================================================ */
+
+
+/* ----------------------------------------------------------
+   @page — formát A4, okraje, záhlaví a zápatí
+   Pravidla @page se uplatní vždy v stránkovaném médiu
+   (tisk z prohlížeče i WeasyPrint).
+   ---------------------------------------------------------- */
+
+@page {
+  size: A4 portrait;
+
+  /* Okraje: vlevo 25 mm pro vazbu, ostatní strany 20 mm */
+  margin: 22mm 20mm 20mm 25mm;
+
+  /* Záhlaví — název dokumentu uprostřed */
+  @top-center {
+    content: "Digitální kniha Informatiky – ŠVP";
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+    letter-spacing: 0.03em;
+  }
+
+  /* Zápatí vlevo — titulek aktuální hodiny (string-set) */
+  @bottom-left {
+    content: string(lesson-title);
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-size: 8pt;
+    color: #aaa;
+    font-style: italic;
+  }
+
+  /* Zápatí vpravo — číslo stránky */
+  @bottom-right {
+    content: counter(page);
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+    color: #666;
+  }
+}
+
+/* Titulní strana — bez záhlaví, zápatí ani okrajů */
+@page cover {
+  size: A4 portrait;
+  margin: 0;
+
+  @top-center  { content: none; }
+  @bottom-left  { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* Metadata strana — vlastní záhlaví */
+@page metadata {
+  @top-center {
+    content: "Školní vzdělávací program – Informatika";
+    font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+    font-size: 8pt;
+    color: #888;
+  }
+  @bottom-left  { content: none; }
+}
+
+
+/* ===========================================================
+   @media print — vše níže se uplatní jen při tisku/PDF
+   =========================================================== */
+@media print {
+
+/* ----------------------------------------------------------
+   Skrytí navigace a prvků rozhraní MkDocs Material
+   ---------------------------------------------------------- */
+.md-header,
+.md-footer,
+.md-sidebar,
+.md-nav,
+.md-search,
+.md-tabs,
+.md-top,
+[data-md-component="sidebar"],
+[data-md-component="header"],
+[data-md-component="footer"],
+[data-md-component="search"],
+[data-md-component="tabs"],
+.md-content__button {           /* tlačítka „Upravit stránku" */
+  display: none !important;
+}
+
+/* Reset MkDocs layoutu pro tisk */
+.md-main,
+.md-main__inner,
+.md-content,
+.md-grid {
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+
+/* ----------------------------------------------------------
+   TITULNÍ STRANA
+   ---------------------------------------------------------- */
+.pdf-cover {
+  page: cover;
+  break-after: page;
+  page-break-after: always;   /* fallback pro starší WeasyPrint */
+
+  /* Plná výška stránky A4 */
+  width: 210mm;
+  min-height: 297mm;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  /* Výchozí barva — přepíše ji inline style generovaný hookem */
+  background: linear-gradient(160deg, #004d40 0%, #00695ccc 100%);
+  color: white;
+
+  padding: 30mm 25mm;
+  box-sizing: border-box;
+}
+
+.pdf-cover__logo {
+  margin-bottom: 18mm;
+  opacity: 0.9;
+}
+
+.pdf-cover__skola {
+  font-size: 12pt;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  margin-bottom: 14mm;
+}
+
+.pdf-cover__nazev {
+  font-size: 26pt;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 5mm;
+}
+
+.pdf-cover__podtitul {
+  font-size: 13pt;
+  font-weight: 300;
+  opacity: 0.75;
+  margin-bottom: 18mm;
+}
+
+.pdf-cover__meta {
+  font-size: 9.5pt;
+  opacity: 0.65;
+  margin-bottom: 4mm;
+}
+
+.pdf-cover__sep {
+  margin: 0 8px;
+  opacity: 0.45;
+}
+
+.pdf-cover__autor {
+  font-size: 10.5pt;
+  opacity: 0.82;
+  margin-bottom: 3mm;
+}
+
+.pdf-cover__rvp {
+  font-size: 8.5pt;
+  opacity: 0.58;
+  font-style: italic;
+  margin-top: 20mm;
+}
+
+
+/* ----------------------------------------------------------
+   METADATA STRANA (RVP ZV, kompetence)
+   ---------------------------------------------------------- */
+.pdf-metadata {
+  page: metadata;
+  break-before: page;
+  page-break-before: always;
+  break-after: page;
+  page-break-after: always;
+  padding-top: 8mm;
+}
+
+.pdf-metadata__title {
+  font-size: 18pt;
+  font-weight: 700;
+  color: #004d40;
+  border-bottom: 1.5pt solid #004d40;
+  padding-bottom: 3mm;
+  margin-bottom: 8mm;
+  break-after: avoid;
+}
+
+/* Tabulky v metadata sekci */
+.pdf-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 3mm 0 7mm 0;
+  font-size: 9.5pt;
+}
+
+.pdf-table th {
+  background: #e0f2f1 !important;
+  color: #004d40;
+  padding: 2.5mm 4mm;
+  text-align: left;
+  border: 0.5pt solid #b2dfdb;
+  font-weight: 600;
+}
+
+.pdf-table td {
+  padding: 2mm 4mm;
+  border: 0.5pt solid #ccc;
+  vertical-align: top;
+}
+
+
+/* ----------------------------------------------------------
+   LESSON-UNIT — obal každé hodiny
+   Každá hodina začíná vždy na nové stránce.
+   break-before: page je moderní CSS3 vlastnost,
+   page-break-before: always je starší zápis pro WeasyPrint fallback.
+   ---------------------------------------------------------- */
+.lesson-unit {
+  break-before: page;
+  page-break-before: always;
+}
+
+/* H1 hodiny — zachytí text jako řetězec pro zápatí
+   Využívá CSS string-set (podporováno WeasyPrint ≥ 52). */
+.lesson-unit h1 {
+  string-set: lesson-title content(text);
+  font-size: 17pt;
+  font-weight: 700;
+  color: #111;
+  border-bottom: 1pt solid #e0e0e0;
+  padding-bottom: 2.5mm;
+  margin-bottom: 4mm;
+  break-after: avoid;         /* h1 nesmí být bez obsahu za sebou */
+  page-break-after: avoid;
+}
+
+
+/* ----------------------------------------------------------
+   LESSON META HEADER — nerozbíjet
+   ---------------------------------------------------------- */
+.lesson-meta {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  border: 0.5pt solid #ccc !important;
+  border-radius: 3pt !important;
+  background: #fafafa !important;
+  padding: 2.5mm 4mm !important;
+  margin-bottom: 4mm !important;
+  gap: 5pt !important;
+  font-size: 8.5pt !important;
+}
+
+.lm-badge {
+  border-radius: 8pt !important;
+  padding: 1pt 5pt !important;
+  font-size: 8pt !important;
+  font-weight: 600 !important;
+}
+
+
+/* ----------------------------------------------------------
+   TIME BUDGET — nerozbíjet
+   ---------------------------------------------------------- */
+.time-budget {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  border-left: 2.5pt solid #e65100 !important;
+  background: #fafafa !important;
+  padding: 2.5mm 4mm !important;
+  margin-bottom: 4mm !important;
+  font-size: 8.5pt !important;
+}
+
+.time-budget-bar {
+  height: 14pt !important;
+}
+
+.time-segment {
+  font-size: 6.5pt !important;
+}
+
+.time-budget-title {
+  font-size: 7.5pt !important;
+  margin-bottom: 2mm !important;
+}
+
+
+/* ----------------------------------------------------------
+   GOALS (cíle hodiny) — nerozbíjet
+   ---------------------------------------------------------- */
+.goals {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  border-left: 2.5pt solid #43a047 !important;
+  background: #f1f8e9 !important;
+  padding: 2.5mm 4mm !important;
+  margin-bottom: 4mm !important;
+  font-size: 9pt !important;
+}
+
+.goals-title {
+  font-size: 7.5pt !important;
+  margin-bottom: 2mm !important;
+}
+
+.goals li {
+  color: #1b5e20 !important;
+  margin-bottom: 1mm !important;
+}
+
+
+/* ----------------------------------------------------------
+   ZADÁNÍ NA PC — klíčové pravidlo integrity
+   ─────────────────────────────────────────
+   Trojice pravidel zaručuje, že zadání:
+   a) se nikdy nerozdělí uprostřed (break-inside: avoid)
+   b) nezačne bezprostředně po zalomení stránky odděleně
+      od svého nadpisu (break-before: avoid)
+   c) nadpis před ním (h3) zůstane s ním (break-after: avoid
+      definováno v sekci nadpisů níže)
+
+   Výsledek: pokud h3 + .zadani-pc nestačí na zbývající
+   místo na stránce, CELÝ blok (nadpis + zadání) přejde
+   na stránku novou — nikdy nevznikne prázdná nebo
+   poloprázná stránka před zadáním.
+   ---------------------------------------------------------- */
+.zadani-pc {
+  break-inside: avoid;        /* nerozdělí se uprostřed */
+  page-break-inside: avoid;
+  break-before: avoid;        /* neodtrhne se od předcházejícího nadpisu */
+  page-break-before: avoid;
+
+  border: 0.5pt solid #9b8ec4 !important;
+  border-left: 3pt solid #6264a7 !important;
+  background: #f5f3fb !important;
+  border-radius: 0 4pt 4pt 0 !important;
+  padding: 9mm 4mm 4mm 4mm !important;
+  margin: 2mm 0 4mm 0 !important;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Skrytí kopírovacího tlačítka — v PDF nemá smysl */
+.zadani-pc-copy {
+  display: none !important;
+}
+
+/* Pseudo-element ::before — záhlaví "Zadání na PC"
+   V tisku přenastavíme z position: absolute na block */
+.zadani-pc::before {
+  position: static !important;
+  display: block !important;
+  font-size: 7pt !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.08em !important;
+  color: #3d3a6b !important;
+  background: #e8e4f5 !important;
+  border-bottom: 0.5pt solid #c4bde8 !important;
+  padding: 2mm 4mm !important;
+  /* Kompenzace paddingu kontejneru */
+  margin: -9mm -4mm 3mm -4mm !important;
+}
+
+
+/* ----------------------------------------------------------
+   FRIDAY TIP — nerozbíjet
+   ---------------------------------------------------------- */
+.friday-tip {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  background: #fffde7 !important;
+  border: 0.5pt dashed #f9a825 !important;
+  border-radius: 4pt !important;
+  font-size: 8.5pt !important;
+  padding: 2.5mm 4mm !important;
+  margin-bottom: 3mm !important;
+}
+
+.friday-tip-label {
+  font-size: 8pt !important;
+}
+
+
+/* ----------------------------------------------------------
+   RESOURCES — nerozbíjet, může začínat na nové stránce
+   ---------------------------------------------------------- */
+.resources {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  /* break-before: auto — nevynucujeme ani nezakazujeme zalomení před */
+  border-left: 2.5pt solid #1976d2 !important;
+  background: #e3f2fd !important;
+  padding: 2.5mm 4mm !important;
+  margin-top: 4mm !important;
+  font-size: 8.5pt !important;
+}
+
+.resources-title {
+  font-size: 7.5pt !important;
+  margin-bottom: 2mm !important;
+}
+
+.resources a {
+  color: #1565c0 !important;
+}
+
+
+/* ----------------------------------------------------------
+   NADPISY — ANTI-ORPHAN a ANTI-WIDOW pravidla
+   ─────────────────────────────────────────────
+   break-after: avoid zajistí, že nadpis VŽDY táhne za sebou
+   alespoň jeden blok obsahu. Pokud se to na stránce nevejde,
+   celý pár (nadpis + následující element) přejde na novou.
+
+   Toto je klíčový mechanismus, který zabraňuje vzniku
+   prázdných nebo poloprázných stránek před úlohami.
+   ---------------------------------------------------------- */
+h2 {
+  break-after: avoid;
+  page-break-after: avoid;
+  font-size: 12.5pt;
+  font-weight: 700;
+  margin-top: 6mm;
+  margin-bottom: 2mm;
+}
+
+h3 {
+  break-after: avoid;         /* h3 se nikdy neoddělí od zadání za ním */
+  page-break-after: avoid;
+  font-size: 10.5pt;
+  font-weight: 700;
+  margin-top: 4mm;
+  margin-bottom: 1.5mm;
+}
+
+h4, h5, h6 {
+  break-after: avoid;
+  page-break-after: avoid;
+  font-size: 10pt;
+  font-weight: 600;
+}
+
+
+/* ----------------------------------------------------------
+   ODSTAVCE — ochrana před sirotky a vdovami
+   ─────────────────────────────────────────
+   orphans: min. počet řádků odstavce, které musejí zbýt
+            na konci stránky (jinak se celý přesune)
+   widows:  min. počet řádků odstavce na začátku nové stránky
+   ---------------------------------------------------------- */
+p {
+  orphans: 3;
+  widows: 3;
+  font-size: 10pt;
+  line-height: 1.5;
+  margin-bottom: 1.5mm;
+}
+
+
+/* ----------------------------------------------------------
+   AKTIVITY TAGY — kompaktnější pro tisk
+   ---------------------------------------------------------- */
+.act {
+  font-size: 7.5pt !important;
+  padding: 1pt 5pt !important;
+  border-radius: 10pt !important;
+  margin-bottom: 2mm !important;
+}
+
+
+/* ----------------------------------------------------------
+   RVP TAGY — kompaktnější, bez emoji, bez hover efektu
+   ---------------------------------------------------------- */
+.rvp-tag {
+  font-size: 7.5pt !important;
+  padding: 1pt 5pt !important;
+  margin: 1pt 2pt !important;
+  display: inline-flex !important;
+  border-radius: 8pt !important;
+}
+
+.rvp-tag::before {
+  content: none !important;  /* bez emoji v PDF */
+}
+
+a.rvp-tag-link {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.rvp-code {
+  font-size: 7pt !important;
+}
+
+.rvp-desc {
+  font-size: 7.5pt !important;
+}
+
+
+/* ----------------------------------------------------------
+   TABULKY — nerozbíjet řádky, opakovat záhlaví
+   ---------------------------------------------------------- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9pt;
+  margin: 3mm 0 4mm 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* Záhlaví tabulky se opakuje na každé stránce při zalomení */
+thead {
+  display: table-header-group;
+}
+
+tr {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+th, td {
+  border: 0.5pt solid #ccc;
+  padding: 1.8mm 3mm;
+  text-align: left;
+  vertical-align: top;
+}
+
+th {
+  background: #f5f5f5 !important;
+  font-weight: 600;
+}
+
+
+/* ----------------------------------------------------------
+   KÓDOVÉ BLOKY — nerozbíjet, monospace font
+   ---------------------------------------------------------- */
+pre {
+  font-size: 8.5pt !important;
+  background: #f5f5f5 !important;
+  border: 0.5pt solid #e0e0e0 !important;
+  border-radius: 3pt !important;
+  padding: 3mm 4mm !important;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: "Courier New", "Consolas", monospace;
+}
+
+code {
+  font-size: 8.5pt !important;
+  font-family: "Courier New", "Consolas", monospace;
+  background: #f5f5f5 !important;
+  padding: 0.5pt 3pt !important;
+  border-radius: 2pt !important;
+}
+
+/* Skrytí tlačítka „Kopírovat kód" */
+.md-clipboard {
+  display: none !important;
+}
+
+
+/* ----------------------------------------------------------
+   ADMONITIONS (MkDocs Material poznámkové boxy)
+   ---------------------------------------------------------- */
+.admonition {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  font-size: 9pt !important;
+  margin: 3mm 0 !important;
+  border-radius: 0 4pt 4pt 0 !important;
+}
+
+.admonition-title {
+  font-size: 8.5pt !important;
+  font-weight: 700 !important;
+}
+
+/* Typ: note / info */
+.admonition.note,
+.admonition.info {
+  border-left: 3pt solid #448aff !important;
+  background: #e8f0fe !important;
+}
+
+/* Typ: tip / hint */
+.admonition.tip,
+.admonition.hint {
+  border-left: 3pt solid #00bcd4 !important;
+  background: #e0f7fa !important;
+}
+
+/* Typ: warning / caution */
+.admonition.warning,
+.admonition.caution {
+  border-left: 3pt solid #ff9800 !important;
+  background: #fff3e0 !important;
+}
+
+/* Typ: danger / error */
+.admonition.danger,
+.admonition.error {
+  border-left: 3pt solid #f44336 !important;
+  background: #ffebee !important;
+}
+
+
+/* ----------------------------------------------------------
+   OBECNÁ TYPOGRAFIE
+   ---------------------------------------------------------- */
+body {
+  font-family: -apple-system, "Helvetica Neue", Arial, sans-serif;
+  font-size: 10pt;
+  line-height: 1.5;
+  color: #1a1a1a;
+}
+
+/* Skrytí URL za hypertextovými odkazy — v PDF jsou URL nečitelná */
+a[href]::after {
+  content: none !important;
+}
+
+a {
+  color: #00695c;
+}
+
+ul, ol {
+  font-size: 10pt;
+  padding-left: 5mm;
+  margin: 1mm 0 2mm 0;
+}
+
+li {
+  margin-bottom: 0.8mm;
+  orphans: 2;
+  widows: 2;
+}
+
+strong {
+  font-weight: 700;
+}
+
+hr {
+  border: none;
+  border-top: 0.5pt solid #e0e0e0;
+  margin: 3mm 0;
+}
+
+blockquote {
+  border-left: 2pt solid #bdbdbd;
+  padding-left: 4mm;
+  margin: 2mm 0;
+  color: #555;
+  font-style: italic;
+  font-size: 9.5pt;
+  break-inside: avoid;
+}
+
+} /* ====== konec @media print ====== */
