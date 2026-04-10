@@ -100,6 +100,7 @@ def on_post_build(config: dict, **kwargs) -> None:
         return
 
     site_dir = Path(config["site_dir"])
+    docs_dir = Path(config["docs_dir"])
     pdf_dir = site_dir / "pdf"
     pdf_dir.mkdir(exist_ok=True)
 
@@ -112,7 +113,7 @@ def on_post_build(config: dict, **kwargs) -> None:
         output_path = pdf_dir / f"{grade}-rocnik.pdf"
         _info(f"Generuji {output_path.name} ({info['nazev']}) …")
         try:
-            html = _assemble_grade_html(site_dir, grade, info, rok)
+            html = _assemble_grade_html(site_dir, docs_dir, grade, info, rok)
             WeasyHTML(
                 string=html,
                 base_url=site_dir.as_uri() + "/",
@@ -131,6 +132,7 @@ def on_post_build(config: dict, **kwargs) -> None:
 
 def _assemble_grade_html(
     site_dir: Path,
+    docs_dir: Path,
     grade: int,
     info: dict,
     rok: str,
@@ -142,10 +144,10 @@ def _assemble_grade_html(
     parts.append(_render_cover(grade, info, rok))
 
     # 2. Stránka s RVP metadaty a klíčovými kompetencemi
-    # Nejprve zkusíme načíst z vybudovaného webu (zpracované Markdown);
-    # pokud stránka neexistuje, vygenerujeme inline záložní verzi.
-    rvp_html = _extract_page_content(site_dir, "pdf-src/rvp-metadata")
-    kompetence_html = _extract_page_content(site_dir, "pdf-src/klic-kompetence")
+    # pdf-src/ je v exclude_docs → soubory nejsou v site/.
+    # Čteme je přímo ze zdrojového Markdown (docs_dir) přes Python-Markdown.
+    rvp_html = _docs_md_to_html(docs_dir, "pdf-src/rvp-metadata.md")
+    kompetence_html = _docs_md_to_html(docs_dir, "pdf-src/klic-kompetence.md")
 
     if rvp_html or kompetence_html:
         meta_content = (rvp_html or "") + "\n" + (kompetence_html or "")
@@ -183,9 +185,39 @@ def _assemble_grade_html(
     return _wrap_html_document(info["nazev"], "\n\n".join(parts))
 
 
+def _docs_md_to_html(docs_dir: Path, rel_path: str) -> str:
+    """
+    Přečte Markdown soubor ze zdrojového adresáře docs/ a převede na HTML.
+
+    Používá Python-Markdown (součást MkDocs závislostí — vždy dostupné).
+    Automaticky odstraní YAML front matter, pokud je přítomen.
+
+    Tento přístup nevyžaduje, aby soubor byl sestaven do site/ — funguje
+    i pro soubory v exclude_docs (čteme ze zdrojového Markdown, ne z HTML).
+
+    Podporované rozšíření: tables, attr_list, fenced_code.
+    """
+    import markdown as _md  # noqa: PLC0415 — MkDocs zaručuje přítomnost
+
+    md_path = docs_dir / rel_path
+    if not md_path.exists():
+        _warn(f"Markdown soubor nenalezen: {md_path}")
+        return ""
+
+    text = md_path.read_text(encoding="utf-8")
+
+    # Odstraň YAML front matter (---…--- na začátku souboru), pokud existuje
+    text = re.sub(r"\A---[\s\S]*?---\s*\n", "", text, count=1).strip()
+
+    return _md.markdown(
+        text,
+        extensions=["tables", "attr_list", "fenced_code"],
+    )
+
+
 def _extract_lesson_content(site_dir: Path, grade: int, week: int) -> str:
     """
-    Extrahuje HTML obsah hodiny z vybudovaného souboru.
+    Extrahuje HTML obsah hodiny z vybudovaného souboru v site/.
 
     MkDocs Material umísťuje obsah stránky do:
       <article class="md-content__inner md-typeset">…</article>
@@ -193,17 +225,6 @@ def _extract_lesson_content(site_dir: Path, grade: int, week: int) -> str:
     Odstraní tlačítka a zápatí specifická pro webové zobrazení.
     """
     html_path = site_dir / f"{grade}-rocnik" / f"tyden-{week:02d}" / "index.html"
-    return _extract_article(html_path)
-
-
-def _extract_page_content(site_dir: Path, url_path: str) -> str:
-    """
-    Extrahuje HTML obsah libovolné stránky ze site/.
-
-    Použito pro načtení sdílených sekcí (rvp-metadata, klic-kompetence)
-    z jejich vybudovaných HTML verzí.
-    """
-    html_path = site_dir / url_path / "index.html"
     return _extract_article(html_path)
 
 

@@ -57,11 +57,20 @@ markdown_extensions:
   - md_in_html
 
 
-# ── Stránky mimo navigaci webu ─────────────────────────────────────────────
-# Soubory v pdf-src/ jsou přítomny ve webu (pro snippets a zálohu), ale
-# nezobrazují se v navigaci. PDF z nich generuje hooks/pdf_build.py.
-not_in_nav: |
+# ── Soubory vyloučené ze sestavení ─────────────────────────────────────────
+# exclude_docs zcela zabraňuje sestavení souborů — MkDocs je nezpracuje
+# ani nepředá pluginům. mkdocs-pdf-export-plugin pak tyto soubory neuvidí
+# a nevzniká chyba "list.index(x): x not in list".
+#
+# pdf-src/*.md: virtuální PDF zdroje — sestavuje je hooks/pdf_build.py
+#   přímo ze zdrojového Markdown (Python-Markdown), nepotřebují site/ HTML.
+# _sablona-hodiny.md: šablona pro učitele, není součástí webu ani PDF.
+#
+# pymdownx.snippets čte soubory přímo z disku (base_path), nikoli ze site/,
+# takže --8<-- "pdf-src/rvp-metadata.md" funguje i po vyloučení z buildu.
+exclude_docs: |
   pdf-src/
+  _sablona-hodiny.md
 
 plugins:
   - search
